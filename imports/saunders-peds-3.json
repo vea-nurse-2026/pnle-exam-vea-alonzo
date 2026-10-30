@@ -1,0 +1,557 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with Reye's syndrome is admitted. Which nursing action is the PRIORITY?",
+      "options": [
+        "Monitor for hearing loss",
+        "Measure intake and output",
+        "Reposition every 2 hours",
+        "Keep the room quiet with dim lights"
+      ],
+      "answer": "D",
+      "rationale": "Cerebral edema progresses in Reye's syndrome, so maintaining cerebral perfusion and controlling ICP is the priority. Reducing environmental stimuli lowers stress on brain tissue.",
+      "explanations": [
+        "Hearing loss does not occur.",
+        "Important, but not the priority.",
+        "Routine care.",
+        "Correct: reduces stimuli that raise ICP."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1164 (PDF p. 1451)",
+      "quote": "A priority component of care for a child with Reye’s syndrome is maintaining effective cerebral perfusion and controlling intracranial pressure."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which statement BEST describes cerebral palsy?",
+      "options": [
+        "An infection of the central nervous system",
+        "Brain inflammation after a viral illness",
+        "Chronic difficulty controlling muscles from a motor-system abnormality",
+        "A chromosomal disorder with intellectual disability"
+      ],
+      "answer": "C",
+      "rationale": "Cerebral palsy is a chronic disability with difficulty controlling the muscles because of an abnormality in the pyramidal or extrapyramidal motor system. Meningitis is an infection, and encephalitis is inflammation.",
+      "explanations": [
+        "Describes meningitis.",
+        "Describes encephalitis.",
+        "Correct: the definition of cerebral palsy.",
+        "Describes Down syndrome."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1165 (PDF p. 1452)",
+      "quote": "Cerebral palsy is a chronic disability that is characterized by difficulty with controlling the muscles because of an abnormality in the extrapyramidal or pyramidal motor system."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which characteristic is PRIMARY in autism spectrum disorder?",
+      "options": [
+        "Normal social play that stops at age 5",
+        "Lack of social interaction and awareness",
+        "Consistent imitation of others",
+        "Normal speech with abnormal gestures"
+      ],
+      "answer": "B",
+      "rationale": "Autism begins in infancy or toddlerhood, and its primary characteristic is a lack of social interaction and awareness. Imitation and social play are absent or abnormal, and verbal communication is impaired.",
+      "explanations": [
+        "Social play is absent or abnormal from the start.",
+        "Correct: the primary characteristic.",
+        "Imitation is absent or abnormal.",
+        "Verbal communication is also impaired."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1166 (PDF p. 1453)",
+      "quote": "A primary characteristic is a lack of social interaction and awareness."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with leukemia is starting chemotherapy. Which intervention belongs in the care plan?",
+      "options": [
+        "Take rectal temperatures every 4 hours",
+        "Check the mouth and anus each shift for breakdown",
+        "Offer fresh fruits and vegetables",
+        "Use a firm toothbrush for oral care"
+      ],
+      "answer": "B",
+      "rationale": "The mouth and anus are checked each shift for ulcers or breakdown. Rectal temperatures are avoided, and bland, nonirritating foods are given.",
+      "explanations": [
+        "Rectal temperatures risk injury and infection.",
+        "Correct: early detection of mucosal breakdown.",
+        "Fresh produce can carry organisms.",
+        "A soft swab or brush is used."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1169 (PDF p. 1456)",
+      "quote": "the nurse should assess the mouth and anus each shift for ulcers, erythema, or breakdown."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with leukemia has a platelet count of 20,000/mm3. Which intervention should be AVOIDED?",
+      "options": [
+        "Checking stools for blood",
+        "Cleaning the mouth with soft swabs",
+        "Offering quiet play activities",
+        "Taking rectal temperatures"
+      ],
+      "answer": "D",
+      "rationale": "With this low platelet count, the child is at risk for bleeding. Rectal temperatures and suppositories are avoided; stools are checked for blood and soft swabs are used for mouth care.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate.",
+        "Correct: risk of rectal bleeding."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1302 (PDF p. 1603)",
+      "quote": "Taking rectal temperatures and the use of suppositories are avoided because of the risk of rectal bleeding."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "How should an infant be positioned after pyloromyotomy?",
+      "options": [
+        "Flat on the operative side",
+        "Flat on the unoperated side",
+        "Prone with the head of the bed raised",
+        "Supine and flat"
+      ],
+      "answer": "C",
+      "rationale": "After pyloromyotomy, the head of the bed is raised and the infant placed prone to reduce the risk of aspiration, unless the surgeon orders otherwise.",
+      "explanations": [
+        "Not the recommended position.",
+        "Not the recommended position.",
+        "Correct: reduces aspiration risk.",
+        "Flat increases aspiration risk."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1187 (PDF p. 1479)",
+      "quote": "After pyloromyotomy, the head of the bed is elevated, and the infant is placed prone to reduce the risk of aspiration."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Rico, 10, is admitted in vaso-occlusive pain crisis from sickle cell anemia.",
+      "stem": "Which prescription should the nurse question?",
+      "options": [
+        "Bed rest",
+        "IV fluids",
+        "Supplemental oxygen",
+        "Meperidine for ongoing pain"
+      ],
+      "answer": "D",
+      "rationale": "Meperidine is contraindicated for ongoing pain because of the risk of seizures. Strong opioids such as morphine or hydromorphone are used, along with fluids, oxygen, and rest.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate: promotes hydration.",
+        "Appropriate: improves perfusion.",
+        "Correct: meperidine raises seizure risk."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1189 (PDF p. 1481)",
+      "quote": "Meperidine hydrochloride is contraindicated for ongoing pain management because of the increased risk of seizures"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which position reduces stridor in an infant with laryngomalacia?",
+      "options": [
+        "Prone with the neck flexed",
+        "Supine with a flat head",
+        "Supine with the neck flexed",
+        "Prone, neck hyperextended"
+      ],
+      "answer": "D",
+      "rationale": "The prone position with the neck hyperextended improves breathing in laryngomalacia. A child in respiratory difficulty is never left unattended.",
+      "explanations": [
+        "Without hyperextension it is less effective.",
+        "Not recommended.",
+        "Flexion narrows the airway.",
+        "Correct: improves airflow."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1190 (PDF p. 1482)",
+      "quote": "The prone position with the neck hyperextended improves the child’s breathing."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "An infant has an occipital encephalocele. Which item helps position the infant without pressure on the sac?",
+      "options": [
+        "Sandbags",
+        "Sheepskin",
+        "Feather pillow",
+        "Foam half-donut"
+      ],
+      "answer": "D",
+      "rationale": "A foam half-donut keeps pressure off an occipital encephalocele. The other items do not protect the lesion.",
+      "explanations": [
+        "Does not protect the lesion.",
+        "Does not protect the lesion.",
+        "Does not protect the lesion.",
+        "Correct: relieves pressure on the sac."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1193 (PDF p. 1485)",
+      "quote": "If the encephalocele is in the occipital area, a foam half donut may be useful for positioning to prevent this pressure."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "The mother of a child with hepatitis B calls because the jaundice seems worse. What should the nurse tell her?",
+      "options": [
+        "'The hepatitis is getting worse.'",
+        "'Isolate your child from the family.'",
+        "'Jaundice can look worse before it clears.'",
+        "'Bring your child to the ER now.'"
+      ],
+      "answer": "C",
+      "rationale": "Jaundice may appear to worsen before it resolves. Parents are taught the true danger signs: changes in neurologic status, bleeding, and fluid retention.",
+      "explanations": [
+        "Not necessarily true.",
+        "Not required.",
+        "Correct: an expected course.",
+        "Not needed unless danger signs appear."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1195 (PDF p. 1487)",
+      "quote": "The parents should be instructed that jaundice may appear to get worse before it resolves."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which finding BEST shows that a gluten-free diet is working for a child with celiac disease?",
+      "options": [
+        "The child is free of diarrhea",
+        "The child has no bloody stools",
+        "The child tolerates wheat and rye",
+        "Normal fluid and electrolyte values"
+      ],
+      "answer": "A",
+      "rationale": "Watery diarrhea is a frequent sign of celiac disease, so its absence shows effective treatment. Bloody stools are not part of the disease.",
+      "explanations": [
+        "Correct: diarrhea resolves with the diet.",
+        "Not a feature of celiac disease.",
+        "These grains contain gluten.",
+        "Not specific to improvement."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1217 (PDF p. 1510)",
+      "quote": "The absence of diarrhea indicates effective treatment."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child has strabismus of the LEFT eye. Which statement shows the mother understands patching?",
+      "options": [
+        "'I'll patch both eyes.'",
+        "'I'll patch the left eye.'",
+        "'I'll patch the right eye.'",
+        "'I'll patch whichever eye looks tired.'"
+      ],
+      "answer": "C",
+      "rationale": "The good (right) eye is patched to force use of the weak (left) eye. Patching works best during the preschool years.",
+      "explanations": [
+        "Prevents all vision.",
+        "Patches the weak eye; wrong.",
+        "Correct: patch the strong eye.",
+        "Not an accepted method."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1221 (PDF p. 1514)",
+      "quote": "With this treatment, the good eye is patched; this encourages the child to use the weaker eye."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which intervention in a care plan for an infant with congestive heart failure needs revision?",
+      "options": [
+        "Elevate the head of the bed",
+        "Give oxygen during stressful periods",
+        "Limit the time for each feeding",
+        "Wake the infant hourly to check vital signs"
+      ],
+      "answer": "D",
+      "rationale": "Measures that reduce cardiac workload include elevating the head, limiting feeding time, uninterrupted rest, and oxygen during stress. Waking the infant often is not therapeutic.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate: reduces workload.",
+        "Correct answer: interrupts needed rest."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1247 (PDF p. 1543)",
+      "quote": "Measures that will decrease the workload on the heart include limiting the time that the infant is allowed to bottle-feed or breast-feed"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which action by a student caring for a child with a head injury needs correction?",
+      "options": [
+        "Forcing oral fluids",
+        "Doing neurologic checks",
+        "Keeping the child sitting up",
+        "Keeping the child awake as ordered"
+      ],
+      "answer": "A",
+      "rationale": "Forcing fluids can cause fluid overload and raise ICP. Neurologic checks, an upright position for drainage, and keeping the child awake for assessment are appropriate.",
+      "explanations": [
+        "Correct answer: risks increased ICP.",
+        "Appropriate.",
+        "Appropriate: promotes drainage.",
+        "Appropriate: helps assess LOC."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1292 (PDF p. 1593)",
+      "quote": "Forcing fluids may cause fluid overload and increased ICP."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which finding is associated with hydrocephalus in a 6-month-old?",
+      "options": [
+        "A bulging anterior fontanel",
+        "A fast apical heart rate",
+        "Protein in the urine",
+        "A drop in blood pressure"
+      ],
+      "answer": "A",
+      "rationale": "A bulging anterior fontanel reflects increased CSF in the ventricles. Infants also have thin, widely separated skull bones.",
+      "explanations": [
+        "Correct: reflects increased CSF.",
+        "Not specific.",
+        "Not related.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1332 (PDF p. 1634)",
+      "quote": "A bulging anterior fontanel indicates an increase in cerebrospinal fluid collection in the cerebral ventricle"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A mother asks what Kawasaki disease is. The nurse explains that it is:",
+      "options": [
+        "An acquired cell-mediated immunodeficiency",
+        "A chronic autoimmune disease of connective tissue",
+        "A febrile generalized vasculitis of unknown cause",
+        "A reaction to a strep throat infection"
+      ],
+      "answer": "C",
+      "rationale": "Kawasaki disease (mucocutaneous lymph node syndrome) is a febrile generalized vasculitis of unknown cause. Its most serious complication is cardiac involvement, including coronary aneurysms.",
+      "explanations": [
+        "Describes HIV.",
+        "Describes SLE.",
+        "Correct: the definition of Kawasaki disease.",
+        "Describes rheumatic fever."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1338 (PDF p. 1641)",
+      "quote": "Kawasaki disease, also called mucocutaneous lymph node syndrome, is a febrile generalized vasculitis of unknown etiology."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Parents of a child with iron deficiency anemia ask which foods have iron the body absorbs MOST easily. The nurse recommends:",
+      "options": [
+        "Fish and poultry",
+        "Fruits",
+        "Leafy vegetables",
+        "Breads and cereals"
+      ],
+      "answer": "A",
+      "rationale": "Iron from meat, poultry, and fish is absorbed most easily. Vegetables, fruits, cereals, and breads contain iron that is harder to absorb.",
+      "explanations": [
+        "Correct: heme iron is easily absorbed.",
+        "Harder to absorb.",
+        "Harder to absorb.",
+        "Harder to absorb."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1339 (PDF p. 1642)",
+      "quote": "Dietary sources of iron that are easy for the body to absorb include meat, poultry, and fish."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which statement describes patent ductus arteriosus (PDA)?",
+      "options": [
+        "An opening between both atria",
+        "A defect in the atrial septum",
+        "A hole between both ventricles",
+        "An open aorta-pulmonary vessel"
+      ],
+      "answer": "D",
+      "rationale": "The ductus arteriosus connects the aorta and pulmonary artery in fetal life and normally closes after birth. If it stays open, blood shunts from the high-pressure aorta to the pulmonary artery (left-to-right shunt).",
+      "explanations": [
+        "Describes atrial septal defect.",
+        "Describes atrial septal defect.",
+        "Describes ventricular septal defect.",
+        "Correct: the definition of PDA."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1340 (PDF p. 1643)",
+      "quote": "Patent ductus arteriosus is described as an artery that connects the aorta and the pulmonary artery during fetal life."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which finding is consistent with congenital hypothyroidism in an infant?",
+      "options": [
+        "Irritability and crying",
+        "A hoarse cry and excessive sleeping",
+        "Fused fontanels at birth",
+        "Frequent loose stools"
+      ],
+      "answer": "B",
+      "rationale": "Congenital hypothyroidism can cause a hoarse cry, excessive sleeping, bradycardia, constipation, a large tongue and fontanel, hypotonia, prolonged jaundice, and feeding problems.",
+      "explanations": [
+        "The infant is lethargic, not irritable.",
+        "Correct: typical signs.",
+        "Fontanels are large.",
+        "Constipation occurs."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1341 (PDF p. 1644)",
+      "quote": "Other signs and symptoms include prolonged jaundice, lethargy, constipation, feeding problems, coldness to touch, umbilical hernia, hoarse cry, and excessive sleeping."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child's tympanostomy tube falls out at home. What should the nurse tell the parent?",
+      "options": [
+        "'Go to the emergency room immediately.'",
+        "'It's not an emergency, but call the clinic.'",
+        "'Push it back into the ear gently.'",
+        "'Ignore it; tubes are not needed.'"
+      ],
+      "answer": "B",
+      "rationale": "A tube falling out is not an emergency, but the provider should be notified. Parents are shown the tube's size and appearance after surgery.",
+      "explanations": [
+        "Not an emergency.",
+        "Correct: notify the provider.",
+        "Never reinsert it.",
+        "The provider needs to know."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1344 (PDF p. 1647)",
+      "quote": "if the tympanostomy tubes fall out, it is not an emergency, but it is best if the primary health care provider or health care clinic is notified."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child has a nosebleed. What should the nurse tell the parent to do?",
+      "options": [
+        "Pinch the nose for 5 minutes",
+        "Tilt the child's head backward",
+        "Lay the child down flat",
+        "Sit up, lean forward, pinch for 10 minutes"
+      ],
+      "answer": "D",
+      "rationale": "The child sits upright with the head tilted forward so blood does not run into the pharynx. The soft part of the nose is pinched for a full 10 minutes, timed by a clock.",
+      "explanations": [
+        "Too short.",
+        "Blood drains into the throat.",
+        "Blood drains into the throat.",
+        "Correct: upright, forward, 10 minutes."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1345 (PDF p. 1648)",
+      "quote": "The child should be positioned erect, sitting with head tilted forward to avoid blood dripping posteriorly to the pharynx."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "When assessing a child admitted with rheumatic fever, which question is MOST significant?",
+      "options": [
+        "'Has your child had trouble urinating?'",
+        "'Was your child exposed to chickenpox?'",
+        "'Has anyone at home had a sore throat recently?'",
+        "'Has your child had a recent vaccine?'"
+      ],
+      "answer": "C",
+      "rationale": "Rheumatic fever appears 2 to 6 weeks after an untreated or partly treated group A streptococcal throat infection, so the nurse asks about recent sore throats or unexplained fever in the family.",
+      "explanations": [
+        "Unrelated.",
+        "Unrelated.",
+        "Correct: identifies a preceding strep infection.",
+        "Unrelated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1346 (PDF p. 1649)",
+      "quote": "Rheumatic fever characteristically presents 2 to 6 weeks after an untreated or partially treated group A beta-hemolytic streptococcal infection of the respiratory tract."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Parents worry that their son with mumps will develop orchitis. Which sign should the nurse teach them to watch for?",
+      "options": [
+        "Sudden fever with testicular pain",
+        "Facial swelling",
+        "Swollen neck glands",
+        "Difficulty urinating"
+      ],
+      "answer": "A",
+      "rationale": "About a week after parotitis, orchitis begins abruptly with testicular pain and tenderness, fever, chills, headache, and vomiting. It is usually one-sided, and sterility is rare.",
+      "explanations": [
+        "Correct: abrupt fever and testicular pain.",
+        "Normal in mumps.",
+        "Normal in mumps.",
+        "Not a sign of orchitis."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1347 (PDF p. 1650)",
+      "quote": "About 1 week after the appearance of parotitis, there is an abrupt onset of testicular pain, tenderness, fever, chills, headache, and vomiting."
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Tonton, 10, was bitten on the leg by a stray dog an hour ago.",
+      "stem": "What is the FIRST thing to do for Tonton's bite wound?",
+      "options": [
+        "Suture it tightly",
+        "Wash with soap and running water",
+        "Apply a tourniquet",
+        "Cover with a tight bandage"
+      ],
+      "answer": "B",
+      "rationale": "First aid for animal bites is to wash the wound with soap and water. An antiseptic such as povidone-iodine may then be applied.",
+      "explanations": [
+        "Not done immediately.",
+        "Correct: first aid.",
+        "Not indicated.",
+        "Not first."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Rabies (PDF p. 182)",
+      "quote": "Wash with soap and water"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Tonton, 10, was bitten on the leg by a stray dog an hour ago.",
+      "stem": "The owner of the biting dog is found. For how long should the dog be confined and observed?",
+      "options": [
+        "1 to 2 days",
+        "10 to 14 days",
+        "1 month",
+        "6 months"
+      ],
+      "answer": "B",
+      "rationale": "Any dog that has bitten a person is confined and observed for 10 to 14 days.",
+      "explanations": [
+        "Too short.",
+        "Correct: observation period.",
+        "Longer than needed.",
+        "Longer than needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Rabies Prevention (PDF p. 182)",
+      "quote": "Confinement of any dog that has bitten a person for 10 to 14 days"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Why should there be no running water in the room of a client with rabies?",
+      "options": [
+        "To save water",
+        "It triggers spasms",
+        "To prevent falls",
+        "To keep it cold"
+      ],
+      "answer": "B",
+      "rationale": "Rabies (hydrophobia) causes painful throat spasms at the sight or sound of water. The client is not bathed and there is no running water in the room.",
+      "explanations": [
+        "Not the reason.",
+        "Correct: hydrophobia.",
+        "Not the main reason.",
+        "Not the reason."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Rabies (PDF p. 182)",
+      "quote": "Patients should not be bathed and there should not be any running water in the room"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which test gives the MOST definitive diagnosis of rabies?",
+      "options": [
+        "Fluorescent antibody",
+        "Widal test",
+        "Tourniquet test",
+        "Blood culture"
+      ],
+      "answer": "A",
+      "rationale": "The fluorescent rabies antibody test is the most definitive diagnosis. Negri bodies in the dog's brain also indicate rabies.",
+      "explanations": [
+        "Correct: most definitive.",
+        "Typhoid.",
+        "Dengue.",
+        "Not used."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Rabies (PDF p. 182)",
+      "quote": "Fluorescent rabies antibody (RFA) – most definitive diagnosis"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Mang Pido, 60, stepped on a rusty nail a week ago. He now has trouble opening his mouth and a fixed grin.",
+      "stem": "Which disease is suspected in Mang Pido?",
+      "options": [
+        "Rabies",
+        "Tetanus",
+        "Meningitis",
+        "Polio"
+      ],
+      "answer": "B",
+      "rationale": "Tetanus causes trismus (lockjaw), painful spasms of the chewing muscles, and risus sardonicus. Spores enter through dirty wounds.",
+      "explanations": [
+        "Hydrophobia.",
+        "Correct: lockjaw and grin.",
+        "Nuchal rigidity.",
+        "Flaccid paralysis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Tetanus (PDF p. 182)",
+      "quote": "Risus sardonicus"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Mang Pido, 60, stepped on a rusty nail a week ago. He now has trouble opening his mouth and a fixed grin.",
+      "stem": "What room environment is best for Mang Pido?",
+      "options": [
+        "Bright with many visitors",
+        "Quiet and dim",
+        "Near the nurses' station noise",
+        "With TV on"
+      ],
+      "answer": "B",
+      "rationale": "The room is kept quiet and dim, and visitors are told not to stimulate the client, because stimuli can trigger spasms.",
+      "explanations": [
+        "Triggers spasms.",
+        "Correct: reduces stimuli.",
+        "Triggers spasms.",
+        "Triggers spasms."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tetanus (PDF p. 183)",
+      "quote": "Keep the patient’s room quiet and dimply"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Mang Pido, 60, stepped on a rusty nail a week ago. He now has trouble opening his mouth and a fixed grin.",
+      "stem": "Which product neutralizes circulating tetanus toxin in Mang Pido?",
+      "options": [
+        "Tetanus immunoglobulin",
+        "BCG",
+        "Oral polio vaccine",
+        "Chloroquine"
+      ],
+      "answer": "A",
+      "rationale": "Treatment includes tetanus immunoglobulin (TIG), an antibiotic such as metronidazole, sedatives, and airway support.",
+      "explanations": [
+        "Correct: TIG.",
+        "TB vaccine.",
+        "Polio vaccine.",
+        "Malaria."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Tetanus (PDF p. 183)",
+      "quote": "Administration of tetanus immunoglobulin (TIG)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "Mang Pido, 60, stepped on a rusty nail a week ago. He now has trouble opening his mouth and a fixed grin.",
+      "stem": "How often should Mang Pido get a tetanus toxoid booster after recovery?",
+      "options": [
+        "Every year",
+        "Every 5 years",
+        "Every 10 years",
+        "Never again"
+      ],
+      "answer": "C",
+      "rationale": "Active immunization is maintained with a tetanus toxoid booster every 10 years.",
+      "explanations": [
+        "Too often.",
+        "Not the standard.",
+        "Correct: every 10 years.",
+        "Recovery does not give immunity."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Tetanus (PDF p. 183)",
+      "quote": "booster dose of tetanus toxoid every 10 years"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A child with polio lets his head fall back when his shoulders are lifted. What is this sign?",
+      "options": [
+        "Kernig's sign",
+        "Hoyne sign",
+        "Tripod sign",
+        "Homan's sign"
+      ],
+      "answer": "B",
+      "rationale": "In polio, Hoyne sign is the head falling back when the shoulders are elevated. The tripod sign is sitting with arms extended behind for support.",
+      "explanations": [
+        "Leg extension.",
+        "Correct: Hoyne sign.",
+        "Arms behind.",
+        "Calf pain."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Poliomyelitis (PDF p. 184)",
+      "quote": "Hoyne sign (head falls back when surprise and shoulders are elevated)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which pain medication should be AVOIDED in a client with polio?",
+      "options": [
+        "Paracetamol",
+        "Morphine",
+        "Ibuprofen",
+        "Moist heat"
+      ],
+      "answer": "B",
+      "rationale": "Analgesics are given, but not morphine, which depresses respiration in a client at risk of respiratory failure. Moist heat helps muscle pain.",
+      "explanations": [
+        "Acceptable.",
+        "Correct: avoided.",
+        "Acceptable.",
+        "Helpful."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Poliomyelitis (PDF p. 184)",
+      "quote": "Analgesics (No Morphine)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which specimen is used for viral culture in suspected polio?",
+      "options": [
+        "Stool",
+        "Urine",
+        "Sputum",
+        "Skin scraping"
+      ],
+      "answer": "A",
+      "rationale": "Poliovirus spreads through oropharyngeal secretions and feces. Viral culture uses a stool sample.",
+      "explanations": [
+        "Correct: stool.",
+        "Not used.",
+        "Not used.",
+        "Not used."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Poliomyelitis (PDF p. 184)",
+      "quote": "Viral culture = Stool sample"
+    }
+  ]
+}

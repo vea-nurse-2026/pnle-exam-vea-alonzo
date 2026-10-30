@@ -1,0 +1,869 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which ABG indicates respiratory acidosis?",
+      "options": [
+        "pH 7.50, PCO2 30",
+        "pH 7.30, PCO2 50",
+        "pH 7.30, HCO3 19",
+        "pH 7.50, HCO3 30"
+      ],
+      "answer": "B",
+      "rationale": "In respiratory acidosis, pH falls and PCO2 rises (opposite directions).",
+      "explanations": [
+        "Respiratory alkalosis.",
+        "Correct.",
+        "Metabolic acidosis.",
+        "Metabolic alkalosis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1300 (PDF p. 1601)",
+      "quote": "In respiratory acidosis, the pH is decreased and an opposite effect is seen in the Pco2"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which PaO2 shows a client's oxygen level is adequate?",
+      "options": [
+        "45 mm Hg",
+        "50 mm Hg",
+        "60 mm Hg",
+        "80 mm Hg"
+      ],
+      "answer": "D",
+      "rationale": "Normal PO2 is 80 to 100 mm Hg.",
+      "explanations": [
+        "Low.",
+        "Low.",
+        "Low.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1304 (PDF p. 1606)",
+      "quote": "The normal Po2 level is 80 to 100 mm Hg."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Where should a client with active TB be placed?",
+      "options": [
+        "A private, well-ventilated room",
+        "A ward with other TB clients",
+        "A room near the nursery",
+        "A semi-private room"
+      ],
+      "answer": "A",
+      "rationale": "Active TB requires a private room with good ventilation (6 to 12 air exchanges per hour).",
+      "explanations": [
+        "Correct.",
+        "Not preferred.",
+        "Unsafe.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1307 (PDF p. 1609)",
+      "quote": "a client with TB requires a private room."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Why are lipids given to a client on TPN?",
+      "options": [
+        "To prevent fatty acid deficiency",
+        "To lower glucose",
+        "To treat infection",
+        "To replace protein"
+      ],
+      "answer": "A",
+      "rationale": "Fat emulsions prevent essential fatty acid deficiency and help meet caloric needs.",
+      "explanations": [
+        "Correct.",
+        "Not the purpose.",
+        "Not the purpose.",
+        "Amino acids do this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1309 (PDF p. 1611)",
+      "quote": "administered to clients who are at risk for developing an essential fatty acid deficiency"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Before surgery, which medication should the nurse PRIORITIZE asking the surgeon about holding?",
+      "options": [
+        "Warfarin",
+        "Furosemide",
+        "Famotidine",
+        "Vitamin C"
+      ],
+      "answer": "A",
+      "rationale": "Warfarin is often withheld before surgery to reduce bleeding risk.",
+      "explanations": [
+        "Correct.",
+        "Less critical.",
+        "Less critical.",
+        "Not critical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1314 (PDF p. 1616)",
+      "quote": "This medication is often withheld for a period of time preoperatively"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which observation of home oxygen use needs MORE teaching?",
+      "options": [
+        "Oxygen 10 m from the stove",
+        "No smoking signs posted",
+        "Tubing kept untangled",
+        "Concentrator pushed into a closet"
+      ],
+      "answer": "D",
+      "rationale": "The concentrator needs clear space for air circulation; enclosed spaces can overheat and cause fire.",
+      "explanations": [
+        "Safe.",
+        "Safe.",
+        "Safe.",
+        "Correct answer: unsafe."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1318 (PDF p. 1620)",
+      "quote": "The oxygen concentrator should be free and clear of walls or other enclosed spaces"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which belongs in the plan for a client scheduled for bronchoscopy?",
+      "options": [
+        "Leave dentures in",
+        "Allow a light meal",
+        "Remove dentures and contacts",
+        "Skip consent"
+      ],
+      "answer": "C",
+      "rationale": "Dentures, contact lenses, and prostheses are removed before sedation, and informed consent is signed. The client is NPO.",
+      "explanations": [
+        "Remove.",
+        "NPO.",
+        "Correct.",
+        "Required."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1324 (PDF p. 1626)",
+      "quote": "If the client has any contact lenses, dentures, or other prostheses, they are removed before sedation"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A healthy client (HIV-negative) has 8 mm induration on a Mantoux test. How is this read?",
+      "options": [
+        "Active TB",
+        "Negative result",
+        "Positive result",
+        "Needs a chest x-ray urgently"
+      ],
+      "answer": "B",
+      "rationale": "For people without immunosuppression, 8 mm is below the positive cutoff (10 mm under PH guidelines). 5 mm or more is positive only for HIV or immunosuppressed clients.",
+      "explanations": [
+        "Not diagnostic.",
+        "Correct.",
+        "Below cutoff.",
+        "Not indicated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1325 (PDF p. 1627)",
+      "quote": "More than 5 mm of induration is considered a positive result for clients with known or suspected human immunodeficiency virus"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which test must be positive before drawing radial ABGs?",
+      "options": [
+        "Allen test",
+        "Turner's sign",
+        "Chvostek's sign",
+        "Homans' sign"
+      ],
+      "answer": "A",
+      "rationale": "The Allen test confirms ulnar collateral flow before radial puncture.",
+      "explanations": [
+        "Correct.",
+        "Abdominal bruising.",
+        "Hypocalcemia.",
+        "DVT."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1326 (PDF p. 1628)",
+      "quote": "The Allen test is performed before drawing ABGs."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which finding in hypercalcemia needs follow-up?",
+      "options": [
+        "More peristalsis",
+        "Slowed capillary refill",
+        "Brisk reflexes",
+        "Soft abdomen"
+      ],
+      "answer": "B",
+      "rationale": "Hypercalcemia raises the risk of clots; poor capillary refill may signal impaired circulation.",
+      "explanations": [
+        "Hypocalcemia sign.",
+        "Correct.",
+        "Hypocalcemia sign.",
+        "Normal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1350 (PDF p. 1653)",
+      "quote": "The client with hypercalcemia is at risk for formation of blood clots."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which statement about TENS shows a need for MORE teaching?",
+      "options": [
+        "'I control the settings.'",
+        "'It may cut my pain pills.'",
+        "'I must stay in hospital to use it.'",
+        "'It's portable.'"
+      ],
+      "answer": "C",
+      "rationale": "TENS is portable and client-controlled; hospitalization is not required.",
+      "explanations": [
+        "Accurate.",
+        "Accurate.",
+        "Correct answer: false.",
+        "Accurate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1352 (PDF p. 1655)",
+      "quote": "It is not necessary for the client to remain in the hospital for this treatment."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with 3 days of vomiting and diarrhea should be assessed for which sign?",
+      "options": [
+        "Excitability",
+        "Bradycardia",
+        "Hypertension",
+        "Poor skin turgor"
+      ],
+      "answer": "D",
+      "rationale": "Dehydration causes weight loss, lethargy, sunken eyes, poor turgor, tachycardia, and hypotension.",
+      "explanations": [
+        "Lethargy instead.",
+        "Tachycardia.",
+        "Hypotension.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1379 (PDF p. 1682)",
+      "quote": "The client described in the question will most likely be dehydrated"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client is on 1200 mL/day fluid restriction. How much is usually allowed on the 7 am–3 pm shift?",
+      "options": [
+        "400 mL",
+        "600 mL",
+        "800 mL",
+        "1000 mL"
+      ],
+      "answer": "B",
+      "rationale": "About half the allotment is given on the day shift when the client is most active and takes meals and medicines.",
+      "explanations": [
+        "Too little.",
+        "Correct.",
+        "Too much.",
+        "Too much."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1380 (PDF p. 1683)",
+      "quote": "the nurse informs the dietary department and discusses the allotment of fluid per shift with the dietitian."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which is a common adult bone marrow biopsy site?",
+      "options": [
+        "Ribs",
+        "Femur",
+        "Scapula",
+        "Sternum"
+      ],
+      "answer": "D",
+      "rationale": "The iliac crest and sternum are rich in marrow and easily accessible.",
+      "explanations": [
+        "Not standard.",
+        "Not standard.",
+        "Not standard.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1387 (PDF p. 1690)",
+      "quote": "The most common sites for bone marrow biopsy in the adult are the iliac crest and the sternum."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which advice promotes PRIMARY prevention of cervical cancer?",
+      "options": [
+        "Douche daily",
+        "Self-exam monthly",
+        "Treat cervical infections early",
+        "Use talc on the perineum"
+      ],
+      "answer": "C",
+      "rationale": "Early treatment of cervical infection prevents chronic cervicitis, which can lead to premalignant dysplasia. Douches are avoided.",
+      "explanations": [
+        "Harmful.",
+        "Not for cervix.",
+        "Correct.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1389 (PDF p. 1692)",
+      "quote": "Early treatment of cervical infection can help prevent chronic cervicitis"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "After EGD and vital signs, what is the nurse's next priority?",
+      "options": [
+        "Watch for sharp pain",
+        "Give warm gargles",
+        "Check the gag reflex",
+        "Offer a meal"
+      ],
+      "answer": "C",
+      "rationale": "The return of the gag reflex is checked first to protect the airway. Sharp pain may signal perforation and is also monitored.",
+      "explanations": [
+        "Also monitored.",
+        "Not yet.",
+        "Correct.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1398 (PDF p. 1702)",
+      "quote": "The nurse places highest priority on assessing for the return of the gag reflex"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which pre-test action shows a client understands barium swallow instructions?",
+      "options": [
+        "Eat a big breakfast",
+        "Keep jewelry on",
+        "Take a laxative that morning",
+        "Remove metal objects; stay NPO"
+      ],
+      "answer": "D",
+      "rationale": "The client removes metal objects and is usually NPO before the radiograph.",
+      "explanations": [
+        "NPO.",
+        "Remove metal.",
+        "Not before.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1400 (PDF p. 1704)",
+      "quote": "The client is told to remove metal objects"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with AKI has heavy proteinuria. Which type of kidney failure is likely?",
+      "options": [
+        "Prerenal",
+        "Postrenal",
+        "Intrinsic (intrarenal)",
+        "None"
+      ],
+      "answer": "C",
+      "rationale": "Intrinsic failure shows fixed specific gravity and proteinuria. Prerenal has high specific gravity and little protein.",
+      "explanations": [
+        "Little protein.",
+        "Obstruction.",
+        "Correct.",
+        "Incorrect."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1420 (PDF p. 1726)",
+      "quote": "With intrinsic (intrarenal) renal failure, there is a fixed specific gravity, and the urine tests positive for proteinuria."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which home instruction is correct for an adult with influenza?",
+      "options": [
+        "Return to work at once",
+        "Wash hands often; stay home",
+        "Share towels freely",
+        "Skip fluids"
+      ],
+      "answer": "B",
+      "rationale": "Influenza spreads by droplets; handwashing and staying home prevent spread. Fluids and rest help.",
+      "explanations": [
+        "Spreads disease.",
+        "Correct.",
+        "Spreads disease.",
+        "Harmful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1424 (PDF p. 1733)",
+      "quote": "It is a communicable disease spread by droplet infection"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Right after TURP, a client suddenly becomes confused. What is the likely cause?",
+      "options": [
+        "Hyponatremia",
+        "Hypernatremia",
+        "Hyperkalemia",
+        "Hypercalcemia"
+      ],
+      "answer": "A",
+      "rationale": "Hypotonic flushing solution absorbed during TURP can cause hyponatremia, an early sign of which is confusion.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1430 (PDF p. 1739)",
+      "quote": "The client who suddenly becomes disoriented and confused after TURP could be experiencing early signs of hyponatremia."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After hip prosthesis surgery, which attendant action needs intervention?",
+      "options": [
+        "Using a raised toilet seat",
+        "Placing a pillow between legs",
+        "Seating her on a low commode",
+        "Keeping hips abducted"
+      ],
+      "answer": "C",
+      "rationale": "The client must not flex the hip beyond 90 degrees; a low commode does this. The seat should be raised.",
+      "explanations": [
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: unsafe.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1435 (PDF p. 1744)",
+      "quote": "a client should not flex the body more than 90 degrees relative to the chair"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which statement shows a client with CKD understands potassium restriction?",
+      "options": [
+        "'I'll use salt substitute.'",
+        "'I'll boil and drain veggies.'",
+        "'Bananas daily are fine.'",
+        "'Fruit has no potassium.'"
+      ],
+      "answer": "B",
+      "rationale": "Boiling and discarding the water reduces potassium. Salt substitutes are high in potassium.",
+      "explanations": [
+        "High potassium.",
+        "Correct.",
+        "High potassium.",
+        "Not true."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1436 (PDF p. 1745)",
+      "quote": "The potassium content of vegetables can be reduced by boiling them and discarding the cooking water."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A pale client reports fatigue and dizziness. Which lab result is the priority for planning care?",
+      "options": [
+        "Hct 43%",
+        "Sodium 130 mEq/L",
+        "Potassium 4.0 mEq/L",
+        "Hgb 8 g/dL"
+      ],
+      "answer": "D",
+      "rationale": "Pallor, fatigue, and dizziness fit anemia, so the low hemoglobin guides care.",
+      "explanations": [
+        "Normal.",
+        "Low but less related.",
+        "Normal.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1440 (PDF p. 1749)",
+      "quote": "the nurse uses the hemoglobin results to plan care because the client’s clinical indicators are consistent with anemia."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which sign suggests anemia after postoperative blood loss?",
+      "options": [
+        "Fatigue",
+        "Bradycardia",
+        "Muscle cramps",
+        "Fever"
+      ],
+      "answer": "A",
+      "rationale": "Low hemoglobin reduces oxygen-carrying capacity, causing fatigue.",
+      "explanations": [
+        "Correct.",
+        "Tachycardia instead.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1448 (PDF p. 1757)",
+      "quote": "The client with anemia is likely to report fatigue caused by deficient hemoglobin"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "What is the most frequent cause of pain after TURP?",
+      "options": [
+        "Bladder spasms",
+        "Incision pain",
+        "Back strain",
+        "Headache"
+      ],
+      "answer": "A",
+      "rationale": "Bladder spasms from distention or the catheter balloon are common; antispasmodics are given.",
+      "explanations": [
+        "Correct.",
+        "No incision.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1456 (PDF p. 1765)",
+      "quote": "Bladder spasms can occur after this surgery"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which breakfast item INCREASES lower esophageal sphincter pressure in GERD?",
+      "options": [
+        "Coffee",
+        "Nonfat milk",
+        "Chocolate",
+        "Fried egg"
+      ],
+      "answer": "B",
+      "rationale": "Nonfat milk increases LES pressure; coffee, chocolate, and fats decrease it.",
+      "explanations": [
+        "Decreases.",
+        "Correct.",
+        "Decreases.",
+        "Decreases."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1457 (PDF p. 1766)",
+      "quote": "The food substance that will increase the LES pressure is nonfat milk."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which test detects circulating RBC antibodies when screening blood compatibility?",
+      "options": [
+        "Rh factor",
+        "ABO typing",
+        "Direct Coombs",
+        "Indirect Coombs"
+      ],
+      "answer": "D",
+      "rationale": "The indirect Coombs test detects circulating RBC antibodies and is part of 'type and screen'.",
+      "explanations": [
+        "Partial.",
+        "Partial.",
+        "RBC-bound antibodies.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1459 (PDF p. 1768)",
+      "quote": "The indirect Coombs’ test detects circulating antibodies against red blood cells"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with burns over 25% TBSA has early labs. Which value is expected?",
+      "options": [
+        "Elevated hematocrit",
+        "Low sodium only",
+        "Low glucose",
+        "Low potassium"
+      ],
+      "answer": "A",
+      "rationale": "Fluid shifts out of vessels, causing hemoconcentration and a high hematocrit.",
+      "explanations": [
+        "Correct.",
+        "Not the key finding.",
+        "Not expected.",
+        "Potassium rises early."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1475 (PDF p. 1784)",
+      "quote": "Hematocrit levels elevate"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "During a panic attack: pH 7.49, PCO2 31, HCO3 22. Which imbalance?",
+      "options": [
+        "Metabolic acidosis",
+        "Respiratory acidosis",
+        "Metabolic alkalosis",
+        "Respiratory alkalosis"
+      ],
+      "answer": "D",
+      "rationale": "pH above 7.45 with PCO2 below 35 and normal HCO3 is respiratory alkalosis from hyperventilation.",
+      "explanations": [
+        "pH high.",
+        "pH high.",
+        "HCO3 normal.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1480 (PDF p. 1789)",
+      "quote": "Respiratory alkalosis is present when the Pco2 is less than 35"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Low serum transferrin and low TIBC suggest which cause of anemia?",
+      "options": [
+        "Infection",
+        "Malnutrition",
+        "Iron deficiency",
+        "Hemolysis"
+      ],
+      "answer": "B",
+      "rationale": "Malnutrition lowers transferrin and TIBC. Iron deficiency usually raises TIBC.",
+      "explanations": [
+        "Unrelated.",
+        "Correct.",
+        "TIBC rises.",
+        "Not this pattern."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1499 (PDF p. 1808)",
+      "quote": "Malnutrition can cause reductions in the serum transferrin and the TIBC."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which anemia is diagnosed with a Schilling test?",
+      "options": [
+        "Aplastic",
+        "Pernicious",
+        "Sickle cell",
+        "Iron deficiency"
+      ],
+      "answer": "B",
+      "rationale": "The Schilling test identifies the cause of vitamin B12 deficiency, which underlies pernicious anemia.",
+      "explanations": [
+        "Marrow failure.",
+        "Correct.",
+        "Genetic test.",
+        "Iron studies."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1500 (PDF p. 1809)",
+      "quote": "The Schilling test is used to determine the cause of vitamin B12 deficiency"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which statement about ERCP needs MORE teaching?",
+      "options": [
+        "'My throat will be sprayed.'",
+        "'I'll sign a consent.'",
+        "'I'll take a sedative pill.'",
+        "'A scope goes down my throat.'"
+      ],
+      "answer": "C",
+      "rationale": "IV sedation (not oral) is given, with an anesthetic throat spray to prevent gagging.",
+      "explanations": [
+        "Accurate.",
+        "Accurate.",
+        "Correct answer: IV sedation.",
+        "Accurate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1503 (PDF p. 1812)",
+      "quote": "Intravenous sedation (not oral) is given to relax the client"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "A young adult with sarcoidosis says there's no point learning self-care since there's no cure. Which concern applies?",
+      "options": [
+        "Apprehension",
+        "Powerlessness",
+        "Intellectualization",
+        "Euphoria"
+      ],
+      "answer": "B",
+      "rationale": "Powerlessness is feeling no control over the situation or outcome.",
+      "explanations": [
+        "Fearful anticipation.",
+        "Correct.",
+        "Excess reasoning.",
+        "Not shown."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1516 (PDF p. 1826)",
+      "quote": "The client with powerlessness expresses feelings of having no control over a situation or outcome."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What must be done FIRST before a leg fracture is reduced in the casting room?",
+      "options": [
+        "Anesthesia consent",
+        "Give an opioid",
+        "Apply ice pack",
+        "Treatment consent"
+      ],
+      "answer": "D",
+      "rationale": "Informed consent for treatment is obtained before reduction, with explanations reinforced.",
+      "explanations": [
+        "Not first.",
+        "Later.",
+        "Not required.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1534 (PDF p. 1845)",
+      "quote": "Before a fracture is reduced, an informed consent for treatment is needed."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with new AKI has potassium 6.1 mEq/L. What should the nurse do IMMEDIATELY?",
+      "options": [
+        "Check sodium",
+        "Call the provider",
+        "Give a banana",
+        "Recheck tomorrow"
+      ],
+      "answer": "B",
+      "rationale": "Hyperkalemia risks dysrhythmias and arrest; the provider is notified at once for treatment.",
+      "explanations": [
+        "Not first.",
+        "Correct.",
+        "Raises potassium.",
+        "Too late."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1538 (PDF p. 1849)",
+      "quote": "The client with hyperkalemia is at risk of developing cardiac dysrhythmias and resultant cardiac arrest."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which item is allowed on a clear liquid diet?",
+      "options": [
+        "Pudding",
+        "Vegetable juice",
+        "Gelatin",
+        "Pureed vegetables"
+      ],
+      "answer": "C",
+      "rationale": "Clear liquids are transparent and liquid at body temperature: water, tea, broth, and gelatin.",
+      "explanations": [
+        "Full liquid.",
+        "Full liquid.",
+        "Correct.",
+        "Pureed diet."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1546 (PDF p. 1858)",
+      "quote": "A clear liquid diet consists of foods that are relatively transparent to light"
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What is the most common cause of appendicitis?",
+      "options": [
+        "Fecalith obstruction",
+        "Viral infection",
+        "High-fiber diet",
+        "Stress"
+      ],
+      "answer": "A",
+      "rationale": "The appendix is kinked or occluded by a fecalith, tumor, or foreign body.",
+      "explanations": [
+        "Correct.",
+        "Not main.",
+        "Protective.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Appendicitis (PDF p. 347)",
+      "quote": "Kinked or occluded by a fecalith"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Pressing the LLQ causes pain in the RLQ. This is:",
+      "options": [
+        "Rovsing's sign",
+        "Murphy's sign",
+        "Cullen's sign",
+        "Homan's sign"
+      ],
+      "answer": "A",
+      "rationale": "Rovsing's sign suggests appendicitis.",
+      "explanations": [
+        "Correct.",
+        "Gallbladder.",
+        "Pancreatitis.",
+        "DVT."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Appendicitis (PDF p. 347)",
+      "quote": "Rovsing's sign may be elicited by palpating the left lower quadrant"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Pain that intensifies when pressure over the abdomen is released is called:",
+      "options": [
+        "Rebound tenderness",
+        "Guarding",
+        "Referred pain",
+        "Colic"
+      ],
+      "answer": "A",
+      "rationale": "Rebound tenderness indicates peritoneal irritation, as in appendicitis.",
+      "explanations": [
+        "Correct.",
+        "Muscle tensing.",
+        "Distant site.",
+        "Spasm."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Appendicitis (PDF p. 347)",
+      "quote": "Rebound tenderness (ie, production or intensification of pain when pressure is released)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client with suspected appendicitis asks for a heating pad and laxative. The nurse should:",
+      "options": [
+        "Withhold both",
+        "Give both",
+        "Give laxative only",
+        "Apply heat only"
+      ],
+      "answer": "A",
+      "rationale": "Heat and laxatives can promote perforation; prepare for appendectomy as soon as possible.",
+      "explanations": [
+        "Correct.",
+        "Perforation risk.",
+        "Perforation risk.",
+        "Perforation risk."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Appendicitis (PDF p. 347)",
+      "quote": "Appendectomy (ie, surgical removal of the appendix) is performed as soon as possible to decrease risk of perforation"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Why is a pregnancy test done for a woman with RLQ pain?",
+      "options": [
+        "To rule out ectopic pregnancy",
+        "To check anemia",
+        "To plan diet",
+        "To confirm fever"
+      ],
+      "answer": "A",
+      "rationale": "Ectopic pregnancy can mimic appendicitis.",
+      "explanations": [
+        "Correct.",
+        "CBC.",
+        "Not this.",
+        "Thermometer."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Appendicitis Diagnostics (PDF p. 347)",
+      "quote": "Pregnancy test- to rule out ectopic pregnancy"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "After appendectomy, the client is placed in high-Fowler's position to:",
+      "options": [
+        "Reduce tension on the incision",
+        "Prevent hypotension",
+        "Promote sleep",
+        "Increase appetite"
+      ],
+      "answer": "A",
+      "rationale": "High-Fowler's reduces incisional and abdominal tension, easing pain.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Appendicitis Nursing (PDF p. 347)",
+      "quote": "Reduces the tension on the incision and abdominal organs, helping to reduce pain."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which teaching helps a client with hemorrhoids?",
+      "options": [
+        "High-fiber diet and fluids",
+        "Strain during defecation",
+        "Low-fluid diet",
+        "Sit on hard chairs"
+      ],
+      "answer": "A",
+      "rationale": "High-residue diet, fluids, sitz baths, and avoiding straining.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Constipation.",
+        "Not helpful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Hemorrhoids (PDF p. 348)",
+      "quote": "High-residue diet that contains fruit and bran"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Bright red blood on toilet paper with anal itching most likely indicates:",
+      "options": [
+        "Hemorrhoids",
+        "Upper GI bleeding",
+        "Colon cancer always",
+        "Esophageal varices"
+      ],
+      "answer": "A",
+      "rationale": "Hemorrhoids cause itching, pain, and bright red bleeding.",
+      "explanations": [
+        "Correct.",
+        "Melena.",
+        "Not always.",
+        "Hematemesis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hemorrhoids (PDF p. 348)",
+      "quote": "Bright red bleeding"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "The liver prevents ammonia toxicity by converting ammonia to:",
+      "options": [
+        "Urea",
+        "Glucose",
+        "Bile",
+        "Albumin"
+      ],
+      "answer": "A",
+      "rationale": "The liver converts ammonia to urea for renal excretion.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hepatobiliary System (PDF p. 348)",
+      "quote": "Converting ammonia produced from gluconeogenetic by-products and bacteria to urea"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Hepatitis A is transmitted mainly by:",
+      "options": [
+        "Fecal-oral route",
+        "Blood transfusion",
+        "Sexual contact only",
+        "Mosquito bites"
+      ],
+      "answer": "A",
+      "rationale": "Hepatitis A and E: fecal-oral; B, C, D: blood and body fluids.",
+      "explanations": [
+        "Correct.",
+        "B, C.",
+        "B.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Viral Hepatitis (PDF p. 349)",
+      "quote": "Hepatitis A Fecal-oral route"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which hepatitis is very severe in pregnant women?",
+      "options": [
+        "Hepatitis E",
+        "Hepatitis A",
+        "Hepatitis C",
+        "Hepatitis D"
+      ],
+      "answer": "A",
+      "rationale": "Hepatitis E resembles A but is very severe in pregnancy.",
+      "explanations": [
+        "Correct.",
+        "Mild.",
+        "Chronic.",
+        "Needs B."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Viral Hepatitis (PDF p. 349)",
+      "quote": "Similar to HAV except very severe in pregnant women"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which hepatitis most often leads to chronic liver disease and a carrier state after transfusion?",
+      "options": [
+        "Hepatitis C",
+        "Hepatitis A",
+        "Hepatitis E",
+        "Toxic hepatitis"
+      ],
+      "answer": "A",
+      "rationale": "Hepatitis C frequently becomes chronic, with cirrhosis and liver cancer risk.",
+      "explanations": [
+        "Correct.",
+        "Recovers.",
+        "Acute.",
+        "Drug-related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Viral Hepatitis (PDF p. 349)",
+      "quote": "Frequent occurrence of chronic hepatic cancer carrier state and chronic liver disease."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Jaundice, dark urine, and clay-colored stools appear in which hepatitis stage?",
+      "options": [
+        "Icteric",
+        "Pre-icteric",
+        "Post-icteric",
+        "Incubation"
+      ],
+      "answer": "A",
+      "rationale": "Icteric stage brings jaundice; pre-icteric is flu-like; post-icteric is convalescence.",
+      "explanations": [
+        "Correct.",
+        "Flu-like.",
+        "Recovery.",
+        "No symptoms."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hepatitis Stages (PDF p. 349)",
+      "quote": "Icteric Stage"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Cirrhosis caused by chronic alcoholism and malnutrition is called:",
+      "options": [
+        "Laennec's cirrhosis",
+        "Biliary cirrhosis",
+        "Post-hepatic cirrhosis",
+        "Cardiac cirrhosis"
+      ],
+      "answer": "A",
+      "rationale": "Laennec's: alcohol; biliary: bile duct disorders; post-hepatic: hepatitis.",
+      "explanations": [
+        "Correct.",
+        "Bile flow.",
+        "Hepatitis.",
+        "Not listed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Liver Cirrhosis (PDF p. 349)",
+      "quote": "Commonly caused by alcoholism"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Dilated abdominal veins radiating from the umbilicus in cirrhosis are called:",
+      "options": [
+        "Caput medusae",
+        "Spider angioma",
+        "Cullen's sign",
+        "Striae"
+      ],
+      "answer": "A",
+      "rationale": "Caput medusae reflects portal hypertension.",
+      "explanations": [
+        "Correct.",
+        "Skin vessels.",
+        "Periumbilical bruise.",
+        "Stretch marks."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Portal Hypertension (PDF p. 350)",
+      "quote": "Dilated abdominal vessels radiating from umbilicus (caput medusa)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which daily assessment monitors ascites in portal hypertension?",
+      "options": [
+        "Abdominal girth and weight",
+        "Pupil reaction",
+        "Capillary refill only",
+        "Deep tendon reflexes"
+      ],
+      "answer": "A",
+      "rationale": "Measure and record abdominal girth and weight daily.",
+      "explanations": [
+        "Correct.",
+        "Neuro.",
+        "Limited.",
+        "Neuro."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Portal Hypertension (PDF p. 350)",
+      "quote": "Measure & record abdominal girth & body weight daily"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Esophageal varices are caused by:",
+      "options": [
+        "Portal hypertension",
+        "Hiatal hernia",
+        "GERD",
+        "Achalasia"
+      ],
+      "answer": "A",
+      "rationale": "Portal hypertension dilates submucosal veins of the lower esophagus.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Esophageal Varices (PDF p. 350)",
+      "quote": "Caused by portal hypertension"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which item must be at the bedside of a client with a Sengstaken-Blakemore tube?",
+      "options": [
+        "Scissors",
+        "Tongue depressor",
+        "Ice pack",
+        "Oral airway only"
+      ],
+      "answer": "A",
+      "rationale": "Scissors cut the tube to deflate balloons if respiratory distress occurs.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not enough."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Esophageal Varices (PDF p. 351)",
+      "quote": "Instrument at the bedside- Scissors"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Hand flapping when the arms are extended with wrists dorsiflexed in liver failure is called:",
+      "options": [
+        "Asterixis",
+        "Chorea",
+        "Tetany",
+        "Clonus"
+      ],
+      "answer": "A",
+      "rationale": "Asterixis (liver flap) signals hepatic encephalopathy.",
+      "explanations": [
+        "Correct.",
+        "Huntington's.",
+        "Hypocalcemia.",
+        "Reflex."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hepatic Encephalopathy (PDF p. 352)",
+      "quote": "Flapping tremors/Liver flap (Asterixis)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Lactulose is given in hepatic encephalopathy to:",
+      "options": [
+        "Lower ammonia levels",
+        "Raise blood glucose",
+        "Treat ascites",
+        "Stop variceal bleeding"
+      ],
+      "answer": "A",
+      "rationale": "Lactulose acidifies the colon, traps ammonia, and promotes its evacuation.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Diuretics.",
+        "Banding."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Hepatic Encephalopathy (PDF p. 352)",
+      "quote": "Administer prescribed medications which may include laxatives (Lactulose)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Why is neomycin given in hepatic encephalopathy?",
+      "options": [
+        "Kills gut bacteria",
+        "Treats pneumonia",
+        "Prevents ulcers",
+        "Boosts appetite"
+      ],
+      "answer": "A",
+      "rationale": "Neomycin reduces colonic ammonia-forming bacteria.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Hepatic Encephalopathy (PDF p. 352)",
+      "quote": "Reduce levels of ammonia-forming bacteria in the colon"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Sweet, slightly fecal breath odor in liver failure is:",
+      "options": [
+        "Fetor hepaticus",
+        "Ketotic breath",
+        "Uremic breath",
+        "Halitosis from caries"
+      ],
+      "answer": "A",
+      "rationale": "Fetor hepaticus is a sign of hepatic encephalopathy.",
+      "explanations": [
+        "Correct.",
+        "DKA.",
+        "Renal.",
+        "Dental."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hepatic Encephalopathy (PDF p. 352)",
+      "quote": "A sweet, slightly fecal odor to the breath"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Sedatives for a client with cirrhosis should be given in conservative doses because:",
+      "options": [
+        "Liver damage alters drug metabolism",
+        "They raise ammonia directly",
+        "They cause varices",
+        "They worsen ascites"
+      ],
+      "answer": "A",
+      "rationale": "Impaired hepatic metabolism prolongs drug effects.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Hepatic Encephalopathy (PDF p. 352)",
+      "quote": "because liver damage alters drug metabolism"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which is a risk factor for gallstones?",
+      "options": [
+        "Rapid weight loss",
+        "Low-dose aspirin",
+        "Male sex",
+        "Frequent exercise"
+      ],
+      "answer": "A",
+      "rationale": "Risks: obesity, female sex, multiple pregnancies, rapid weight loss, estrogen, diabetes.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Women more.",
+        "Protective."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Gallbladder Disorders (PDF p. 352)",
+      "quote": "Rapid weight loss"
+    }
+  ]
+}

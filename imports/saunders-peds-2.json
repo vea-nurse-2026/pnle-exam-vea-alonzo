@@ -1,0 +1,773 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "An 8-year-old who had a tonsillectomy loves crispy tacos. When can the child safely eat rough, scratchy foods again?",
+      "options": [
+        "In 1 week",
+        "In 3 weeks",
+        "In 3 days",
+        "Right away if there is no pain"
+      ],
+      "answer": "B",
+      "rationale": "Rough, scratchy, and spicy foods are avoided for 3 weeks after tonsillectomy. Citrus is avoided for 10 days. Full liquids start on day 2, then soft foods as tolerated.",
+      "explanations": [
+        "Too soon.",
+        "Correct: avoid rough foods for 3 weeks.",
+        "Too soon.",
+        "Rough foods can cause bleeding."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q699 (PDF p. 921)",
+      "quote": "Rough or scratchy foods, as well as spicy foods, are to be avoided for 3 weeks after a tonsillectomy."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child awaiting umbilical hernia repair goes home. Which sign of strangulation should make the parents call the physician immediately?",
+      "options": [
+        "Fever",
+        "Diarrhea",
+        "Vomiting",
+        "Constipation"
+      ],
+      "answer": "C",
+      "rationale": "Signs of strangulation include vomiting, pain, and an irreducible mass at the umbilicus.",
+      "explanations": [
+        "Not a sign of strangulation.",
+        "Not a sign of strangulation.",
+        "Correct: a sign of strangulation.",
+        "Not a listed sign."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q701 (PDF p. 923)",
+      "quote": "signs/symptoms of strangulation, which include vomiting, pain, and an irreducible mass at the umbilicus."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "The mother of a child with celiac disease asks how long the special diet is needed. What should the nurse say?",
+      "options": [
+        "'For life, a gluten-free diet.'",
+        "'Until the diarrhea stops.'",
+        "'Only until school age.'",
+        "'For 6 months, then wheat can return.'"
+      ],
+      "answer": "A",
+      "rationale": "Celiac disease is a lifelong intolerance to gluten (wheat, barley, rye, oats). Treatment is mainly dietary management with a gluten-free diet.",
+      "explanations": [
+        "Correct: the diet is lifelong.",
+        "Gluten must stay excluded even after symptoms settle.",
+        "The intolerance does not resolve.",
+        "Reintroduction causes symptoms to return."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q703 (PDF p. 925)",
+      "quote": "The treatment of celiac disease consists primarily of dietary management with a gluten-free diet."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Parents are preparing children for an outdoor camp. Which statement shows they need MORE teaching on sun protection?",
+      "options": [
+        "'Sunscreen helps prevent sunburn.'",
+        "'No sunscreen is needed on cloudy days.'",
+        "'I'll reapply it at least every 2 hours.'",
+        "'They will wear hats and long sleeves.'"
+      ],
+      "answer": "B",
+      "rationale": "The sun's rays damage skin as much on cloudy, hazy days. Sunscreen is applied before exposure and reapplied at least every 2 hours, and protective clothing is worn.",
+      "explanations": [
+        "Correct statement.",
+        "Correct answer: UV rays penetrate clouds.",
+        "Correct statement.",
+        "Correct statement."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q744 (PDF p. 972)",
+      "quote": "The sun’s rays are as damaging to the skin on cloudy, hazy days as they are on sunny days."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which statement by parents of a child discharged after glomerulonephritis shows a need for MORE teaching?",
+      "options": [
+        "'We'll check the blood pressure daily.'",
+        "'We'll test the urine for albumin weekly.'",
+        "'She can start dance class next week.'",
+        "'We'll make sure she gets enough rest.'"
+      ],
+      "answer": "C",
+      "rationale": "Children return to normal routines gradually, with adequate rest. Strenuous activity one week after discharge is too rapid. Daily BP checks and weekly urine albumin tests are appropriate.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Correct answer: too rapid an increase in activity.",
+        "Appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q768 (PDF p. 998)",
+      "quote": "parents should allow the child to return to his or her normal routine and activities, with adequate periods allowed for rest."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "A preschooler has an immunocompromising condition. Which type of vaccine should generally be AVOIDED?",
+      "options": [
+        "Inactivated vaccines like DTaP",
+        "Toxoid vaccines like tetanus",
+        "Live vaccines like MMR",
+        "Inactivated influenza vaccine"
+      ],
+      "answer": "C",
+      "rationale": "An immunocompromised child generally should not receive live or attenuated vaccines (oral polio, MMR, varicella). Inactivated vaccines such as DTaP and inactivated influenza are recommended.",
+      "explanations": [
+        "Recommended.",
+        "Recommended.",
+        "Correct: live vaccines can cause disease in these children.",
+        "Recommended."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q775 (PDF p. 1005)",
+      "quote": "An immunocompromised individual under ordinary circumstances should not receive a live or attenuated vaccine."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A 3-year-old with chickenpox scratches at night. Which statement by the mother shows the teaching worked?",
+      "options": [
+        "'I'll put cotton gloves on her at night.'",
+        "'I'll apply lots of cream all over her.'",
+        "'I'll give her warm milk at bedtime.'",
+        "'I'll keep her room warm and cozy.'"
+      ],
+      "answer": "A",
+      "rationale": "Gloves stop scratching from damaging the skin. Large amounts of topical cream can cause toxicity, and a warm room worsens itching.",
+      "explanations": [
+        "Correct: prevents skin damage from scratching.",
+        "Excess cream risks toxicity.",
+        "Has no effect on itching.",
+        "Warmth worsens itching."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q780 (PDF p. 1010)",
+      "quote": "Gloves will keep the child from causing an alteration in skin integrity from scratching."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A 1-month-old is hospitalized with intussusception. Which measure BEST supports the parent-child relationship?",
+      "options": [
+        "Give the parents reading materials",
+        "Encourage the parents to room-in",
+        "Start home nutrition support",
+        "Advise the parents to rest at home"
+      ],
+      "answer": "B",
+      "rationale": "Rooming-in reduces separation anxiety and preserves the parent-child bond. Sending stressed parents home does not support the relationship.",
+      "explanations": [
+        "Helpful, but not psychosocial support.",
+        "Correct: keeps parent and child together.",
+        "Not usually needed.",
+        "Separates parent and infant."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q893 (PDF p. 1135)",
+      "quote": "Rooming-in is effective for reducing separation anxiety and preserving the parent–child relationship."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Before an infant boy's inguinal hernia repair, which parent comment needs follow-up teaching?",
+      "options": [
+        "'Surgery will repair the hernia.'",
+        "'He may not be able to father a child someday.'",
+        "'We'll give sponge baths after surgery.'",
+        "'He can go home the same day.'"
+      ],
+      "answer": "B",
+      "rationale": "The location of a hernia often worries parents more than the condition itself. The concern about future fertility is a misconception that needs follow-up.",
+      "explanations": [
+        "Accurate understanding.",
+        "Correct answer: a misconception to address.",
+        "Accurate understanding.",
+        "Accurate for most repairs."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q894 (PDF p. 1136)",
+      "quote": "The anatomical location of a hernia frequently causes more psychological concern to the parents than does the actual condition or treatment."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A mother says, 'I'm afraid my child will have another febrile seizure.' Which response is MOST therapeutic?",
+      "options": [
+        "'Tell me what frightens you most about seizures.'",
+        "'Paracetamol will prevent another seizure.'",
+        "'Most children never have a second one.'",
+        "'Don't worry; seizures are harmless.'"
+      ],
+      "answer": "A",
+      "rationale": "An open-ended statement lets the mother express her feelings. Promising that a seizure will not recur, or dismissing her fear, blocks communication.",
+      "explanations": [
+        "Correct: open-ended and therapeutic.",
+        "False reassurance.",
+        "False reassurance.",
+        "Dismisses her fear."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q931 (PDF p. 1175)",
+      "quote": "Option 1 is the only response that is an open-ended statement and that provides the mother with an opportunity to express her feelings."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "The mother of an infant with chalasia (reflux) says, 'I must be causing her to vomit.' How should the nurse interpret this?",
+      "options": [
+        "An unrealistic expectation of herself",
+        "Denial of the diagnosis",
+        "Lack of bonding with the baby",
+        "A sign of postpartum psychosis"
+      ],
+      "answer": "A",
+      "rationale": "The vomiting is caused by a physiological problem, not by the mother. Blaming herself is an unrealistic expectation that can lower her confidence as a parent, so the nurse helps her see she is not responsible.",
+      "explanations": [
+        "Correct: she wrongly blames herself.",
+        "She accepts the problem but blames herself.",
+        "Not supported by her statement.",
+        "Not supported by her statement."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q933 (PDF p. 1177)",
+      "quote": "The misconception that the mother is responsible for the problem is an unrealistic expectation of self"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A mother of a preschooler with impetigo says, 'But my children take baths every day.' Which response is MOST therapeutic?",
+      "options": [
+        "'You're concerned about how she got impetigo?'",
+        "'We won't tell the day care why she's absent.'",
+        "'Daily baths aren't enough for kids.'",
+        "'Impetigo comes from poor hygiene.'"
+      ],
+      "answer": "A",
+      "rationale": "Paraphrasing the mother's statement addresses her concern. The other responses make the parent feel guilty and block communication.",
+      "explanations": [
+        "Correct: paraphrasing her concern.",
+        "Implies something shameful.",
+        "Blames the mother.",
+        "Blames the mother."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q974 (PDF p. 1223)",
+      "quote": "By paraphrasing what the parent tells the nurse, the nurse is addressing the parent’s thoughts."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A mother and her infant have just tested HIV-positive, and the mother is crying. What should the nurse do FIRST?",
+      "options": [
+        "Ask how she was exposed to HIV",
+        "Sit quietly and listen as she talks and cries",
+        "Explain how HIV progresses",
+        "Call the HIV counselor right away"
+      ],
+      "answer": "B",
+      "rationale": "After devastating news, the client needs someone present as she begins to cope. The nurse sits with her and listens. Teaching and referral come later.",
+      "explanations": [
+        "Inappropriate at this stage.",
+        "Correct: presence and active listening.",
+        "Premature teaching.",
+        "Helpful later, but not her immediate need."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1020 (PDF p. 1293)",
+      "quote": "The nurse needs to sit and actively listen while the mother talks and cries."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which finding supports a diagnosis of irritable bowel syndrome in a child?",
+      "options": [
+        "Frothy diarrhea after milk",
+        "Foul-smelling ribbon-like stools",
+        "Profuse watery diarrhea with daily vomiting",
+        "Diffuse abdominal pain unrelated to meals"
+      ],
+      "answer": "D",
+      "rationale": "IBS causes diffuse abdominal pain unrelated to meals or activity, with alternating constipation and diarrhea. Frothy diarrhea suggests lactose intolerance; ribbon stools suggest Hirschsprung's disease.",
+      "explanations": [
+        "Suggests lactose intolerance.",
+        "Suggests Hirschsprung's disease.",
+        "Suggests celiac crisis or gastroenteritis.",
+        "Correct: typical of IBS."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1088 (PDF p. 1370)",
+      "quote": "Irritable bowel syndrome causes diffuse abdominal pain unrelated to meals or activity."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A child with rubeola (measles) has Koplik's spots. What does the nurse expect to see?",
+      "options": [
+        "Petechiae scattered on both legs",
+        "Whitish vesicles across the chest",
+        "Red spots on the soft palate",
+        "Blue-white spots inside the cheek"
+      ],
+      "answer": "D",
+      "rationale": "Koplik's spots appear about 2 days before the measles rash. They are small blue-white spots with a red base on the buccal mucosa, last about 3 days, and then slough off. Measles spreads by airborne particles.",
+      "explanations": [
+        "Not Koplik's spots.",
+        "Vesicles suggest varicella.",
+        "Describes Forchheimer spots.",
+        "Correct: classic Koplik's spots."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1089 (PDF p. 1372)",
+      "quote": "These are small, blue-white spots with a red base that are found on the buccal mucosa."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which finding is MOST typical of von Willebrand disease?",
+      "options": [
+        "Hematuria",
+        "Large hematomas",
+        "Bleeding into joints",
+        "Nosebleeds and gum bleeding"
+      ],
+      "answer": "D",
+      "rationale": "Von Willebrand disease mainly causes bruising and mucous membrane bleeding (nose, mouth, GI tract), and menorrhagia in females. Joint bleeding is typical of hemophilia.",
+      "explanations": [
+        "Less typical.",
+        "Less typical.",
+        "Typical of hemophilia.",
+        "Correct: mucous membrane bleeding."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1091 (PDF p. 1374)",
+      "quote": "The primary clinical manifestations of von Willebrand’s disease are bruising and mucous membrane bleeding from the nose, mouth, and gastrointestinal tract."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Ely, 7, fell from a mango tree and is admitted with a head injury.",
+      "stem": "The nurse documents that Ely is 'obtunded.' What did the nurse observe?",
+      "options": [
+        "He cannot think clearly or quickly",
+        "He does not recognize place or person",
+        "He sleeps unless aroused, with limited response",
+        "He responds only to vigorous pain"
+      ],
+      "answer": "C",
+      "rationale": "An obtunded child sleeps unless aroused and, when aroused, interacts little with the environment. The other options describe confusion, disorientation, and stupor.",
+      "explanations": [
+        "Describes confusion.",
+        "Describes disorientation.",
+        "Correct: the definition of obtunded.",
+        "Describes stupor."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1093 (PDF p. 1376)",
+      "quote": "If the child is obtunded, the child sleeps unless aroused and, when aroused, has limited interaction with the environment."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Ely, 7, fell from a mango tree and is admitted with a head injury.",
+      "stem": "A CT scan shows a basilar skull fracture, and the physician notes Battle's sign. What will the nurse observe?",
+      "options": [
+        "Bruising behind the ear",
+        "A nosebleed",
+        "Bruising around both eyes",
+        "Swelling of the eyelids"
+      ],
+      "answer": "A",
+      "rationale": "Battle's sign is bruising behind the ear from blood leaking into the mastoid sinuses. 'Raccoon eyes' (periorbital bruising) is the other classic sign of basilar fracture.",
+      "explanations": [
+        "Correct: mastoid ecchymosis.",
+        "Not Battle's sign.",
+        "That is 'raccoon eyes'.",
+        "Not Battle's sign."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1110 (PDF p. 1394)",
+      "quote": "Battle’s sign is the presence of bruising or ecchymosis behind the ear caused by a leaking of blood into the mastoid sinuses."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with kidney disease has a serum sodium of 148 mEq/L. Which finding does the nurse expect?",
+      "options": [
+        "Lethargy and sleepiness",
+        "Profuse sweating",
+        "Cold, wet, clammy skin",
+        "Dry, sticky mucous membranes"
+      ],
+      "answer": "D",
+      "rationale": "Hypernatremia (above 145 mEq/L) causes intense thirst, oliguria, agitation, flushed skin, edema, dry sticky mucous membranes, and nausea.",
+      "explanations": [
+        "Agitation is more typical.",
+        "Not associated.",
+        "Skin is flushed and dry.",
+        "Correct: a sign of hypernatremia."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1117 (PDF p. 1401)",
+      "quote": "Clinical manifestations include intense thirst, oliguria, agitation, restlessness, flushed skin, peripheral and pulmonary edema, dry and sticky mucous membranes"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which laboratory finding does the nurse expect in an infant with hemolytic disease of the newborn?",
+      "options": [
+        "Low bilirubin",
+        "High blood glucose",
+        "Low red blood cell count",
+        "Low white blood cell count"
+      ],
+      "answer": "C",
+      "rationale": "Hemolytic disease causes anemia (red cell production cannot keep up with destruction) and hyperbilirubinemia, made worse by the newborn liver's limited ability to process bilirubin.",
+      "explanations": [
+        "Bilirubin is elevated.",
+        "Not related.",
+        "Correct: anemia from hemolysis.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1118 (PDF p. 1402)",
+      "quote": "The two primary pathophysiological alterations associated with hemolytic disease are anemia and hyperbilirubinemia."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Bea, 5, has purpura and nosebleeds and is admitted for suspected idiopathic thrombocytopenic purpura (ITP).",
+      "stem": "Which laboratory result is consistent with ITP?",
+      "options": [
+        "An elevated platelet count",
+        "High hemoglobin and hematocrit",
+        "A platelet count below 20,000",
+        "A low white blood cell count"
+      ],
+      "answer": "C",
+      "rationale": "ITP shows a low platelet count (usually below 20,000/mm3) as the only expected abnormality. A bone marrow exam shows normal or increased megakaryocytes.",
+      "explanations": [
+        "Platelets are low.",
+        "Anemia occurs only with significant blood loss.",
+        "Correct: thrombocytopenia with marrow megakaryocytes.",
+        "Not expected."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1137 (PDF p. 1423)",
+      "quote": "Thrombocytopenia is the only laboratory abnormality expected with ITP."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Bea, 5, has purpura and nosebleeds and is admitted for suspected idiopathic thrombocytopenic purpura (ITP).",
+      "stem": "Bea is given IV immune globulin (IVIG). Which result shows the therapy is working?",
+      "options": [
+        "A rapid rise in the platelet count",
+        "A drop in the white cell count",
+        "A rise in hemoglobin only",
+        "Disappearance of fever"
+      ],
+      "answer": "A",
+      "rationale": "IVIG usually raises the platelet count quickly by interfering with the destruction of antibody-coated platelets by macrophages.",
+      "explanations": [
+        "Correct: the expected effect.",
+        "Not the intended effect.",
+        "Not the main measure.",
+        "Not related to ITP therapy."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1119 (PDF p. 1403)",
+      "quote": "IVIG is usually effective to rapidly increase the platelet count."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which urinalysis finding does the nurse expect in a child with acute poststreptococcal glomerulonephritis?",
+      "options": [
+        "Glucose with no protein",
+        "Clear urine with no red cells",
+        "Hematuria with red cell casts and protein",
+        "Large amounts of white cell casts only"
+      ],
+      "answer": "C",
+      "rationale": "Urinalysis in poststreptococcal glomerulonephritis shows hematuria with red cell casts and proteinuria. BUN and creatinine rise if renal insufficiency is severe.",
+      "explanations": [
+        "Glucose is unrelated.",
+        "Red cells are present.",
+        "Correct: classic urinalysis findings.",
+        "Not the characteristic finding."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1120 (PDF p. 1404)",
+      "quote": "a urinalysis will reveal hematuria with red cell casts. Proteinuria is also present."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which test primarily confirms bacterial endocarditis in a child with fever, malaise, and anorexia?",
+      "options": [
+        "Blood culture",
+        "Sedimentation rate",
+        "White blood cell count",
+        "Electrocardiogram"
+      ],
+      "answer": "A",
+      "rationale": "Diagnosis rests mainly on a positive blood culture and vegetations seen on echocardiography. ESR and CRP may support it, and the ECG is usually not helpful.",
+      "explanations": [
+        "Correct: identifies the organism.",
+        "Supportive only.",
+        "Not specific.",
+        "Not usually helpful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1121 (PDF p. 1405)",
+      "quote": "The diagnosis of bacterial endocarditis is primarily established on the basis of a positive blood culture"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "What is the PRIORITY problem for a child with juvenile idiopathic arthritis during a flare?",
+      "options": [
+        "Acute pain",
+        "Difficulty with daily tasks",
+        "Impaired mobility",
+        "Body image concerns"
+      ],
+      "answer": "A",
+      "rationale": "All of these problems apply, but acute pain must be managed before the others can be addressed.",
+      "explanations": [
+        "Correct: manage pain first.",
+        "Important, but secondary.",
+        "Important, but secondary.",
+        "Important, but secondary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1136 (PDF p. 1422)",
+      "quote": "acute pain must be managed before other problems can be addressed."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Baby Luis, 5 weeks old, has projectile vomiting after feedings that is getting more frequent and forceful.",
+      "stem": "The nurse sees peristaltic waves moving left to right across his abdomen. Which condition is suspected?",
+      "options": [
+        "Colic",
+        "Intussusception",
+        "Gastroesophageal reflux",
+        "Pyloric stenosis"
+      ],
+      "answer": "D",
+      "rationale": "Pyloric stenosis causes forceful, nonbilious vomiting, constipation, visible left-to-right peristaltic waves, and sometimes an olive-shaped mass in the right upper quadrant.",
+      "explanations": [
+        "Colicky infants eat well and gain weight.",
+        "Causes currant-jelly stools and pain.",
+        "Causes effortless regurgitation.",
+        "Correct: the classic findings."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1138 (PDF p. 1424)",
+      "quote": "visible peristaltic waves move from left to right across the abdomen."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Baby Luis, 5 weeks old, has projectile vomiting after feedings that is getting more frequent and forceful.",
+      "stem": "Luis is scheduled for pyloromyotomy. Which preoperative intervention is MOST important?",
+      "options": [
+        "Give enemas until returns are clear",
+        "Breastfeed him every 2 hours",
+        "Monitor IV fluids and intake/output",
+        "Encourage oral fluids freely"
+      ],
+      "answer": "C",
+      "rationale": "Before surgery the infant is usually NPO on IV fluids. The nurse monitors the IV, intake, output, weight, and urine specific gravity, and weighs diapers. Enemas would worsen fluid loss.",
+      "explanations": [
+        "Worsens fluid volume deficit.",
+        "Infant is usually kept NPO preoperatively.",
+        "Correct: fluid balance monitoring.",
+        "Oral intake is withheld."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1159 (PDF p. 1446)",
+      "quote": "monitoring the IV infusion, intake, output, and weight and obtaining urine specific gravity measurements."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which cerebrospinal fluid result MOST supports bacterial meningitis?",
+      "options": [
+        "Clear, with low protein and low glucose",
+        "Cloudy, with low protein and low glucose",
+        "Cloudy, with high protein and low glucose",
+        "Clear, with high glucose"
+      ],
+      "answer": "C",
+      "rationale": "Bacterial meningitis shows increased pressure and cloudy CSF with high protein and low glucose, because bacteria consume glucose.",
+      "explanations": [
+        "Not typical of bacterial infection.",
+        "Protein is elevated, not low.",
+        "Correct: the classic bacterial pattern.",
+        "Not typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1139 (PDF p. 1425)",
+      "quote": "findings usually include increased pressure and cloudy CSF with high protein and low glucose."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A teacher reports that an alert, attentive 7-year-old often stares into space for a few seconds, then resumes activity. What should the nurse suspect?",
+      "options": [
+        "School phobia",
+        "Absence seizures",
+        "Attention deficit disorder",
+        "Visual impairment"
+      ],
+      "answer": "B",
+      "rationale": "Absence seizures are brief (5 to 10 seconds) arrests of activity with a blank stare and loss of awareness. The child keeps their posture and resumes the activity as if nothing happened.",
+      "explanations": [
+        "Presents with physical complaints before school.",
+        "Correct: classic absence seizures.",
+        "Not brief staring spells with loss of awareness.",
+        "Not consistent with the episodes."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1141 (PDF p. 1427)",
+      "quote": "They consist of a sudden, brief (usually 5 to 10 seconds) arrest of the child’s motor activities accompanied by a blank stare and a loss of awareness."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A newborn has bilateral clubfoot. Which information should the nurse include in parent teaching?",
+      "options": [
+        "Casting cures every case of clubfoot",
+        "Surgery is done in the first week of life",
+        "Casting starts at birth and lasts at least 12 weeks",
+        "Treatment waits until the child walks"
+      ],
+      "answer": "C",
+      "rationale": "Casting begins at birth and continues for at least 12 weeks or until maximum correction. Corrective shoes or surgery (usually at 4 to 12 months) may follow.",
+      "explanations": [
+        "Not effective in all cases.",
+        "Surgery is usually delayed until 4 to 12 months.",
+        "Correct: early, continued casting.",
+        "Treatment begins at birth."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1154 (PDF p. 1441)",
+      "quote": "For the infant with clubfoot, casting should begin at birth and continue for at least 12 weeks or until maximum correction is achieved."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "An infant is admitted with pertussis. Which problem is the nurse's PRIORITY?",
+      "options": [
+        "Risk of spreading the infection",
+        "Fluid volume overload",
+        "Disturbed sleep pattern",
+        "Airway clearance problems"
+      ],
+      "answer": "D",
+      "rationale": "Copious, thick secretions in an infant's small airways make air exchange the priority. Fluid volume deficit, not overload, is more likely because of secretions and vomiting.",
+      "explanations": [
+        "Important, but airway comes first.",
+        "Deficit is more likely.",
+        "Secondary.",
+        "Correct: airway clearance is the priority."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1158 (PDF p. 1445)",
+      "quote": "The priority problem for the child with pertussis relates to adequate air exchange."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A mother asks what 'carditis' means in her child with rheumatic fever. The nurse explains that carditis is:",
+      "options": [
+        "Involuntary movements of the face and limbs",
+        "Inflammation of the heart, mainly the mitral valve",
+        "Painful swelling of several large joints",
+        "A pink, ring-shaped rash on the trunk"
+      ],
+      "answer": "B",
+      "rationale": "Carditis is inflammation of all parts of the heart, mainly the mitral valve. Chorea, polyarthritis, and erythema marginatum are other manifestations.",
+      "explanations": [
+        "Describes chorea.",
+        "Correct: inflammation of the heart.",
+        "Describes polyarthritis.",
+        "Describes erythema marginatum."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1161 (PDF p. 1448)",
+      "quote": "Carditis is the inflammation of all parts of the heart, primarily the mitral valve"
+    }
+  ]
+}

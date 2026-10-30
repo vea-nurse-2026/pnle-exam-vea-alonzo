@@ -1,0 +1,461 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A food vendor harbors Salmonella typhi and can spread it but has no symptoms. What is she?",
+      "options": [
+        "A contact",
+        "A carrier",
+        "A host only",
+        "A reservoir plant"
+      ],
+      "answer": "B",
+      "rationale": "A carrier harbors the organism and can transmit it to a susceptible host without showing signs of the disease. A contact is someone in close association with an infected person.",
+      "explanations": [
+        "Exposed person.",
+        "Correct: carrier.",
+        "Incomplete.",
+        "Not applicable."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Communicable Disease Terminologies (PDF p. 142)",
+      "quote": "An individual who harbors the organism and is capable of transmitting it to a susceptible host without showing manifestations of the disease."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "The nurse disinfects a patient's sputum cup right after he coughs into it while he is still infectious. This is:",
+      "options": [
+        "Terminal disinfection",
+        "Concurrent disinfection",
+        "Sterilization",
+        "Quarantine"
+      ],
+      "answer": "B",
+      "rationale": "Concurrent disinfection is done immediately after the infected person discharges infectious material, while the patient is still the source of infection. Terminal disinfection is done after discharge.",
+      "explanations": [
+        "After discharge.",
+        "Correct: concurrent.",
+        "Kills all organisms.",
+        "Limits movement."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Communicable Disease Terminologies (PDF p. 142)",
+      "quote": "Method of disinfection when the patient is still the source of infection."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Exposed persons have their movement limited for the longest incubation period of the disease. This is:",
+      "options": [
+        "Isolation",
+        "Quarantine",
+        "Concurrent disinfection",
+        "Surveillance"
+      ],
+      "answer": "B",
+      "rationale": "Quarantine limits the movement of exposed persons or animals for the longest incubation period. Isolation separates infected persons during the period of communicability.",
+      "explanations": [
+        "For infected persons.",
+        "Correct: quarantine.",
+        "Disinfection method.",
+        "Monitoring."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Communicable Disease Terminologies (PDF p. 142)",
+      "quote": "for a period of time equivalent to the longest incubation period of that disease."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Schistosomiasis is always present at a fairly constant level in Leyte and Samar. This pattern is:",
+      "options": [
+        "Sporadic",
+        "Endemic",
+        "Epidemic",
+        "Pandemic"
+      ],
+      "answer": "B",
+      "rationale": "Endemic means continuous occurrence of the usual number of cases in a locality, such as schistosomiasis in Leyte and Samar, filariasis in Sorsogon, and malaria in Palawan.",
+      "explanations": [
+        "Few scattered cases.",
+        "Correct: endemic.",
+        "Unusually many cases.",
+        "Many countries."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Patterns of Occurrence (PDF p. 143)",
+      "quote": "Schistosomiasis (Leyte & Samar)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "A town has a few isolated, unrelated rabies cases this year. Which pattern is this?",
+      "options": [
+        "Sporadic",
+        "Endemic",
+        "Epidemic",
+        "Pandemic"
+      ],
+      "answer": "A",
+      "rationale": "Sporadic occurrence is the intermittent appearance of a few isolated, unrelated cases in a locality, such as rabies.",
+      "explanations": [
+        "Correct: sporadic.",
+        "Constant presence.",
+        "Sudden excess.",
+        "Several countries."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Patterns of Occurrence (PDF p. 143)",
+      "quote": "Intermittent occurrence of a few isolated and unrelated cases in a given locality."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which link in the chain of infection is the EASIEST to break?",
+      "options": [
+        "Causative agent",
+        "Reservoir",
+        "Mode of transmission",
+        "Susceptible host"
+      ],
+      "answer": "C",
+      "rationale": "The mode of transmission is the easiest link to break, for example through handwashing and barriers. Contact is the most common mode.",
+      "explanations": [
+        "Harder to remove.",
+        "Harder to remove.",
+        "Correct: easiest link.",
+        "Requires immunity."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Chain of Infection (PDF p. 143)",
+      "quote": "Easiest link to break the chain of infection"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Droplet transmission is generally limited to what distance?",
+      "options": [
+        "Within 3 feet",
+        "Within 10 feet",
+        "Within 25 feet",
+        "Unlimited"
+      ],
+      "answer": "A",
+      "rationale": "Droplet spread from coughing, sneezing, or talking is limited to about 3 feet. Airborne particles stay suspended and travel farther.",
+      "explanations": [
+        "Correct: about 3 feet.",
+        "Airborne range.",
+        "Airborne range.",
+        "Airborne."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Mode of Transmission (PDF p. 144)",
+      "quote": "Transmission is limited within 3 feet."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A newborn has antibodies received through the placenta. Which type of immunity is this?",
+      "options": [
+        "Natural active",
+        "Natural passive",
+        "Artificial active",
+        "Artificial passive"
+      ],
+      "answer": "B",
+      "rationale": "Natural passive immunity is acquired through placental transfer. Natural active comes from recovering from disease.",
+      "explanations": [
+        "From recovery.",
+        "Correct: placental transfer.",
+        "From vaccines.",
+        "From immunoglobulin."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Immunity (PDF p. 144)",
+      "quote": "Acquired through placental transfer"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A dog-bite victim receives rabies immunoglobulin. Which type of immunity does this give?",
+      "options": [
+        "Natural active",
+        "Natural passive",
+        "Artificial active",
+        "Artificial passive"
+      ],
+      "answer": "D",
+      "rationale": "Artificial passive immunity comes from antitoxin, antiserum, convalescent serum, or immunoglobulins. Vaccines and toxoids give artificial active immunity.",
+      "explanations": [
+        "From recovery.",
+        "From the placenta.",
+        "From vaccines.",
+        "Correct: immunoglobulin."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Immunity (PDF p. 144)",
+      "quote": "Acquired through the administration of antitoxin, antiserum, convalescent serum, and immunoglobulins"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which is true of attenuated (live, weakened) vaccines compared with inactivated ones?",
+      "options": [
+        "Need many boosters",
+        "Give long-lasting immunity",
+        "Are never given to children",
+        "Contain killed organisms"
+      ],
+      "answer": "B",
+      "rationale": "Attenuated vaccines usually need a single dose and give long-lasting immunity. Inactivated vaccines need multiple doses and boosters.",
+      "explanations": [
+        "Inactivated vaccines.",
+        "Correct: long-lasting.",
+        "Widely used in children.",
+        "Inactivated vaccines."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Type of Antigen (PDF p. 144)",
+      "quote": "Long lasting immunity"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A client on chemotherapy is placed in a room to protect HIM from infection. Which isolation is this?",
+      "options": [
+        "Strict isolation",
+        "Enteric isolation",
+        "Reverse (neutropenic) isolation",
+        "Respiratory isolation"
+      ],
+      "answer": "C",
+      "rationale": "Reverse or neutropenic isolation separates an immunocompromised client to prevent him from getting an infection from the environment.",
+      "explanations": [
+        "Protects others.",
+        "For fecal spread.",
+        "Correct: protects the client.",
+        "Protects others."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Isolation (PDF p. 145)",
+      "quote": "An immunocompromised client is separated to prevent contracting infection from environment."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which statement about transmission-based precautions is correct?",
+      "options": [
+        "They replace standard precautions",
+        "They are the second tier of precautions",
+        "They apply to all patients",
+        "There is only one type"
+      ],
+      "answer": "B",
+      "rationale": "Transmission-based precautions are the second tier, added to standard precautions for highly contagious patients. The three types are contact, airborne, and droplet.",
+      "explanations": [
+        "They are added on.",
+        "Correct: second tier.",
+        "Standard applies to all.",
+        "There are three."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Isolation (PDF p. 145)",
+      "quote": "Second Tier of precaution"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A pregnant woman with no history of chickenpox was exposed. Within how many days should VZIG be given?",
+      "options": [
+        "2 days",
+        "10 days",
+        "21 days",
+        "30 days"
+      ],
+      "answer": "B",
+      "rationale": "Varicella-zoster immune globulin (VZIG) should be given within 10 days of exposure.",
+      "explanations": [
+        "Earlier is fine but not the limit.",
+        "Correct: within 10 days.",
+        "Too late.",
+        "Too late."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Chicken Pox (PDF p. 146)",
+      "quote": "It should be given within 10 days of exposure"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which statement about chickenpox scabs is correct?",
+      "options": [
+        "They are highly infective",
+        "They are not infective",
+        "They spread disease for months",
+        "They must be burned"
+      ],
+      "answer": "B",
+      "rationale": "The main source is respiratory secretions; lesions are of little consequence, and scabs are not infective.",
+      "explanations": [
+        "Not true.",
+        "Correct: not infective.",
+        "Not true.",
+        "Not required."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Chicken Pox (PDF p. 145)",
+      "quote": "Scabs are not infective"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Bea, 4, has measles. She has fever, cough, coryza, and conjunctivitis.",
+      "stem": "During the pre-eruptive stage, the nurse sees a red line on Bea's lower conjunctiva. What is this?",
+      "options": [
+        "Koplik spots",
+        "Stimson's line",
+        "Forchheimer spots",
+        "Pastia's lines"
+      ],
+      "answer": "B",
+      "rationale": "Stimson's line, a red line on the lower conjunctiva, appears in the pre-eruptive stage of measles along with fever, catarrhal symptoms, and photophobia.",
+      "explanations": [
+        "White spots in the mouth.",
+        "Correct: Stimson's line.",
+        "German measles.",
+        "Scarlet fever."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Measles (PDF p. 146)",
+      "quote": "Stimson’s line (red line on the lower conjunctiva)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Bea, 4, has measles. She has fever, cough, coryza, and conjunctivitis.",
+      "stem": "Bea is sensitive to light. Which nursing care is appropriate?",
+      "options": [
+        "Keep the room bright",
+        "Dim the lights",
+        "Patch both eyes",
+        "Give eye drops hourly"
+      ],
+      "answer": "B",
+      "rationale": "Measles causes photophobia, so eye care includes protecting the child from bright light.",
+      "explanations": [
+        "Worsens photophobia.",
+        "Correct: eases photophobia.",
+        "Not needed.",
+        "Not ordered."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Measles (PDF p. 147)",
+      "quote": "Eye care (photosensitivity)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Bea, 4, has measles. She has fever, cough, coryza, and conjunctivitis.",
+      "stem": "Which precautions should the nurse use for Bea?",
+      "options": [
+        "Contact only",
+        "Standard and airborne",
+        "Enteric",
+        "Reverse isolation"
+      ],
+      "answer": "B",
+      "rationale": "Measles is airborne, so standard and airborne precautions are used, ideally in a negative-pressure room.",
+      "explanations": [
+        "Not enough.",
+        "Correct: airborne.",
+        "For fecal spread.",
+        "Protects the client."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Measles (PDF p. 147)",
+      "quote": "Maintain standard and airborne precautions."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Bea, 4, has measles. She has fever, cough, coryza, and conjunctivitis.",
+      "stem": "Which complication of measles should the nurse watch for MOST in Bea?",
+      "options": [
+        "Bronchopneumonia",
+        "Appendicitis",
+        "Diabetes",
+        "Hepatitis"
+      ],
+      "answer": "A",
+      "rationale": "Complications of measles include bronchopneumonia, otitis media, pneumonia, nephritis, and encephalitis.",
+      "explanations": [
+        "Correct: a complication.",
+        "Not related.",
+        "Not related.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Measles (PDF p. 147)",
+      "quote": "Bronchopneumonia"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "For which person is measles vaccine contraindicated?",
+      "options": [
+        "A 9-month-old infant",
+        "A pregnant woman",
+        "A healthy school child",
+        "A health worker"
+      ],
+      "answer": "B",
+      "rationale": "Measles vaccine is not given to pregnant women or to people with active TB, leukemia, lymphoma, or depressed immunity.",
+      "explanations": [
+        "Routine age.",
+        "Correct: contraindicated.",
+        "Eligible.",
+        "Eligible."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Measles (PDF p. 147)",
+      "quote": "Measles vaccine should not be given to pregnant women"
+    }
+  ]
+}

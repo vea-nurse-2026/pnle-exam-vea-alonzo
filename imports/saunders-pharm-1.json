@@ -1,0 +1,701 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with myasthenia gravis is started on pyridostigmine. Which side effect should the nurse ask the client about?",
+      "options": [
+        "Mouth ulcers",
+        "Muscle cramps",
+        "Feelings of depression",
+        "Unexplained weight gain"
+      ],
+      "answer": "B",
+      "rationale": "Pyridostigmine inhibits acetylcholinesterase. Overstimulation of neuromuscular receptors causes muscle cramps and small muscle contractions.",
+      "explanations": [
+        "Not associated with pyridostigmine.",
+        "Correct: cholinergic overstimulation causes cramps.",
+        "Not associated with pyridostigmine.",
+        "Not associated with pyridostigmine."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q8 (PDF p. 145)",
+      "quote": "Muscle cramps and small muscle contractions are side effects and occur as a result of overstimulation of neuromuscular receptors."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client with depression is prescribed tranylcypromine, an MAO inhibitor. Which food should the nurse teach the client to avoid?",
+      "options": [
+        "Fresh apples",
+        "Steamed broccoli",
+        "Aged cheese",
+        "Baked chicken"
+      ],
+      "answer": "C",
+      "rationale": "MAO inhibitors can cause a hypertensive crisis with tyramine-rich foods: aged cheeses, figs, bananas, sauerkraut, avocados, soybeans, and fermented, smoked, or aged meats and fish.",
+      "explanations": [
+        "Apples are low in tyramine.",
+        "Broccoli is low in tyramine.",
+        "Correct: aged cheese is high in tyramine.",
+        "Fresh, unaged meat is acceptable."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q12 (PDF p. 150)",
+      "quote": "Foods that contain tyramine need to be avoided because of the risk of hypertensive crisis associated with use of this medication."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client with Pneumocystis jiroveci pneumonia is to receive IV pentamidine. How should the nurse give it safely?",
+      "options": [
+        "Over 1 hour with the client ambulating",
+        "Over 1 hour with the client lying supine",
+        "As a 5-minute IV push with the client seated",
+        "Over 4 hours with the client in high Fowler's"
+      ],
+      "answer": "B",
+      "rationale": "Pentamidine is infused over 1 hour with the client supine to reduce the risk of severe hypotension and dysrhythmias. BP and cardiac rhythm are monitored.",
+      "explanations": [
+        "Ambulating risks a fall from hypotension.",
+        "Correct: infuse over 1 hour, client supine.",
+        "Rapid infusion worsens hypotension.",
+        "Incorrect duration and position."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q17 (PDF p. 155)",
+      "quote": "IV pentamidine is an antifungal medication infused over 1 hour with the client supine to minimize severe hypotension and dysrhythmias."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client takes sotalol 80 mg twice daily. Which finding suggests an ADVERSE effect of the drug?",
+      "options": [
+        "Dry mouth",
+        "Diaphoresis",
+        "Difficulty swallowing",
+        "Palpitations"
+      ],
+      "answer": "D",
+      "rationale": "Sotalol is a beta blocker. Adverse effects include palpitations, bradycardia, irregular heartbeat, difficulty breathing, signs of heart failure, and cold hands and feet.",
+      "explanations": [
+        "Not an adverse effect of sotalol.",
+        "Not an adverse effect of sotalol.",
+        "Not an adverse effect of sotalol.",
+        "Correct: palpitations signal a cardiac adverse effect."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q20 (PDF p. 158)",
+      "quote": "Adverse effects include palpitations, bradycardia, an irregular heartbeat, difficulty breathing, signs of heart failure, and cold hands and feet."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "Mr. Reyes, 50, had a liver transplant 3 months ago. He is on immunosuppressants to prevent organ rejection and comes to the transplant clinic for follow-up.",
+      "stem": "He takes tacrolimus daily. Which finding suggests an ADVERSE effect of the drug?",
+      "options": [
+        "Hypotension",
+        "Photophobia",
+        "Decreasing urine output",
+        "Profuse sweating"
+      ],
+      "answer": "C",
+      "rationale": "Tacrolimus can cause nephrotoxicity, shown by rising serum creatinine and decreasing urine output, as well as pleural effusion. Hypertension, not hypotension, is a common side effect.",
+      "explanations": [
+        "Tacrolimus tends to cause hypertension.",
+        "Not associated with tacrolimus.",
+        "Correct: a sign of nephrotoxicity.",
+        "Not associated with tacrolimus."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q22 (PDF p. 161)",
+      "quote": "Nephrotoxicity is characterized by an increasing serum creatinine level and a decrease in urine output."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "Mr. Reyes, 50, had a liver transplant 3 months ago. He is on immunosuppressants to prevent organ rejection and comes to the transplant clinic for follow-up.",
+      "stem": "He is also on cyclosporine. Which laboratory finding is an adverse effect of cyclosporine?",
+      "options": [
+        "Hyperkalemia",
+        "Hypoglycemia",
+        "Low serum creatinine",
+        "Hypercalcemia"
+      ],
+      "answer": "A",
+      "rationale": "Cyclosporine adverse effects include nephrotoxicity, hepatotoxicity, infection, hypertension, tremor, hirsutism, hypomagnesemia, hyperkalemia, and hyperglycemia.",
+      "explanations": [
+        "Correct: hyperkalemia can occur with cyclosporine.",
+        "Cyclosporine causes hyperglycemia, not hypoglycemia.",
+        "Nephrotoxicity raises creatinine.",
+        "Not a listed effect."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q100 (PDF p. 249)",
+      "quote": "Additionally, neurotoxicity, gastrointestinal effects, hyperkalemia, and hyperglycemia can occur."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client on torsemide, a loop diuretic, has new lab results. Which value suggests an adverse effect of the drug?",
+      "options": [
+        "Chloride 98 mEq/L",
+        "Sodium 135 mEq/L",
+        "Potassium 3.1 mEq/L",
+        "Magnesium 2.0 mg/dL"
+      ],
+      "answer": "C",
+      "rationale": "Loop diuretics can cause profound water and electrolyte loss. Normal potassium is 3.5 to 5.0 mEq/L, so 3.1 mEq/L shows depletion. The other values are within normal limits.",
+      "explanations": [
+        "Within the normal range (98 to 107).",
+        "At the low end of normal.",
+        "Correct: hypokalemia from diuresis.",
+        "Within the normal range."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q32 (PDF p. 171)",
+      "quote": "the normal potassium level is 3.5 to 5.0 mEq/L (3.5 to 5.0 mmol/L)."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client is receiving IV tobramycin every 8 hours. Which finding should the nurse report as a possible adverse effect?",
+      "options": [
+        "Total bilirubin of 0.5 mg/dL",
+        "Rising BUN and serum creatinine",
+        "ESR of 15 mm/hour",
+        "WBC of 7,000/mm3"
+      ],
+      "answer": "B",
+      "rationale": "Aminoglycosides are nephrotoxic (rising BUN and creatinine), ototoxic (tinnitus, hearing loss), and neurotoxic.",
+      "explanations": [
+        "A normal bilirubin.",
+        "Correct: signs of nephrotoxicity.",
+        "A normal ESR.",
+        "A normal WBC count."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q50 (PDF p. 190)",
+      "quote": "nephrotoxicity as evidenced by an increased BUN and serum creatinine; irreversible ototoxicity"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client has taken a calcium channel blocker for hypertension for 2 months. Which finding suggests drug tolerance has developed?",
+      "options": [
+        "Weight loss",
+        "Increased joint pain",
+        "Output greater than intake",
+        "Gradually rising blood pressure"
+      ],
+      "answer": "D",
+      "rationale": "Tolerance to an antihypertensive shows as rising blood pressure readings despite therapy. The provider may adjust the dose, change the drug, or add a diuretic.",
+      "explanations": [
+        "Not a sign of tolerance.",
+        "Unrelated to the drug.",
+        "Not a sign of tolerance.",
+        "Correct: rising BP despite therapy shows tolerance."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q55 (PDF p. 196)",
+      "quote": "Drug tolerance can develop in a client taking an antihypertensive such as a calcium channel blocker, which is evident by rising blood pressure levels."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Before giving hydroxyzine by intramuscular injection, what should the nurse tell the client?",
+      "options": [
+        "'It may cause excessive salivation.'",
+        "'Nausea will be relieved within 5 minutes.'",
+        "'You may feel some pain at the injection site.'",
+        "'It may make you very agitated.'"
+      ],
+      "answer": "C",
+      "rationale": "Hydroxyzine is an antiemetic and sedative. The IM injection can be painful. It causes dry mouth and drowsiness, and IM drugs take about 20 to 30 minutes to work.",
+      "explanations": [
+        "It causes dry mouth, not salivation.",
+        "IM onset is about 20 to 30 minutes.",
+        "Correct: the injection can be painful.",
+        "It causes drowsiness, not agitation."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q70 (PDF p. 215)",
+      "quote": "The injection can be painful. Hydroxyzine causes dry mouth and drowsiness as side effects."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A child is brought to the emergency room after swallowing many paracetamol (acetaminophen) tablets. Which antidote does the nurse prepare?",
+      "options": [
+        "Acetylcysteine",
+        "Vitamin K",
+        "Protamine sulfate",
+        "Succimer"
+      ],
+      "answer": "A",
+      "rationale": "Acetylcysteine is the antidote for acetaminophen overdose. Vitamin K reverses warfarin, protamine reverses heparin, and succimer treats lead poisoning.",
+      "explanations": [
+        "Correct: the antidote for acetaminophen.",
+        "Vitamin K is the antidote for warfarin.",
+        "Protamine is the antidote for heparin.",
+        "Succimer treats lead poisoning."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q75 (PDF p. 220)",
+      "quote": "Acetylcysteine is the antidote for acetaminophen overdose."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "IV potassium chloride is prescribed for a client with hypokalemia. Which action is correct?",
+      "options": [
+        "Give it as a slow IV push",
+        "Dilute it and give it by infusion pump",
+        "Use a filter in the IV line",
+        "Apply cold compresses to the IV site"
+      ],
+      "answer": "B",
+      "rationale": "Potassium chloride irritates veins and must be diluted and given with an infusion pump. It is never given by IV push or bolus, which can cause cardiac arrest.",
+      "explanations": [
+        "Never give potassium by push; it can cause cardiac arrest.",
+        "Correct: dilute and use a pump.",
+        "A filter is not needed for potassium.",
+        "Cold constricts the vein and adds irritation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q110 (PDF p. 259)",
+      "quote": "Potassium chloride is never administered as a bolus injection because it can cause cardiac arrest."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Ondansetron is prescribed for a client receiving chemotherapy. By which route does the nurse expect it to be given for chemotherapy-induced nausea?",
+      "options": [
+        "Intranasal",
+        "Subcutaneous",
+        "Topical",
+        "Intravenous"
+      ],
+      "answer": "D",
+      "rationale": "Ondansetron comes in oral, IM, and IV forms. The IV route is used for nausea relief in clients receiving chemotherapy.",
+      "explanations": [
+        "Not an available route.",
+        "Not an available route.",
+        "Not an available route.",
+        "Correct: IV for chemotherapy-induced nausea."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q125 (PDF p. 275)",
+      "quote": "The IV route is the route used when relief of nausea is needed in the client receiving chemotherapy."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "Aling Joy, G2P1 at 35 weeks, is admitted with severe preeclampsia and started on a magnesium sulfate infusion.",
+      "stem": "Which medication must the nurse keep at the bedside during the infusion?",
+      "options": [
+        "Calcium gluconate",
+        "Naloxone",
+        "Oxytocin",
+        "Protamine sulfate"
+      ],
+      "answer": "A",
+      "rationale": "Calcium gluconate is the antidote for magnesium sulfate toxicity and is kept at the bedside throughout the infusion.",
+      "explanations": [
+        "Correct: the antidote for magnesium toxicity.",
+        "Naloxone reverses opioids.",
+        "Oxytocin stimulates contractions; it is not an antidote.",
+        "Protamine reverses heparin."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q141 (PDF p. 291)",
+      "quote": "Calcium gluconate is the antidote to magnesium sulfate."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "Aling Joy, G2P1 at 35 weeks, is admitted with severe preeclampsia and started on a magnesium sulfate infusion.",
+      "stem": "Why should the nurse check Aling Joy often for signs of labor while she is on magnesium sulfate?",
+      "options": [
+        "Magnesium stimulates strong contractions",
+        "Magnesium raises the risk of infection",
+        "Its sedative effect may keep her from noticing labor",
+        "Labor always starts within hours of the drug"
+      ],
+      "answer": "C",
+      "rationale": "Magnesium sulfate is a CNS depressant and anticonvulsant. Its sedative effect may keep the client from perceiving labor, so the nurse checks for signs of labor.",
+      "explanations": [
+        "Magnesium relaxes, rather than stimulates, the uterus.",
+        "Infection risk is not increased by this drug.",
+        "Correct: sedation can mask the onset of labor.",
+        "Labor onset is not predictable from the drug."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q141 (PDF p. 291)",
+      "quote": "Because of the sedative effect of the magnesium sulfate, the client may not perceive labor."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which finding is a common dose-related side effect of beta-adrenergic blockers?",
+      "options": [
+        "Reflex tachycardia",
+        "Bradycardia",
+        "Hypertension",
+        "Increased energy"
+      ],
+      "answer": "B",
+      "rationale": "Dose-related side effects of beta blockers include dizziness from hypotension, bradycardia, and sexual dysfunction.",
+      "explanations": [
+        "Beta blockers slow the heart.",
+        "Correct: a common dose-related effect.",
+        "Beta blockers lower blood pressure.",
+        "Fatigue, not more energy, is common."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q156 (PDF p. 306)",
+      "quote": "Side effects commonly associated with beta blockers are usually dose related and include dizziness (hypotensive effect), bradycardia, hypotension, and sexual dysfunction"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with chronic kidney disease is started on epoetin alfa. Which supplement is needed for the drug to work fully?",
+      "options": [
+        "Zinc",
+        "Calcium",
+        "Iron",
+        "Magnesium"
+      ],
+      "answer": "C",
+      "rationale": "Epoetin stimulates red cell production, which needs iron. Without iron the client does not get the full benefit. Hypertension is a side effect of epoetin.",
+      "explanations": [
+        "Not required for red cell production.",
+        "Not required for red cell production.",
+        "Correct: iron is needed to make red cells.",
+        "Not required for red cell production."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q190 (PDF p. 344)",
+      "quote": "Iron is needed for RBC production; otherwise, the body cannot produce sufficient erythrocytes."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client suddenly stopped long-term benzodiazepine therapy. Which findings of withdrawal should the nurse expect?",
+      "options": [
+        "Lethargy and muscle weakness",
+        "Tremors, sweating, and agitation",
+        "Constricted pupils and slow breathing",
+        "Excessive sleepiness and low blood pressure"
+      ],
+      "answer": "B",
+      "rationale": "Benzodiazepine withdrawal causes tremor, sweating, agitation, nervousness, insomnia, anorexia, and cramps. After high-dose use it can progress to delirium, hypertension, and seizures.",
+      "explanations": [
+        "Lethargy is not part of withdrawal.",
+        "Correct: typical withdrawal signs.",
+        "These suggest opioid toxicity.",
+        "Withdrawal causes insomnia and hypertension."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q195 (PDF p. 349)",
+      "quote": "Withdrawal symptoms include tremor, sweating, agitation, nervousness, insomnia, anorexia, and muscular cramps."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client asks why the first dose of prazosin must be taken at bedtime. The nurse explains that the first dose may cause:",
+      "options": [
+        "Severe insomnia during the night",
+        "Sudden dizziness or fainting from low BP",
+        "Physical dependence on the drug",
+        "Frequent urination during the night"
+      ],
+      "answer": "B",
+      "rationale": "Prazosin, an alpha blocker, can cause a 'first-dose' hypotensive reaction with dizziness, lightheadedness, and possible fainting. It is better tolerated if the client is already in bed.",
+      "explanations": [
+        "Not the reason for bedtime dosing.",
+        "Correct: first-dose hypotension.",
+        "Prazosin does not cause dependence.",
+        "Not the reason for bedtime dosing."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q208 (PDF p. 363)",
+      "quote": "“First-dose hypotensive reaction” may occur during early therapy, which is characterized by dizziness, lightheadedness, and possible loss of consciousness."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Furosemide 40 mg IV is given to a client with dyspnea from pulmonary congestion. One hour later, which finding BEST shows the drug achieved its purpose?",
+      "options": [
+        "Lungs are clear on auscultation",
+        "Urine output increased by 400 mL",
+        "Blood pressure dropped slightly",
+        "Weight decreased by 0.5 kg"
+      ],
+      "answer": "A",
+      "rationale": "Here furosemide was given to reduce preload and relieve pulmonary congestion. Clear lungs show that purpose was met; more urine is expected but is not the goal itself.",
+      "explanations": [
+        "Correct: shows the congestion has resolved.",
+        "Expected, but not the therapeutic goal.",
+        "Not the goal of the therapy.",
+        "Not the goal of the therapy."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q215 (PDF p. 370)",
+      "quote": "it was given to decrease preload and reduce the pulmonary congestion and associated difficulty in breathing."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "During an IV amphotericin B infusion for histoplasmosis, the nurse should monitor closely for:",
+      "options": [
+        "Fever, chills, and less urine",
+        "Bradycardia and high blood pressure",
+        "A sudden large increase in urine",
+        "Low blood sugar with sweating"
+      ],
+      "answer": "A",
+      "rationale": "Amphotericin B is toxic. It can cause chills, fever, headache, vomiting, and impaired renal function (decreased urine output) during infusion, and it irritates veins, often causing thrombophlebitis.",
+      "explanations": [
+        "Correct: infusion reactions and nephrotoxicity.",
+        "Not typical of amphotericin B.",
+        "Renal impairment decreases urine output.",
+        "Not typical of amphotericin B."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q233 (PDF p. 388)",
+      "quote": "can produce symptoms during administration such as chills, fever (hyperthermia), headache, vomiting, and impaired renal function"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client on hemodialysis takes enalapril daily. When should the nurse give the dose on a dialysis day?",
+      "options": [
+        "During dialysis",
+        "Just before dialysis",
+        "The day after dialysis",
+        "After returning from dialysis"
+      ],
+      "answer": "D",
+      "rationale": "Antihypertensives are given after hemodialysis. This prevents hypotension during dialysis and prevents the drug from being removed by dialysis.",
+      "explanations": [
+        "Risks hypotension, and the drug is dialyzed out.",
+        "Risks hypotension, and the drug is dialyzed out.",
+        "Skipping a day leaves BP uncontrolled.",
+        "Correct: give it after dialysis."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q257 (PDF p. 414)",
+      "quote": "Antihypertensive medications, such as enalapril, are administered to the client after hemodialysis."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client on a thiazide diuretic is monitored for hypokalemia. Which ECG finding is expected?",
+      "options": [
+        "Tall, peaked T waves",
+        "Widened QRS complex only",
+        "Prominent U wave",
+        "Shortened QT interval"
+      ],
+      "answer": "C",
+      "rationale": "Hypokalemia (below 3.5 mEq/L) causes ST depression, inverted T waves, a prominent U wave, and heart block, plus hyporeflexia, muscle weakness, and hypoactive bowel sounds.",
+      "explanations": [
+        "Peaked T waves indicate hyperkalemia.",
+        "Not the characteristic finding.",
+        "Correct: a classic sign of hypokalemia.",
+        "Not associated with hypokalemia."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q268 (PDF p. 425)",
+      "quote": "ECG abnormalities such as ST depression, inverted T wave, prominent U wave, and heart block."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Before giving procainamide, an antidysrhythmic, what should the nurse do FIRST?",
+      "options": [
+        "Order a chest x-ray",
+        "Check the blood pressure and pulse",
+        "Request liver function tests",
+        "Schedule a drug level for next week"
+      ],
+      "answer": "B",
+      "rationale": "BP and pulse are checked before procainamide because it can cause toxic cardiac effects. Serum levels are also monitored (therapeutic level 4 to 10 mcg/mL).",
+      "explanations": [
+        "Not needed before each dose.",
+        "Correct: assess BP and pulse before giving it.",
+        "Not a routine pre-dose check.",
+        "Levels are monitored, but this does not protect the current dose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q270 (PDF p. 427)",
+      "quote": "Before the medication is administered, the client’s blood pressure and pulse are checked."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How should the nurse instruct a client to take oral bisacodyl for the fastest effect?",
+      "options": [
+        "With a large meal",
+        "With a glass of milk",
+        "On an empty stomach",
+        "Together with an antacid"
+      ],
+      "answer": "C",
+      "rationale": "Bisacodyl works fastest on an empty stomach. Taken at bedtime it acts by morning. Milk and antacids can dissolve the enteric coating early.",
+      "explanations": [
+        "Food delays the effect.",
+        "Milk can dissolve the coating and does not speed the effect.",
+        "Correct: an empty stomach gives the most rapid effect.",
+        "Antacids also damage the enteric coating."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q275 (PDF p. 432)",
+      "quote": "The most rapid effect from bisacodyl occurs when it is taken on an empty stomach."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client on digoxin has a serum level of 2.3 ng/mL. Which complaint is consistent with this level?",
+      "options": [
+        "Increased appetite",
+        "More energy than usual",
+        "Seeing halos around lights",
+        "Frequent urination"
+      ],
+      "answer": "C",
+      "rationale": "The therapeutic range is 0.8 to 2.0 ng/mL. Toxicity causes anorexia, nausea, vomiting, drowsiness, photophobia, and visual changes such as halos around bright objects.",
+      "explanations": [
+        "Toxicity causes anorexia.",
+        "Toxicity causes fatigue and drowsiness.",
+        "Correct: visual disturbance is a sign of toxicity.",
+        "Not a sign of digoxin toxicity."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q287 (PDF p. 446)",
+      "quote": "The therapeutic range is 0.8 to 2.0 ng/mL (1.02 to 2.56 nmol/L)."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client on a heparin infusion has a PTT of 65 seconds (control 30 seconds). What should the nurse do?",
+      "options": [
+        "Stop the infusion immediately",
+        "Increase the infusion rate",
+        "Prepare protamine sulfate",
+        "Continue the infusion as prescribed"
+      ],
+      "answer": "D",
+      "rationale": "The therapeutic PTT for heparin is 1.5 to 2.5 times the control (45 to 75 seconds here), so 65 seconds is therapeutic.",
+      "explanations": [
+        "The value is therapeutic, not excessive.",
+        "The value is already therapeutic.",
+        "Protamine is for excessive anticoagulation or bleeding.",
+        "Correct: the PTT is in the therapeutic range."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q290 (PDF p. 450)",
+      "quote": "Desired range for therapeutic anticoagulation is 1.5 to 2.5 times the control."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which instruction should the nurse give a client starting levothyroxine for hypothyroidism?",
+      "options": [
+        "Take it in the morning before breakfast",
+        "Take it at bedtime to avoid drowsiness",
+        "Stop it once symptoms improve",
+        "Skip doses on days the pulse is fast"
+      ],
+      "answer": "A",
+      "rationale": "Levothyroxine is taken in the morning before breakfast, at the same time daily, to prevent insomnia. Replacement is lifelong, and the client monitors the pulse and reports chest pain.",
+      "explanations": [
+        "Correct: morning dosing prevents insomnia.",
+        "Bedtime dosing causes insomnia.",
+        "Replacement is lifelong.",
+        "A fast pulse is reported, not managed by skipping doses."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q294 (PDF p. 456)",
+      "quote": "take the medication in the morning before breakfast to prevent insomnia"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client with diabetes insipidus is on intranasal desmopressin. Which parameter BEST shows that the drug is effective?",
+      "options": [
+        "Temperature",
+        "Apical heart rate",
+        "Pupillary response",
+        "Daily weight"
+      ],
+      "answer": "D",
+      "rationale": "Desmopressin is an antidiuretic hormone analog. Its effect is judged by fluid balance: intake and output, daily weight, and edema.",
+      "explanations": [
+        "Unrelated to the drug's action.",
+        "Not the main measure of effect.",
+        "Unrelated to the drug's action.",
+        "Correct: weight reflects fluid balance."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q339 (PDF p. 507)",
+      "quote": "Fluid status can be evaluated by noting intake and urine output, daily weight, and the presence of edema."
+    }
+  ]
+}

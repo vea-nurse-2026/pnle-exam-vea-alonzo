@@ -1,0 +1,509 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Why is sunlight exposure recommended in osteomalacia?",
+      "options": [
+        "Skin makes vitamin D",
+        "Kills bacteria",
+        "Raises iron",
+        "Lowers calcium"
+      ],
+      "answer": "A",
+      "rationale": "UV light converts 7-dehydrocholesterol in skin into vitamin D.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Opposite."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Osteomalacia (PDF p. 465)",
+      "quote": "ultraviolet radiation transforms a cholesterol substance"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A client reports his hat no longer fits and has bowed legs. This suggests:",
+      "options": [
+        "Paget's disease",
+        "Osteoporosis",
+        "Gout",
+        "Osteomyelitis"
+      ],
+      "answer": "A",
+      "rationale": "Paget's: rapid bone turnover, skull enlargement, bowing, high alkaline phosphatase.",
+      "explanations": [
+        "Correct.",
+        "Height loss.",
+        "Joints.",
+        "Infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Paget's Disease (PDF p. 465)",
+      "quote": "Patient may report that a hat no longer fits"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which lab finding is typical of Paget's disease?",
+      "options": [
+        "High ALP",
+        "Low calcium",
+        "High uric acid",
+        "Low WBC"
+      ],
+      "answer": "A",
+      "rationale": "Elevated alkaline phosphatase with normal calcium.",
+      "explanations": [
+        "Correct.",
+        "Normal.",
+        "Gout.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Paget's Diagnostics (PDF p. 465)",
+      "quote": "Elevated serum alkaline phosphatase"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "The most common cause of osteomyelitis is:",
+      "options": [
+        "Staphylococcus aureus",
+        "E. coli",
+        "Candida",
+        "Clostridium tetani"
+      ],
+      "answer": "A",
+      "rationale": "S. aureus is most common.",
+      "explanations": [
+        "Correct.",
+        "Less.",
+        "Less.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Osteomyelitis (PDF p. 466)",
+      "quote": "Staphylococcus aureus. (most common)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Why is osteomyelitis difficult to eradicate?",
+      "options": [
+        "Infected bone is avascular",
+        "Bones heal fast",
+        "Antibiotics are cheap",
+        "It is viral"
+      ],
+      "answer": "A",
+      "rationale": "Avascular infected bone limits immune response and antibiotic penetration.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Bacterial."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Osteomyelitis Facts (PDF p. 466)",
+      "quote": "the infected bone is avascular"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "IV antibiotic therapy for osteomyelitis usually continues for:",
+      "options": [
+        "3–6 weeks",
+        "3 days",
+        "1 week",
+        "1 year"
+      ],
+      "answer": "A",
+      "rationale": "IV antibiotics for 3–6 weeks; chronic cases may need debridement.",
+      "explanations": [
+        "Correct.",
+        "Too short.",
+        "Too short.",
+        "Too long."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Osteomyelitis Therapy (PDF p. 466)",
+      "quote": "IV antibiotic therapy continues for 3 to 6 weeks"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Bilateral, symmetric joint swelling with prolonged morning stiffness suggests:",
+      "options": [
+        "Rheumatoid arthritis",
+        "Osteoarthritis",
+        "Gout",
+        "Paget's"
+      ],
+      "answer": "A",
+      "rationale": "RA is systemic and symmetric with synovial inflammation and pannus.",
+      "explanations": [
+        "Correct.",
+        "Wear and tear.",
+        "Single joint.",
+        "Bone."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Rheumatoid Arthritis (PDF p. 467)",
+      "quote": "Bilateral and symmetric stiffness, tenderness, swelling"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Rheumatoid arthritis is best described as:",
+      "options": [
+        "Autoimmune synovitis",
+        "Wear and tear",
+        "Urate deposits",
+        "Bone infection"
+      ],
+      "answer": "A",
+      "rationale": "RA is a faulty immune response attacking synovium.",
+      "explanations": [
+        "Correct.",
+        "OA.",
+        "Gout.",
+        "Osteomyelitis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Rheumatoid Arthritis (PDF p. 467)",
+      "quote": "In RA, the autoimmune reaction primarily occurs in the synovial tissue."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which is the initial analgesic for osteoarthritis?",
+      "options": [
+        "Acetaminophen",
+        "Morphine",
+        "Colchicine",
+        "Allopurinol"
+      ],
+      "answer": "A",
+      "rationale": "Acetaminophen first, then NSAIDs, COX-2 inhibitors, intra-articular steroids.",
+      "explanations": [
+        "Correct.",
+        "Not first.",
+        "Gout.",
+        "Gout."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Osteoarthritis (PDF p. 468)",
+      "quote": "Initial analgesic therapy is acetaminophen"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which teaching best reduces knee pain in an obese client with osteoarthritis?",
+      "options": [
+        "Weight reduction",
+        "Complete bed rest",
+        "High-impact sports",
+        "Avoid all exercise"
+      ],
+      "answer": "A",
+      "rationale": "Weight loss and moderate exercise reduce joint stress and disability.",
+      "explanations": [
+        "Correct.",
+        "Stiffness.",
+        "Joint stress.",
+        "Weakness."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Osteoarthritis (PDF p. 468)",
+      "quote": "Weight reduction"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Sudden excruciating pain and redness of the big toe suggests:",
+      "options": [
+        "Gout",
+        "Rheumatoid arthritis",
+        "Osteoarthritis",
+        "Bursitis"
+      ],
+      "answer": "A",
+      "rationale": "Podagra: urate crystal deposition in the great toe.",
+      "explanations": [
+        "Correct.",
+        "Symmetric.",
+        "Gradual.",
+        "Bursa."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Gout (PDF p. 468)",
+      "quote": "most commonly the big toe (podagra)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which drug is used for an acute gout attack?",
+      "options": [
+        "Colchicine",
+        "Allopurinol",
+        "Aspirin",
+        "Calcitonin"
+      ],
+      "answer": "A",
+      "rationale": "Colchicine and NSAIDs for acute attacks; allopurinol for chronic gout.",
+      "explanations": [
+        "Correct.",
+        "Chronic.",
+        "Raises urate.",
+        "Bone."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Gout Treatment (PDF p. 468)",
+      "quote": "Acute treatment is managed with colchicine"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which food should a client with gout limit?",
+      "options": [
+        "Organ meats",
+        "Rice",
+        "Milk",
+        "Fresh fruit"
+      ],
+      "answer": "A",
+      "rationale": "High-purine foods: organ meats, sardines, anchovies, mackerel; also avoid alcohol.",
+      "explanations": [
+        "Correct.",
+        "Low.",
+        "Low.",
+        "Low."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Gout Nursing (PDF p. 468)",
+      "quote": "Organ meals"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client with gout should drink about how much fluid daily?",
+      "options": [
+        "3 L",
+        "500 mL",
+        "1 L",
+        "No change"
+      ],
+      "answer": "A",
+      "rationale": "About 3 L/day prevents uric acid crystallization in the kidneys.",
+      "explanations": [
+        "Correct.",
+        "Too little.",
+        "Too little.",
+        "Needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Gout Nursing (PDF p. 468)",
+      "quote": "Have the patient drink 3 liters of fluid per day"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which finding during school screening suggests scoliosis?",
+      "options": [
+        "Uneven shoulders and hips",
+        "Bowed legs",
+        "Toe walking",
+        "Flat feet"
+      ],
+      "answer": "A",
+      "rationale": "Scoliosis: uneven shoulders and hips, asymmetric rib cage.",
+      "explanations": [
+        "Correct.",
+        "Rickets.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Scoliosis (PDF p. 469)",
+      "quote": "Uneven hip and shoulder levels"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "After spinal fusion for scoliosis, the child is repositioned by:",
+      "options": [
+        "Log rolling",
+        "Sitting up",
+        "Twisting",
+        "Prone with pillows"
+      ],
+      "answer": "A",
+      "rationale": "Log roll every 2 hours to protect the spine and prevent pressure sores.",
+      "explanations": [
+        "Correct.",
+        "Unsafe.",
+        "Unsafe.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Scoliosis Nursing (PDF p. 469)",
+      "quote": "Use log rolling to reposition the child every 2 hours"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Avascular necrosis of the femoral head in a young child is:",
+      "options": [
+        "Legg-Calvé-Perthes disease",
+        "Osteosarcoma",
+        "Slipped epiphysis",
+        "Clubfoot"
+      ],
+      "answer": "A",
+      "rationale": "LCP: decreased blood supply to the femoral head; self-limiting.",
+      "explanations": [
+        "Correct.",
+        "Cancer.",
+        "Teen.",
+        "Foot."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Legg-Calvé-Perthes (PDF p. 469)",
+      "quote": "characterized by necrosis of the femoral head"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A fracture where bone breaks through the skin is:",
+      "options": [
+        "Open (compound)",
+        "Closed",
+        "Greenstick",
+        "Comminuted"
+      ],
+      "answer": "A",
+      "rationale": "Open fractures break the skin; greenstick is incomplete; comminuted has fragments.",
+      "explanations": [
+        "Correct.",
+        "Skin intact.",
+        "Partial.",
+        "Fragments."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Fractures (PDF p. 470)",
+      "quote": "An open fracture (compound, or complex, fracture)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "When splinting a suspected fracture, the nurse should immobilize:",
+      "options": [
+        "Joints above and below",
+        "Only the fracture site",
+        "Only the distal joint",
+        "Nothing until x-ray"
+      ],
+      "answer": "A",
+      "rationale": "Immobilize joints proximal and distal to prevent fragment movement.",
+      "explanations": [
+        "Correct.",
+        "Inadequate.",
+        "Inadequate.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Fracture Emergency (PDF p. 470)",
+      "quote": "Joints proximal and distal to the fracture must be immobilized"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "The most common primary malignant bone tumor in adolescents is:",
+      "options": [
+        "Osteosarcoma",
+        "Osteochondroma",
+        "Multiple myeloma",
+        "Lipoma"
+      ],
+      "answer": "A",
+      "rationale": "Osteosarcoma affects rapidly growing bones (distal femur, proximal tibia).",
+      "explanations": [
+        "Correct.",
+        "Benign.",
+        "Marrow.",
+        "Fat."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Malignant Bone Tumors (PDF p. 470)",
+      "quote": "Osteosarcoma (ie, osteogenic sarcoma) is the most common"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A client with bone metastases from breast cancer becomes lethargic and constipated. The nurse checks:",
+      "options": [
+        "Serum calcium",
+        "Serum glucose",
+        "Hemoglobin",
+        "Platelets"
+      ],
+      "answer": "A",
+      "rationale": "Bone breakdown causes hypercalcemia; treat with saline hydration and bisphosphonates.",
+      "explanations": [
+        "Correct.",
+        "Not main.",
+        "Not main.",
+        "Not main."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Metastatic Bone Disease (PDF p. 471)",
+      "quote": "Hypercalcemia results from breakdown of bone"
+    }
+  ]
+}

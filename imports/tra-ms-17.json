@@ -1,0 +1,605 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Using the Parkland formula, a 60-kg adult with 50% TBSA burns needs how much LR in the first 8 hours?",
+      "options": [
+        "6,000 mL",
+        "12,000 mL",
+        "3,000 mL",
+        "24,000 mL"
+      ],
+      "answer": "A",
+      "rationale": "4 × 60 × 50 = 12,000 mL/24 h; half (6,000 mL) in the first 8 hours from time of injury.",
+      "explanations": [
+        "Correct.",
+        "24-hour total.",
+        "Too little.",
+        "Too much."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Parkland Formula (PDF p. 410)",
+      "quote": "Day 1: Half to be given in first 8 hours"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Burn fluid replacement time is calculated from:",
+      "options": [
+        "Time of injury",
+        "Hospital arrival",
+        "First IV start",
+        "Physician order"
+      ],
+      "answer": "A",
+      "rationale": "Formulas are calculated from the time of injury.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Fluid Resuscitation (PDF p. 409)",
+      "quote": "calculated from the time of injury and not from the time of arrival"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which is the most sensitive indicator of adequate burn fluid resuscitation?",
+      "options": [
+        "Urine output",
+        "Blood pressure",
+        "Skin color",
+        "Thirst"
+      ],
+      "answer": "A",
+      "rationale": "Urine output of 30–50 mL/h reflects cardiac output and perfusion.",
+      "explanations": [
+        "Correct.",
+        "Less sensitive.",
+        "Unreliable.",
+        "Unreliable."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "TRA Nursing Module, Fluid Resuscitation (PDF p. 409)",
+      "quote": "Urinary output is the most sensitive assessment parameter"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "During the acute (diuretic) burn phase, the nurse expects:",
+      "options": [
+        "Hypokalemia, hemodilution",
+        "Hyperkalemia",
+        "Rising hematocrit",
+        "Oliguria"
+      ],
+      "answer": "A",
+      "rationale": "Fluid returns to vessels; K shifts into cells; hematocrit falls.",
+      "explanations": [
+        "Correct.",
+        "Emergent.",
+        "Emergent.",
+        "Emergent."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Acute Phase (PDF p. 409)",
+      "quote": "Hypokalemia (K+ shifts back into the cells)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Why are IM injections avoided for burn pain in the emergent phase?",
+      "options": [
+        "Absorption is unreliable",
+        "They are too strong",
+        "They cause burns",
+        "They are slow to prepare"
+      ],
+      "answer": "A",
+      "rationale": "Hypovolemia and fluid shifts make IM/SC absorption unreliable; give IV opioids.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Burn Pain Management (PDF p. 410)",
+      "quote": "Avoid IM or SC routes because absorption through the soft tissue is unreliable"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "When should analgesics be given before burn wound care?",
+      "options": [
+        "About 30 minutes before",
+        "After the procedure",
+        "2 hours before",
+        "Not needed"
+      ],
+      "answer": "A",
+      "rationale": "Premedicate about 30 minutes before painful procedures.",
+      "explanations": [
+        "Correct.",
+        "Too late.",
+        "Wears off.",
+        "Painful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Burn Pain Management (PDF p. 410)",
+      "quote": "Medicate client 30 minutes prior to painful procedures"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which diet supports burn wound healing?",
+      "options": [
+        "High-protein, high-calorie",
+        "Low-protein",
+        "Low-calorie",
+        "Clear liquids only"
+      ],
+      "answer": "A",
+      "rationale": "Hypermetabolism requires high protein, calories, vitamins, and minerals.",
+      "explanations": [
+        "Correct.",
+        "Delays healing.",
+        "Delays healing.",
+        "Inadequate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Burn Nutrition (PDF p. 410)",
+      "quote": "High in protein"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Hydrotherapy for burns is limited to 30 minutes or less to prevent:",
+      "options": [
+        "Heat and sodium loss",
+        "Skin drying",
+        "Overhydration",
+        "Hypertension"
+      ],
+      "answer": "A",
+      "rationale": "Prolonged immersion increases heat and sodium loss through the wound.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Hydrotherapy (PDF p. 411)",
+      "quote": "done for 30 minutes or less"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "How should a circumferential burn dressing be applied?",
+      "options": [
+        "Distal to proximal",
+        "Proximal to distal",
+        "Fingers wrapped together",
+        "Tight and thick"
+      ],
+      "answer": "A",
+      "rationale": "Wrap distally to proximally; fingers and toes individually.",
+      "explanations": [
+        "Correct.",
+        "Impairs return.",
+        "Wrap separately.",
+        "Constricts."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Wound Dressing (PDF p. 411)",
+      "quote": "Distally to proximally"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A circumferential arm burn causes weak distal pulses. Which procedure relieves constriction?",
+      "options": [
+        "Escharotomy",
+        "Debridement",
+        "Autograft",
+        "Hydrotherapy"
+      ],
+      "answer": "A",
+      "rationale": "Escharotomy incises the eschar lengthwise to restore circulation.",
+      "explanations": [
+        "Correct.",
+        "Removes tissue.",
+        "Closure.",
+        "Cleansing."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Escharotomy (PDF p. 411)",
+      "quote": "A lengthwise incision is made through the burn eschar to relieve constriction"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A client on silver sulfadiazine has a WBC drop on day 2. The nurse knows:",
+      "options": [
+        "Transient leukopenia can occur",
+        "Stop it permanently",
+        "It means sepsis",
+        "It indicates graft rejection"
+      ],
+      "answer": "A",
+      "rationale": "Transient leukopenia may occur and resolves in 2–3 days.",
+      "explanations": [
+        "Correct.",
+        "Not needed.",
+        "Not necessarily.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Topical Antimicrobials (PDF p. 412)",
+      "quote": "May cause transient leukopenia"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which topical burn agent penetrates eschar and may cause metabolic acidosis?",
+      "options": [
+        "Mafenide acetate",
+        "Silver sulfadiazine",
+        "Silver nitrate",
+        "Bacitracin"
+      ],
+      "answer": "A",
+      "rationale": "Mafenide penetrates eschar, is painful, and may cause metabolic acidosis.",
+      "explanations": [
+        "Correct.",
+        "Minimal penetration.",
+        "No penetration.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Topical Antimicrobials (PDF p. 412)",
+      "quote": "May cause metabolic acidosis."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Silver nitrate dressings require monitoring of:",
+      "options": [
+        "Sodium and potassium",
+        "Blood glucose",
+        "Calcium",
+        "Liver enzymes"
+      ],
+      "answer": "A",
+      "rationale": "Silver nitrate draws electrolytes out; keep dressings wet and monitor Na and K.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Topical Antimicrobials (PDF p. 412)",
+      "quote": "Monitor serum sodium (Na+) and potassium (K+)."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which graft provides permanent burn wound coverage?",
+      "options": [
+        "Autograft",
+        "Allograft",
+        "Xenograft",
+        "Synthetic graft"
+      ],
+      "answer": "A",
+      "rationale": "Autograft uses the client's own skin; others are temporary.",
+      "explanations": [
+        "Correct.",
+        "Temporary.",
+        "Temporary.",
+        "Temporary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Wound Closure (PDF p. 412)",
+      "quote": "Permanent wound coverage."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Pig skin used as a temporary burn covering is a:",
+      "options": [
+        "Xenograft",
+        "Allograft",
+        "Autograft",
+        "Homograft"
+      ],
+      "answer": "A",
+      "rationale": "Xenograft (heterograft) is porcine; allograft is cadaver skin.",
+      "explanations": [
+        "Correct.",
+        "Human.",
+        "Self.",
+        "Human."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Wound Closure (PDF p. 413)",
+      "quote": "Porcine (pig) skin is harvested after slaughter and preserved."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Why are young children at greater risk from burns than adults?",
+      "options": [
+        "Thinner skin",
+        "Thicker skin",
+        "Less body water",
+        "More body fat"
+      ],
+      "answer": "A",
+      "rationale": "Thinner skin burns deeper; higher fluid proportion raises fluid and heat loss.",
+      "explanations": [
+        "Correct.",
+        "Incorrect.",
+        "Incorrect.",
+        "Incorrect."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, The Burned Child (PDF p. 413)",
+      "quote": "a more severe burn in a child than an adult because a child’s skin is thinner"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Neurons that carry impulses from receptors to the CNS are:",
+      "options": [
+        "Sensory (afferent)",
+        "Motor (efferent)",
+        "Interneurons",
+        "Glial cells"
+      ],
+      "answer": "A",
+      "rationale": "Afferent neurons carry sensory input to the CNS.",
+      "explanations": [
+        "Correct.",
+        "To effectors.",
+        "Within CNS.",
+        "Support."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Types of Neurons (PDF p. 414)",
+      "quote": "transmit impulses from receptors to the CNS"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Broca's area, controlling motor speech, is in the:",
+      "options": [
+        "Frontal lobe",
+        "Temporal lobe",
+        "Occipital lobe",
+        "Parietal lobe"
+      ],
+      "answer": "A",
+      "rationale": "Broca's (frontal) is expressive speech; Wernicke's (temporal) is comprehension.",
+      "explanations": [
+        "Correct.",
+        "Wernicke's.",
+        "Vision.",
+        "Sensation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cerebrum (PDF p. 414)",
+      "quote": "Contains Broca’s area (motor control of speech)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client cannot understand spoken language after a stroke. Which area is affected?",
+      "options": [
+        "Wernicke's area",
+        "Broca's area",
+        "Occipital lobe",
+        "Cerebellum"
+      ],
+      "answer": "A",
+      "rationale": "Wernicke's area in the temporal lobe controls language comprehension.",
+      "explanations": [
+        "Correct.",
+        "Expression.",
+        "Vision.",
+        "Balance."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cerebrum (PDF p. 415)",
+      "quote": "Wernicke’s area: language comprehension"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which brain structure controls balance and coordination?",
+      "options": [
+        "Cerebellum",
+        "Medulla",
+        "Thalamus",
+        "Pons"
+      ],
+      "answer": "A",
+      "rationale": "Cerebellum controls fine movement, balance, and proprioception.",
+      "explanations": [
+        "Correct.",
+        "Vital centers.",
+        "Sensation.",
+        "Respiration rhythm."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cerebellum (PDF p. 415)",
+      "quote": "Controls fine movement, balance, and position or proprioception."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "The cardiac, respiratory, and vasomotor centers are located in the:",
+      "options": [
+        "Medulla",
+        "Cerebellum",
+        "Occipital lobe",
+        "Thalamus"
+      ],
+      "answer": "A",
+      "rationale": "The medulla contains vital centers and reflexes such as coughing and vomiting.",
+      "explanations": [
+        "Correct.",
+        "Balance.",
+        "Vision.",
+        "Sensation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Medulla (PDF p. 415)",
+      "quote": "Contains cardiac centers, respiratory centers, vasomotor centers"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which brain structure regulates body temperature?",
+      "options": [
+        "Hypothalamus",
+        "Cerebellum",
+        "Pons",
+        "Midbrain"
+      ],
+      "answer": "A",
+      "rationale": "Hypothalamus regulates temperature, food and fluid intake, and autonomic function.",
+      "explanations": [
+        "Correct.",
+        "Balance.",
+        "Breathing.",
+        "Reflexes."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hypothalamus (PDF p. 415)",
+      "quote": "Regulation of body temperature"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Testing the corneal reflex assesses which cranial nerve?",
+      "options": [
+        "V (trigeminal)",
+        "VII (facial)",
+        "II (optic)",
+        "XII (hypoglossal)"
+      ],
+      "answer": "A",
+      "rationale": "Trigeminal nerve: facial sensation, corneal reflex, mastication.",
+      "explanations": [
+        "Correct.",
+        "Expression.",
+        "Vision.",
+        "Tongue."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cranial Nerves (PDF p. 415)",
+      "quote": "Facial sensation, corneal reflex, mastication"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Asking the client to shrug the shoulders tests cranial nerve:",
+      "options": [
+        "XI (spinal accessory)",
+        "X (vagus)",
+        "XII (hypoglossal)",
+        "IX (glossopharyngeal)"
+      ],
+      "answer": "A",
+      "rationale": "CN XI innervates sternocleidomastoid and trapezius.",
+      "explanations": [
+        "Correct.",
+        "Pharynx.",
+        "Tongue.",
+        "Taste."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cranial Nerves (PDF p. 415)",
+      "quote": "Sternocleidomastoid and trapezius muscles"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "How many pairs of spinal nerves are there?",
+      "options": [
+        "31",
+        "12",
+        "24",
+        "33"
+      ],
+      "answer": "A",
+      "rationale": "31 pairs: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal.",
+      "explanations": [
+        "Correct.",
+        "Cranial.",
+        "Not this.",
+        "Vertebrae."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Spinal Nerves (PDF p. 415)",
+      "quote": "Composed of 31 pairs"
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which client is at greatest risk for folic acid deficiency anemia?",
+      "options": [
+        "Pregnant woman who drinks heavily",
+        "Vegetarian teenager",
+        "Athlete on high-protein diet",
+        "Child drinking fortified milk"
+      ],
+      "answer": "A",
+      "rationale": "Risks include alcoholism, pregnancy, low intake of uncooked vegetables, and malabsorption.",
+      "explanations": [
+        "Correct.",
+        "Leafy greens.",
+        "Not main risk.",
+        "Not main risk."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Folic Acid Deficiency (PDF p. 299)",
+      "quote": "Alcoholism"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "The usual oral dose of folic acid for folate deficiency anemia is:",
+      "options": [
+        "1 mg daily",
+        "100 mg daily",
+        "1 g weekly",
+        "10 mcg monthly"
+      ],
+      "answer": "A",
+      "rationale": "Folic acid 1 mg daily; IM for malabsorption.",
+      "explanations": [
+        "Correct.",
+        "Too high.",
+        "Incorrect.",
+        "Too low."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Folic Acid Deficiency (PDF p. 299)",
+      "quote": "Administer 1mg of folic acid daily"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which antibiotic is linked to aplastic anemia?",
+      "options": [
+        "Chloramphenicol",
+        "Amoxicillin",
+        "Erythromycin",
+        "Cefalexin"
+      ],
+      "answer": "A",
+      "rationale": "Chloramphenicol, sulfonamides, benzene, radiation, and chemotherapy can cause aplastic anemia.",
+      "explanations": [
+        "Correct.",
+        "Not typical.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Aplastic Anemia (PDF p. 299)",
+      "quote": "Chloramphenicol"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A CBC showing low RBCs, WBCs, and platelets is called:",
+      "options": [
+        "Pancytopenia",
+        "Polycythemia",
+        "Leukocytosis",
+        "Thrombocytosis"
+      ],
+      "answer": "A",
+      "rationale": "Aplastic anemia causes pancytopenia from marrow failure.",
+      "explanations": [
+        "Correct.",
+        "Increased.",
+        "Increased.",
+        "Increased."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Aplastic Anemia (PDF p. 299)",
+      "quote": "resulting in pancytopenia (decreased RBCs, WBCs' and platelets"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which nursing measure is appropriate for a client with aplastic anemia?",
+      "options": [
+        "Reverse isolation",
+        "Contact sports",
+        "Frequent IM shots",
+        "Fresh flowers"
+      ],
+      "answer": "A",
+      "rationale": "Protect from infection and bleeding: reverse isolation, no SQ or IM injections, soft brush, electric razor.",
+      "explanations": [
+        "Correct.",
+        "Bleeding.",
+        "Bleeding.",
+        "Infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Aplastic Anemia (PDF p. 300)",
+      "quote": "Reverse isolation due leukopenia"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which condition triggers sickling of hemoglobin S?",
+      "options": [
+        "Low oxygen tension",
+        "High fluid intake",
+        "Warm environment",
+        "Rest"
+      ],
+      "answer": "A",
+      "rationale": "HbS crystallizes and sickles when oxygen tension is low; dehydration, cold, and infection also trigger it.",
+      "explanations": [
+        "Correct.",
+        "Prevents.",
+        "Prevents.",
+        "Prevents."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Sickle Cell Anemia (PDF p. 300)",
+      "quote": "acquires a crystal-like formation when exposed to low oxygen tension"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "In sickle cell pain crisis, which nursing action is a priority?",
+      "options": [
+        "IV fluids and oxygen",
+        "Cold compresses",
+        "Fluid restriction",
+        "Ambulate vigorously"
+      ],
+      "answer": "A",
+      "rationale": "Treat triggers: hydrate, give oxygen, manage pain, and treat infection; avoid cold.",
+      "explanations": [
+        "Correct.",
+        "Vasoconstriction.",
+        "Worsens.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Sickle Cell Management (PDF p. 300)",
+      "quote": "Dehydration: Infuse intravenous fluids."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Aplastic crisis in sickle cell disease is usually caused by:",
+      "options": [
+        "Human parvovirus",
+        "Dengue virus",
+        "Cold exposure",
+        "Splenic pooling"
+      ],
+      "answer": "A",
+      "rationale": "Aplastic crisis results from parvovirus infection; sequestration crisis results from organ pooling.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Pain crisis.",
+        "Sequestration."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Sickle Cell Crisis (PDF p. 300)",
+      "quote": "Aplastic crisis - results from infection with the human parvovirus"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A child with thalassemia major receives frequent transfusions. Which therapy prevents iron overload?",
+      "options": [
+        "Chelation therapy",
+        "Iron supplements",
+        "Vitamin C megadoses",
+        "Phlebotomy weekly"
+      ],
+      "answer": "A",
+      "rationale": "Multiple PRBC transfusions cause iron overload, managed with regular chelation (e.g., deferoxamine).",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Increases absorption.",
+        "Anemic child."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Thalassemia Major (PDF p. 301)",
+      "quote": "Management: regular chelation therapy"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Thalassemia major is also known as:",
+      "options": [
+        "Cooley's anemia",
+        "Christmas disease",
+        "Fanconi anemia",
+        "Pernicious anemia"
+      ],
+      "answer": "A",
+      "rationale": "Severe beta-thalassemia is called thalassemia major or Cooley's anemia.",
+      "explanations": [
+        "Correct.",
+        "Hemophilia B.",
+        "Different.",
+        "B12."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Thalassemia (PDF p. 301)",
+      "quote": "Severe beta-thalassemia (i.e., thalassemia major or Cooley’s anemia)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with a ruddy complexion, pruritus, and splenomegaly has elevated RBCs, WBCs, and platelets. This is:",
+      "options": [
+        "Polycythemia vera",
+        "Aplastic anemia",
+        "Thalassemia",
+        "Iron deficiency"
+      ],
+      "answer": "A",
+      "rationale": "Polycythemia vera is a myeloproliferative disorder with elevated cell counts and hyperviscosity.",
+      "explanations": [
+        "Correct.",
+        "Low counts.",
+        "Low Hb.",
+        "Low Hb."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Polycythemia Vera (PDF p. 301)",
+      "quote": "Ruddy complexion"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the primary treatment for polycythemia vera?",
+      "options": [
+        "Phlebotomy",
+        "Blood transfusion",
+        "Iron supplements",
+        "Erythropoietin"
+      ],
+      "answer": "A",
+      "rationale": "Phlebotomy (initially 500 mL once or twice weekly) reduces blood viscosity.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Avoid.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Polycythemia Vera (PDF p. 301)",
+      "quote": "Phlebotomy – removing enough blood"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which instruction is appropriate for a client with polycythemia vera and pruritus?",
+      "options": [
+        "Bathe in tepid water, pat dry",
+        "Take hot showers",
+        "Rub vigorously with towel",
+        "Take iron supplements"
+      ],
+      "answer": "A",
+      "rationale": "Use tepid or cool baths, avoid vigorous toweling, and avoid iron and aspirin.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Worsens.",
+        "Avoid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Polycythemia Vera Nursing Care (PDF p. 301)",
+      "quote": "Bathing in tepid or cool water"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Hemophilia A results from deficiency of factor:",
+      "options": [
+        "VIII",
+        "IX",
+        "VII",
+        "X"
+      ],
+      "answer": "A",
+      "rationale": "Hemophilia A: factor VIII; hemophilia B (Christmas disease): factor IX; both X-linked.",
+      "explanations": [
+        "Correct.",
+        "Hemophilia B.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hemophilia (PDF p. 302)",
+      "quote": "Hemophilia A – caused by genetic disease that results in deficient or defective factor VIII"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Why is hemophilia seen almost exclusively in males?",
+      "options": [
+        "It is X-linked recessive",
+        "It is autosomal dominant",
+        "It is Y-linked",
+        "It is acquired"
+      ],
+      "answer": "A",
+      "rationale": "Hemophilia is an X-linked trait; females are usually carriers.",
+      "explanations": [
+        "Correct.",
+        "Incorrect.",
+        "Incorrect.",
+        "Inherited."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Hemophilia (PDF p. 302)",
+      "quote": "Both types of hemophilia are inherited as X-linked traits, so almost all affected people are males"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Where does most bleeding occur in hemophilia?",
+      "options": [
+        "Joints",
+        "Lungs",
+        "Skin only",
+        "Eyes"
+      ],
+      "answer": "A",
+      "rationale": "About 75% of bleeding is into joints (hemarthrosis); intracranial bleeding is most dangerous.",
+      "explanations": [
+        "Correct.",
+        "Not most.",
+        "Not most.",
+        "Not most."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hemophilia (PDF p. 302)",
+      "quote": "75% of all bleeding occurs into joints"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which medication should a client with hemophilia avoid for a headache?",
+      "options": [
+        "Aspirin",
+        "Paracetamol",
+        "Factor VIII",
+        "Desmopressin"
+      ],
+      "answer": "A",
+      "rationale": "Avoid aspirin, NSAIDs, and herbal supplements; paracetamol is safer.",
+      "explanations": [
+        "Correct.",
+        "Safer.",
+        "Treatment.",
+        "Treatment."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Hemophilia Nursing Care (PDF p. 302)",
+      "quote": "Instruct the patient to avoid OTC medications such as aspirin, NSAIDs"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A child with hemophilia has a nosebleed. Which action is inappropriate?",
+      "options": [
+        "Nasal packing",
+        "Direct pressure",
+        "Sitting upright, leaning forward",
+        "Factor replacement as ordered"
+      ],
+      "answer": "A",
+      "rationale": "Nasal packing is avoided because bleeding often resumes when it is removed.",
+      "explanations": [
+        "Correct.",
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hemophilia Nursing Care (PDF p. 302)",
+      "quote": "Nasal packing should be avoided"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which layer of the heart is responsible for contraction?",
+      "options": [
+        "Myocardium",
+        "Endocardium",
+        "Epicardium",
+        "Pericardium"
+      ],
+      "answer": "A",
+      "rationale": "Myocardium is muscle; endocardium lines chambers and valves; epicardium is outer.",
+      "explanations": [
+        "Correct.",
+        "Lining.",
+        "Outer.",
+        "Sac."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Layers of the Heart (PDF p. 303)",
+      "quote": "Myocardium-made up of muscle fibers and is responsible for the contraction"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Cardiac output is calculated as:",
+      "options": [
+        "Heart rate × stroke volume",
+        "Stroke volume ÷ heart rate",
+        "BP × heart rate",
+        "Preload − afterload"
+      ],
+      "answer": "A",
+      "rationale": "CO = HR × SV, normally about 5 L/min.",
+      "explanations": [
+        "Correct.",
+        "Incorrect.",
+        "Incorrect.",
+        "Incorrect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cardiac Output (PDF p. 303)",
+      "quote": "Cardiac Output = Heart Rate x Stroke Volume"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "According to Starling's law, increased ventricular filling results in:",
+      "options": [
+        "Stronger contraction",
+        "Weaker contraction",
+        "Lower stroke volume",
+        "Slower heart rate"
+      ],
+      "answer": "A",
+      "rationale": "The more the heart fills during diastole, the more forcefully it contracts.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Opposite.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Starling's Law (PDF p. 304)",
+      "quote": "The more the heart is filled during diastole, the more forcefully it contracts"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Increased afterload from severe hypertension causes stroke volume to:",
+      "options": [
+        "Decrease",
+        "Increase",
+        "Stay the same",
+        "Double"
+      ],
+      "answer": "A",
+      "rationale": "Higher afterload means more resistance and lower stroke volume.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Changes.",
+        "Opposite."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Afterload (PDF p. 304)",
+      "quote": "The higher the afterload, the lower the stroke volume."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "An S3 heart sound in a 60-year-old client most likely indicates:",
+      "options": [
+        "Heart failure",
+        "Normal finding",
+        "Aortic valve closure",
+        "Atrial contraction"
+      ],
+      "answer": "A",
+      "rationale": "S3 suggests heart failure or regurgitation in adults; it may be normal under age 30.",
+      "explanations": [
+        "Correct.",
+        "Under 30.",
+        "S2.",
+        "S4."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Heart Sounds (PDF p. 304)",
+      "quote": "this can occur in conditions such as congestive heart failure"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "The heart's natural pacemaker, firing 60–100 bpm, is the:",
+      "options": [
+        "SA node",
+        "AV node",
+        "Bundle of His",
+        "Purkinje fibers"
+      ],
+      "answer": "A",
+      "rationale": "SA node 60–100; AV node 40–60; Purkinje 20–40 bpm.",
+      "explanations": [
+        "Correct.",
+        "40–60.",
+        "Conduction.",
+        "20–40."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, SA Node (PDF p. 304)",
+      "quote": "Function: Pacemaker of heart"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "The QRS complex on an ECG represents:",
+      "options": [
+        "Ventricular depolarization",
+        "Atrial depolarization",
+        "Ventricular repolarization",
+        "AV conduction time"
+      ],
+      "answer": "A",
+      "rationale": "P = atrial depolarization; QRS = ventricular depolarization; T = ventricular repolarization.",
+      "explanations": [
+        "Correct.",
+        "P wave.",
+        "T wave.",
+        "PR interval."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, ECG (PDF p. 305)",
+      "quote": "The QRS complex represents ventricular muscle depolarization"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the normal PR interval?",
+      "options": [
+        "0.12–0.20 second",
+        "0.04–0.10 second",
+        "0.32–0.40 second",
+        "0.50–0.60 second"
+      ],
+      "answer": "A",
+      "rationale": "PR 0.12–0.20 s; QRS 0.04–0.10 s; QT about 0.32–0.40 s.",
+      "explanations": [
+        "Correct.",
+        "QRS.",
+        "QT.",
+        "Too long."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, ECG (PDF p. 305)",
+      "quote": "normal PR interval is 0.12 to 0.20 seconds."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A prolonged QT interval places the client at risk for:",
+      "options": [
+        "Torsades de pointes",
+        "Sinus bradycardia",
+        "First-degree block",
+        "Atrial flutter"
+      ],
+      "answer": "A",
+      "rationale": "Prolonged QT increases risk of lethal ventricular dysrhythmia such as torsades.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "PR.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, QT Interval (PDF p. 305)",
+      "quote": "If QT interval becomes prolonged, the patient may be at risk for a lethal ventricular dysrhythmia"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A prominent U wave on the ECG suggests:",
+      "options": [
+        "Hypokalemia",
+        "Hyperkalemia",
+        "Hypercalcemia",
+        "Hypernatremia"
+      ],
+      "answer": "A",
+      "rationale": "U waves usually appear when potassium is low.",
+      "explanations": [
+        "Correct.",
+        "Peaked T.",
+        "Short QT.",
+        "Not ECG."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, U Wave (PDF p. 305)",
+      "quote": "usually it is not seen unless a patient’s potassium level is low (Hypokalemia)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the most common cause of coronary artery disease?",
+      "options": [
+        "Atherosclerosis",
+        "Rheumatic fever",
+        "Infection",
+        "Congenital defect"
+      ],
+      "answer": "A",
+      "rationale": "Atherosclerosis, abnormal accumulation of fats in arteries, is the most common cause.",
+      "explanations": [
+        "Correct.",
+        "Valves.",
+        "Not most.",
+        "Not most."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Coronary Artery Disease (PDF p. 305)",
+      "quote": "Most common cause of cardiovascular disease is atherosclerosis"
+    }
+  ]
+}

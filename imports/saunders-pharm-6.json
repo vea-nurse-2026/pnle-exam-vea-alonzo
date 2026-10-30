@@ -1,0 +1,677 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "IV lorazepam is prescribed. Which item in the client's history should make the nurse consult the prescriber first?",
+      "options": [
+        "Narrow-angle glaucoma",
+        "Hypothyroidism",
+        "Diabetes mellitus",
+        "Coronary artery disease"
+      ],
+      "answer": "A",
+      "rationale": "Lorazepam is contraindicated in narrow-angle glaucoma, coma, existing CNS depression, uncontrolled severe pain, and pregnancy or breastfeeding.",
+      "explanations": [
+        "Correct: a contraindication.",
+        "Not a contraindication.",
+        "Not a contraindication.",
+        "Not a contraindication."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1429 (PDF p. 1738)",
+      "quote": "contraindicated in clients who are comatose, with preexisting central nervous system (CNS) depression, with uncontrolled severe pain, and those with narrow-angle glaucoma."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which baseline laboratory tests does the nurse expect before a client starts risperidone?",
+      "options": [
+        "Platelet count",
+        "Clotting studies",
+        "Liver and kidney function tests",
+        "Serum lithium level"
+      ],
+      "answer": "C",
+      "rationale": "Baseline renal and liver function tests are done before risperidone, which is used cautiously in renal or hepatic impairment.",
+      "explanations": [
+        "Not the baseline tests required.",
+        "Not the baseline tests required.",
+        "Correct: renal and hepatic baselines.",
+        "Lithium levels are for lithium therapy."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1431 (PDF p. 1740)",
+      "quote": "Baseline assessment includes renal and liver function tests"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Quinidine gluconate is prescribed. Which condition in the record is a CONTRAINDICATION?",
+      "options": [
+        "Asthma",
+        "A recent infection",
+        "Mild muscle weakness",
+        "Complete AV block"
+      ],
+      "answer": "D",
+      "rationale": "Quinidine is contraindicated in complete AV block, intraventricular conduction defects, escape rhythms, and myasthenia gravis. It is used with caution in asthma.",
+      "explanations": [
+        "A caution, not a contraindication.",
+        "Not a contraindication.",
+        "Not a contraindication unless it is myasthenia gravis.",
+        "Correct: a contraindication."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1462 (PDF p. 1771)",
+      "quote": "It is contraindicated in complete AV block, intraventricular conduction defects"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A client has received tissue plasminogen activator (tPA). Which item should the nurse keep at hand as part of standard care?",
+      "options": [
+        "A flashlight",
+        "A pulse oximeter",
+        "Suction equipment",
+        "Occult blood test strips"
+      ],
+      "answer": "D",
+      "rationale": "tPA dissolves clots, and bleeding is a frequent adverse effect. The nurse tests urine, stool, and NG drainage for occult blood.",
+      "explanations": [
+        "Not specific to tPA.",
+        "Useful, but not specific to the risk.",
+        "Not specific to tPA.",
+        "Correct: detects hidden bleeding."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1468 (PDF p. 1777)",
+      "quote": "Equipment needed by the nurse would include occult blood test strips to monitor for occult blood"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which electrolyte imbalance should the nurse monitor for MOST often in a client on hydrochlorothiazide?",
+      "options": [
+        "Hypokalemia",
+        "Hypocalcemia",
+        "Hypernatremia",
+        "Hyperphosphatemia"
+      ],
+      "answer": "A",
+      "rationale": "Thiazides are potassium-losing. Other effects include hyponatremia, hypercalcemia, hypomagnesemia, hypophosphatemia, and hyperglycemia.",
+      "explanations": [
+        "Correct: the most frequent concern.",
+        "Thiazides cause hypercalcemia.",
+        "Thiazides cause hyponatremia.",
+        "Thiazides cause hypophosphatemia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1472 (PDF p. 1781)",
+      "quote": "The client taking a potassium-losing diuretic must be monitored for decreased potassium levels."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "The nurse has just given a dose of diazepam. What is MOST important before leaving the room?",
+      "options": [
+        "Close the window shades fully",
+        "Place a bedpan within easy reach",
+        "Turn down the television volume",
+        "Tell the client to call for help"
+      ],
+      "answer": "D",
+      "rationale": "Diazepam commonly causes dizziness, drowsiness, and lethargy, so the nurse puts safety measures in place: side rails up and assistance when getting out of bed.",
+      "explanations": [
+        "Not a safety priority.",
+        "Helpful, but not the priority.",
+        "Not a safety priority.",
+        "Correct: prevents falls from sedation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1473 (PDF p. 1782)",
+      "quote": "The most frequent side effects of this medication are dizziness, drowsiness, and lethargy."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with Parkinson's disease takes benztropine daily. Which side effect should the nurse specifically monitor for?",
+      "options": [
+        "Pupil response",
+        "Prothrombin time",
+        "Skin temperature",
+        "Intake and output"
+      ],
+      "answer": "D",
+      "rationale": "Benztropine is anticholinergic and can cause urinary retention, so intake and output are monitored. The nurse watches for dysuria, distention, small voidings, and overflow incontinence.",
+      "explanations": [
+        "Not the specific concern.",
+        "Unrelated to benztropine.",
+        "Not the specific concern.",
+        "Correct: detects urinary retention."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1476 (PDF p. 1785)",
+      "quote": "Urinary retention is a side effect of benztropine mesylate, an anticholinergic medication."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client with AIDS and CMV retinitis is on ganciclovir. Which nursing action is appropriate?",
+      "options": [
+        "Monitor for high blood glucose",
+        "Give it only on an empty stomach",
+        "Encourage vigorous contact sports",
+        "Use bleeding precautions such as a soft toothbrush"
+      ],
+      "answer": "D",
+      "rationale": "Ganciclovir frequently causes neutropenia and thrombocytopenia, so the nurse uses bleeding precautions (soft toothbrush, electric razor) and watches for bleeding.",
+      "explanations": [
+        "Not a key effect of ganciclovir.",
+        "Not the key concern.",
+        "Trauma increases the bleeding risk.",
+        "Correct: thrombocytopenia raises the bleeding risk."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1478 (PDF p. 1787)",
+      "quote": "Ganciclovir causes neutropenia and thrombocytopenia as the most frequent side effects."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client on quinidine for ventricular ectopy develops diarrhea and nausea. What should the client do?",
+      "options": [
+        "Stop the drug until it passes",
+        "Halve the dose on their own",
+        "Notify the provider but keep taking it",
+        "Switch to every-other-day dosing"
+      ],
+      "answer": "C",
+      "rationale": "GI upset and dizziness are common with quinidine and are reported, but the client never stops the drug. A sudden fall in the drug level can trigger dysrhythmias.",
+      "explanations": [
+        "Stopping can trigger dysrhythmias.",
+        "The dose is never changed by the client.",
+        "Correct: report it, but keep taking the drug.",
+        "Not appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1479 (PDF p. 1788)",
+      "quote": "A rapid decrease in the medication level of an antidysrhythmic could precipitate dysrhythmia."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client with diabetes insipidus asks what vasopressin will do. The nurse explains that it:",
+      "options": [
+        "Causes vasodilation",
+        "Slows peristalsis",
+        "Decreases urine output",
+        "Relaxes smooth muscle"
+      ],
+      "answer": "C",
+      "rationale": "Vasopressin, an antidiuretic, increases water reabsorption in the renal tubules and decreases urine output. It also causes vasoconstriction and stimulates peristalsis and smooth muscle.",
+      "explanations": [
+        "It causes vasoconstriction.",
+        "It stimulates peristalsis.",
+        "Correct: antidiuretic action.",
+        "It stimulates smooth muscle contraction."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1481 (PDF p. 1790)",
+      "quote": "increases reabsorption of water by the renal tubules, resulting in decreased urinary output."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client well controlled on glyburide now has fasting glucose of 180 to 200 mg/dL. Which drug on the record may be the cause?",
+      "options": [
+        "Prednisone",
+        "Ranitidine",
+        "Cimetidine",
+        "Ciprofloxacin"
+      ],
+      "answer": "A",
+      "rationale": "Corticosteroids, thiazides, and lithium can reduce glyburide's effect and cause hyperglycemia. The other drugs may enhance its effect.",
+      "explanations": [
+        "Correct: corticosteroids raise blood glucose.",
+        "May enhance glyburide's effect.",
+        "May enhance glyburide's effect.",
+        "May enhance glyburide's effect."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1482 (PDF p. 1791)",
+      "quote": "Corticosteroids, thiazide diuretics, and lithium may decrease the effect of glyburide, causing hyperglycemia."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which statement about buspirone should the nurse include in client teaching?",
+      "options": [
+        "It carries a high risk of addiction",
+        "Dizziness and nausea may occur",
+        "Tolerance develops quickly",
+        "It causes strong sedation"
+      ],
+      "answer": "B",
+      "rationale": "Buspirone's side effects (dizziness, nausea, headache, lightheadedness) are usually minor. Unlike benzodiazepines, it is not addicting, tolerance does not develop, and it is not strongly sedating.",
+      "explanations": [
+        "It is not addicting.",
+        "Correct: common, mild side effects.",
+        "Tolerance does not develop.",
+        "It has minimal sedation."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1483 (PDF p. 1792)",
+      "quote": "Dizziness, nausea, headaches, lightheadedness, and paradoxical central nervous system excitement, which generally are not major problems, are side effects of the medication."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client taking cyclosporine after a kidney transplant should be MOST alert for:",
+      "options": [
+        "Hair loss",
+        "Weight loss",
+        "Hypotension",
+        "Signs of infection"
+      ],
+      "answer": "D",
+      "rationale": "Immunosuppression increases the risk of infection, so the client reports signs of infection. Other effects include hypertension, hirsutism, tremors, and gingival hyperplasia.",
+      "explanations": [
+        "It causes increased hair growth.",
+        "Not the main concern.",
+        "It tends to cause hypertension.",
+        "Correct: immunosuppression raises the infection risk."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1484 (PDF p. 1793)",
+      "quote": "The client should be especially alert for signs and symptoms of infection while taking this medication"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client with Tourette's syndrome receives haloperidol decanoate. How does this drug act?",
+      "options": [
+        "It blocks serotonin reuptake",
+        "It inhibits acetylcholine breakdown",
+        "It blocks norepinephrine reuptake",
+        "It blocks dopamine receptors in the brain"
+      ],
+      "answer": "D",
+      "rationale": "Haloperidol decanoate is a long-acting antipsychotic that blocks dopamine at postsynaptic receptors. Fluoxetine blocks serotonin reuptake, donepezil inhibits acetylcholine breakdown, and imipramine blocks norepinephrine and serotonin reuptake.",
+      "explanations": [
+        "This describes fluoxetine.",
+        "This describes donepezil.",
+        "This describes imipramine.",
+        "Correct: dopamine receptor blockade."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1490 (PDF p. 1799)",
+      "quote": "acts by blocking the binding of dopamine to the postsynaptic dopamine receptors in the brain."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "The nurse teaches a client to mix regular and NPH insulin in one syringe. Which instruction is correct?",
+      "options": [
+        "Draw up the NPH insulin first",
+        "Shake the NPH bottle well",
+        "Roll the NPH bottle between the palms",
+        "Keep all bottles frozen"
+      ],
+      "answer": "C",
+      "rationale": "The NPH bottle is rotated between the hands to resuspend the insulin; shaking causes bubbles that alter the dose. Regular insulin is drawn up first. Bottles in use may be kept at room temperature.",
+      "explanations": [
+        "Regular is drawn up before NPH.",
+        "Shaking causes foaming and dosing errors.",
+        "Correct: rolling resuspends the insulin.",
+        "Insulin must not be frozen."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1491 (PDF p. 1800)",
+      "quote": "The NPH insulin bottle needs to be rotated for at least 1 minute between both hands."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which common side effect should the nurse watch for after giving preoperative scopolamine?",
+      "options": [
+        "Dry mouth",
+        "Diaphoresis",
+        "Excessive urination",
+        "Pupil constriction"
+      ],
+      "answer": "A",
+      "rationale": "Scopolamine is anticholinergic: dry mouth, urinary retention, decreased sweating, and dilated pupils. The distractors are the opposites of these effects.",
+      "explanations": [
+        "Correct: an anticholinergic effect.",
+        "It decreases sweating.",
+        "It causes urinary retention.",
+        "It dilates the pupils."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1495 (PDF p. 1804)",
+      "quote": "Scopolamine is an anticholinergic medication that causes the frequent side effects of dry mouth, urinary retention, decreased sweating, and dilation of the pupils."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "When should a client take a single daily dose of imipramine?",
+      "options": [
+        "In the morning before breakfast",
+        "At noon with lunch",
+        "Only when feeling depressed",
+        "At bedtime"
+      ],
+      "answer": "D",
+      "rationale": "Imipramine causes fatigue and drowsiness, so a single daily dose is taken at bedtime. Alcohol is avoided, and effects may take at least 2 weeks to appear.",
+      "explanations": [
+        "Morning dosing causes daytime drowsiness.",
+        "Daytime drowsiness.",
+        "It must be taken daily.",
+        "Correct: bedtime dosing."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1496 (PDF p. 1805)",
+      "quote": "The client should be instructed to take the medication (a single dose) at bedtime and not in the morning because it causes fatigue and drowsiness."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Metoclopramide four times daily is prescribed for diabetic gastroparesis. When should the nurse schedule it?",
+      "options": [
+        "With each meal and at bedtime",
+        "30 minutes before meals and at bedtime",
+        "One hour after meals and at bedtime",
+        "Every 6 hours around the clock"
+      ],
+      "answer": "B",
+      "rationale": "Metoclopramide stimulates upper GI motility. Giving it 30 minutes before meals lets it start working before food arrives.",
+      "explanations": [
+        "Too late to prepare the GI tract.",
+        "Correct: before meals and at bedtime.",
+        "Too late to help digestion.",
+        "Not timed to meals."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1501 (PDF p. 1810)",
+      "quote": "The client should be taught to take this medication 30 minutes before meals and at bedtime."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client is to take magnesium citrate after barium GI studies. How should it be taken?",
+      "options": [
+        "Mixed with fruit juice only",
+        "At room temperature",
+        "With a tepid glass of water",
+        "Chilled, with a full glass of water"
+      ],
+      "answer": "D",
+      "rationale": "Magnesium citrate solution is served chilled with a full glass of water and should not stand for long, which flattens the carbonation and makes it less palatable.",
+      "explanations": [
+        "Not the recommended way.",
+        "Chilled is more palatable.",
+        "Not the recommended way.",
+        "Correct: chilled, with a full glass of water."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1504 (PDF p. 1813)",
+      "quote": "It should be served chilled and taken with a full glass of water."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client with chronic pancreatitis starts pancrelipase. Which effect should the nurse tell the client to expect?",
+      "options": [
+        "Relief of heartburn",
+        "No more abdominal pain",
+        "Better blood glucose control",
+        "Less fat in the stools"
+      ],
+      "answer": "D",
+      "rationale": "Pancrelipase is a digestive enzyme that reduces steatorrhea and improves nutrition. It does not treat pain or heartburn and does not regulate glucose.",
+      "explanations": [
+        "Not its purpose.",
+        "Not its purpose.",
+        "Insulin regulates glucose.",
+        "Correct: reduces steatorrhea."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1505 (PDF p. 1814)",
+      "quote": "The medication should reduce the amount of fatty stools (steatorrhea)."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "A postoperative client complains of gas pains. Which prescribed drug should the nurse look for?",
+      "options": [
+        "Droperidol",
+        "Simethicone",
+        "Acetaminophen",
+        "Magnesium hydroxide"
+      ],
+      "answer": "B",
+      "rationale": "Simethicone is an antiflatulent that relieves pain from excess GI gas. Droperidol treats nausea, and magnesium hydroxide is an antacid and laxative.",
+      "explanations": [
+        "Treats postoperative nausea.",
+        "Correct: relieves gas pain.",
+        "A general analgesic, not antiflatulent.",
+        "An antacid and laxative."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1508 (PDF p. 1817)",
+      "quote": "Simethicone is an antiflatulent used in the relief of pain caused by excessive gas in the gastrointestinal tract."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "An older client is taking cimetidine. Which side effect should the home care nurse check for?",
+      "options": [
+        "Fatigue",
+        "Confusion",
+        "Constipation",
+        "Blurred vision"
+      ],
+      "answer": "B",
+      "rationale": "Older adults are especially prone to cimetidine's CNS effects, the most frequent being confusion.",
+      "explanations": [
+        "Not the key effect.",
+        "Correct: common in older adults.",
+        "Not associated with cimetidine.",
+        "Not associated with cimetidine."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1509 (PDF p. 1818)",
+      "quote": "Older clients are especially susceptible to the central nervous system side effects of cimetidine. The most frequent of these is confusion."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which finding shows a client with gout is responding to colchicine?",
+      "options": [
+        "Fewer headaches",
+        "Less joint inflammation",
+        "Lower blood glucose",
+        "Lower triglycerides"
+      ],
+      "answer": "B",
+      "rationale": "Colchicine blocks the white cell inflammatory response to urate crystals, decreasing joint pain, inflammation, and the number of attacks.",
+      "explanations": [
+        "Unrelated.",
+        "Correct: reduces gouty inflammation.",
+        "Unrelated.",
+        "Unrelated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1513 (PDF p. 1823)",
+      "quote": "It interferes with the ability of the white blood cells to initiate and maintain an inflammatory response to monosodium urate crystals."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What is the MOST common side effect of aluminum hydroxide antacid?",
+      "options": [
+        "Dizziness",
+        "Excitability",
+        "Muscle pain",
+        "Constipation"
+      ],
+      "answer": "D",
+      "rationale": "Aluminum-based antacids cause constipation and can cause hypophosphatemia. They contain sodium, so they are used cautiously in hypertension and heart failure.",
+      "explanations": [
+        "Not a side effect.",
+        "Not a side effect.",
+        "Not a side effect.",
+        "Correct: aluminum constipates."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1515 (PDF p. 1825)",
+      "quote": "Because of the antacid’s aluminum base, aluminum hydroxide causes constipation as a side effect."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "An older client has used casanthranol, a stimulant laxative, long-term. Which lab result is an adverse effect of this use?",
+      "options": [
+        "Sodium 135 mEq/L",
+        "Sodium 145 mEq/L",
+        "Potassium 3.1 mEq/L",
+        "Potassium 5.0 mEq/L"
+      ],
+      "answer": "C",
+      "rationale": "Long-term stimulant laxative use alters fluid and electrolyte transport and can cause hypokalemia. Normal potassium is 3.5 to 5.0 mEq/L.",
+      "explanations": [
+        "Normal sodium.",
+        "Normal sodium.",
+        "Correct: hypokalemia.",
+        "Normal potassium."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1518 (PDF p. 1827)",
+      "quote": "Hypokalemia can result from long-term use of casanthranol, which is a laxative."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What is the MOST frequent side effect of cyclobenzaprine for muscle spasms?",
+      "options": [
+        "Fatigue",
+        "Irritability",
+        "Excitability",
+        "Drowsiness"
+      ],
+      "answer": "D",
+      "rationale": "Cyclobenzaprine, a centrally acting muscle relaxant, most often causes drowsiness, dizziness, and dry mouth, so safety is a priority.",
+      "explanations": [
+        "Rare.",
+        "Not typical.",
+        "Not typical.",
+        "Correct: the most frequent side effect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1519 (PDF p. 1829)",
+      "quote": "The most frequent side effects of cyclobenzaprine are drowsiness, dizziness, and dry mouth."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A man is prescribed metoprolol for hypertension. Which common side effect may affect his adherence?",
+      "options": [
+        "Impotence",
+        "Mood swings",
+        "Increased appetite",
+        "Complete AV block"
+      ],
+      "answer": "A",
+      "rationale": "Impotence is a common side effect of beta blockers and may lead clients to stop the drug. Fatigue and weakness are also common.",
+      "explanations": [
+        "Correct: a common reason for nonadherence.",
+        "Not a reported side effect.",
+        "Not a reported side effect.",
+        "Not a common side effect."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1541 (PDF p. 1852)",
+      "quote": "A common side effect of beta-adrenergic blocking agents, such as metoprolol, is impotence."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client is on clozapine. Which laboratory value is the PRIORITY to monitor?",
+      "options": [
+        "Platelet count",
+        "Cholesterol level",
+        "Blood urea nitrogen",
+        "White blood cell count"
+      ],
+      "answer": "D",
+      "rationale": "Clozapine can cause agranulocytosis and leukopenia. The WBC count is checked before treatment and closely during it, and the client is watched for sore throat and fever.",
+      "explanations": [
+        "Not the priority.",
+        "Not the priority.",
+        "Not the priority.",
+        "Correct: watch for agranulocytosis."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1545 (PDF p. 1857)",
+      "quote": "The white blood cell count should be assessed before initiating treatment and should be monitored closely during the use of this medication."
+    }
+  ]
+}

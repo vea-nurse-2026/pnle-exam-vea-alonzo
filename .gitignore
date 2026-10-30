@@ -1,0 +1,7 @@
+node_modules/
+client/dist/
+client/dist-exam/
+server/data/
+.env
+*.log
+materials/

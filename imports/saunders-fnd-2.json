@@ -1,0 +1,917 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "Which question gets the MOST thorough data about a client's recent sleep?",
+      "options": [
+        "'Are you sleeping well?'",
+        "'Did you sleep last night?'",
+        "'May we talk about your sleep lately?'",
+        "'Do you take sleeping pills?'"
+      ],
+      "answer": "C",
+      "rationale": "An open question lets the client express thoughts and feelings. The others invite one-word answers, and one night is not a pattern.",
+      "explanations": [
+        "Closed.",
+        "Closed, one night.",
+        "Correct: open-ended.",
+        "Closed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q342 (PDF p. 510)",
+      "quote": "The remaining options could lead to a one-word answer that would not provide thorough assessment data."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What is the PRIORITY after arthroscopy?",
+      "options": [
+        "Monitor I&O",
+        "Inspect the incision",
+        "Check for numbness or tingling",
+        "Encourage fluids"
+      ],
+      "answer": "C",
+      "rationale": "After arthroscopy, the priority is monitoring the affected area for numbness or tingling (neurovascular status).",
+      "explanations": [
+        "Less priority.",
+        "Less priority.",
+        "Correct: neurovascular check.",
+        "Less priority."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q352 (PDF p. 520)",
+      "quote": "The priority nursing action is to monitor the affected area for numbness or tingling."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which discharge instruction fits a client after abdominal hysterectomy?",
+      "options": [
+        "Sit as much as possible",
+        "Take tub baths",
+        "Avoid heavy lifting",
+        "Climb stairs freely"
+      ],
+      "answer": "C",
+      "rationale": "After abdominal hysterectomy, the client avoids heavy lifting, limits stair climbing, and walks indoors at first, gradually increasing.",
+      "explanations": [
+        "Promotes pooling.",
+        "Showers preferred.",
+        "Correct.",
+        "Limit stairs."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q361 (PDF p. 529)",
+      "quote": "After abdominal hysterectomy, the client should avoid lifting anything that is heavy"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which drink should a client with a colostomy take regularly to help prevent odor?",
+      "options": [
+        "Beer",
+        "Soda",
+        "Cranberry juice",
+        "Coffee"
+      ],
+      "answer": "C",
+      "rationale": "Parsley, yogurt, buttermilk, and cranberry juice help prevent colostomy odor.",
+      "explanations": [
+        "Causes odor.",
+        "Causes odor.",
+        "Correct: reduces odor.",
+        "Causes odor."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q398 (PDF p. 568)",
+      "quote": "Parsley, yogurt, buttermilk, and cranberry juice will prevent odor."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Personal & Professional Development",
+      "situation": "",
+      "stem": "While bathing a client, the nurse gets an emergency phone call. What should she do?",
+      "options": [
+        "Finish the bath first",
+        "Leave right away",
+        "Cover, give call light",
+        "Leave her uncovered"
+      ],
+      "answer": "C",
+      "rationale": "For privacy and safety, the nurse covers the client and places the call light within reach before leaving.",
+      "explanations": [
+        "Delays emergency.",
+        "Unsafe.",
+        "Correct: safe and private.",
+        "Unsafe, no privacy."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q404 (PDF p. 577)",
+      "quote": "the nurse covers the client and places the call light within the client’s reach."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which reason for a restraint shows a need for MORE staff education?",
+      "options": [
+        "Immobilize a limb for a procedure",
+        "Protect an IV line",
+        "Keep the client in bed at night",
+        "Prevent pulling out tubes"
+      ],
+      "answer": "C",
+      "rationale": "Restraints limit movement when a limb must be immobilized. They are not used to keep a client in bed at night or as punishment or convenience.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Correct answer: not a valid reason.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q405 (PDF p. 579)",
+      "quote": "Restraints are not applied to keep a client in bed at night"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which finding in an older client calls for a fall-prevention protocol?",
+      "options": [
+        "Normal gait",
+        "Decreased peripheral vision",
+        "Full range of motion",
+        "Strong grip"
+      ],
+      "answer": "B",
+      "rationale": "Aging changes such as limited range of motion, decreased peripheral vision, and slowed nerve conduction increase accident risk.",
+      "explanations": [
+        "No risk.",
+        "Correct: risk factor.",
+        "No risk.",
+        "No risk."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q407 (PDF p. 581)",
+      "quote": "The physiological changes that occur during the aging process increase the client’s risk for accidents."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "Which measure prevents intestinal parasite spread in a preschool?",
+      "options": [
+        "Cook every food",
+        "Keep sick children at home only",
+        "Use standard precautions and handwashing",
+        "Give all children deworming daily"
+      ],
+      "answer": "C",
+      "rationale": "Intestinal parasites spread by the fecal-oral route; standard precautions with handwashing prevent transmission.",
+      "explanations": [
+        "Washing may suffice.",
+        "Incomplete.",
+        "Correct.",
+        "Not appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q411 (PDF p. 587)",
+      "quote": "The fecal-oral route is the mode of transmission of an intestinal parasitical disease."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "What should the nurse do when moving a client from the OR table to a stretcher?",
+      "options": [
+        "Check LOC and tell the client",
+        "Move the client alone",
+        "Leave the stretcher unlocked",
+        "Lift by the arms"
+      ],
+      "answer": "A",
+      "rationale": "For safe transfer the nurse assesses LOC, tells the client about the transfer, and ensures enough help and locked wheels.",
+      "explanations": [
+        "Correct.",
+        "Unsafe.",
+        "Unsafe.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q416 (PDF p. 593)",
+      "quote": "the nurse should assess the client’s level of consciousness"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "After bronchoscopy with sedation and topical anesthetic, what is the PRIORITY?",
+      "options": [
+        "Give water to soothe the throat",
+        "Keep NPO until gag reflex returns",
+        "Lay the client flat",
+        "Encourage talking"
+      ],
+      "answer": "B",
+      "rationale": "The client stays NPO until cough, gag, and swallow reflexes return (usually 1–2 hours), then starts with ice chips.",
+      "explanations": [
+        "Aspiration risk.",
+        "Correct: prevents aspiration.",
+        "Not required.",
+        "Rest the throat."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q433 (PDF p. 611)",
+      "quote": "the client remains NPO until the cough, gag, and swallow reflexes have returned"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A home care client recovering from a mild stroke lives alone. Which assessment checks safety risk?",
+      "options": [
+        "Gait and posture",
+        "Favorite food",
+        "Income",
+        "Religion"
+      ],
+      "answer": "A",
+      "rationale": "Safety assessment includes visual acuity, gait and posture, and muscle strength because changes raise fall risk.",
+      "explanations": [
+        "Correct.",
+        "Not safety.",
+        "Not the focus.",
+        "Not safety."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q438 (PDF p. 617)",
+      "quote": "The assessment should include assessing visual acuity, gait and posture, and muscle strength"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which is a MEDICAL asepsis (clean technique) action?",
+      "options": [
+        "Applying a sterile dressing",
+        "Sterilizing instruments",
+        "Hand hygiene",
+        "Inserting a urinary catheter"
+      ],
+      "answer": "C",
+      "rationale": "Medical asepsis reduces and prevents the spread of microorganisms through hand hygiene, cleaning the environment, and clean gloves.",
+      "explanations": [
+        "Surgical asepsis.",
+        "Surgical asepsis.",
+        "Correct.",
+        "Surgical asepsis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q439 (PDF p. 619)",
+      "quote": "Medical asepsis, or clean technique, includes procedures to reduce and prevent the spread of microorganisms."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "After a radial ABG draw, how is bleeding prevented?",
+      "options": [
+        "Warm compress",
+        "Pressure for 5 to 10 minutes",
+        "Elevate the arm only",
+        "Cover with a loose dressing"
+      ],
+      "answer": "B",
+      "rationale": "Pressure over the site for 5 to 10 minutes prevents hematoma and arterial damage.",
+      "explanations": [
+        "Increases flow.",
+        "Correct.",
+        "Not enough.",
+        "Not enough."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q441 (PDF p. 621)",
+      "quote": "Applying pressure over the puncture site for 5 to 10 minutes reduces the risk of hematoma formation"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "How is an AV fistula arm BEST protected on admission?",
+      "options": [
+        "Put an allergy band on it",
+        "Place an alert band: no BP or IV",
+        "Wrap it tightly",
+        "Use it for blood draws"
+      ],
+      "answer": "B",
+      "rationale": "No venipunctures or BP on the access arm; an alert bracelet communicates this to all caregivers.",
+      "explanations": [
+        "Wrong band.",
+        "Correct.",
+        "Impairs flow.",
+        "Prohibited."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q442 (PDF p. 622)",
+      "quote": "There should be no venipunctures or blood pressure measurements in the extremity with a hemodialysis access device."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which finding is a NEGATIVE outcome of wrist restraints?",
+      "options": [
+        "Intact skin",
+        "Warm hands",
+        "Impaired skin integrity",
+        "Calm behavior"
+      ],
+      "answer": "C",
+      "rationale": "Negative outcomes include impaired skin, poor circulation, agitation, and incontinence.",
+      "explanations": [
+        "Positive.",
+        "Positive.",
+        "Correct: harm.",
+        "Positive."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q465 (PDF p. 647)",
+      "quote": "Negative outcomes in the use of restraints include signs of impaired skin in"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How does the nurse reduce infection risk in a client on TPN?",
+      "options": [
+        "Check VS every 4 hours",
+        "Give antibiotics",
+        "Change line weekly",
+        "Strict aseptic care"
+      ],
+      "answer": "D",
+      "rationale": "Concentrated glucose supports bacterial growth, so aseptic technique for dressing, tubing, and bag changes reduces infection.",
+      "explanations": [
+        "Detects, not prevents.",
+        "Not routine.",
+        "Not the rule.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q467 (PDF p. 651)",
+      "quote": "the concentrated glucose solutions are an excellent medium for bacterial growth."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client gets dizzy sitting up for thoracentesis. Which alternate position is safest?",
+      "options": [
+        "Prone position",
+        "Trendelenburg",
+        "Supine, flat",
+        "Unaffected side-lying"
+      ],
+      "answer": "D",
+      "rationale": "If the client cannot sit, he lies on the unaffected side with the head elevated so fluid collects on the affected side.",
+      "explanations": [
+        "Not used.",
+        "Not used.",
+        "Not used.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q504 (PDF p. 699)",
+      "quote": "Positioning can help isolate the fluid in a pleural effusion"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which finding shows a restraint was applied UNSAFELY?",
+      "options": [
+        "Slip knot used",
+        "Restraint tied snugly",
+        "Call bell in reach",
+        "Tied to the bed frame"
+      ],
+      "answer": "B",
+      "rationale": "A restraint is never applied snugly because it impairs circulation. Slip knots and a reachable call bell are correct.",
+      "explanations": [
+        "Correct practice.",
+        "Correct answer: unsafe.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q512 (PDF p. 707)",
+      "quote": "A restraint should never be applied snugly because it could impair circulation."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which is a safety guideline for physical restraints?",
+      "options": [
+        "Tie to the side rails",
+        "Use a quick-release knot",
+        "Check every 8 hours",
+        "Apply without an order"
+      ],
+      "answer": "B",
+      "rationale": "Restraints need a prescription, are secured to the bed frame with a quick-release knot, and are checked often.",
+      "explanations": [
+        "Use the frame.",
+        "Correct.",
+        "More often.",
+        "Order needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q570 (PDF p. 775)",
+      "quote": "A physical restraint is a mechanical or physical device that is used to immobilize a client or extremity."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which food is allowed on a low-bacteria (neutropenic) diet?",
+      "options": [
+        "Raw salad",
+        "Fresh fruit",
+        "Well-done burger",
+        "Soft-boiled egg"
+      ],
+      "answer": "C",
+      "rationale": "Low-bacteria diets allow cooked foods such as bread, baked chicken, and well-done meat; raw produce and undercooked eggs are avoided.",
+      "explanations": [
+        "Raw.",
+        "Raw.",
+        "Correct: well cooked.",
+        "Undercooked."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q514 (PDF p. 709)",
+      "quote": "In the immunocompromised client, a low-bacteria diet is implemented."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A post-op client has episodes of extreme agitation. What prevents escalation?",
+      "options": [
+        "Hold the client's hand",
+        "Wait until calm",
+        "Speak and move slowly",
+        "Restrain at once"
+      ],
+      "answer": "C",
+      "rationale": "Slow speech and movement prevent escalation; sudden moves may trigger violence. Touch may be misread.",
+      "explanations": [
+        "May be misread.",
+        "Delays care.",
+        "Correct.",
+        "Escalates."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q516 (PDF p. 711)",
+      "quote": "Speaking and moving slowly toward the client will prevent the client from becoming further agitated"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "The nurse drops a used syringe on the floor. What should she do?",
+      "options": [
+        "Sweep it up",
+        "Call housekeeping",
+        "Leave it there",
+        "Put it in sharps"
+      ],
+      "answer": "D",
+      "rationale": "Used syringes go into a sharps container immediately. Sweeping risks needlesticks.",
+      "explanations": [
+        "Needlestick risk.",
+        "Delays.",
+        "Unsafe.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q518 (PDF p. 713)",
+      "quote": "Used syringes should always be placed in a sharps container immediately after use"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with partial left leg hemiplegia needs more support than a straight cane. Which device fits?",
+      "options": [
+        "Single-tip cane",
+        "Quad cane",
+        "No device",
+        "Crutches only"
+      ],
+      "answer": "B",
+      "rationale": "A tripod or quad cane gives multiple points of support for partial or complete hemiplegia.",
+      "explanations": [
+        "Not enough.",
+        "Correct.",
+        "Unsafe.",
+        "Not indicated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q523 (PDF p. 719)",
+      "quote": "A tripod or quadripod cane may be prescribed for the client who requires greater support and stability"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "What is the INITIAL action when a post-op client sits up to prepare for walking?",
+      "options": [
+        "Check for dizziness",
+        "Put on shoes",
+        "Get a wheelchair",
+        "Give analgesic"
+      ],
+      "answer": "A",
+      "rationale": "Ambulation should not exceed tolerance, so the client is assessed for dizziness and hypotension first.",
+      "explanations": [
+        "Correct.",
+        "Later.",
+        "Not needed.",
+        "Not initial."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q526 (PDF p. 723)",
+      "quote": "The client should be assessed for dizziness and hypotension before ambulation begins."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which action prevents electrical shock with equipment?",
+      "options": [
+        "Use two-prong plugs",
+        "Check cords for fraying",
+        "Use extension cords",
+        "Unplug by the cord"
+      ],
+      "answer": "B",
+      "rationale": "Use grounded three-prong plugs, check cords for fraying, and keep cords away from water.",
+      "explanations": [
+        "Use three-prong.",
+        "Correct.",
+        "Avoid.",
+        "Pull the plug head."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q527 (PDF p. 725)",
+      "quote": "checking the electrical cord for fraying or other dam"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How should a home IV pump be used safely?",
+      "options": [
+        "Keep it on always",
+        "Use an extension cord",
+        "Use a three-prong grounded outlet",
+        "Plug into any outlet"
+      ],
+      "answer": "C",
+      "rationale": "Equipment needs grounding; extension cords are never recommended, so the client sits near a three-prong outlet.",
+      "explanations": [
+        "Not the rule.",
+        "Never recommended.",
+        "Correct.",
+        "Must be grounded."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q579 (PDF p. 784)",
+      "quote": "Extension cords are never recommended"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "How is a client moved from stretcher to bed after spinal fusion?",
+      "options": [
+        "Two staff, bath blanket",
+        "Client moves himself",
+        "One staff lifts",
+        "Transfer board and four people"
+      ],
+      "answer": "D",
+      "rationale": "A transfer board and four people give optimal stabilization of the spine.",
+      "explanations": [
+        "Not enough.",
+        "Unsafe.",
+        "Unsafe.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q528 (PDF p. 726)",
+      "quote": "the client is transferred from the stretcher to the bed using a transfer board and the assistance of four people."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Besides handwashing, what should the nurse do before entering the room of a client with active TB?",
+      "options": [
+        "Wear a surgical mask",
+        "Wear an N95/HEPA respirator",
+        "Wear only gloves",
+        "Nothing more"
+      ],
+      "answer": "B",
+      "rationale": "TB is airborne, so the nurse wears a particulate (HEPA/N95) respirator; hands are washed before and after care.",
+      "explanations": [
+        "Not enough.",
+        "Correct.",
+        "Not enough.",
+        "Not enough."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q533 (PDF p. 731)",
+      "quote": "The nurse wears a HEPA respirator when caring for a client with active tuberculosis."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which equipment should be at the bedside for a pleural biopsy?",
+      "options": [
+        "Intubation tray",
+        "Morphine dose",
+        "Portable x-ray",
+        "Chest tube set"
+      ],
+      "answer": "D",
+      "rationale": "Complications include hemothorax and pneumothorax, so a chest tube and drainage system are kept ready.",
+      "explanations": [
+        "Not routine.",
+        "Not routine.",
+        "Not routine.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q535 (PDF p. 733)",
+      "quote": "Complications after pleural biopsy include hemothorax, pneumothorax"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "During hemodialysis, which action by a new nurse needs correction?",
+      "options": [
+        "Wearing gloves",
+        "Covering the access site",
+        "Checking vital signs",
+        "Using aseptic technique"
+      ],
+      "answer": "B",
+      "rationale": "The connection site should stay visible to check for bleeding, ischemia, and infection.",
+      "explanations": [
+        "Correct practice.",
+        "Correct answer: keep visible.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q536 (PDF p. 734)",
+      "quote": "the connection site should not be covered, and it should be visible"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "The nurse and a dialysis client are drinking coffee during treatment. What should the manager do?",
+      "options": [
+        "Ignore it",
+        "Join them",
+        "Stop the drinking",
+        "Tell the doctor"
+      ],
+      "answer": "C",
+      "rationale": "Dialysis-associated hepatitis B is a risk, so no eating or drinking in the client area.",
+      "explanations": [
+        "Unsafe.",
+        "Unsafe.",
+        "Correct.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q560 (PDF p. 761)",
+      "quote": "A potential complication of hemodialysis is the acquisition of dialysis-associated hepatitis B."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What must be in place before a MUGA scan?",
+      "options": [
+        "Foley catheter",
+        "Signed informed consent",
+        "NPO for 24 hours",
+        "Bowel prep"
+      ],
+      "answer": "B",
+      "rationale": "A radioisotope is injected IV for the MUGA scan, so signed informed consent is needed.",
+      "explanations": [
+        "Not needed.",
+        "Correct.",
+        "Not needed.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q539 (PDF p. 737)",
+      "quote": "A radioisotope is injected intravenously. Therefore, a signed informed consent is"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A nursing attendant asks how to protect herself caring for a client with chlamydial urethritis. What does the nurse say?",
+      "options": [
+        "Wear a gown and mask",
+        "Use reverse isolation",
+        "Use standard precautions",
+        "Avoid the room"
+      ],
+      "answer": "C",
+      "rationale": "Chlamydia is sexually transmitted; caregivers cannot catch it through care, so standard precautions suffice.",
+      "explanations": [
+        "Not needed.",
+        "Not indicated.",
+        "Correct.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q544 (PDF p. 744)",
+      "quote": "Caregivers cannot acquire the disease during administration of care"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the PRIORITY before bronchoscopy?",
+      "options": [
+        "Signed informed consent",
+        "Shellfish allergy check",
+        "Clear liquids that day",
+        "Give an antibiotic"
+      ],
+      "answer": "A",
+      "rationale": "Bronchoscopy is invasive and requires informed consent. The client is NPO beforehand.",
+      "explanations": [
+        "Correct.",
+        "No dye.",
+        "NPO instead.",
+        "Not routine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q554 (PDF p. 755)",
+      "quote": "Because the procedure is invasive, it requires obtaining informed consent"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A hospitalized child exposed to varicella 2 weeks ago develops a trunk rash. What is the PRIORITY?",
+      "options": [
+        "Reassign the roommate later",
+        "Place the child in isolation",
+        "Give an antipyretic",
+        "Call the parents first"
+      ],
+      "answer": "B",
+      "rationale": "Varicella incubation is 14–21 days; the child is isolated at once to prevent spread.",
+      "explanations": [
+        "Too slow.",
+        "Correct.",
+        "Not priority.",
+        "Not priority."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q559 (PDF p. 760)",
+      "quote": "The incubation period is 14 to 21 days."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "What should the client know about shock wave lithotripsy?",
+      "options": [
+        "It is a major surgery",
+        "The stone passes as fine sand in urine",
+        "No fluids are needed",
+        "It needs general anesthesia always"
+      ],
+      "answer": "B",
+      "rationale": "Lithotripsy is noninvasive; shock waves shatter the stone into fine sand passed in the urine.",
+      "explanations": [
+        "Noninvasive.",
+        "Correct.",
+        "Fluids help.",
+        "Not always."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q565 (PDF p. 768)",
+      "quote": "The stone is broken into fine sand, which is passed in the client"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "An older client is 4 days post-ORIF for hip fracture. Which measure keeps her safe?",
+      "options": [
+        "Give ice chips only",
+        "Ask her to call before getting up",
+        "Keep the room dark",
+        "Restrict all fluids"
+      ],
+      "answer": "B",
+      "rationale": "Age, surgery, and opioids raise fall risk, so she calls for help before getting up.",
+      "explanations": [
+        "Not needed.",
+        "Correct.",
+        "Increases falls.",
+        "Harmful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q572 (PDF p. 777)",
+      "quote": "The nurse instructs the client to call for help before getting up"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which home oxygen safety teaching is correct?",
+      "options": [
+        "Hold the tank on your lap in the car",
+        "Check the tank level regularly",
+        "Store it near the stove",
+        "Smoke only outside the room"
+      ],
+      "answer": "B",
+      "rationale": "Check the oxygen level often so it does not run out. Tanks are secured when traveling and kept away from heat and flames.",
+      "explanations": [
+        "Secure it.",
+        "Correct.",
+        "Fire risk.",
+        "No smoking."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q578 (PDF p. 783)",
+      "quote": "The nurse instructs the client and family to check the oxygen level in the tank on a regular basis"
+    }
+  ]
+}

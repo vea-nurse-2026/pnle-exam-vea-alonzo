@@ -1,0 +1,773 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How is a client usually taught to use transdermal nitroglycerin patches?",
+      "options": [
+        "A new patch once every 7 days",
+        "A new patch each morning, off at night",
+        "One patch worn for 3 days straight",
+        "A patch only during chest pain"
+      ],
+      "answer": "B",
+      "rationale": "A new patch is applied each morning and left on for 12 to 16 hours as prescribed. The patch-free period helps prevent tolerance. Daily application ensures proper dosing.",
+      "explanations": [
+        "Nitroglycerin patches are applied daily.",
+        "Correct: a daily patch with a patch-free period.",
+        "Continuous wear promotes tolerance.",
+        "Patches are not used for acute pain."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1251 (PDF p. 1550)",
+      "quote": "The client is generally advised to apply a new medication patch each morning and leave it in place for 12 to 16 hours"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client admitted after fainting is on olanzapine. For which condition is this drug most likely prescribed?",
+      "options": [
+        "Schizophrenia",
+        "Dementia",
+        "Personality disorder",
+        "Major depression"
+      ],
+      "answer": "A",
+      "rationale": "Olanzapine is an atypical antipsychotic and a first-line treatment for schizophrenia, targeting positive and negative symptoms. It can cause orthostatic hypotension, so clients rise slowly.",
+      "explanations": [
+        "Correct: an atypical antipsychotic for schizophrenia.",
+        "Not an indicated use.",
+        "Not an indicated use.",
+        "Not an indicated use."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1260 (PDF p. 1561)",
+      "quote": "It is the first-line treatment for schizophrenia, targeting both the positive and the negative symptoms."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client receives NPH insulin at 7 AM. During which period is hypoglycemia MOST likely?",
+      "options": [
+        "8 AM, about 1 hour after",
+        "9 to 10 AM, 2 to 3 hours after",
+        "11 AM to 7 PM, 4 to 12 hours after",
+        "The next morning, 24 hours after"
+      ],
+      "answer": "C",
+      "rationale": "NPH is an intermediate-acting insulin that peaks 4 to 12 hours after it is given, when hypoglycemia is most likely.",
+      "explanations": [
+        "Too early for NPH.",
+        "This is closer to the peak of short-acting insulin.",
+        "Correct: the NPH peak is 4 to 12 hours.",
+        "Beyond the peak."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1264 (PDF p. 1565)",
+      "quote": "NPH is an intermediate-acting insulin with a peak time in 4 to 12 hours."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which finding in a client on haloperidol is an ADVERSE effect that should be reported?",
+      "options": [
+        "Occasional nausea",
+        "Mild hypotension",
+        "Blurred vision",
+        "Excessive drooling"
+      ],
+      "answer": "D",
+      "rationale": "Antipsychotic adverse effects include extrapyramidal symptoms such as parkinsonism (drooling), dystonia, akathisia, and tardive dyskinesia. Nausea, hypotension, and blurred vision are occasional side effects.",
+      "explanations": [
+        "An occasional side effect.",
+        "An occasional side effect.",
+        "An occasional side effect.",
+        "Correct: a parkinsonian adverse effect."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1265 (PDF p. 1566)",
+      "quote": "extrapyramidal symptoms, including parkinsonism effects (drooling)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with acute gouty arthritis is prescribed indomethacin. Which statement shows the client needs MORE teaching?",
+      "options": [
+        "'I'll rest when my joint is painful.'",
+        "'I'll call if I notice a rash.'",
+        "'I'll take a pill only when the pain is bad.'",
+        "'I'll report stomach upset or swelling.'"
+      ],
+      "answer": "C",
+      "rationale": "Indomethacin is given on a schedule, not as needed. Rest relieves gout pain, a rash may mean hypersensitivity, and gastric distress or swelling is reported.",
+      "explanations": [
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: it is taken on schedule, not PRN.",
+        "Correct practice."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1266 (PDF p. 1567)",
+      "quote": "Indomethacin may alleviate pain but is administered on a scheduled time frame, not on an as-needed schedule."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client is on a continuous IV heparin infusion. Which finding should the nurse watch for as an adverse effect?",
+      "options": [
+        "Tinnitus",
+        "Ecchymoses on the skin",
+        "Increased pulse rate",
+        "Increased blood pressure"
+      ],
+      "answer": "B",
+      "rationale": "Heparin increases the risk of bleeding: gum bleeding, ecchymoses, pink or cloudy urine, tarry stools, and occult blood in body fluids.",
+      "explanations": [
+        "Not related to heparin.",
+        "Correct: a sign of bleeding.",
+        "Not a direct effect of heparin.",
+        "Not an effect of heparin."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1277 (PDF p. 1576)",
+      "quote": "The nurse monitors for signs of bleeding, which includes bleeding from the gums, ecchymoses on the skin"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Chemical cardioversion is ordered for a client with atrial fibrillation. Which drug does the nurse expect?",
+      "options": [
+        "Lidocaine",
+        "Nifedipine",
+        "Amiodarone",
+        "Nitroglycerin"
+      ],
+      "answer": "C",
+      "rationale": "Amiodarone, an antidysrhythmic, can restore normal sinus rhythm in atrial fibrillation. Lidocaine treats ventricular dysrhythmias. Continuous cardiac monitoring is required.",
+      "explanations": [
+        "Used for ventricular dysrhythmias.",
+        "A vasodilator, not used for cardioversion.",
+        "Correct: restores sinus rhythm.",
+        "A vasodilator, not used for cardioversion."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1279 (PDF p. 1580)",
+      "quote": "Amiodarone is an antidysrhythmic that is useful in restoring normal sinus rhythm for the client experiencing atrial fibrillation."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A client with ventricular dysrhythmia receives an IV bolus of lidocaine. What should the nurse monitor MOST closely?",
+      "options": [
+        "The urine pH every hour",
+        "The radial pulse only",
+        "The temperature every hour",
+        "The BP and breathing"
+      ],
+      "answer": "D",
+      "rationale": "During an IV lidocaine bolus, the nurse monitors respiratory status and blood pressure. The apical pulse is preferred over the radial.",
+      "explanations": [
+        "Unrelated to lidocaine.",
+        "The apical pulse is preferred.",
+        "Unrelated to lidocaine.",
+        "Correct: lidocaine can depress BP and breathing."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1290 (PDF p. 1591)",
+      "quote": "The nurse is responsible for monitoring the client’s respiratory status and blood pressure while he or she is being treated with an IV bolus of this medication."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client with Addison's disease takes fludrocortisone. Which therapeutic effect should the nurse focus on?",
+      "options": [
+        "Balanced electrolytes",
+        "More thyroid hormone",
+        "A stronger immune response",
+        "Lower blood glucose"
+      ],
+      "answer": "A",
+      "rationale": "Fludrocortisone is a mineralocorticoid. It makes the kidneys reabsorb sodium and excrete potassium, restoring electrolyte and fluid balance and preventing hypotension.",
+      "explanations": [
+        "Correct: it promotes sodium retention and potassium excretion.",
+        "No effect on the thyroid.",
+        "Corticosteroids do not stimulate immunity.",
+        "Not its intended effect."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1311 (PDF p. 1613)",
+      "quote": "Mineralocorticoids act on the renal distal tubules to enhance the reabsorption of sodium and chloride ions and the excretion of potassium and hydrogen ions."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "When should blood for a serum digoxin level be drawn?",
+      "options": [
+        "Just before the next dose",
+        "One hour after a dose",
+        "Right after a dose",
+        "30 minutes after a dose"
+      ],
+      "answer": "A",
+      "rationale": "Digoxin levels are usually drawn just before a dose (or 6 to 8 hours after one) so the result is not falsely high.",
+      "explanations": [
+        "Correct: a trough level avoids a false high.",
+        "The level would be falsely elevated.",
+        "The level would be falsely elevated.",
+        "The level would be falsely elevated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1317 (PDF p. 1619)",
+      "quote": "Drawing the medication before a dose ensures that the level is not falsely elevated."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How should a client take aluminum hydroxide tablets?",
+      "options": [
+        "Together with other medicines",
+        "Swallowed whole with water",
+        "With a laxative every dose",
+        "Chewed thoroughly before swallowing"
+      ],
+      "answer": "D",
+      "rationale": "Aluminum hydroxide tablets are chewed thoroughly so they do not reach the small intestine undissolved. They are taken 2 hours apart from other drugs. Constipation is a side effect, but a laxative is not taken with every dose.",
+      "explanations": [
+        "Antacids interact with other drugs; separate them by 2 hours.",
+        "Whole tablets may not dissolve.",
+        "This promotes laxative dependence.",
+        "Correct: chew thoroughly."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1320 (PDF p. 1622)",
+      "quote": "Aluminum hydroxide tablets should be chewed thoroughly before swallowing."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Prednisone is newly prescribed. Which drug on the client's record should the nurse discuss with the prescriber?",
+      "options": [
+        "Furosemide",
+        "Oxycodone",
+        "Acetaminophen",
+        "Aspirin"
+      ],
+      "answer": "D",
+      "rationale": "Prednisone irritates the GI tract. Aspirin and NSAIDs add to this irritation and are avoided during corticosteroid therapy. Clients on prednisone are also watched for hyperglycemia and hypokalemia.",
+      "explanations": [
+        "Not the main concern here.",
+        "Not the main concern here.",
+        "A safer analgesic choice.",
+        "Correct: aspirin plus a steroid increases GI injury."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1334 (PDF p. 1636)",
+      "quote": "products such as aspirin (acetylsalicylic acid) and nonsteroidal antiinflammatory drugs are not used during corticosteroid therapy."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with von Willebrand disease is prescribed intranasal desmopressin. Which instruction should the nurse give the parents?",
+      "options": [
+        "Increase the child's fluid intake",
+        "Reduce fluid intake during early treatment",
+        "Keep the spray in the freezer",
+        "Give extra doses for nosebleeds"
+      ],
+      "answer": "B",
+      "rationale": "Desmopressin reduces urine output, so fluids are reduced during initial treatment to prevent fluid buildup. The spray is refrigerated, not frozen.",
+      "explanations": [
+        "Fluid overload can result.",
+        "Correct: limit fluids during early treatment.",
+        "It is refrigerated, not frozen.",
+        "Extra doses are not given without orders."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1342 (PDF p. 1645)",
+      "quote": "Parents should be instructed to reduce fluid intake during initial treatment"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A client with acute myocardial infarction is receiving alteplase. Which finding suggests a complication?",
+      "options": [
+        "Epistaxis",
+        "Vomiting",
+        "ST changes on ECG",
+        "Absent pedal pulses"
+      ],
+      "answer": "A",
+      "rationale": "Bleeding, superficial or internal, is the main adverse effect of thrombolytic therapy. A nosebleed is a sign of it.",
+      "explanations": [
+        "Correct: bleeding from thrombolytic therapy.",
+        "Not a typical complication of alteplase.",
+        "Expected in MI; not a drug complication.",
+        "Not a typical complication of alteplase."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1357 (PDF p. 1660)",
+      "quote": "Bleeding is an adverse effect of altepase therapy."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Methylergonovine is given IM to a mother right after delivery. What is its purpose?",
+      "options": [
+        "To decrease uterine contractions",
+        "To prevent postpartum hemorrhage",
+        "To maintain a normal blood pressure",
+        "To increase lochia drainage"
+      ],
+      "answer": "B",
+      "rationale": "Methylergonovine is an oxytocic that contracts the uterus to prevent or control postpartum hemorrhage. It may raise blood pressure.",
+      "explanations": [
+        "It increases contractions.",
+        "Correct: it prevents PPH.",
+        "It may raise BP.",
+        "Not the purpose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1363 (PDF p. 1666)",
+      "quote": "Methylergonovine maleate, an oxytocic, is an agent used to prevent or control postpartum hemorrhage by contracting the uterus."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "A laboring client receives butorphanol for pain. Which item must be readily available?",
+      "options": [
+        "Naloxone",
+        "Meperidine",
+        "An IV antiemetic",
+        "Magnesium sulfate"
+      ],
+      "answer": "A",
+      "rationale": "Butorphanol is an opioid analgesic. Naloxone and resuscitation equipment are kept ready in case of respiratory depression.",
+      "explanations": [
+        "Correct: reverses opioid respiratory depression.",
+        "Another opioid; it would add to depression.",
+        "May be useful, but not the priority.",
+        "Unrelated to opioid reversal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1365 (PDF p. 1668)",
+      "quote": "The nurse should ensure that naloxone and resuscitation equipment are readily available to treat respiratory depression"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which statement shows a client understands allopurinol therapy for gout?",
+      "options": [
+        "'I'll put ice on my lips if they swell.'",
+        "'I'll take it 2 hours after eating.'",
+        "'I'll drink at least 8 glasses of fluid daily.'",
+        "'I'll stop it if I get a rash, then restart.'"
+      ],
+      "answer": "C",
+      "rationale": "Clients on allopurinol drink about 3,000 mL of fluid daily. Rash, eye irritation, or lip swelling may mean hypersensitivity and is reported. The drug is taken with or right after meals.",
+      "explanations": [
+        "Lip swelling must be reported.",
+        "It is taken with or after meals.",
+        "Correct: high fluid intake.",
+        "A rash must be reported."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1367 (PDF p. 1670)",
+      "quote": "Clients taking allopurinol are encouraged to drink 3000 mL of fluid a day."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "A mother receives the rubella vaccine 2 days after delivery. Which instruction is MOST important?",
+      "options": [
+        "Stay out of the sun for 3 days",
+        "Stop breastfeeding for a week",
+        "Avoid pregnancy for a while",
+        "Expect lifelong immunity now"
+      ],
+      "answer": "C",
+      "rationale": "Rubella vaccine is a live attenuated virus that can harm a developing fetus, so the woman avoids pregnancy for the period advised after vaccination. Immunity lasts about 15 years.",
+      "explanations": [
+        "Not related to the vaccine.",
+        "Breastfeeding may continue.",
+        "Correct: the live vaccine is potentially teratogenic.",
+        "Immunity lasts about 15 years."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1368 (PDF p. 1671)",
+      "quote": "Because rubella is a live vaccine, it will act as the virus and is potentially teratogenic"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A client on phenelzine suddenly has a severe occipital headache, stiff neck, sweating, and very high BP. Which drug should the nurse prepare?",
+      "options": [
+        "Vitamin K",
+        "Phentolamine",
+        "Protamine sulfate",
+        "Calcium gluconate"
+      ],
+      "answer": "B",
+      "rationale": "These are signs of an MAOI hypertensive crisis. Phentolamine given IV is the antidote.",
+      "explanations": [
+        "Reverses warfarin.",
+        "Correct: treats MAOI hypertensive crisis.",
+        "Reverses heparin.",
+        "Reverses magnesium."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1375 (PDF p. 1678)",
+      "quote": "The antidote for hypertensive crisis is phentolamine"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with CKD is receiving epoetin alfa. Which serious adverse effect should the nurse monitor for?",
+      "options": [
+        "Worsening anemia",
+        "Hypertension",
+        "Iron toxicity",
+        "Bleeding tendency"
+      ],
+      "answer": "B",
+      "rationale": "Hypertension and seizures are the most serious adverse effects of epoetin alfa. The drug treats anemia.",
+      "explanations": [
+        "The drug treats anemia.",
+        "Correct: a major adverse effect.",
+        "Not caused by epoetin.",
+        "Not an adverse effect of epoetin."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1384 (PDF p. 1687)",
+      "quote": "The client taking epoetin alfa is at risk of hypertension and seizure activity as the most serious adverse effects of therapy."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client with Zollinger-Ellison syndrome is on lansoprazole. Which pain reliever is the SAFEST choice?",
+      "options": [
+        "Naproxen",
+        "Ibuprofen",
+        "Acetaminophen",
+        "Aspirin"
+      ],
+      "answer": "C",
+      "rationale": "Zollinger-Ellison syndrome causes gastric hypersecretion. Aspirin and NSAIDs irritate the stomach lining, so acetaminophen is used for pain.",
+      "explanations": [
+        "An NSAID that irritates the stomach.",
+        "An NSAID that irritates the stomach.",
+        "Correct: does not irritate the gastric lining.",
+        "Irritates the stomach."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1385 (PDF p. 1688)",
+      "quote": "The client should take acetaminophen for pain relief."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "How should a client take amiloride 10 mg daily for hypertension?",
+      "options": [
+        "In the morning with breakfast",
+        "At bedtime on an empty stomach",
+        "Only when the BP is high",
+        "With extra salty food"
+      ],
+      "answer": "A",
+      "rationale": "Amiloride, a potassium-sparing diuretic, is taken in the morning to avoid nocturia and with food to improve bioavailability. Sodium is restricted when it is used for hypertension.",
+      "explanations": [
+        "Correct: morning with food.",
+        "Bedtime dosing causes nocturia.",
+        "It is taken daily, not as needed.",
+        "Sodium is restricted."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1388 (PDF p. 1691)",
+      "quote": "A daily dose should be taken in the morning to avoid nocturia."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Why is diphenhydramine given to a client before a blood transfusion?",
+      "options": [
+        "To prevent urticaria",
+        "To prevent fever and chills",
+        "To improve clotting",
+        "To expand blood volume"
+      ],
+      "answer": "A",
+      "rationale": "Urticaria (rash with itching) is a transfusion reaction that premedication with an antihistamine can prevent. Acetaminophen is given to prevent fever and chills.",
+      "explanations": [
+        "Correct: an antihistamine prevents urticaria.",
+        "Acetaminophen is used for this.",
+        "Not an effect of diphenhydramine.",
+        "Not an effect of diphenhydramine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1390 (PDF p. 1693)",
+      "quote": "Urticaria is a manifestation of a transfusion reaction when it occurs during a blood transfusion and is preventable by premedicating the client with an antihistamine"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A child with ADHD is prescribed methylphenidate. When should the mother give it?",
+      "options": [
+        "Before dinner and at bedtime",
+        "With lunch and dinner",
+        "After breakfast and at bedtime",
+        "Before breakfast and before lunch"
+      ],
+      "answer": "D",
+      "rationale": "Methylphenidate is a CNS stimulant given before breakfast and before lunch. Afternoon or evening doses cause insomnia.",
+      "explanations": [
+        "Evening doses cause insomnia.",
+        "The evening dose causes insomnia.",
+        "The bedtime dose causes insomnia.",
+        "Correct: morning and noon dosing."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1399 (PDF p. 1703)",
+      "quote": "Methylphenidate is a central nervous stimulant and should be taken before breakfast and before the noontime meal."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client with a gastric ulcer is on sucralfate 1 g four times daily. When should the client take it?",
+      "options": [
+        "With meals and at bedtime",
+        "Every 6 hours around the clock",
+        "Right after meals",
+        "1 hour before meals and at bedtime"
+      ],
+      "answer": "D",
+      "rationale": "Sucralfate is taken 1 hour before meals and at bedtime so it can coat the ulcer before food and acid irritate it. It can cause constipation.",
+      "explanations": [
+        "Food interferes with the coating.",
+        "Not the recommended timing.",
+        "Too late to protect the ulcer.",
+        "Correct: before meals and at bedtime."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1403 (PDF p. 1709)",
+      "quote": "The medication should be scheduled for administration 1 hour before meals and at bedtime."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "When should a client with peptic ulcer disease take propantheline?",
+      "options": [
+        "With meals",
+        "Together with antacids",
+        "Just after meals",
+        "30 minutes before meals"
+      ],
+      "answer": "D",
+      "rationale": "Propantheline is an anticholinergic that decreases GI secretions and is given 30 minutes before meals.",
+      "explanations": [
+        "Not the recommended timing.",
+        "Antacids interfere with absorption.",
+        "Not the recommended timing.",
+        "Correct: 30 minutes before meals."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1409 (PDF p. 1715)",
+      "quote": "It should be administered 30 minutes before meals."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "After mastectomy, a client's tumor is estrogen receptor-positive. Which follow-up treatment is commonly prescribed?",
+      "options": [
+        "Removal of the ovaries",
+        "Estrogen replacement",
+        "Tamoxifen",
+        "Long-term prednisone"
+      ],
+      "answer": "C",
+      "rationale": "Tamoxifen competes with estrogen for binding sites in breast tissue and is commonly given for years after surgery for ER-positive tumors. Estrogen would stimulate the tumor.",
+      "explanations": [
+        "Not the common follow-up.",
+        "Estrogen stimulates ER-positive tumors.",
+        "Correct: an antiestrogen therapy.",
+        "Not the standard treatment."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1416 (PDF p. 1722)",
+      "quote": "A common treatment for women with estrogen receptor–positive breast tumors is follow-up treatment with tamoxifen."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client takes donepezil hydrochloride. Which condition does the nurse expect the client to have?",
+      "options": [
+        "Alzheimer's-type dementia",
+        "Seizure disorder",
+        "Schizophrenia",
+        "Obsessive-compulsive disorder"
+      ],
+      "answer": "A",
+      "rationale": "Donepezil raises acetylcholine levels and is used for mild to moderate Alzheimer's-type dementia. It slows disease progression.",
+      "explanations": [
+        "Correct: a cholinergic agent for dementia.",
+        "Not an indication.",
+        "Not an indication.",
+        "Not an indication."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1417 (PDF p. 1723)",
+      "quote": "Donepezil hydrochloride is a cholinergic agent that is used in the treatment of mild to moderate dementia of the Alzheimer’s type."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Sertraline is prescribed for a client with depression. Which finding should make the nurse consult the prescriber first?",
+      "options": [
+        "Current phenelzine therapy",
+        "A history of diabetes",
+        "A past myocardial infarction",
+        "A history of asthma"
+      ],
+      "answer": "A",
+      "rationale": "Sertraline with an MAOI can cause serious, possibly fatal reactions. An MAOI must be stopped at least 14 days before sertraline, and vice versa.",
+      "explanations": [
+        "Correct: SSRI plus MAOI is dangerous.",
+        "Not a contraindication.",
+        "Not a contraindication.",
+        "Not a contraindication."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1422 (PDF p. 1728)",
+      "quote": "MAOIs should be stopped at least 14 days before sertraline therapy."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Mang Tonio, 58, a farmer, has sputum-positive pulmonary tuberculosis. He is enrolled in the TB-DOTS program at the rural health unit, and his regimen includes streptomycin.",
+      "stem": "Which test result would indicate a TOXIC effect of streptomycin?",
+      "options": [
+        "Abnormal vision test",
+        "Elevated hepatic enzymes",
+        "Low hemoglobin and hematocrit",
+        "Rising BUN and creatinine"
+      ],
+      "answer": "D",
+      "rationale": "Streptomycin is nephrotoxic, so BUN and creatinine are monitored. Vision testing is for ethambutol, and liver enzymes for isoniazid.",
+      "explanations": [
+        "Monitored for ethambutol.",
+        "Monitored for isoniazid.",
+        "Not specific to streptomycin.",
+        "Correct: streptomycin is nephrotoxic."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1425 (PDF p. 1734)",
+      "quote": "BUN and creatinine are measured during therapy with streptomycin because the medication is nephrotoxic."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Mang Tonio, 58, a farmer, has sputum-positive pulmonary tuberculosis. He is enrolled in the TB-DOTS program at the rural health unit, and his regimen includes streptomycin.",
+      "stem": "Mang Tonio's regimen also includes ethambutol. Which test should the nurse expect to be done during therapy?",
+      "options": [
+        "Audiometry",
+        "Vision testing",
+        "Pulmonary function test",
+        "Blood glucose"
+      ],
+      "answer": "B",
+      "rationale": "Ethambutol can cause optic neuritis, so vision testing is done. Isoniazid requires liver monitoring, and streptomycin requires kidney monitoring.",
+      "explanations": [
+        "Hearing is monitored for aminoglycosides.",
+        "Correct: ethambutol affects vision.",
+        "Not the specific drug monitoring.",
+        "Not related to ethambutol."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1425 (PDF p. 1734)",
+      "quote": "Vision testing is done during treatment with ethambutol."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with multiple sclerosis is taking baclofen. Which finding shows a therapeutic response?",
+      "options": [
+        "Less nausea",
+        "Fewer muscle spasms",
+        "Increased muscle tone",
+        "Full range of motion in all limbs"
+      ],
+      "answer": "B",
+      "rationale": "Baclofen is a skeletal muscle relaxant that acts on the spinal cord to reduce the frequency and strength of muscle spasms.",
+      "explanations": [
+        "Not its intended effect.",
+        "Correct: fewer spasms.",
+        "It relaxes muscles rather than increasing tone.",
+        "Not an expected effect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1428 (PDF p. 1737)",
+      "quote": "acts at the spinal cord level to decrease the frequency and amplitude of muscle spasms"
+    }
+  ]
+}

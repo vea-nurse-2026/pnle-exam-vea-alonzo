@@ -1,0 +1,485 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "During a chest x-ray, what is the client asked to do?",
+      "options": [
+        "Breathe rapidly",
+        "Inhale deeply and hold",
+        "Cough continuously",
+        "Exhale fully and hold"
+      ],
+      "answer": "B",
+      "rationale": "The client stands in front of the film, inhales deeply, and holds the breath while images are taken.",
+      "explanations": [
+        "Blurs image.",
+        "Correct.",
+        "Not done.",
+        "Not standard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Chest X-ray (PDF p. 60)",
+      "quote": "Ask the client to inhale deeply and hold his or her breath while the x-ray images are taken"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which SpO2 reading is considered normal?",
+      "options": [
+        "≥95%",
+        "85%",
+        "88%",
+        "90%"
+      ],
+      "answer": "A",
+      "rationale": "Normal pulse oximetry is 95% or more; lower values suggest hypoxemia.",
+      "explanations": [
+        "Correct.",
+        "Low.",
+        "Low.",
+        "Low."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pulse Oximetry (PDF p. 61)",
+      "quote": "Greater than or equal to 95%"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What should be done before applying a finger pulse oximeter?",
+      "options": [
+        "Remove nail polish",
+        "Apply lotion",
+        "Cool the finger",
+        "Tape it tightly"
+      ],
+      "answer": "A",
+      "rationale": "Remove false nails and polish; warming the finger improves blood flow.",
+      "explanations": [
+        "Correct.",
+        "Interferes.",
+        "Reduces flow.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pulse Oximetry (PDF p. 61)",
+      "quote": "Ensure that the patient does not have false fingernails and that nail polish has been removed."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How much pleural fluid may be removed in the first 30 minutes of thoracentesis?",
+      "options": [
+        "No more than 1000 mL",
+        "2000 mL",
+        "3000 mL",
+        "Unlimited"
+      ],
+      "answer": "A",
+      "rationale": "No more than 1000 mL is removed within the first 30 minutes to avoid complications such as re-expansion edema.",
+      "explanations": [
+        "Correct.",
+        "Too much.",
+        "Too much.",
+        "Unsafe."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Thoracentesis (PDF p. 62)",
+      "quote": "Don't remove more than 1.000 ml of fluid from the pleural cavity within the first 30 minutes"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "After thoracentesis, how is the client positioned for 1 hour?",
+      "options": [
+        "Unaffected side",
+        "Affected side",
+        "Prone",
+        "Trendelenburg"
+      ],
+      "answer": "A",
+      "rationale": "Post-thoracentesis, the client sits or lies on the unaffected side for 1 hour.",
+      "explanations": [
+        "Correct.",
+        "Not per handout.",
+        "Not used.",
+        "Not used."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Thoracentesis (PDF p. 62)",
+      "quote": "Position: sitting or side-lying (unaffected side) for 1 hour"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "In Allen's test, color should return within how many seconds?",
+      "options": [
+        "6 seconds",
+        "15 seconds",
+        "30 seconds",
+        "60 seconds"
+      ],
+      "answer": "A",
+      "rationale": "If color returns within 6 seconds after releasing the ulnar artery, collateral circulation is adequate.",
+      "explanations": [
+        "Correct.",
+        "Too slow.",
+        "Too slow.",
+        "Too slow."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Allen's Test (PDF p. 62)",
+      "quote": "If blood is restored within 6 seconds"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "The total air exhaled after a maximal inspiration is the:",
+      "options": [
+        "Tidal volume",
+        "Vital capacity",
+        "Functional residual capacity",
+        "Inspiratory capacity"
+      ],
+      "answer": "B",
+      "rationale": "Vital capacity is the maximum air exhaled after maximal inspiration.",
+      "explanations": [
+        "Quiet breath.",
+        "Correct.",
+        "Left after exhale.",
+        "After quiet exhale."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pulmonary Function (PDF p. 63)",
+      "quote": "Vital Capacity Total amount of air that can be exhaled after a maximal inspiration"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which medication should be held for 4 hours before pulmonary function tests?",
+      "options": [
+        "Water",
+        "Bronchodilators",
+        "Walking",
+        "Talking"
+      ],
+      "answer": "B",
+      "rationale": "Avoid bronchodilators for at least 4 hours and smoking or heavy meals for 4–6 hours.",
+      "explanations": [
+        "Allowed.",
+        "Correct.",
+        "Allowed.",
+        "Allowed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pulmonary Function (PDF p. 63)",
+      "quote": "Client should avoid bronchodilators for at least 4 hours before the study"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "During pulmonary angiography dye injection, what may the client feel?",
+      "options": [
+        "No sensation",
+        "Warm flushing",
+        "Severe pain",
+        "Electric shock"
+      ],
+      "answer": "B",
+      "rationale": "Clients may feel burning and flushing, an urge to cough, nausea, or a salty metallic taste.",
+      "explanations": [
+        "Not true.",
+        "Correct.",
+        "Not typical.",
+        "Not true."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pulmonary Angiography (PDF p. 64)",
+      "quote": "a burning and flushing sensation may be felt throughout the body during injection"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Why does the nurse mark peripheral pulses before angiography?",
+      "options": [
+        "For the client's records",
+        "To compare circulation after",
+        "To guide the needle",
+        "For billing"
+      ],
+      "answer": "B",
+      "rationale": "Marking pulses allows comparison of circulation after the procedure; bed rest is kept 4–6 hours.",
+      "explanations": [
+        "Not the purpose.",
+        "Correct.",
+        "Not the purpose.",
+        "Not the purpose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Pulmonary Angiography (PDF p. 64)",
+      "quote": "Mark the site of the client’s peripheral pulses before angiography using pen"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "After a barium swallow, what stool change should the client expect for 2–3 days?",
+      "options": [
+        "Black stool",
+        "White or light stool",
+        "Bloody stool",
+        "No stool"
+      ],
+      "answer": "B",
+      "rationale": "Stools are white or light for 2–3 days; report if they do not return to normal.",
+      "explanations": [
+        "Iron.",
+        "Correct.",
+        "Abnormal.",
+        "Report."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Barium Swallow (PDF p. 65)",
+      "quote": "stools will be white or light in color for 2 to 3 days"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What diet is given 2 days before a barium enema?",
+      "options": [
+        "High-fiber diet",
+        "Low-residue diet",
+        "High-fat diet",
+        "Regular diet"
+      ],
+      "answer": "B",
+      "rationale": "Low-residue and clear-liquid diets 2 days before, NPO 8 hours, plus laxatives.",
+      "explanations": [
+        "Opposite.",
+        "Correct.",
+        "Not appropriate.",
+        "Not appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Barium Enema (PDF p. 65)",
+      "quote": "Low-residue and clear-liquid diet 2 days before the procedure"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How is the client positioned for colonoscopy?",
+      "options": [
+        "Prone",
+        "Left Sims'",
+        "Right lateral",
+        "Supine flat"
+      ],
+      "answer": "B",
+      "rationale": "Colonoscopy uses the Sims' (left lateral, knees flexed) position.",
+      "explanations": [
+        "Not used.",
+        "Correct.",
+        "Not used.",
+        "Not used."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Colonoscopy (PDF p. 66)",
+      "quote": "Position: Sim’s position / Left side with knees flexed"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Why does the nurse ask about oral iron the week before colonoscopy?",
+      "options": [
+        "Iron causes sticky black stool",
+        "Iron causes bleeding",
+        "Iron prevents sedation",
+        "No reason"
+      ],
+      "answer": "A",
+      "rationale": "Oral iron within a week causes black, sticky stool that impairs visualization.",
+      "explanations": [
+        "Correct.",
+        "Not the reason.",
+        "Not true.",
+        "Has a reason."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Colonoscopy (PDF p. 66)",
+      "quote": "Note intake of oral iron preparations within 1 week before the procedure"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "After colonoscopy, which sign suggests perforation?",
+      "options": [
+        "Mild belching",
+        "Air bloating",
+        "Pain and fever",
+        "Passing flatus"
+      ],
+      "answer": "C",
+      "rationale": "Belching and flatus are from air insufflation; pain, distention, bleeding, or fever suggest perforation.",
+      "explanations": [
+        "Expected.",
+        "Expected.",
+        "Correct.",
+        "Expected."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Colonoscopy (PDF p. 66)",
+      "quote": "Observe for signs and symptoms of bowel perforation"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How many stool specimens are taken for a guaiac (occult blood) test?",
+      "options": [
+        "One sample",
+        "Three, consecutive days",
+        "Five samples",
+        "Seven samples"
+      ],
+      "answer": "B",
+      "rationale": "Three specimens on consecutive days are taken.",
+      "explanations": [
+        "Too few.",
+        "Correct.",
+        "Too many.",
+        "Too many."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Fecalysis (PDF p. 67)",
+      "quote": "Taken in 3 consecutive days (3 stool specimens)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How should a stool specimen for ova and parasites be handled?",
+      "options": [
+        "Refrigerate it",
+        "Send fresh and warm",
+        "Freeze it",
+        "Store for a day"
+      ],
+      "answer": "B",
+      "rationale": "O&P specimens are sent immediately, fresh and warm, often to detect amoebiasis.",
+      "explanations": [
+        "Kills organisms.",
+        "Correct.",
+        "Kills organisms.",
+        "Too late."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Stool Exam (PDF p. 67)",
+      "quote": "Specimen should be sent immediately (fresh and warm)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which instruction applies to a 72-hour stool fat collection?",
+      "options": [
+        "Avoid all fat",
+        "Eat fat; no mineral oil",
+        "Take laxatives",
+        "Drink alcohol"
+      ],
+      "answer": "B",
+      "rationale": "Fats are included in the diet; alcohol and mineral oil are avoided.",
+      "explanations": [
+        "Opposite.",
+        "Correct.",
+        "Not needed.",
+        "Avoid."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Stool for Lipids (PDF p. 67)",
+      "quote": "Avoid mineral oil and other oily medications."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How is the client positioned for proctosigmoidoscopy?",
+      "options": [
+        "Knee-chest",
+        "Supine",
+        "Sitting",
+        "Right lateral"
+      ],
+      "answer": "A",
+      "rationale": "Left lateral decubitus or knee-chest position is used.",
+      "explanations": [
+        "Correct.",
+        "Not used.",
+        "Not used.",
+        "Not used."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Proctosigmoidoscopy (PDF p. 66)",
+      "quote": "Position: left lateral decubitus position/ knee-chest position"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which older adult finding after bronchoscopy needs attention?",
+      "options": [
+        "Mild sore throat",
+        "Confusion and lethargy",
+        "Hunger",
+        "Normal speech"
+      ],
+      "answer": "B",
+      "rationale": "Older clients are assessed for confusion and lethargy after sedation; NPO until gag returns.",
+      "explanations": [
+        "Expected.",
+        "Correct.",
+        "Normal.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Bronchoscopy (PDF p. 61)",
+      "quote": "For elderly patients, nurse assesses for confusion and lethargy"
+    }
+  ]
+}

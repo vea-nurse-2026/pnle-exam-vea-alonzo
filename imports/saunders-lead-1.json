@@ -1,0 +1,869 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which nursing action is an example of client advocacy?",
+      "options": [
+        "Obtaining consent for surgery",
+        "Giving information for an informed decision",
+        "Following the doctor's orders",
+        "Completing the chart on time"
+      ],
+      "answer": "B",
+      "rationale": "As an advocate, the nurse protects the client's human and legal rights and gives the information the client needs to make an informed decision. Obtaining consent is the provider's responsibility.",
+      "explanations": [
+        "The provider's role.",
+        "Correct: supports the client's rights.",
+        "Not advocacy in itself.",
+        "Not advocacy in itself."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q401 (PDF p. 571)",
+      "quote": "The nurse advocates for the client by providing information needed so that the client can make an informed decision."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Which task can the nurse safely delegate to a nursing attendant?",
+      "options": [
+        "Counting controlled drugs",
+        "Assessing a new admission",
+        "Emptying a Foley bag",
+        "Teaching insulin use"
+      ],
+      "answer": "C",
+      "rationale": "Delegation keeps accountability with the nurse. Nursing attendants are trained for noninvasive tasks such as delivering water, emptying urine bags, and taking vital signs of stable clients.",
+      "explanations": [
+        "A licensed nurse's task.",
+        "Requires a nurse.",
+        "Correct: a noninvasive task.",
+        "Requires a nurse."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q403 (PDF p. 576)",
+      "quote": "Delegation is the transfer of responsibility for the performance of an activity or task while retaining accountability for the outcome."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Which activity is SAFE to assign to a nursing attendant?",
+      "options": [
+        "Assessing a post-op client",
+        "Collecting a urine specimen",
+        "Giving IV medicine",
+        "Planning discharge teaching"
+      ],
+      "answer": "B",
+      "rationale": "Delegated work must match the person's expertise. Collecting specimens and taking frequent oral temperatures carry little foreseeable risk. Assessment is not delegated.",
+      "explanations": [
+        "Requires a nurse.",
+        "Correct: low-risk task.",
+        "Requires a nurse.",
+        "Requires a nurse."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q460 (PDF p. 642)",
+      "quote": "Work that is delegated to others must be consistent with the individual’s level of expertise and licensure, if any."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "What should the nurse tell a nursing attendant to do for a client with acute glomerulonephritis?",
+      "options": [
+        "Ambulate him often",
+        "Encourage high-protein food",
+        "Check temp every 2 hours",
+        "Record intake and output"
+      ],
+      "answer": "D",
+      "rationale": "Acute glomerulonephritis causes fluid excess and fatigue. Care includes fluid restriction, weight and I&O monitoring, and rest. Protein is limited.",
+      "explanations": [
+        "Rest is encouraged.",
+        "Protein is limited.",
+        "Not needed.",
+        "Correct: monitors fluid excess."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q556 (PDF p. 757)",
+      "quote": "Interventions include fluid restriction, as well as monitoring weight and intake and output."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Reporting & Recording",
+      "situation": "",
+      "stem": "Which guideline belongs in a policy on telephone and verbal orders?",
+      "options": [
+        "Never use verbal orders",
+        "Avoid all abbreviations",
+        "Repeat the order back",
+        "Only the head nurse may receive them"
+      ],
+      "answer": "C",
+      "rationale": "To avoid misunderstanding, the nurse clarifies any question with the prescriber and repeats the order back.",
+      "explanations": [
+        "They are acceptable.",
+        "Not the key rule.",
+        "Correct: read-back.",
+        "Not required."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q410 (PDF p. 585)",
+      "quote": "the nurse would always clarify a telephone or verbal prescription with the health care provider (HCP) if he or she had any questions"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Reporting & Recording",
+      "situation": "",
+      "stem": "A nurse finds an error in her handwritten chart entry. What should she do?",
+      "options": [
+        "Cover it with black marker",
+        "Use correction fluid",
+        "Erase it neatly",
+        "Draw one line and initial it"
+      ],
+      "answer": "D",
+      "rationale": "A single line is drawn through the error and initialed so it stays readable. Errors are never erased, and correction fluid or markers are never used on a legal record.",
+      "explanations": [
+        "Never used.",
+        "Never used.",
+        "Never erased.",
+        "Correct: proper correction."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q513 (PDF p. 708)",
+      "quote": "To correct a written error documented in a medical record, the nurse draws one line through the incorrect information and then initials the error."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A family friend calls the home health nurse offering to help a newborn's family. What is the BEST action?",
+      "options": [
+        "Ask the friend to call the family",
+        "Invite the friend to the teaching",
+        "Explain the baby's needs",
+        "Ask the doctor first"
+      ],
+      "answer": "A",
+      "rationale": "The nurse gives no information about a client's care to anyone not directly involved in that care. Inviting the friend to teaching would violate the family's privacy.",
+      "explanations": [
+        "Correct: protects privacy.",
+        "Violates privacy.",
+        "Violates privacy.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q420 (PDF p. 597)",
+      "quote": "The nurse must uphold the client’s rights and does not give any information regarding a client’s care needs to anyone who is not directly involved in the client’s care."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A nurse gives a client's medical information to someone wrongly assumed to be family. Which rights were violated?",
+      "options": [
+        "Duty to provide care",
+        "Privacy and confidentiality",
+        "Informed consent",
+        "Right to refuse treatment"
+      ],
+      "answer": "B",
+      "rationale": "Discussing a client's condition without permission violates the client's rights to privacy and confidentiality and puts the nurse in legal jeopardy.",
+      "explanations": [
+        "Not this situation.",
+        "Correct: both were violated.",
+        "Not this situation.",
+        "Not this situation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q449 (PDF p. 629)",
+      "quote": "Discussing a client’s condition without client permission violates a client’s rights to privacy and confidentiality"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which situation is an example of assault?",
+      "options": [
+        "Threatening to restrain a client",
+        "Forcing a client to stay",
+        "Writing a falsehood about staff",
+        "Touching without consent"
+      ],
+      "answer": "A",
+      "rationale": "Assault puts a person in fear of a harmful act. Battery is touching without permission, false imprisonment is unlawful restraint, and libel is a written falsehood.",
+      "explanations": [
+        "Correct: creates fear of harm.",
+        "False imprisonment.",
+        "Libel.",
+        "Battery."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q452 (PDF p. 632)",
+      "quote": "An assault occurs when a person puts another person in fear of a harmful or offensive act."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "After colon resection, a client with an NG tube is served solid food and asks for the doctor to be called. The nurse insists he eat, and he later needs more surgery. Which describes this?",
+      "options": [
+        "An unavoidable outcome",
+        "Negligence",
+        "The client's own fault",
+        "A standard of care met"
+      ],
+      "answer": "B",
+      "rationale": "Negligence requires a duty, a breach of duty, injury caused by the breach, and damages. All four elements are present.",
+      "explanations": [
+        "It was avoidable.",
+        "Correct: all four elements are present.",
+        "The nurse insisted.",
+        "The standard was breached."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q454 (PDF p. 634)",
+      "quote": "For negligence to be proved, there must be a duty, and then a breach of duty; the breach of duty must cause the injury, and damages or injury must be experienced."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A client asks how to become an organ donor. What should the nurse tell him?",
+      "options": [
+        "Donation is by written consent",
+        "Family must witness it",
+        "He must be over 21",
+        "Family must be present"
+      ],
+      "answer": "A",
+      "rationale": "Anyone 18 years or older may donate by written consent without the family's permission or presence. This matches the Philippine Organ Donation Act (RA 7170).",
+      "explanations": [
+        "Correct: written consent.",
+        "Not required.",
+        "The age is 18.",
+        "Not required."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q457 (PDF p. 638)",
+      "quote": "any person who is 18 years of age or older may become an organ donor by written consent without the permission or presence of the family."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Who is responsible for explaining a procedure and obtaining informed consent?",
+      "options": [
+        "The staff nurse",
+        "The head nurse",
+        "The person doing the procedure",
+        "The client's family"
+      ],
+      "answer": "C",
+      "rationale": "Informed consent rests on full disclosure of risks, benefits, alternatives, and the consequences of refusal. The provider doing the procedure gives that information; the nurse may witness the signature.",
+      "explanations": [
+        "Usually only a witness.",
+        "Not responsible.",
+        "Correct: the provider.",
+        "Not responsible."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q464 (PDF p. 646)",
+      "quote": "The primary health care provider (HCP) is responsible for conveying information and obtaining the informed consent."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "After the doctor explains a colonoscopy, the nurse finds the client cannot write. What is BEST?",
+      "options": [
+        "Call the doctor again",
+        "Get a verbal consent",
+        "Have two witnesses as he signs an X",
+        "Re-explain with another nurse"
+      ],
+      "answer": "C",
+      "rationale": "A client who cannot write may sign with an X in front of two witnesses. The nurse witnesses the signature, not whether the client was informed.",
+      "explanations": [
+        "Unnecessary.",
+        "The provider's duty.",
+        "Correct: valid signature.",
+        "Already explained."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q506 (PDF p. 701)",
+      "quote": "Clients who cannot write may sign an informed consent with an X in the presence of two witnesses."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "An adult with severe dementia is scheduled for gallbladder surgery. What should the nurse do FIRST about consent?",
+      "options": [
+        "Verify the legal guardian",
+        "Explain advance directives",
+        "Have the client sign",
+        "Ask any relative to sign"
+      ],
+      "answer": "A",
+      "rationale": "A mentally impaired client cannot give consent. Verifying the legal guardian avoids improperly signed documents and directs the surgeon to the right person.",
+      "explanations": [
+        "Correct: the first step.",
+        "Not first.",
+        "He is not competent.",
+        "Must be the legal guardian."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q549 (PDF p. 750)",
+      "quote": "A mentally impaired client is not competent to sign an informed consent, so the nurse should first verify the identity of the client’s legal guardian."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A home care client says she does not want CPR. What should the nurse do FIRST?",
+      "options": [
+        "Tell her family",
+        "Notify the doctor",
+        "Document it only",
+        "Ask her to rethink"
+      ],
+      "answer": "B",
+      "rationale": "A client may refuse resuscitation. A written DNR order from the provider is needed so that her wishes are followed.",
+      "explanations": [
+        "Not first.",
+        "Correct: a DNR order is needed.",
+        "Not enough.",
+        "Disrespects her choice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q481 (PDF p. 670)",
+      "quote": "a written “do not resuscitate” (DNR) prescription from the HCP is needed to ensure that the client’s wishes are followed."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A client wants to leave the hospital before the doctor discharges him. What should the nurse do NEXT?",
+      "options": [
+        "Notify the supervisor",
+        "Ask about his ride home",
+        "Restrain him",
+        "Let him leave quietly"
+      ],
+      "answer": "A",
+      "rationale": "Informing the supervisor helps the nurse manage the situation safely and completely, including having the client sign a release (discharge against advice) form.",
+      "explanations": [
+        "Correct: ensures safe handling.",
+        "Not the priority.",
+        "False imprisonment.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q581 (PDF p. 786)",
+      "quote": "The nurse notifies the nursing supervisor of the client’s plan to leave without the primary PHCP’s approval to ensure client safety"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A post-op client gets no pain relief from opioids only when one coworker is assigned. What should the nurse do FIRST?",
+      "options": [
+        "Reassign the coworker",
+        "Confront the coworker",
+        "Review the client's record",
+        "Report to the police"
+      ],
+      "answer": "C",
+      "rationale": "Before acting on a suspicion, the nurse needs more data, which the record provides. Policies and drug laws then guide reporting.",
+      "explanations": [
+        "Premature.",
+        "Premature.",
+        "Correct: gather data first.",
+        "Premature."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q446 (PDF p. 626)",
+      "quote": "the nurse needs more data than just suspicion. This can be obtained by reviewing the client’s record."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A client dies of gunshot wounds. Which action properly preserves evidence?",
+      "options": [
+        "Give clothing to the family",
+        "Put items in plastic bags",
+        "Bag the hands in paper bags",
+        "Cut through bullet holes"
+      ],
+      "answer": "C",
+      "rationale": "Paper bags on the hands and feet protect trace evidence. Items go in paper bags, clothing is cut around holes, and evidence is not released to the family.",
+      "explanations": [
+        "Never released.",
+        "Plastic causes moisture damage.",
+        "Correct: protects trace evidence.",
+        "Cut around holes."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q497 (PDF p. 690)",
+      "quote": "placing paper bags on the hands and feet and possibly over the head of a deceased person (protects trace evidence and residue)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A client with stab wounds arrives in the ER. Which action BREAKS the rules for handling evidence?",
+      "options": [
+        "Starting a chain-of-custody log",
+        "Giving his wallet to the family",
+        "Cutting around stab holes",
+        "Limiting who handles items"
+      ],
+      "answer": "B",
+      "rationale": "Potential evidence is never released to the family. A chain of custody log tracks it, access is limited, and clothing is removed carefully.",
+      "explanations": [
+        "Correct practice.",
+        "Correct answer: evidence stays secured.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q597 (PDF p. 805)",
+      "quote": "Potential evidence is never released to the family to take home."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Which action shows a situational leadership style?",
+      "options": [
+        "Delegating routine tasks daily",
+        "Letting staff work unsupervised",
+        "Asking for input on a problem",
+        "Quickly delegating in a code"
+      ],
+      "answer": "D",
+      "rationale": "Situational leaders change style with events, such as quickly delegating during an emergency. Laissez-faire leaders give up leadership; democratic leaders invite input.",
+      "explanations": [
+        "Not specific.",
+        "Laissez-faire.",
+        "Democratic.",
+        "Correct: style fits the situation."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q444 (PDF p. 624)",
+      "quote": "This type of leadership style is used in emergency situations when the nurse manager needs to quickly delegate activities"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Which manager behavior shows an autocratic style?",
+      "options": [
+        "Giving staff the solution",
+        "Letting staff solve it alone",
+        "Having staff vote on options",
+        "Changing style by situation"
+      ],
+      "answer": "A",
+      "rationale": "Autocratic leaders are task oriented and directive and decide without staff input.",
+      "explanations": [
+        "Correct: decides alone.",
+        "Laissez-faire.",
+        "Democratic.",
+        "Situational."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q450 (PDF p. 630)",
+      "quote": "Decisions are made without input from the staff."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Which leadership style lets staff give input to decisions and best empowers them?",
+      "options": [
+        "Autocratic",
+        "Situational",
+        "Democratic",
+        "Laissez-faire"
+      ],
+      "answer": "C",
+      "rationale": "Democratic leadership lets nurses take part in decisions and grow professionally.",
+      "explanations": [
+        "Directive.",
+        "Depends on events.",
+        "Correct: shared decisions.",
+        "Gives up leadership."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q487 (PDF p. 678)",
+      "quote": "this style of leadership allows nurses to provide input regarding the decision-making process and an opportunity to grow professionally."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Which describes participative leadership?",
+      "options": [
+        "Staff solve problems alone",
+        "Manager decides alone",
+        "Manager proposes, then decides",
+        "Staff vote on everything"
+      ],
+      "answer": "C",
+      "rationale": "Participative leadership sits between authoritarian and democratic. The manager presents an analysis and proposals, invites comments, then makes the final decision.",
+      "explanations": [
+        "Laissez-faire.",
+        "Autocratic.",
+        "Correct: participative.",
+        "Democratic."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q476 (PDF p. 661)",
+      "quote": "In participative leadership, the manager presents an analysis of problems and proposals for actions to team members, inviting critique and comments."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Which situation shows primary nursing?",
+      "options": [
+        "The RN gives all care to her client",
+        "An RN leads a mixed team",
+        "Each staff does one task for all",
+        "A case manager coordinates services"
+      ],
+      "answer": "A",
+      "rationale": "Primary nursing keeps the nurse at the bedside, giving goal-directed, individualized care. Team nursing is led by an RN; functional nursing assigns tasks.",
+      "explanations": [
+        "Correct: primary nursing.",
+        "Team nursing.",
+        "Functional nursing.",
+        "Case management."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q489 (PDF p. 680)",
+      "quote": "In primary nursing, option 1, concern is with keeping the nurse at the bedside actively involved in care"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "The charge nurse has aides bathe clients, others pass water, and one RN give all medicines. Which model is this?",
+      "options": [
+        "Primary nursing",
+        "Team nursing",
+        "Functional nursing",
+        "Case management"
+      ],
+      "answer": "C",
+      "rationale": "Functional nursing is an assembly-line approach in which major tasks are assigned to individual staff members.",
+      "explanations": [
+        "One nurse, total care.",
+        "RN-led team with collaboration.",
+        "Correct: task-based.",
+        "Coordinates services."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q501 (PDF p. 694)",
+      "quote": "The functional model of care involves an assembly line approach to client care, with major tasks being delegated by the charge nurse to individual staff members."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Which describes team nursing?",
+      "options": [
+        "Each nurse does one task",
+        "An RN leads a team giving direct care",
+        "One nurse gives total care",
+        "No one supervises the team"
+      ],
+      "answer": "B",
+      "rationale": "In team nursing, an RN leads a team that gives direct care to a group of clients under the RN's supervision.",
+      "explanations": [
+        "Functional nursing.",
+        "Correct: team nursing.",
+        "Primary nursing.",
+        "The RN supervises."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q562 (PDF p. 764)",
+      "quote": "The team members provide direct client care to groups of clients under the direct supervision of the RN team leader."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Which statement describes case management?",
+      "options": [
+        "It ignores costs",
+        "It coordinates care and limits costs",
+        "The case manager gives all bedside care",
+        "It is done by one discipline"
+      ],
+      "answer": "B",
+      "rationale": "Case management coordinates services for clients and families while keeping quality high and costs low. Case managers usually do not give direct care and work with other disciplines.",
+      "explanations": [
+        "Costs matter.",
+        "Correct: quality plus cost control.",
+        "They usually do not.",
+        "It is interdisciplinary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q541 (PDF p. 739)",
+      "quote": "Case management is a care management approach that coordinates health care services to clients and their families while maintaining quality of care and minimizing health care costs."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Which function belongs to the unit nurse manager?",
+      "options": [
+        "Recruiting new staff",
+        "Giving all bedside care",
+        "Writing doctor's orders",
+        "Doing every admission"
+      ],
+      "answer": "A",
+      "rationale": "The middle manager recruits and hires staff, holds staff meetings, helps staff meet unit goals, and monitors standards of practice.",
+      "explanations": [
+        "Correct: a manager function.",
+        "Not the manager's role.",
+        "Not a nursing role.",
+        "Not the manager's role."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q561 (PDF p. 763)",
+      "quote": "Responsibilities of the nurse manager (middle manager) include recruiting new employees (interviewing and hiring), conducting regular staff meetings"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "A staff nurse cannot meet client needs on time or prioritize care. What should the charge nurse do?",
+      "options": [
+        "Ask others to do her work",
+        "Watch her more closely",
+        "Support her and find the cause",
+        "Report her to the supervisor"
+      ],
+      "answer": "C",
+      "rationale": "Supporting the nurse and identifying the underlying cause helps reduce the problem. The other options are punitive or shift the burden to others.",
+      "explanations": [
+        "Shifts the burden.",
+        "Punitive.",
+        "Correct: problem-solving.",
+        "Punitive at this point."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q484 (PDF p. 675)",
+      "quote": "Option 3 empowers the charge nurse to assist the staff nurse while trying to identify and reduce the behaviors that make it difficult for the staff nurse to function."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Personal & Professional Development",
+      "situation": "",
+      "stem": "A preceptor watches a new nurse manage her time. Which action needs correcting?",
+      "options": [
+        "Scheduling staff meals",
+        "Gathering supplies first",
+        "Grouping tasks per client",
+        "Charting only at shift's end"
+      ],
+      "answer": "D",
+      "rationale": "Documentation is done continuously during the day. Planning breaks, gathering supplies, and combining tasks are good time management.",
+      "explanations": [
+        "Good practice.",
+        "Good practice.",
+        "Good practice.",
+        "Correct answer: chart as you go."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q485 (PDF p. 676)",
+      "quote": "The nurse should document task completion continuously throughout the day."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which item in the home puts a client recovering from hip surgery at risk for injury?",
+      "options": [
+        "A bathroom night-light",
+        "A raised toilet seat",
+        "Scatter rugs",
+        "Smoke detectors"
+      ],
+      "answer": "C",
+      "rationale": "Home injuries often come from tripping on doormats, small rugs, or clutter. Night-lights and raised seats with armrests reduce hazards.",
+      "explanations": [
+        "Reduces risk.",
+        "Reduces risk.",
+        "Correct: a tripping hazard.",
+        "Reduces risk."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q466 (PDF p. 649)",
+      "quote": "Injuries in the home frequently result from tripping over or coming into contact with common household objects such as a doormat, small rugs on the floor or stairs"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which procedure requires surgical asepsis?",
+      "options": [
+        "Removing a dressing",
+        "Giving oral medicine",
+        "Inserting a urinary catheter",
+        "Bathing a client"
+      ],
+      "answer": "C",
+      "rationale": "Sterile technique is used for applying sterile dressings, inserting IV or urinary catheters, and tracheal suctioning. Clean technique is used for removing dressings and giving oral medicines.",
+      "explanations": [
+        "Clean technique.",
+        "Clean technique.",
+        "Correct: sterile technique.",
+        "Clean technique."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q545 (PDF p. 746)",
+      "quote": "Some examples of procedures in which surgical asepsis is necessary include reapplying sterile dressings, inserting an IV or urinary catheter"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "During a disaster, which victim needs IMMEDIATE (red tag) care?",
+      "options": [
+        "Fractured tibia, stable",
+        "Minor cuts on the arms",
+        "Arterial bleeding, neck",
+        "Sprained ankle, walking"
+      ],
+      "answer": "C",
+      "rationale": "Arterial bleeding from the neck is life-threatening and is tagged red. Green (minimal) victims can wait.",
+      "explanations": [
+        "Can wait briefly.",
+        "Green tag.",
+        "Correct: life-threatening.",
+        "Green tag."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q598 (PDF p. 806)",
+      "quote": "The client with bright red (arterial) bleeding from a neck wound is in “immediate” need of treatment to save the client’s life."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Beds are needed for disaster victims. Which client should STAY in the hospital?",
+      "options": [
+        "Stable diabetic on insulin",
+        "Healing leg ulcer",
+        "Ongoing ventricular dysrhythmias",
+        "Stable hip fracture repair"
+      ],
+      "answer": "C",
+      "rationale": "Ongoing ventricular dysrhythmias need continued treatment because they can be fatal. Stable conditions can be managed at home with referrals.",
+      "explanations": [
+        "Home with referral.",
+        "Home with referral.",
+        "Correct: potentially lethal.",
+        "Home with referral."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q599 (PDF p. 807)",
+      "quote": "The client with ongoing ventricular dysrhythmias requires ongoing medical evaluation and treatment because of potentially lethal complications of the problem."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "A client with suspected smallpox arrives in the ER. What should the plan include FIRST?",
+      "options": [
+        "Send him home",
+        "Isolate him at once",
+        "Wait for test results",
+        "Admit him to the ward"
+      ],
+      "answer": "B",
+      "rationale": "With a communicable disease such as smallpox, the client is isolated immediately and staff put on protective equipment.",
+      "explanations": [
+        "Spreads disease.",
+        "Correct: immediate isolation.",
+        "Too late.",
+        "Exposes others."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q491 (PDF p. 682)",
+      "quote": "the client would be isolated immediately and the staff would immediately don protective equipment"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Which action is correct for a client exposed to anthrax?",
+      "options": [
+        "Handle clothing a lot",
+        "Store clothes in plastic",
+        "Have him remove his clothing",
+        "Give clothes to family"
+      ],
+      "answer": "C",
+      "rationale": "Decontamination includes having the client remove contaminated clothing, handling it minimally, and storing it in a labeled paper bag.",
+      "explanations": [
+        "Handle minimally.",
+        "Use a paper bag.",
+        "Correct: decontamination.",
+        "Not released."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q540 (PDF p. 738)",
+      "quote": "Decontamination and exposure management of the client suspected of anthrax exposure include instructing the client to remove contaminated clothing"
+    }
+  ]
+}

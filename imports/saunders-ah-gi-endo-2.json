@@ -1,0 +1,341 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "A client with diabetes asks why the nurse wants family members at an insulin class. What is the BEST reply?",
+      "options": [
+        "'Your family is at risk for diabetes too.'",
+        "'They'll give your insulin from now on.'",
+        "'It's hospital policy for every client.'",
+        "'They can support you in adjusting your care.'"
+      ],
+      "answer": "D",
+      "rationale": "Families are included in diabetes education to help with adjustments to the regimen. Supportive family involvement helps the client become independent in care.",
+      "explanations": [
+        "Not the purpose here.",
+        "Promotes dependence.",
+        "Not the reason.",
+        "Correct: family support aids adjustment."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q813 (PDF p. 1047)",
+      "quote": "Families and significant others may be included in diabetes education to assist with adjustments of the diabetic regimen."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client with ruptured esophageal varices and a history of alcohol abuse says, 'I deserve this.' Which response is MOST therapeutic?",
+      "options": [
+        "'Would you like to see the chaplain?'",
+        "'Is there some reason you feel you deserve this?'",
+        "'Everyone makes mistakes.'",
+        "'You shouldn't blame yourself.'"
+      ],
+      "answer": "B",
+      "rationale": "An open-ended response invites the client to talk and helps the nurse get an accurate history of alcohol intake, which a shamed client might hide.",
+      "explanations": [
+        "Avoids the client's feelings.",
+        "Correct: open-ended exploration.",
+        "Minimizes the client's feelings.",
+        "False reassurance."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q847 (PDF p. 1084)",
+      "quote": "It is important to obtain an accurate history regarding the client’s alcohol intake."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client with jaundice has pruritus. Which statement needs MORE teaching?",
+      "options": [
+        "'I'll wear loose cotton clothes.'",
+        "'A tepid bath will ease the itch.'",
+        "'I'll keep the house warm and cozy.'",
+        "'I'll avoid alkaline soaps.'"
+      ],
+      "answer": "C",
+      "rationale": "Bile salts deposited in the skin cause the itching. A cool environment minimizes it; warmth worsens it.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Correct answer: warmth worsens itching.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1065 (PDF p. 1347)",
+      "quote": "The client would be instructed to keep the house temperature cool in order to minimize the itching."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client with Addison's disease is monitored for hyperkalemia. Which finding is MOST concerning?",
+      "options": [
+        "Polyuria",
+        "Cardiac dysrhythmias",
+        "Dry mucous membranes",
+        "Prolonged bleeding time"
+      ],
+      "answer": "B",
+      "rationale": "Low aldosterone in Addison's disease causes potassium retention. The most harmful effect of hyperkalemia is on cardiac function.",
+      "explanations": [
+        "Not a hyperkalemia sign.",
+        "Correct: the most dangerous effect.",
+        "Not specific.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1113 (PDF p. 1397)",
+      "quote": "The most harmful consequence of hyperkalemia is its effect on cardiac function."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which intervention is ESSENTIAL in the care plan after a bilateral adrenalectomy?",
+      "options": [
+        "Prevent social isolation",
+        "Plan occupational therapy",
+        "Discuss body image changes",
+        "Avoid stressful situations"
+      ],
+      "answer": "D",
+      "rationale": "Adrenalectomy can lead to adrenal insufficiency, and adrenal hormones are needed to respond to stress. Stress can trigger adrenal crisis.",
+      "explanations": [
+        "Not specific.",
+        "Not specific.",
+        "Not specific.",
+        "Correct: stress can trigger adrenal crisis."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1147 (PDF p. 1434)",
+      "quote": "Adrenal hormones are essential to maintaining homeostasis in response to stressors."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which outcome shows that nutrition care for a client with Graves' disease is successful?",
+      "options": [
+        "She avoids snacks between meals",
+        "She eats less to control appetite",
+        "She loses no further weight",
+        "She limits calories to 1,200 a day"
+      ],
+      "answer": "C",
+      "rationale": "Graves' disease causes a hypercatabolic state with weight loss despite increased appetite. The goal is no further weight loss and a gradual return to ideal weight.",
+      "explanations": [
+        "Snacks help meet caloric needs.",
+        "Intake should increase.",
+        "Correct: the nutritional goal.",
+        "Inappropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1239 (PDF p. 1532)",
+      "quote": "it is a nutritional goal that the client will not lose additional weight"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which findings of thyroid storm require IMMEDIATE intervention?",
+      "options": [
+        "Polyuria and headache",
+        "Thirst and obesity",
+        "Fever, tachycardia, and hypertension",
+        "Constipation and flushing"
+      ],
+      "answer": "C",
+      "rationale": "Excess thyroid hormone sharply raises the metabolic rate, causing fever, tachycardia, and hypertension. Quick action is needed because death can follow.",
+      "explanations": [
+        "Not the classic signs.",
+        "Not the classic signs.",
+        "Correct: hypermetabolic crisis.",
+        "Not the classic signs."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1257 (PDF p. 1558)",
+      "quote": "causing the manifestations of thyroid storm such as fever, tachycardia, and hypertension."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which fear is a REALISTIC source of anxiety before thyroidectomy?",
+      "options": [
+        "Infertility",
+        "Strict lifelong diet",
+        "Gynecomastia",
+        "A visible neck scar"
+      ],
+      "answer": "D",
+      "rationale": "The incision is in the neck, so fear of a large scar is realistic. There are no specific dietary restrictions after discharge.",
+      "explanations": [
+        "Only with no thyroid replacement.",
+        "No such restriction.",
+        "Not related.",
+        "Correct: the incision is visible."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1261 (PDF p. 1562)",
+      "quote": "Because the incision is in the neck area, the client may be fearful of having a large scar postoperatively."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which finding suggests perforation in a client with peptic ulcer disease?",
+      "options": [
+        "Slow, strong pulse",
+        "Increased bowel sounds",
+        "Positive stool guaiac",
+        "Sudden severe abdominal pain"
+      ],
+      "answer": "D",
+      "rationale": "Sudden, severe abdominal pain signals perforation. The pulse becomes weak and rapid, and bowel sounds may be absent. A positive guaiac shows bleeding, not necessarily perforation.",
+      "explanations": [
+        "The pulse becomes weak and rapid.",
+        "Bowel sounds may be absent.",
+        "Shows bleeding.",
+        "Correct: classic sign of perforation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1294 (PDF p. 1595)",
+      "quote": "Sudden, severe abdominal pain is a sign of perforation."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which MODIFIABLE risk factor for colorectal cancer should the nurse emphasize?",
+      "options": [
+        "Age over 40",
+        "High-fat, low-fiber diet",
+        "A relative with colon cancer",
+        "History of ulcerative colitis"
+      ],
+      "answer": "B",
+      "rationale": "A high-fat, low-fiber diet can be changed. Age, family history, and ulcerative colitis cannot.",
+      "explanations": [
+        "Not modifiable.",
+        "Correct: modifiable.",
+        "Not modifiable.",
+        "Not modifiable."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1395 (PDF p. 1699)",
+      "quote": "Modifiable risk factors are those that can be reduced and include a high-fat and low-fiber diet."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How should a client with GERD sleep to reduce reflux?",
+      "options": [
+        "Prone with the bed flat",
+        "Supine with the bed flat",
+        "Right side, bed flat",
+        "Head of bed raised about 30 degrees"
+      ],
+      "answer": "D",
+      "rationale": "The client stays upright 1 to 2 hours after meals and sleeps with the head of the bed raised about 30 degrees (on 8- to 12-inch blocks). Lying flat increases reflux.",
+      "explanations": [
+        "Lying flat increases reflux.",
+        "Lying flat increases reflux.",
+        "Lying flat increases reflux.",
+        "Correct: elevation reduces reflux."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1396 (PDF p. 1700)",
+      "quote": "sleep with the head of the bed elevated to approximately 30 degrees"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How should the client be positioned for abdominal paracentesis?",
+      "options": [
+        "Prone on the abdomen",
+        "Supine and flat",
+        "Semi-Fowler's or upright",
+        "Right side, low Fowler's"
+      ],
+      "answer": "C",
+      "rationale": "Semi-Fowler's or upright on the edge of the bed with feet supported lets the intestines float back and helps prevent laceration.",
+      "explanations": [
+        "Not used.",
+        "Not used.",
+        "Correct: protects the intestines.",
+        "Not used."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1404 (PDF p. 1710)",
+      "quote": "This position allows the intestine to float posteriorly and helps prevent laceration during catheter insertion."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client with chronic ulcerative colitis has anemia. What is the MOST likely cause?",
+      "options": [
+        "Chronic blood loss",
+        "Hookworm infection",
+        "Malabsorption of iron",
+        "Low dietary iron"
+      ],
+      "answer": "A",
+      "rationale": "Ulcerative colitis causes repeated small blood losses during exacerbations, with bloody stools, leading to anemia.",
+      "explanations": [
+        "Correct: chronic blood loss.",
+        "Not supported by the data.",
+        "Not the main cause.",
+        "Not supported by the data."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1464 (PDF p. 1773)",
+      "quote": "The client with chronic ulcerative colitis is most likely anemic as a result of chronic blood loss in small amounts"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which statement shows a client with diabetes understands the signs of HYPERglycemia?",
+      "options": [
+        "'I may sweat and faint.'",
+        "'I'll feel tired, have dry skin, and urinate more.'",
+        "'I'll take an extra pill if sugar is high.'",
+        "'I'll feel shaky and hungry.'"
+      ],
+      "answer": "B",
+      "rationale": "Fatigue, dry skin, polyuria, and polydipsia are classic hyperglycemia signs. Sweating, shakiness, and hunger suggest hypoglycemia.",
+      "explanations": [
+        "Hypoglycemia signs.",
+        "Correct: classic hyperglycemia.",
+        "Doses are not changed by the client.",
+        "Hypoglycemia signs."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1470 (PDF p. 1779)",
+      "quote": "Fatigue, dry skin, polyuria, and polydipsia are classic symptoms of hyperglycemia."
+    }
+  ]
+}

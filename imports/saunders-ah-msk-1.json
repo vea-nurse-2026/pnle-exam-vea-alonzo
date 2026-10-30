@@ -1,0 +1,893 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which position relieves low back pain in a client with a herniated lumbar disk?",
+      "options": [
+        "Supine, knees slightly up",
+        "High Fowler's, foot flat",
+        "Prone with a pillow",
+        "Semi-Fowler's, knees flexed"
+      ],
+      "answer": "D",
+      "rationale": "Semi-Fowler's with the knees flexed (Williams position) relaxes the lower back muscles and relieves pressure on the spinal nerve root.",
+      "explanations": [
+        "Less effective.",
+        "Strains the back.",
+        "Increases lumbar strain.",
+        "Correct: Williams position."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q7 (PDF p. 144)",
+      "quote": "This relaxes the muscles of the lower back and relieves pressure on the spinal nerve root."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "Mario, 30, fractured his right ankle in a basketball game. A short leg plaster cast is applied in the emergency room.",
+      "stem": "Which home instruction BEST prevents complications?",
+      "options": [
+        "Trim the rough edges when dry",
+        "Bear weight once it feels dry",
+        "Use a hanger to scratch inside",
+        "Keep the leg elevated"
+      ],
+      "answer": "D",
+      "rationale": "Elevation increases venous return and reduces edema, which can cause compartment syndrome. Trimmed edges can fall into the cast, and scratching damages the skin.",
+      "explanations": [
+        "Pieces can fall inside the cast.",
+        "Requires the provider's approval.",
+        "Damages the skin.",
+        "Correct: reduces edema."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q9 (PDF p. 147)",
+      "quote": "Leg elevation is important to increase venous return and decrease edema."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "Mario, 30, fractured his right ankle in a basketball game. A short leg plaster cast is applied in the emergency room.",
+      "stem": "Which finding should make Mario seek medical attention right away?",
+      "options": [
+        "Numb, tingling toes",
+        "A heavy, damp cast in the first day",
+        "Warmth while the cast dries",
+        "Mild itching under the cast"
+      ],
+      "answer": "A",
+      "rationale": "Numbness, tingling, and increased pain signal rising pressure from edema, which risks nerve damage. A cast takes up to 48 hours to dry and gives off heat while drying.",
+      "explanations": [
+        "Correct: signs of increased pressure.",
+        "Expected while drying.",
+        "Expected while drying.",
+        "Common."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q702 (PDF p. 924)",
+      "quote": "Signs/symptoms of increased pressure from the cast include numbness, tingling, and increased pain."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "Mario, 30, fractured his right ankle in a basketball game. A short leg plaster cast is applied in the emergency room.",
+      "stem": "Which statement shows Mario understands plaster cast care?",
+      "options": [
+        "'I'll keep the cast dry.'",
+        "'I'll cover it with a warm blanket.'",
+        "'I'll lift it with my fingertips.'",
+        "'I'll scratch under it with a ruler.'"
+      ],
+      "answer": "A",
+      "rationale": "A plaster cast must stay dry to keep its strength. Air should circulate to help it dry, and it is handled with the palms.",
+      "explanations": [
+        "Correct: plaster weakens when wet.",
+        "Blocks air circulation.",
+        "Use the palms.",
+        "Never scratch under a cast."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1209 (PDF p. 1502)",
+      "quote": "A plaster cast must remain dry to keep its strength."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which finding suggests infection under a cast?",
+      "options": [
+        "Dependent edema",
+        "Weak distal pulse",
+        "Cool, pale skin",
+        "Warm spots on the cast"
+      ],
+      "answer": "D",
+      "rationale": "Infection under a cast shows as a musty odor, purulent drainage, or warm areas on the cast. Edema, weak pulses, and cool pale skin signal impaired circulation.",
+      "explanations": [
+        "Circulation problem.",
+        "Circulation problem.",
+        "Circulation problem.",
+        "Correct: a sign of infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q46 (PDF p. 185)",
+      "quote": "Manifestations of infection under a casted area include a musty odor or purulent drainage from the cast or the presence of areas on the cast that are warmer than others."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which otoscopic finding does the nurse expect in mastoiditis?",
+      "options": [
+        "Dull red, immobile eardrum",
+        "Mobile eardrum",
+        "Transparent eardrum",
+        "Pearly gray eardrum"
+      ],
+      "answer": "A",
+      "rationale": "Mastoiditis shows a red, dull, thick, immobile tympanic membrane. The other findings are normal.",
+      "explanations": [
+        "Correct: classic finding.",
+        "Normal.",
+        "Normal.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q68 (PDF p. 213)",
+      "quote": "Otoscopic examination of a client with mastoiditis reveals a red, dull, thick, and immobile tympanic membrane"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which finding is MOST common in inner ear disorders?",
+      "options": [
+        "Tinnitus",
+        "Burning in the ear",
+        "Itching",
+        "Severe ear pain"
+      ],
+      "answer": "A",
+      "rationale": "Tinnitus is the most common complaint in ear disorders, especially inner ear disorders. It ranges from mild ringing to a loud roaring.",
+      "explanations": [
+        "Correct: the most common.",
+        "Not typical.",
+        "More typical of external ear.",
+        "More typical of middle ear."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q69 (PDF p. 214)",
+      "quote": "Tinnitus is the most common complaint of clients with ear disorders, especially disorders involving the inner ear."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "Lola Iska, 78, is in Buck's extension traction after a hip fracture while awaiting surgery.",
+      "stem": "A complete neurovascular check of the affected leg includes:",
+      "options": [
+        "Vital signs every hour",
+        "Bilateral lung sounds",
+        "Color, motion, and pulses",
+        "Bowel sounds"
+      ],
+      "answer": "C",
+      "rationale": "A neurovascular assessment covers color, sensation, movement, capillary refill, and pulses of the affected extremity.",
+      "explanations": [
+        "Not neurovascular.",
+        "Not neurovascular.",
+        "Correct: the components of the check.",
+        "Not neurovascular."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q122 (PDF p. 272)",
+      "quote": "A complete neurovascular assessment of an extremity includes color, sensation, movement, capillary refill, and pulse of the affected extremity."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "Lola Iska, 78, is in Buck's extension traction after a hip fracture while awaiting surgery.",
+      "stem": "How does the nurse provide countertraction to reduce shear and friction?",
+      "options": [
+        "Use a footboard",
+        "Provide a trapeze",
+        "Raise the foot of the bed slightly",
+        "Raise the head of the bed slightly"
+      ],
+      "answer": "C",
+      "rationale": "The part of the bed under the traction is elevated. For leg traction, raising the foot of the bed opposes the traction force safely.",
+      "explanations": [
+        "Does not provide countertraction.",
+        "Helps with movement only.",
+        "Correct: provides countertraction.",
+        "Not for leg traction."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q151 (PDF p. 301)",
+      "quote": "For the client in skin traction (which is applied to a leg), the foot of the bed is elevated."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "Lola Iska, 78, is in Buck's extension traction after a hip fracture while awaiting surgery.",
+      "stem": "Lola Iska becomes disoriented. What is the MOST appropriate action?",
+      "options": [
+        "Apply wrist restraints",
+        "Ask family to stay always",
+        "Sedate her for the night",
+        "Reorient her often"
+      ],
+      "answer": "D",
+      "rationale": "Inactive older adults may become disoriented from lack of sensory stimulation. Frequent reorientation, with a clock and calendar in the room, helps. Restraints worsen disorientation.",
+      "explanations": [
+        "Worsens disorientation.",
+        "Unrealistic.",
+        "Worsens confusion.",
+        "Correct: maintains orientation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q882 (PDF p. 1122)",
+      "quote": "The appropriate nursing intervention would be to frequently reorient the client"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which pin-site finding is NORMAL in skeletal traction?",
+      "options": [
+        "Loose pins",
+        "Small amount of clear drainage",
+        "Purulent drainage",
+        "Redness and swelling"
+      ],
+      "answer": "B",
+      "rationale": "A small amount of clear drainage ('weeping') can be expected. Loose pins, pus, redness, and swelling are reported.",
+      "explanations": [
+        "Report to the provider.",
+        "Correct: expected weeping.",
+        "Suggests infection.",
+        "Suggests infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q121 (PDF p. 271)",
+      "quote": "A small amount of clear drainage (“weeping”) may be expected after cleaning and removing crusting around the pin sites"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "How should the nurse handle a newly applied wet arm cast during transfer?",
+      "options": [
+        "Put ice on top of it",
+        "Support it with fingertips",
+        "Let the client hold it",
+        "Use palms and pillows"
+      ],
+      "answer": "D",
+      "rationale": "Palms or flat fingers prevent dents in a wet cast, and pillows support its curves so it does not crack or flatten.",
+      "explanations": [
+        "Not on top of the cast.",
+        "Causes dents.",
+        "Not the safest method.",
+        "Correct: prevents indentations."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q123 (PDF p. 273)",
+      "quote": "The palms or the flat surface of the extended fingers should be used when moving a wet cast to prevent indentations."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client asks why compartment syndrome developed after an arm fracture. What should the nurse explain?",
+      "options": [
+        "A bone piece cut a nerve",
+        "An artery was blocked",
+        "Swelling in a tight space",
+        "The cast was too loose"
+      ],
+      "answer": "C",
+      "rationale": "Bleeding and swelling inside a compartment lined by non-expanding fascia compress the nerves, muscles, and vessels within it.",
+      "explanations": [
+        "Not the cause.",
+        "Not the cause.",
+        "Correct: pressure in a closed space.",
+        "Not the cause."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q165 (PDF p. 317)",
+      "quote": "Compartment syndrome is caused by bleeding and swelling within a compartment, which is lined by fascia that does not expand."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which neurovascular finding with a new cast needs close follow-up?",
+      "options": [
+        "Palpable distal pulses",
+        "Capillary refill over 6 seconds",
+        "Nail bed blanches, then pinks",
+        "Warm, pink toes"
+      ],
+      "answer": "B",
+      "rationale": "Normal capillary refill is under 3 seconds. Slow refill means poor circulation, and the toes or fingers will look pale or bluish.",
+      "explanations": [
+        "Normal.",
+        "Correct: impaired circulation.",
+        "Normal.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q196 (PDF p. 350)",
+      "quote": "Optimally, the color will change from white to pink rapidly (less than 3 seconds)."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which question helps assess for Ménière's disease?",
+      "options": [
+        "'Do you have ringing in your ears?'",
+        "'Do you have ear itching?'",
+        "'Have you had a nosebleed?'",
+        "'Do you have eye pain?'"
+      ],
+      "answer": "A",
+      "rationale": "Ménière's disease involves excess endolymphatic fluid. It causes tinnitus, vertigo that can last for days, and one-sided sensorineural hearing loss.",
+      "explanations": [
+        "Correct: tinnitus is a key sign.",
+        "Not typical.",
+        "Not related.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q223 (PDF p. 378)",
+      "quote": "Manifestations include tinnitus, vertigo that can last for days, and one-sided sensorineural hearing loss."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which diet does the nurse expect to teach a client with Ménière's disease?",
+      "options": [
+        "Low fiber, low fluid",
+        "Low sodium, fluid restriction",
+        "Low fat, low calorie",
+        "High protein, high fluid"
+      ],
+      "answer": "B",
+      "rationale": "Salt and fluid restrictions reduce the amount of endolymphatic fluid and are sometimes prescribed.",
+      "explanations": [
+        "Not prescribed.",
+        "Correct: reduces endolymph.",
+        "Not prescribed.",
+        "Not prescribed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1129 (PDF p. 1414)",
+      "quote": "Dietary changes such as salt and fluid restrictions that reduce the amount of endolymphatic fluid are sometimes prescribed"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which intervention helps a client with Ménière's syndrome control vertigo?",
+      "options": [
+        "Cut down on smoking",
+        "Increase daily fluids",
+        "Make slow head movements",
+        "Read during attacks"
+      ],
+      "answer": "C",
+      "rationale": "Slow head movements prevent worsening vertigo. Clients are advised to stop smoking entirely because of its vasoconstrictive effects.",
+      "explanations": [
+        "Smoking should stop, not be reduced.",
+        "Fluids are often restricted.",
+        "Correct: prevents worsening vertigo.",
+        "Not helpful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1151 (PDF p. 1438)",
+      "quote": "The nurse instructs the client to make slow head movements to prevent worsening of the vertigo."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which instruction is MOST important for home safety in a client with chronic vertigo?",
+      "options": [
+        "Turn only your head when spoken to",
+        "Remove throw rugs and clutter",
+        "Drive only at night",
+        "Get up quickly from bed"
+      ],
+      "answer": "B",
+      "rationale": "Slipping and trying to regain balance can trigger vertigo, so clutter and throw rugs are removed. The client turns the whole body and changes position slowly.",
+      "explanations": [
+        "Turn the whole body.",
+        "Correct: prevents falls.",
+        "Unsafe.",
+        "Change position slowly."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q589 (PDF p. 797)",
+      "quote": "The client should maintain the home in a clutter-free state and have thrown rugs removed"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which is an EARLY sign of rheumatoid arthritis?",
+      "options": [
+        "Joint deformities",
+        "Fatigue and mild fever",
+        "Joint ankylosis",
+        "Bony spurs on joints"
+      ],
+      "answer": "B",
+      "rationale": "RA is a systemic autoimmune inflammatory disease. Early signs include fatigue, anorexia, weakness, low-grade fever, joint inflammation, and paresthesias. Deformities come later.",
+      "explanations": [
+        "A late sign.",
+        "Correct: early systemic signs.",
+        "A late sign.",
+        "Typical of osteoarthritis."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q349 (PDF p. 517)",
+      "quote": "Early manifestations include fatigue, anorexia, weakness, joint inflammation, low-grade fever"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which action ensures a client's traction is safe and effective?",
+      "options": [
+        "Knots resting on the pulleys",
+        "Weights hanging free off the floor",
+        "Head of bed at 90 degrees",
+        "Weights resting on the bed"
+      ],
+      "answer": "B",
+      "rationale": "Weights must hang freely, with knots kept away from the pulleys. The head of the bed is usually kept low for countertraction.",
+      "explanations": [
+        "Knots stay away from pulleys.",
+        "Correct: free-hanging weights.",
+        "Usually kept low.",
+        "Weights must not rest on anything."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q519 (PDF p. 714)",
+      "quote": "To achieve proper traction, weights need to be free-hanging, with knots kept away from the pulleys."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "On day 1 after total knee replacement, the client goes to a chair. How should the nurse protect the joint?",
+      "options": [
+        "Ice and compression while sitting",
+        "A walker only",
+        "Knee immobilizer, leg elevated",
+        "Let the knee dangle"
+      ],
+      "answer": "C",
+      "rationale": "A knee immobilizer stabilizes the joint, and the leg is elevated while sitting to minimize edema.",
+      "explanations": [
+        "Not the main protection.",
+        "Does not stabilize the joint.",
+        "Correct: stability and less edema.",
+        "Increases edema."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q574 (PDF p. 779)",
+      "quote": "the nurse assists the client to get out of bed on the first postoperative day after putting a knee immobilizer on the affected joint"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which surgeon's order needs clarification 2 hours after total knee surgery?",
+      "options": [
+        "Keep the knee slightly flexed",
+        "PCA per protocol",
+        "Compression devices on both legs",
+        "Ice to the knee"
+      ],
+      "answer": "A",
+      "rationale": "Right after surgery the knee is kept in extension with a compression dressing. An order to keep it flexed needs clarification.",
+      "explanations": [
+        "Correct answer: the knee is kept extended.",
+        "Appropriate.",
+        "Appropriate for DVT prevention.",
+        "Appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1382 (PDF p. 1685)",
+      "quote": "The knee is immobilized by a compression dressing to keep the knee in extension immediately after the operation."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which statement after a total knee replacement shows a need for MORE teaching?",
+      "options": [
+        "'The knee's shape may change; that's normal.'",
+        "'I'll tell caregivers about my metal implant.'",
+        "'I'll need antibiotics before dental work.'",
+        "'I'll report redness at the incision.'"
+      ],
+      "answer": "A",
+      "rationale": "Any change in the knee's shape must be reported; it is not expected. The client informs caregivers of the implant, which requires antibiotic prophylaxis for invasive procedures.",
+      "explanations": [
+        "Correct answer: shape changes must be reported.",
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1494 (PDF p. 1803)",
+      "quote": "After a total knee replacement, the client should be taught to report any changes in the shape of the knee."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which statement after total hip arthroplasty shows a need for MORE teaching?",
+      "options": [
+        "'I won't twist my body when standing.'",
+        "'I'll check my incision daily.'",
+        "'I won't sit for long periods.'",
+        "'I can cross my legs when sitting.'"
+      ],
+      "answer": "D",
+      "rationale": "Hip precautions include not crossing the legs past midline, avoiding bending past 90 degrees and twisting, and not sitting or standing for long periods.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate.",
+        "Correct answer: risks dislocation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q629 (PDF p. 846)",
+      "quote": "avoiding crossing the legs beyond the midline of the body"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which statement shows a client with a below-knee amputation understands residual limb care?",
+      "options": [
+        "'I'll wear a nylon sock daily.'",
+        "'I'll inspect my limb daily.'",
+        "'I'll clean it with alcohol.'",
+        "'I'll soak it in hot water.'"
+      ],
+      "answer": "B",
+      "rationale": "The residual limb is inspected daily for irritation, blisters, and breakdown. A clean woolen sock is worn daily, and alcohol is avoided because it dries the skin.",
+      "explanations": [
+        "Woolen, not nylon.",
+        "Correct: daily inspection.",
+        "Alcohol dries the skin.",
+        "Not recommended."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q603 (PDF p. 814)",
+      "quote": "The client should inspect all surfaces of the residual limb daily for irritation, blisters, and breakdown."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After LEFT eye cataract surgery, how should the client sleep?",
+      "options": [
+        "Only on the left side",
+        "On the right side or back",
+        "Face down",
+        "With the head low"
+      ],
+      "answer": "B",
+      "rationale": "The client sleeps on the nonoperative side or back to prevent edema. Bending below the waist or lowering the head raises intraocular pressure.",
+      "explanations": [
+        "Causes edema.",
+        "Correct: the nonoperative side or back.",
+        "Increases pressure.",
+        "Increases pressure."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q693 (PDF p. 914)",
+      "quote": "the client is informed to sleep on the nonoperative side or his or her back."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client asks what happens in polymyositis. The nurse explains that:",
+      "options": [
+        "Fibrous tissue increases",
+        "Muscle fibers become inflamed",
+        "Muscle fibers thicken",
+        "Elastic fibers increase"
+      ],
+      "answer": "B",
+      "rationale": "Polymyositis is a diffuse inflammatory disorder of skeletal muscle causing symmetrical weakness and atrophy.",
+      "explanations": [
+        "Seen in ankylosis.",
+        "Correct: inflammation of muscle.",
+        "Opposite of what occurs.",
+        "Not the process."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q747 (PDF p. 975)",
+      "quote": "Polymyositis is a diffuse inflammatory disorder of skeletal (striated) muscle"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which behavior shows successful adaptation to presbycusis?",
+      "options": [
+        "Proper hearing aid use",
+        "Denying hearing loss",
+        "Withdrawing socially",
+        "Avoiding the phone"
+      ],
+      "answer": "A",
+      "rationale": "Presbycusis is progressive age-related sensorineural hearing loss. Getting and regularly using a hearing aid shows good adaptation.",
+      "explanations": [
+        "Correct: adaptive behavior.",
+        "Poor adaptation.",
+        "Poor adaptation.",
+        "Poor adaptation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q874 (PDF p. 1111)",
+      "quote": "Clients show adequate adaptation by obtaining and regularly using a hearing aid."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Personal & Professional Development",
+      "situation": "",
+      "stem": "A day after hip implant surgery, a businessman is surrounded by work papers planning a meeting. What should guide the nurse's discussion?",
+      "options": [
+        "Rest is essential for bone healing",
+        "Work keeps his mind off pain",
+        "Visitors should be banned",
+        "He must stop all work now"
+      ],
+      "answer": "A",
+      "rationale": "Rest is essential for bone healing, and stress should be minimized. Nurses encourage clients to balance work demands rather than demanding changes.",
+      "explanations": [
+        "Correct: rest promotes healing.",
+        "Not the priority.",
+        "Not appropriate.",
+        "Nurses encourage rather than demand."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q890 (PDF p. 1132)",
+      "quote": "Rest is an essential component of bone healing."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client in halo traction says, 'I can't see to the side and keep misjudging where things are.' Which response is MOST therapeutic?",
+      "options": [
+        "'I'd have had surgery.'",
+        "'You'll get used to it.'",
+        "'Try turning your whole body.'",
+        "'Just be more careful.'"
+      ],
+      "answer": "C",
+      "rationale": "Empathy and reflection, followed by a practical strategy, help the client adapt to limited peripheral vision.",
+      "explanations": [
+        "Undermines the treatment.",
+        "False reassurance.",
+        "Correct: empathy plus a strategy.",
+        "Dismissive."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q940 (PDF p. 1184)",
+      "quote": "In option 3, the nurse employs empathy and reflection. The nurse then offers a strategy for problem-solving"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After ventilation tubes are placed in the eardrum, which statement shows understanding?",
+      "options": [
+        "'I'll use a shower cap.'",
+        "'I'll avoid all pain medicine.'",
+        "'I'll wash my hair daily.'",
+        "'I can swim next week.'"
+      ],
+      "answer": "A",
+      "rationale": "Water must be kept out of the ears. A shower cap or earplugs are used, and swimming and hair washing are avoided after surgery.",
+      "explanations": [
+        "Correct: keeps water out.",
+        "Analgesics may be used.",
+        "Avoided.",
+        "Avoided."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1069 (PDF p. 1351)",
+      "quote": "After the insertion of tubes into the tympanic membrane, it is important to avoid getting water in the ears."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "An adult has a left earache, nausea, ear fullness, and fever. What should the nurse ask FIRST?",
+      "options": [
+        "'Have you had a brain abscess?'",
+        "'Do you have chronic hearing loss?'",
+        "'Do you clean your ears with cotton buds?'",
+        "'Have you had a recent cold?'"
+      ],
+      "answer": "D",
+      "rationale": "Adult otitis media is usually one-sided and acute, with earache, nausea, fever, and fullness. It often follows an upper respiratory infection, so the history is taken first.",
+      "explanations": [
+        "Not the first question.",
+        "Not the first question.",
+        "Not the first question.",
+        "Correct: URI often precedes otitis media."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1095 (PDF p. 1378)",
+      "quote": "Otitis media in the adult is typically one-sided and presents as an acute process with earache; nausea; and possible vomiting, fever, and fullness in the ear."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client is found on the floor after a fall, with a possible broken arm. What should the nurse do IMMEDIATELY?",
+      "options": [
+        "Immobilize the arm",
+        "Take vital signs",
+        "Call radiology",
+        "Ask what happened"
+      ],
+      "answer": "A",
+      "rationale": "A suspected fracture must be splinted before the client is moved. Vital signs follow, and the provider is called.",
+      "explanations": [
+        "Correct: splint before moving.",
+        "Not the immediate action.",
+        "Later.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1201 (PDF p. 1493)",
+      "quote": "When a fracture is suspected, it is imperative that the area be splinted before the client is moved."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which observation shows a successful outcome for a client in traction who is relearning self-care?",
+      "options": [
+        "He denies needing any help",
+        "His family does his care",
+        "He does as much self-care as he can",
+        "He waits for staff to do it"
+      ],
+      "answer": "C",
+      "rationale": "The goal is for the client to perform as much self-care as possible given the condition. The nurse promotes independence.",
+      "explanations": [
+        "Unrealistic.",
+        "Promotes dependence.",
+        "Correct: maximal independence.",
+        "Promotes dependence."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1243 (PDF p. 1536)",
+      "quote": "A successful outcome for reassuming self-care is for the client to do as much of the self-care as possible."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client's skin at the cast edge is pink and irritated. What should the nurse do?",
+      "options": [
+        "Petal the edges with tape",
+        "Massage the skin",
+        "Shake powder under the cast",
+        "Use a hot hair dryer"
+      ],
+      "answer": "A",
+      "rationale": "Petaling the cast edges with tape minimizes skin irritation. Powder can clump and cause breakdown.",
+      "explanations": [
+        "Correct: smooths the rough edges.",
+        "Does not solve the problem.",
+        "Can clump and damage skin.",
+        "Only cool air is used."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1433 (PDF p. 1742)",
+      "quote": "The nurse should petal the edges of the cast with tape to minimize skin irritation."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What is a comminuted fracture?",
+      "options": [
+        "An incomplete fracture",
+        "A partially cracked bone",
+        "A bone splintered in pieces",
+        "A bend with no break"
+      ],
+      "answer": "C",
+      "rationale": "A comminuted fracture is a complete break across the shaft with the bone splintered into fragments. A greenstick fracture is incomplete.",
+      "explanations": [
+        "Describes greenstick.",
+        "Not comminuted.",
+        "Correct: fragments.",
+        "Not a fracture type here."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1533 (PDF p. 1844)",
+      "quote": "A comminuted fracture is a complete fracture across the shaft of a bone, with splintering of the bone into fragments."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which sign in a fractured arm indicates IMPAIRED VENOUS RETURN?",
+      "options": [
+        "Increasing edema",
+        "Weakened distal pulse",
+        "Pallor or cyanosis",
+        "Pain despite medicine"
+      ],
+      "answer": "A",
+      "rationale": "Increasing edema marks impaired venous return and is prevented by elevation. Weak pulses and pallor suggest arterial damage.",
+      "explanations": [
+        "Correct: venous congestion.",
+        "Arterial sign.",
+        "Arterial sign.",
+        "Not specific."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1535 (PDF p. 1846)",
+      "quote": "Impaired venous return is characterized by increasing edema."
+    }
+  ]
+}

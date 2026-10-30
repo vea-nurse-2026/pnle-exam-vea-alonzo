@@ -1,0 +1,605 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with pleurisy has sharp pain on breathing. Which position helps splint the chest?",
+      "options": [
+        "Lying on the affected side",
+        "Lying on the unaffected side",
+        "Prone",
+        "Trendelenburg"
+      ],
+      "answer": "A",
+      "rationale": "Turning onto the affected side splints the chest wall and reduces pleural stretch.",
+      "explanations": [
+        "Correct.",
+        "Increases stretch.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pleurisy Interventions (PDF p. 333)",
+      "quote": "Instruct the patient to turn onto the affected side to splint the chest wall"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Accumulation of pus in the pleural space is called:",
+      "options": [
+        "Empyema",
+        "Hemothorax",
+        "Pleurisy",
+        "Atelectasis"
+      ],
+      "answer": "A",
+      "rationale": "Empyema is purulent pleural fluid, often after pneumonia or lung abscess.",
+      "explanations": [
+        "Correct.",
+        "Blood.",
+        "Inflammation.",
+        "Collapse."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Empyema (PDF p. 333)",
+      "quote": "Accumulation of purulent fluid in the pleural space"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Pneumonia developing 4 days after hospital admission is classified as:",
+      "options": [
+        "Hospital-acquired",
+        "Community-acquired",
+        "Aspiration",
+        "Viral"
+      ],
+      "answer": "A",
+      "rationale": "Hospital-acquired pneumonia begins more than 48 hours after admission.",
+      "explanations": [
+        "Correct.",
+        "Within 48 h.",
+        "Entry of substances.",
+        "Organism, not setting."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Pneumonia (PDF p. 333)",
+      "quote": "onset of pneumonia symptoms more than 48 hours after admission"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Rusty sputum, sudden high fever, and pleuritic pain suggest:",
+      "options": [
+        "Pneumococcal pneumonia",
+        "Asthma",
+        "Pulmonary embolism",
+        "Emphysema"
+      ],
+      "answer": "A",
+      "rationale": "Bacterial pneumonia: abrupt fever, purulent or rusty sputum, pleuritic pain.",
+      "explanations": [
+        "Correct.",
+        "Wheeze.",
+        "Sudden dyspnea.",
+        "Chronic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Pneumonia (PDF p. 333)",
+      "quote": "Rusty, blood-tinged sputum"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "How much daily fluid helps liquefy secretions in pneumonia, unless contraindicated?",
+      "options": [
+        "2–3 L",
+        "500 mL",
+        "5–6 L",
+        "Nothing by mouth"
+      ],
+      "answer": "A",
+      "rationale": "Hydration of 2–3 L/day liquefies secretions.",
+      "explanations": [
+        "Correct.",
+        "Too little.",
+        "Too much.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pneumonia Interventions (PDF p. 333)",
+      "quote": "Promote hydration (2-3 L/day) to liquefy secretions"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client on antibiotics for pneumonia feels better on day 3. The nurse teaches:",
+      "options": [
+        "Complete the full course",
+        "Stop when afebrile",
+        "Halve the dose",
+        "Save pills for later"
+      ],
+      "answer": "A",
+      "rationale": "Finish the entire 7–10 day course; improvement is expected within 48–72 hours.",
+      "explanations": [
+        "Correct.",
+        "Relapse.",
+        "Resistance.",
+        "Resistance."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pneumonia Teaching (PDF p. 334)",
+      "quote": "Teach the need to continue entire course of antimicrobial therapy"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which test confirms active pulmonary tuberculosis?",
+      "options": [
+        "Sputum smear or culture",
+        "Tuberculin skin test",
+        "Chest x-ray alone",
+        "CBC"
+      ],
+      "answer": "A",
+      "rationale": "Sputum smear and culture confirm TB; PPD shows infection; x-ray shows extent.",
+      "explanations": [
+        "Correct.",
+        "Infection only.",
+        "Supportive.",
+        "Nonspecific."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pulmonary Tuberculosis (PDF p. 334)",
+      "quote": "Sputum smear/Sputum culture confirms a diagnosis of TB"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Why is pyridoxine (vitamin B6) given with isoniazid?",
+      "options": [
+        "Prevents peripheral neuropathy",
+        "Prevents optic neuritis",
+        "Prevents hyperuricemia",
+        "Colors urine orange"
+      ],
+      "answer": "A",
+      "rationale": "Pyridoxine prevents INH-associated peripheral neuritis.",
+      "explanations": [
+        "Correct.",
+        "Ethambutol.",
+        "Pyrazinamide.",
+        "Rifampicin."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, TB Management (PDF p. 334)",
+      "quote": "Vitamin B (pyridoxine) is usually administered with INH"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which anti-TB drug requires periodic visual acuity and color vision tests?",
+      "options": [
+        "Ethambutol",
+        "Isoniazid",
+        "Rifampicin",
+        "Pyrazinamide"
+      ],
+      "answer": "A",
+      "rationale": "Ethambutol can cause optic neuritis.",
+      "explanations": [
+        "Correct.",
+        "Neuritis, liver.",
+        "Liver, orange.",
+        "Uric acid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anti-TB Drugs (PDF p. 335)",
+      "quote": "Optic neuritis (may lead to blindness"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A client on pyrazinamide reports joint pain. The nurse suspects:",
+      "options": [
+        "Hyperuricemia",
+        "Optic neuritis",
+        "Hypoglycemia",
+        "Ototoxicity"
+      ],
+      "answer": "A",
+      "rationale": "Pyrazinamide causes hyperuricemia, arthralgia, and hepatotoxicity.",
+      "explanations": [
+        "Correct.",
+        "Ethambutol.",
+        "Not this.",
+        "Streptomycin."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Anti-TB Drugs (PDF p. 334)",
+      "quote": "Hyperuricemia, hepatotoxicity, skin rash, arthralgias"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "When should anti-TB drugs be taken for best absorption?",
+      "options": [
+        "On an empty stomach",
+        "With a heavy meal",
+        "With antacids",
+        "At random times"
+      ],
+      "answer": "A",
+      "rationale": "Take on an empty stomach or at least 1 hour before meals; food interferes with absorption.",
+      "explanations": [
+        "Correct.",
+        "Reduces.",
+        "Reduces.",
+        "Inconsistent."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, TB Nursing Interventions (PDF p. 335)",
+      "quote": "take the medication either on an empty stomach or at least 1 hour before meals"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A client on INH should avoid which food to prevent flushing and palpitations?",
+      "options": [
+        "Aged cheese and tuna",
+        "Rice",
+        "Banana",
+        "Plain bread"
+      ],
+      "answer": "A",
+      "rationale": "INH users should avoid tyramine and histamine foods (aged cheese, tuna, skipjack).",
+      "explanations": [
+        "Correct.",
+        "Safe.",
+        "Safe.",
+        "Safe."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, TB Nursing Interventions (PDF p. 335)",
+      "quote": "Patients taking INH should avoid foods that contain tyramine and histamine"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "The hallmark of ARDS is hypoxemia that:",
+      "options": [
+        "Does not respond to supplemental oxygen",
+        "Responds quickly to nasal cannula",
+        "Occurs only at night",
+        "Improves lying flat"
+      ],
+      "answer": "A",
+      "rationale": "Refractory hypoxemia with bilateral infiltrates and reduced compliance characterize ARDS.",
+      "explanations": [
+        "Correct.",
+        "Not ARDS.",
+        "Not ARDS.",
+        "Not ARDS."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, ARDS (PDF p. 335)",
+      "quote": "Arterial hypoxemia that does not respond to supplemental oxygen"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which ventilator setting usually improves oxygenation in ARDS?",
+      "options": [
+        "PEEP",
+        "Lower FiO2 to 21%",
+        "No ventilation",
+        "Higher respiratory rate only"
+      ],
+      "answer": "A",
+      "rationale": "PEEP keeps alveoli open and usually improves oxygenation.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Needed.",
+        "Not main."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, ARDS Management (PDF p. 335)",
+      "quote": "PEEP usually improves oxygenation"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client 3 days after hip surgery suddenly has dyspnea, pleuritic chest pain, and tachypnea. The nurse suspects:",
+      "options": [
+        "Pulmonary embolism",
+        "Pneumonia",
+        "Asthma",
+        "Angina"
+      ],
+      "answer": "A",
+      "rationale": "Sudden dyspnea and tachypnea after orthopedic surgery suggest PE.",
+      "explanations": [
+        "Correct.",
+        "Gradual, fever.",
+        "Wheeze.",
+        "Exertional."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Pulmonary Embolism (PDF p. 336)",
+      "quote": "Dyspnea is the most frequent symptom"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "The nurse suspects pulmonary embolism. What is the first action?",
+      "options": [
+        "Give oxygen",
+        "Start ambulation",
+        "Massage the legs",
+        "Give oral fluids"
+      ],
+      "answer": "A",
+      "rationale": "Nasal oxygen is given immediately to relieve hypoxemia.",
+      "explanations": [
+        "Correct.",
+        "Dangerous.",
+        "Dangerous.",
+        "Not first."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, PE Management (PDF p. 336)",
+      "quote": "Nasal oxygen is administered immediately to relieve hypoxemia"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which test is considered the best method to diagnose pulmonary embolism?",
+      "options": [
+        "Pulmonary angiography",
+        "Chest x-ray",
+        "ECG",
+        "Sputum culture"
+      ],
+      "answer": "A",
+      "rationale": "Pulmonary angiography is the best method; V/Q scan and spiral CT are also used.",
+      "explanations": [
+        "Correct.",
+        "Nonspecific.",
+        "Nonspecific.",
+        "Infection."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, PE Diagnostics (PDF p. 336)",
+      "quote": "Pulmonary angiography is considered the best method to diagnose PE"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "ABG findings in acute pulmonary embolism typically show:",
+      "options": [
+        "Hypoxemia and hypocapnia",
+        "Hyperoxia",
+        "Hypercapnia only",
+        "Normal values always"
+      ],
+      "answer": "A",
+      "rationale": "Hypoxemia with low PaCO2 from hyperventilation.",
+      "explanations": [
+        "Correct.",
+        "No.",
+        "Usually low CO2.",
+        "Abnormal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, PE Diagnostics (PDF p. 336)",
+      "quote": "Arterial blood gas analysis – shows hypoxemia and hypocapnia"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which substance secreted by the stomach is needed to absorb vitamin B12?",
+      "options": [
+        "Intrinsic factor",
+        "Pepsin",
+        "Bile",
+        "Amylase"
+      ],
+      "answer": "A",
+      "rationale": "Intrinsic factor from the gastric mucosa combines with dietary B12.",
+      "explanations": [
+        "Correct.",
+        "Protein.",
+        "Fat.",
+        "Starch."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Gastric Function (PDF p. 337)",
+      "quote": "Secreted by the gastric mucosa, combines w/ dietary vitamin B12"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which enzyme begins starch digestion in the mouth?",
+      "options": [
+        "Salivary amylase",
+        "Pepsin",
+        "Trypsin",
+        "Lipase"
+      ],
+      "answer": "A",
+      "rationale": "Salivary amylase starts starch digestion.",
+      "explanations": [
+        "Correct.",
+        "Protein.",
+        "Protein.",
+        "Fat."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Chewing and Swallowing (PDF p. 337)",
+      "quote": "Is an enzyme that begins the digestion of starches"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What is the primary function of the colon?",
+      "options": [
+        "Water reabsorption",
+        "Protein digestion",
+        "Most absorption",
+        "Bile production"
+      ],
+      "answer": "A",
+      "rationale": "Slow peristalsis allows water and electrolyte reabsorption.",
+      "explanations": [
+        "Correct.",
+        "Stomach.",
+        "Small intestine.",
+        "Liver."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Colonic Function (PDF p. 338)",
+      "quote": "efficient reabsorption of water and electrolytes, which is the primary purpose of the colon"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "During abdominal assessment, which technique is performed right after inspection?",
+      "options": [
+        "Auscultation",
+        "Palpation",
+        "Percussion",
+        "Deep palpation"
+      ],
+      "answer": "A",
+      "rationale": "Order: inspection, auscultation, percussion, palpation, to avoid altering bowel sounds.",
+      "explanations": [
+        "Correct.",
+        "Last.",
+        "Third.",
+        "Last."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, GI Physical Examination (PDF p. 338)",
+      "quote": "Auscultation"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "The appendix is located in which abdominal region?",
+      "options": [
+        "Right inguinal (iliac)",
+        "Left inguinal",
+        "Epigastric",
+        "Left hypochondriac"
+      ],
+      "answer": "A",
+      "rationale": "Right inguinal contains the cecum, appendix, and lower ileum.",
+      "explanations": [
+        "Correct.",
+        "Sigmoid.",
+        "Pancreas.",
+        "Spleen."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Abdominal Regions (PDF p. 339)",
+      "quote": "Appendix"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Before an upper GI series, the nurse advises the client to avoid:",
+      "options": [
+        "Smoking and gum",
+        "Sleeping",
+        "Walking",
+        "Voiding"
+      ],
+      "answer": "A",
+      "rationale": "Smoking, gum, and mints stimulate gastric motility; client is NPO from midnight.",
+      "explanations": [
+        "Correct.",
+        "Fine.",
+        "Fine.",
+        "Fine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Upper GI Series (PDF p. 339)",
+      "quote": "Smoking, chewing gum, and mints can stimulate gastric motility"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "After a barium enema, the nurse should instruct the client to:",
+      "options": [
+        "Increase fluids",
+        "Restrict fluids",
+        "Stay NPO 2 days",
+        "Hold stools"
+      ],
+      "answer": "A",
+      "rationale": "Increase fluids and give laxative to evacuate barium; monitor bowel movements.",
+      "explanations": [
+        "Correct.",
+        "Constipation.",
+        "Not needed.",
+        "Incorrect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Lower GI Series (PDF p. 339)",
+      "quote": "Increased fluid intake after the procedure."
+    }
+  ]
+}

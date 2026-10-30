@@ -1,0 +1,437 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "Client: 'I am way out in the ocean.' Nurse: 'You seem to feel lonely.' This technique is:",
+      "options": [
+        "Translating into feelings",
+        "Presenting reality",
+        "Giving literal response",
+        "Voicing doubt"
+      ],
+      "answer": "A",
+      "rationale": "Translating into feelings verbalizes feelings expressed indirectly.",
+      "explanations": [
+        "Correct.",
+        "Reality.",
+        "Nontherapeutic.",
+        "Doubt."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Communication Techniques (PDF p. 240)",
+      "quote": "You seem to feel lonely or deserted."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "Client: 'I wish I were dead.' Nurse: 'Everybody gets down sometimes.' This response is:",
+      "options": [
+        "Belittling feelings",
+        "Reflecting",
+        "Offering self",
+        "Focusing"
+      ],
+      "answer": "A",
+      "rationale": "Equating intense feelings to 'everybody' belittles the client's distress.",
+      "explanations": [
+        "Correct.",
+        "Therapeutic.",
+        "Therapeutic.",
+        "Therapeutic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Non-therapeutic Communication (PDF p. 240)",
+      "quote": "Everybody gets down in the dumps"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "Why is challenging a delusion ('If you're dead, why is your heart beating?') nontherapeutic?",
+      "options": [
+        "Strengthens the delusion",
+        "Builds trust",
+        "Cures delusions",
+        "Orients to reality"
+      ],
+      "answer": "A",
+      "rationale": "Challenging causes the client to defend the delusion more strongly.",
+      "explanations": [
+        "Correct.",
+        "Damages trust.",
+        "Not true.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Non-therapeutic Communication (PDF p. 240)",
+      "quote": "Actually challenging causes the client to defend the"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "Client: 'They look in my head with a TV camera.' Nurse: 'What channel?' This is:",
+      "options": [
+        "Giving a literal response",
+        "Exploring",
+        "Presenting reality",
+        "Reflecting"
+      ],
+      "answer": "A",
+      "rationale": "Literal responses treat figurative statements as fact; focus on feelings instead.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Non-therapeutic Communication (PDF p. 241)",
+      "quote": "Giving literal responses"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "Client: 'I would like to die.' Nurse: 'Did you have visitors last night?' This is:",
+      "options": [
+        "Changing the topic",
+        "Exploring",
+        "Focusing",
+        "Silence"
+      ],
+      "answer": "A",
+      "rationale": "Changing the subject takes the initiative away from the client and ignores suicide risk.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Non-therapeutic Communication (PDF p. 241)",
+      "quote": "Introducing an unrelates topic"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "'Everything will be all right' is which nontherapeutic technique?",
+      "options": [
+        "Reassuring",
+        "Rejecting",
+        "Testing",
+        "Defending"
+      ],
+      "answer": "A",
+      "rationale": "False reassurance devalues the client's feelings.",
+      "explanations": [
+        "Correct.",
+        "Contempt.",
+        "Insight.",
+        "Protecting."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Non-therapeutic Communication (PDF p. 241)",
+      "quote": "everything would be alright"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "'I'm sure your doctor has your best interest in mind' is an example of:",
+      "options": [
+        "Defending",
+        "Reflecting",
+        "Accepting",
+        "Exploring"
+      ],
+      "answer": "A",
+      "rationale": "Defending implies the client has no right to express opinions or feelings.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Non-therapeutic Communication (PDF p. 241)",
+      "quote": "I am sure your doctors has your best interest in mind."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client gives many details but eventually answers the question. This is:",
+      "options": [
+        "Circumstantial thinking",
+        "Tangential thinking",
+        "Flight of ideas",
+        "Word salad"
+      ],
+      "answer": "A",
+      "rationale": "Circumstantial speech includes excessive detail but reaches the point; tangential never does.",
+      "explanations": [
+        "Correct.",
+        "Never reaches.",
+        "Rapid jumping.",
+        "Jumbled words."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Thought Disturbances (PDF p. 242)",
+      "quote": "Circumstantial Thinking"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client repeats exactly what the nurse says. This is:",
+      "options": [
+        "Echolalia",
+        "Echopraxia",
+        "Verbigeration",
+        "Neologism"
+      ],
+      "answer": "A",
+      "rationale": "Echolalia is repetition of another's words; echopraxia is imitation of movements.",
+      "explanations": [
+        "Correct.",
+        "Movements.",
+        "Own phrases.",
+        "Invented words."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Thought Disturbances (PDF p. 242)",
+      "quote": "Client's imitation or repetition of what the nurse says."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client keeps returning to the same topic despite attempts to change it. This is:",
+      "options": [
+        "Perseveration",
+        "Flight of ideas",
+        "Clang association",
+        "Blocking"
+      ],
+      "answer": "A",
+      "rationale": "Perseveration is persistent adherence to one idea despite topic changes.",
+      "explanations": [
+        "Correct.",
+        "Rapid change.",
+        "Rhymes.",
+        "Stopping."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Thought Disturbances (PDF p. 242)",
+      "quote": "Persistent adherence to a single idea"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client says he is afraid of 'grittiz.' Invented words like this are:",
+      "options": [
+        "Neologisms",
+        "Word salad",
+        "Echolalia",
+        "Confabulation"
+      ],
+      "answer": "A",
+      "rationale": "Neologisms are words invented by the client.",
+      "explanations": [
+        "Correct.",
+        "Jumbled words.",
+        "Repetition.",
+        "Memory fill."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Thought Disturbances (PDF p. 242)",
+      "quote": "Words invented by the client"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client feels his body belongs to someone else. This is:",
+      "options": [
+        "Depersonalization",
+        "Derealization",
+        "Delusion of grandeur",
+        "Ambivalence"
+      ],
+      "answer": "A",
+      "rationale": "Depersonalization is detachment or strangeness toward oneself; derealization is toward the environment.",
+      "explanations": [
+        "Correct.",
+        "Environment.",
+        "Not this.",
+        "Opposing feelings."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Affect Disturbances (PDF p. 243)",
+      "quote": "Feelings of strangeness towards oneself"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A catatonic client stays in an awkward position the nurse placed him in. This is:",
+      "options": [
+        "Waxy flexibility",
+        "Echopraxia",
+        "Akathisia",
+        "Dystonia"
+      ],
+      "answer": "A",
+      "rationale": "Waxy flexibility is maintaining positions for long periods even when awkward.",
+      "explanations": [
+        "Correct.",
+        "Imitation.",
+        "Restlessness.",
+        "Spasm."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Motor Disturbances (PDF p. 243)",
+      "quote": "Maintaining the desires position for long periods of time"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "An older client fills memory gaps with made-up stories. This is:",
+      "options": [
+        "Confabulation",
+        "Lying",
+        "Delusion",
+        "Amnesia"
+      ],
+      "answer": "A",
+      "rationale": "Confabulation fills memory gaps with fantasy believed by the teller, to maintain self-esteem.",
+      "explanations": [
+        "Correct.",
+        "Intentional.",
+        "False belief.",
+        "No recall."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Memory Disturbances (PDF p. 243)",
+      "quote": "Filling a memory gap with detailed fantasy believed by the teller"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "What is the major task of the PRE-orientation phase?",
+      "options": [
+        "Develop self-awareness",
+        "Set a contract",
+        "Explore problems",
+        "Terminate"
+      ],
+      "answer": "A",
+      "rationale": "Pre-orientation: self-awareness, data gathering, planning the first meeting.",
+      "explanations": [
+        "Correct.",
+        "Orientation.",
+        "Working.",
+        "Termination."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nurse-Patient Relationship (PDF p. 244)",
+      "quote": "Major task: Develop self-awareness"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which phase is the longest and most productive?",
+      "options": [
+        "Working",
+        "Orientation",
+        "Pre-orientation",
+        "Termination"
+      ],
+      "answer": "A",
+      "rationale": "The working phase is longest; limit-setting and exploration occur here.",
+      "explanations": [
+        "Correct.",
+        "Rapport.",
+        "Preparation.",
+        "Ending."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nurse-Patient Relationship (PDF p. 244)",
+      "quote": "Longest and most productive phase of the nurse-patient relationship"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "A client begins treating the nurse like his strict father. This is:",
+      "options": [
+        "Transference",
+        "Countertransference",
+        "Resistance",
+        "Projection"
+      ],
+      "answer": "A",
+      "rationale": "Transference is the client unconsciously transferring feelings to the nurse; countertransference is the reverse.",
+      "explanations": [
+        "Correct.",
+        "Nurse's feelings.",
+        "Avoidance.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Working Phase (PDF p. 244)",
+      "quote": "Client unconsciously transfers his feelings to the nurse."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "The major task of the orientation phase is to:",
+      "options": [
+        "Develop a mutually acceptable contract",
+        "Terminate the relationship",
+        "Explore deep feelings",
+        "Review the nurse's self"
+      ],
+      "answer": "A",
+      "rationale": "Orientation establishes rapport, trust, roles, and a mutually acceptable contract.",
+      "explanations": [
+        "Correct.",
+        "Termination.",
+        "Working.",
+        "Pre-orientation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nurse-Patient Relationship (PDF p. 244)",
+      "quote": "Major Task: develop a mutually acceptable contract"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "pnle-qbank-studio",
+  "private": true,
+  "description": "Generate, review, and practice PNLE-style multiple-choice questions from your own review materials.",
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "dev": "concurrently -n server,client -c blue,magenta \"npm run dev -w server\" \"npm run dev -w client\"",
+    "build": "npm run build -w client",
+    "start": "npm run start -w server",
+    "import": "npm run import -w server --",
+    "extract": "npm run extract -w server --",
+    "publish:exam": "npm run publish:exam -w server --",
+    "dev:exam": "npm run dev:exam -w client",
+    "build:exam": "npm run build:exam -w client",
+    "typecheck": "npm run typecheck -w server && npm run typecheck -w client"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

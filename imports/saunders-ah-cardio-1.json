@@ -1,0 +1,725 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client recovering from anesthesia has a single, isolated PVC on the monitor. What should the nurse do?",
+      "options": [
+        "Prepare to defibrillate",
+        "Keep monitoring the rhythm",
+        "Prepare IV lidocaine",
+        "Call the physician at once"
+      ],
+      "answer": "B",
+      "rationale": "An isolated PVC is not life-threatening, so the nurse keeps monitoring. Frequent PVCs may precede VT or VF and are reported.",
+      "explanations": [
+        "Not indicated.",
+        "Correct: an isolated PVC is benign.",
+        "Not indicated.",
+        "Not needed for one PVC."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q13 (PDF p. 151)",
+      "quote": "As an isolated occurrence, the PVC is not life-threatening."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client develops atrial fibrillation with a ventricular rate of 150. Which effect should the nurse assess for?",
+      "options": [
+        "Flat neck veins",
+        "Hypertension",
+        "Hypotension and dizziness",
+        "Bradycardia"
+      ],
+      "answer": "C",
+      "rationale": "Rapid AF loses the atrial kick and lowers cardiac output, causing hypotension, dizziness, chest pain, dyspnea, palpitations, and a pulse deficit.",
+      "explanations": [
+        "Not expected.",
+        "BP falls.",
+        "Correct: low cardiac output.",
+        "The rate is fast."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q43 (PDF p. 182)",
+      "quote": "The client with uncontrolled atrial fibrillation with a ventricular rate over 100 beats per minute is at risk for low cardiac output caused by loss of atrial kick."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client in acute heart failure (BP 85/50, pulse 96) starts digoxin. Which change shows a therapeutic response?",
+      "options": [
+        "BP falls, pulse rises",
+        "BP rises, pulse slows",
+        "BP and pulse both rise",
+        "BP and pulse both fall"
+      ],
+      "answer": "B",
+      "rationale": "Digoxin is positively inotropic (raises cardiac output and BP) and negatively chronotropic (slows the heart rate).",
+      "explanations": [
+        "Opposite effect.",
+        "Correct: inotropic and chronotropic effects.",
+        "The pulse slows.",
+        "BP rises."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q54 (PDF p. 194)",
+      "quote": "Digoxin also has a negative chronotropic effect (decreases heart rate)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How does the balloon-tipped catheter work in PTCA?",
+      "options": [
+        "A mesh device springs open",
+        "The balloon compresses plaque",
+        "A blade shaves the plaque",
+        "It injects dye only"
+      ],
+      "answer": "B",
+      "rationale": "In PTCA, the balloon compresses plaque against the vessel wall. A mesh device is a stent, shaving is atherectomy, and dye injection is catheterization.",
+      "explanations": [
+        "Describes a stent.",
+        "Correct: compresses plaque.",
+        "Describes atherectomy.",
+        "Describes catheterization."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q150 (PDF p. 300)",
+      "quote": "In PTCA, a balloon-tipped catheter is used to compress the plaque against the coronary blood vessel wall."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Sixteen hours after leg arterial bypass, pain is increasing, worse with movement, with paresthesias. What should the nurse do?",
+      "options": [
+        "Call the physician",
+        "Give an opioid",
+        "Apply ice to the leg",
+        "Elevate the leg high"
+      ],
+      "answer": "A",
+      "rationale": "These are classic signs of compartment syndrome (pain that intensifies with movement, paresthesias), which can compromise the vessels. The provider is notified.",
+      "explanations": [
+        "Correct: possible compartment syndrome.",
+        "Masks a serious sign.",
+        "Not the action.",
+        "Not the action."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q326 (PDF p. 491)",
+      "quote": "Compartment syndrome is characterized by increased pressure within a muscle compartment caused by bleeding or excessive edema."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Aling Linda, 45, is diagnosed with Raynaud's disease. Her fingers turn pale and numb during episodes.",
+      "stem": "Which assessment checks for Raynaud's symptoms?",
+      "options": [
+        "Look for a rash on the fingers",
+        "Check for soft nail beds",
+        "Feel for a fast pulse",
+        "Feel for weak or absent pulses"
+      ],
+      "answer": "D",
+      "rationale": "Raynaud's is vasospasm of small distal arteries. Diminished or absent peripheral pulses show interrupted circulation.",
+      "explanations": [
+        "Not a feature.",
+        "Not a feature.",
+        "Not a feature.",
+        "Correct: vasospasm reduces pulses."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q373 (PDF p. 541)",
+      "quote": "Raynaud’s disease is vasospasm of the arterioles and arteries of the upper and lower extremities."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Aling Linda, 45, is diagnosed with Raynaud's disease. Her fingers turn pale and numb during episodes.",
+      "stem": "Which question BEST identifies what triggers her episodes?",
+      "options": [
+        "'Does heat cause the episodes?'",
+        "'Do they happen while asleep?'",
+        "'Does cold or vibration bring them on?'",
+        "'Does eating cause them?'"
+      ],
+      "answer": "C",
+      "rationale": "Small distal arteries close in response to cold, vibration, or other external stimuli, causing pallor, coldness, numbness, and cyanosis of the fingers.",
+      "explanations": [
+        "Heat relieves symptoms.",
+        "Not a trigger.",
+        "Correct: known triggers.",
+        "Not a trigger."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q380 (PDF p. 549)",
+      "quote": "It produces closure of the small arteries in the distal extremities in response to cold, vibration, or external stimuli."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Aling Linda, 45, is diagnosed with Raynaud's disease. Her fingers turn pale and numb during episodes.",
+      "stem": "Which instruction belongs in Aling Linda's teaching plan?",
+      "options": [
+        "Take daily cool baths",
+        "Eat a high-protein diet",
+        "Take vitamin K daily",
+        "Keep hands warm and dry"
+      ],
+      "answer": "D",
+      "rationale": "Preventing vasoconstriction helps. Hands and feet are kept warm and dry, and gloves and warm fabrics are worn in cold weather.",
+      "explanations": [
+        "Cold triggers vasospasm.",
+        "Not specific.",
+        "Not related.",
+        "Correct: prevents vasospasm."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q729 (PDF p. 953)",
+      "quote": "The use of measures to prevent vasoconstriction is helpful for the management of Raynaud’s disease."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which finding does the nurse expect in pulmonary edema from left-sided heart failure?",
+      "options": [
+        "Weight loss",
+        "Bilateral crackles",
+        "Distended neck veins",
+        "Pitting edema of the legs"
+      ],
+      "answer": "B",
+      "rationale": "Left-sided failure backs blood into the lungs, causing respiratory signs such as crackles. Neck vein distention and peripheral edema are right-sided signs.",
+      "explanations": [
+        "Weight is gained.",
+        "Correct: pulmonary congestion.",
+        "A right-sided sign.",
+        "A right-sided sign."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q390 (PDF p. 560)",
+      "quote": "The client with pulmonary edema presents primarily with symptoms that are respiratory in nature"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which home-safety instruction is MOST important for a client with cardiomyopathy?",
+      "options": [
+        "Report any chest pain",
+        "Take vasodilators PRN",
+        "Avoid all OTC drugs",
+        "Rise slowly when standing"
+      ],
+      "answer": "D",
+      "rationale": "Orthostatic changes can occur from obstructed venous return, and sudden BP drops can cause falls.",
+      "explanations": [
+        "Not the safety focus.",
+        "Not usually prescribed.",
+        "Not the main safety point.",
+        "Correct: prevents falls from orthostasis."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q472 (PDF p. 656)",
+      "quote": "Orthostatic changes can occur in the client with cardiomyopathy as a result of venous return obstruction."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "After femoral-approach cardiac catheterization, which action is a PRIORITY?",
+      "options": [
+        "Restrict all visitors",
+        "Check the groin for bleeding",
+        "Encourage walking right away",
+        "Flex the leg to prevent stiffness"
+      ],
+      "answer": "B",
+      "rationale": "The groin is checked for bleeding, and pressure is applied if it occurs. The leg is kept straight (not flexed or hyperextended) to prevent occlusion or hemorrhage.",
+      "explanations": [
+        "Not necessary.",
+        "Correct: detects bleeding.",
+        "Bed rest is maintained.",
+        "Flexion risks bleeding."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q474 (PDF p. 658)",
+      "quote": "The groin is checked for bleeding, and if any occurs, the nurse immediately places pressure on the site"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with left-leg DVT has severe edema and pain. Which intervention is appropriate?",
+      "options": [
+        "Massage the calf gently",
+        "Elevate; use warm, moist heat",
+        "Apply cold packs often",
+        "Walk briskly every hour"
+      ],
+      "answer": "B",
+      "rationale": "Care includes limb elevation, warm moist heat, analgesics, anticoagulants, and watching for pulmonary embolism. Massage can dislodge the clot.",
+      "explanations": [
+        "Can cause embolism.",
+        "Correct: reduces edema and pain.",
+        "Not recommended.",
+        "Not appropriate with severe symptoms."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q585 (PDF p. 790)",
+      "quote": "Management of the client with DVT who is experiencing severe edema and pain includes bed rest; limb elevation; relief of discomfort with warm, moist heat"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Why should a client with an implantable cardioverter-defibrillator (ICD) keep a diary of shocks?",
+      "options": [
+        "To analyze his diet",
+        "To track exercise only",
+        "To share with family",
+        "To help the provider adjust therapy"
+      ],
+      "answer": "D",
+      "rationale": "The client records the date and time of each shock, prior activity, symptoms, number of shocks, and how he felt. The provider uses this to adjust medication and therapy.",
+      "explanations": [
+        "Not the purpose.",
+        "Not the primary purpose.",
+        "Not the primary purpose.",
+        "Correct: guides treatment."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q668 (PDF p. 887)",
+      "quote": "This includes recording the date and time of the shock, any activity that took place before the shock, any symptoms experienced"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client's spouse fears being shocked if the ICD fires during contact. What should the nurse say?",
+      "options": [
+        "'Avoid touching him.'",
+        "'The shock is dangerous.'",
+        "'It won't harm you.'",
+        "'The ICD rarely fires.'"
+      ],
+      "answer": "C",
+      "rationale": "Families are reassured that if the device fires while they are touching the client, they may feel a slight tingle but will not be harmed.",
+      "explanations": [
+        "Unnecessary.",
+        "Not true.",
+        "Correct: accurate reassurance.",
+        "Not true."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q806 (PDF p. 1040)",
+      "quote": "Family members need reassurance that, even if the device activates while they are touching the client"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which statement by a client with an arterial ischemic leg ulcer needs correction?",
+      "options": [
+        "'I'll inspect my feet daily.'",
+        "'I'll wear shoes and socks.'",
+        "'I'll keep my feet clean and dry.'",
+        "'I'll raise my legs above my heart.'"
+      ],
+      "answer": "D",
+      "rationale": "Foot care is the same as in diabetes, but clients with arterial disease avoid raising the legs above heart level, which reduces arterial flow.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate.",
+        "Correct answer: reduces arterial flow."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q671 (PDF p. 891)",
+      "quote": "The client with arterial disease, however, should avoid raising the legs above heart level"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "After abdominal aortic aneurysm resection, which activity is appropriate at home?",
+      "options": [
+        "Mowing the lawn",
+        "Playing 18 holes of golf",
+        "Lifting groceries over 10 kg",
+        "Walking outdoors as tolerated"
+      ],
+      "answer": "D",
+      "rationale": "Walking as tolerated, including outdoors, is allowed. Pushing, pulling, straining, and lifting over 15 to 20 pounds are avoided for 6 to 12 weeks.",
+      "explanations": [
+        "Involves pushing.",
+        "Too strenuous.",
+        "Exceeds the lifting limit.",
+        "Correct: allowed activity."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q678 (PDF p. 898)",
+      "quote": "The client can walk as tolerated after the repair or resection of an AAA, including walking outdoors."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which risk factor should a client with Buerger's disease (thromboangiitis obliterans) modify FIRST?",
+      "options": [
+        "Heat exposure",
+        "Cigarette smoking",
+        "Low vitamin C intake",
+        "High water intake"
+      ],
+      "answer": "B",
+      "rationale": "Buerger's disease occurs mainly in men over 40 who smoke. Smoking is consistently a risk factor, and symptoms improve with cessation.",
+      "explanations": [
+        "Not a risk factor.",
+        "Correct: the key risk factor.",
+        "Not a risk factor.",
+        "Not a risk factor."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q718 (PDF p. 940)",
+      "quote": "Symptoms of the disease improve with smoking cessation"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which support service BEST helps a client with Buerger's disease make needed lifestyle changes?",
+      "options": [
+        "A dietitian",
+        "A pain clinic",
+        "A smoking cessation program",
+        "Physical therapy"
+      ],
+      "answer": "C",
+      "rationale": "Smoking is very harmful in Buerger's disease and must stop completely. Because it is a chemical dependency, a cessation program helps.",
+      "explanations": [
+        "Not the main need.",
+        "Not the main need.",
+        "Correct: addresses the key risk factor.",
+        "Not the main need."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q836 (PDF p. 1072)",
+      "quote": "Because smoking is a form of chemical dependency, referral to a smoking cessation program may be helpful for many clients."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which statement by a client with peripheral arterial disease needs correction?",
+      "options": [
+        "'I'll eat a balanced diet.'",
+        "'A heating pad will soothe my leg.'",
+        "'I'll stop smoking.'",
+        "'I'll walk daily as advised.'"
+      ],
+      "answer": "B",
+      "rationale": "Direct heat is contraindicated. The limb may have decreased sensation and burn easily, and heat raises tissue oxygen needs.",
+      "explanations": [
+        "Appropriate.",
+        "Correct answer: risk of burns.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q730 (PDF p. 954)",
+      "quote": "The application of heat directly to the extremity is contraindicated."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which item is LOWEST in sodium for a client with hypertension?",
+      "options": [
+        "Antacids",
+        "Laxatives",
+        "Toothpaste",
+        "Demineralized water"
+      ],
+      "answer": "D",
+      "rationale": "Bottled, distilled, deionized, or demineralized water can be used. Toothpaste, mouthwash, and OTC drugs such as antacids and laxatives can add sodium.",
+      "explanations": [
+        "May contain sodium.",
+        "May contain sodium.",
+        "May contain sodium.",
+        "Correct: lowest in sodium."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q731 (PDF p. 956)",
+      "quote": "Water that is bottled, distilled, deionized, or demineralized may be used for drinking and cooking."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client starting spironolactone may need dose adjustments if also taking which drug?",
+      "options": [
+        "Alprazolam",
+        "Warfarin",
+        "Potassium chloride",
+        "Verapamil"
+      ],
+      "answer": "C",
+      "rationale": "Spironolactone retains potassium. Adding potassium supplements risks hyperkalemia, so potassium doses are adjusted.",
+      "explanations": [
+        "No adjustment needed.",
+        "No adjustment needed.",
+        "Correct: hyperkalemia risk.",
+        "No adjustment needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q755 (PDF p. 984)",
+      "quote": "If the client is also taking potassium chloride or another potassium supplement, the risk for hyperkalemia exists."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which statement shows a client understands care of the femoral site after angioplasty?",
+      "options": [
+        "'A cool, pale foot is expected.'",
+        "'Some bleeding is normal.'",
+        "'I can lift heavy loads now.'",
+        "'Mild soreness may be eased with paracetamol.'"
+      ],
+      "answer": "D",
+      "rationale": "Mild discomfort is usually relieved by acetaminophen. Neurovascular changes, bleeding, or bruising at the site are reported.",
+      "explanations": [
+        "Must be reported.",
+        "Must be reported.",
+        "Lifting is restricted.",
+        "Correct: an expected, manageable effect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q787 (PDF p. 1017)",
+      "quote": "The client may feel some mild discomfort at the catheter insertion site after angioplasty."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client with hypertension lists symptoms he gets. Which one is MORE likely from a sinus problem than from high blood pressure?",
+      "options": [
+        "Nosebleed",
+        "Dizziness",
+        "Blurred vision",
+        "Fullness in the sinuses"
+      ],
+      "answer": "D",
+      "rationale": "Cerebrovascular symptoms of hypertension include early-morning occipital headaches, epistaxis, dizziness, blurred vision, and vertigo. Fullness in the head suggests sinus disease.",
+      "explanations": [
+        "Associated with hypertension.",
+        "Associated with hypertension.",
+        "Associated with hypertension.",
+        "Correct answer: a sinus symptom."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q789 (PDF p. 1019)",
+      "quote": "A feeling of fullness in the head is more likely associated with a sinus condition than hypertension."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client is apprehensive before a pericardiocentesis. What is the BEST plan?",
+      "options": [
+        "Let him watch TV",
+        "Talk from the foot of the bed",
+        "Stay with him and explain each step",
+        "Have the family wait outside"
+      ],
+      "answer": "C",
+      "rationale": "A client facing a sudden complication is in situational crisis. Staying with him and giving information and encouragement builds trust.",
+      "explanations": [
+        "Distances the nurse.",
+        "Distances the nurse.",
+        "Correct: presence and information.",
+        "Removes support."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q825 (PDF p. 1060)",
+      "quote": "Staying with the client and giving information and encouragement is part of building and maintaining trust in the nurse–client relationship."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with arterial leg ulcers says, 'I've had this pain for over a year. It never goes away.' What is the PRIORITY concern?",
+      "options": [
+        "Fatigue",
+        "Uneasiness",
+        "Chronic pain",
+        "Infection"
+      ],
+      "answer": "C",
+      "rationale": "The main complaint is pain lasting more than 3 months, which is defined as chronic pain.",
+      "explanations": [
+        "Not supported by the data.",
+        "Not supported by the data.",
+        "Correct: pain over 3 months.",
+        "Not supported by the data."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q839 (PDF p. 1075)",
+      "quote": "Pain that has a duration of more than 3 months is defined as chronic pain"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Before a mechanical heart valve replacement, what is ESSENTIAL to assess?",
+      "options": [
+        "Physical demands of his job",
+        "Lifelong anticoagulant use",
+        "Willingness to join rehab",
+        "Body image concerns"
+      ],
+      "answer": "B",
+      "rationale": "Mechanical valves carry a risk of thromboemboli, so lifelong anticoagulation with warfarin is required.",
+      "explanations": [
+        "No data suggest this.",
+        "Correct: lifelong warfarin is needed.",
+        "Not always required.",
+        "Not the essential factor."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q840 (PDF p. 1076)",
+      "quote": "Mechanical valves carry the associated risk of thromboemboli, which require long-term anticoagulation with warfarin sodium."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A hospitalized client with angina is very anxious. Which action BEST reduces anxiety?",
+      "options": [
+        "Give him choices about his care",
+        "Keep the hallway lights on at night",
+        "Limit his visitors",
+        "Arrange a sedative right away"
+      ],
+      "answer": "A",
+      "rationale": "Providing information, social support, and control over care choices, and acknowledging feelings, reduce anxiety.",
+      "explanations": [
+        "Correct: gives a sense of control.",
+        "May disrupt sleep.",
+        "Reduces support.",
+        "Not the first approach."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q864 (PDF p. 1101)",
+      "quote": "General interventions to minimize anxiety in the hospitalized client include providing information, social support, and control over choices related to care"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "An anxious adult's ECG shows a heart rate of 90. What should the nurse say?",
+      "options": [
+        "'The rate is normal.'",
+        "'There's no need to worry.'",
+        "'A slower rate is better.'",
+        "'Let's repeat the ECG.'"
+      ],
+      "answer": "A",
+      "rationale": "The normal adult resting rate is 60 to 100, so the rate is normal. 'Don't worry' is false reassurance.",
+      "explanations": [
+        "Correct: accurate information.",
+        "False reassurance.",
+        "Implies an abnormality.",
+        "Implies an abnormality."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q868 (PDF p. 1105)",
+      "quote": "A normal adult resting pulse rate ranges between 60 and 100 beats per minute; therefore, the rate is normal."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which behavior suggests depression in a client recovering from MI?",
+      "options": [
+        "Insomnia at night",
+        "Poor appetite, no interest",
+        "Ignores activity limits",
+        "Feels apprehensive"
+      ],
+      "answer": "B",
+      "rationale": "Depression shows as withdrawal, lack of interest, crying, anorexia, and apathy. Insomnia suggests anxiety, ignoring limits suggests denial, and apprehension suggests anxiety.",
+      "explanations": [
+        "Suggests anxiety.",
+        "Correct: anorexia and apathy.",
+        "Suggests denial.",
+        "Suggests anxiety."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q869 (PDF p. 1106)",
+      "quote": "Signs of depression include withdrawal, lack of interest, crying, anorexia, and apathy."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A tense client staring at the cardiac monitor says, 'So many wires. I hope lightning doesn't hit us.' What is the BEST response?",
+      "options": [
+        "'Your family can stay.'",
+        "'Want a sedative?'",
+        "'Don't worry; it's safe.'",
+        "'What worries you about it?'"
+      ],
+      "answer": "D",
+      "rationale": "The nurse first validates the concern, then assesses the client's knowledge of the monitor so teaching can follow.",
+      "explanations": [
+        "Does not address the concern.",
+        "Does not address the concern.",
+        "False reassurance.",
+        "Correct: validates and assesses."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q887 (PDF p. 1129)",
+      "quote": "The nurse should initially validate the client’s concern and then assess the client’s knowledge regarding the cardiac monitor."
+    }
+  ]
+}

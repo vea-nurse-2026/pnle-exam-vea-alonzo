@@ -1,0 +1,821 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "An IV site is swollen, cool, and pale. What should the nurse do?",
+      "options": [
+        "Increase the rate",
+        "Stop and restart at another site",
+        "Apply a warm pack and continue",
+        "Flush forcefully"
+      ],
+      "answer": "B",
+      "rationale": "These are signs of infiltration; the IV is disconnected and restarted at a different site, and movement limited.",
+      "explanations": [
+        "Worsens.",
+        "Correct.",
+        "Not enough.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, IV Complications (PDF p. 31)",
+      "quote": "Disconnect the IV infusion and restart at a different site"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "During IV therapy, a client has distended neck veins, high BP, and dyspnea. What should the nurse do FIRST?",
+      "options": [
+        "Speed up the IV",
+        "Slow IV, notify doctor",
+        "Push oral fluids",
+        "Lay the client flat"
+      ],
+      "answer": "B",
+      "rationale": "These are signs of circulatory overload; slow the rate, notify the doctor, and monitor.",
+      "explanations": [
+        "Worsens.",
+        "Correct.",
+        "Worsens.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, IV Complications (PDF p. 31)",
+      "quote": "Slow the rate of the infusion"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "An IV vein is red, warm, and tender. After stopping the IV, what should be applied?",
+      "options": [
+        "Ice pack",
+        "Warm, moist compress",
+        "Tourniquet",
+        "Alcohol"
+      ],
+      "answer": "B",
+      "rationale": "For superficial thrombophlebitis, discontinue the IV and apply warm moist compresses; avoid the vein.",
+      "explanations": [
+        "Not for phlebitis.",
+        "Correct.",
+        "Harmful.",
+        "Irritates."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, IV Complications (PDF p. 31)",
+      "quote": "Apply warm, moist compress to the affected site"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "An air embolism is suspected during IV therapy. How should the client be positioned?",
+      "options": [
+        "Right side-lying",
+        "Left side, head down",
+        "Sitting upright",
+        "Prone"
+      ],
+      "answer": "B",
+      "rationale": "The client is placed on the left side (often head down) to trap air in the right heart, and the doctor is notified.",
+      "explanations": [
+        "Wrong side.",
+        "Correct.",
+        "Not recommended.",
+        "Not recommended."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, IV Complications (PDF p. 31)",
+      "quote": "Position the patient on left side lying"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A rapid IV push causes pounding headache, chills, and rapid pulse. What is this?",
+      "options": [
+        "Speed shock",
+        "Infiltration",
+        "Phlebitis",
+        "Hypoglycemia"
+      ],
+      "answer": "A",
+      "rationale": "Speed shock results from giving IV push drugs too rapidly.",
+      "explanations": [
+        "Correct.",
+        "Local swelling.",
+        "Local redness.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, IV Complications (PDF p. 31)",
+      "quote": "Speed shock — may result from administration of IV push medications rapidly"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which blood product is used to increase oxygen-carrying capacity?",
+      "options": [
+        "Packed RBCs",
+        "Platelets",
+        "Fresh frozen plasma",
+        "Cryoprecipitate"
+      ],
+      "answer": "A",
+      "rationale": "Packed RBCs increase oxygen-carrying capacity; platelets treat bleeding from low platelets; FFP provides clotting factors.",
+      "explanations": [
+        "Correct.",
+        "Bleeding.",
+        "Clotting/volume.",
+        "Clotting factors."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Blood Products (PDF p. 32)",
+      "quote": "Packed RBC Used to increase oxygen-carrying capacity of the blood"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which IV solution is the ONLY one given with blood?",
+      "options": [
+        "D5W",
+        "0.9% NaCl",
+        "Lactated Ringer's",
+        "D5 0.45% NaCl"
+      ],
+      "answer": "B",
+      "rationale": "Only normal saline is given with blood; dextrose causes hemolysis.",
+      "explanations": [
+        "Hemolysis.",
+        "Correct.",
+        "Not used.",
+        "Hemolysis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Administering Blood (PDF p. 32)",
+      "quote": "ONLY 0.9NaCl (NSS) should be administered with blood."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Within what time must a unit of blood be completely transfused?",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "4 hours",
+        "8 hours"
+      ],
+      "answer": "C",
+      "rationale": "Transfusion should be completed within 4 hours of removal from refrigeration.",
+      "explanations": [
+        "Too fast.",
+        "Not the limit.",
+        "Correct.",
+        "Too long."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Administering Blood (PDF p. 32)",
+      "quote": "Transfusion should be completed within 4 hours"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which needle size is usually used for blood transfusion?",
+      "options": [
+        "#24",
+        "#22",
+        "#18–20",
+        "#26"
+      ],
+      "answer": "C",
+      "rationale": "Blood is usually given through an 18–20 gauge needle or catheter.",
+      "explanations": [
+        "Too small.",
+        "Small.",
+        "Correct.",
+        "Too small."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Administering Blood (PDF p. 32)",
+      "quote": "Blood is usually administered through a #18- #20 gauge intravenous needle or catheter"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How long can blood stay at room temperature before starting the transfusion?",
+      "options": [
+        "No more than 30 minutes",
+        "1 hour",
+        "2 hours",
+        "Until it warms fully"
+      ],
+      "answer": "A",
+      "rationale": "Blood should be at room temperature no more than 30 minutes before infusion begins.",
+      "explanations": [
+        "Correct.",
+        "Too long.",
+        "Too long.",
+        "Too long."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Blood Transfusion (PDF p. 32)",
+      "quote": "Make sure that blood is left at room temperature for no more than 30 minutes before starting the infusion"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "When is the client watched MOST closely during a transfusion?",
+      "options": [
+        "First 5–15 minutes",
+        "Last 15 minutes",
+        "After the transfusion",
+        "Only at 2 hours"
+      ],
+      "answer": "A",
+      "rationale": "Run blood slowly the first 15 minutes and observe closely, with VS 15 minutes after starting.",
+      "explanations": [
+        "Correct.",
+        "Less risk.",
+        "Less risk.",
+        "Too late."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Blood Transfusion (PDF p. 33)",
+      "quote": "Observe the client closely for the first 5 to 15 minutes"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client develops chills, back pain, and hypotension during a transfusion. What is the FIRST action?",
+      "options": [
+        "Slow the blood",
+        "Stop the transfusion",
+        "Give antipyretic",
+        "Call the family"
+      ],
+      "answer": "B",
+      "rationale": "These suggest a hemolytic reaction; stop the transfusion, keep the line open with NS, and notify the doctor.",
+      "explanations": [
+        "Not enough.",
+        "Correct.",
+        "Later.",
+        "Not first."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Transfusion Reaction (PDF p. 33)",
+      "quote": "Stop the transfusion"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client gets mild itching and hives during a transfusion. Which reaction is this?",
+      "options": [
+        "Hemolytic",
+        "Mild allergic",
+        "Septic",
+        "Circulatory overload"
+      ],
+      "answer": "B",
+      "rationale": "Mild allergic reactions (to plasma proteins) cause flushing, itching, urticaria; slow or stop, notify, and give antihistamine.",
+      "explanations": [
+        "More severe.",
+        "Correct.",
+        "Fever, hypotension.",
+        "Dyspnea, crackles."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Transfusion Reaction (PDF p. 33)",
+      "quote": "Clinical manifestations: flushing, itching, urticaria, bronchial wheezing"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "During a transfusion, an older client develops cough, crackles, and distended neck veins. How is he positioned?",
+      "options": [
+        "Flat on the back",
+        "Upright, feet down",
+        "Trendelenburg",
+        "Prone"
+      ],
+      "answer": "B",
+      "rationale": "Circulatory overload: place upright with feet dependent, slow or stop, notify, and give diuretics and oxygen as ordered.",
+      "explanations": [
+        "Worsens.",
+        "Correct.",
+        "Worsens.",
+        "Not used."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Transfusion Reaction (PDF p. 34)",
+      "quote": "Place the patient upright with feet dependent"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "An infection that results directly from a diagnostic or therapeutic procedure is:",
+      "options": [
+        "Endogenous",
+        "Exogenous",
+        "Iatrogenic",
+        "Community-acquired"
+      ],
+      "answer": "C",
+      "rationale": "Iatrogenic infections result directly from procedures; endogenous come from the client's own flora.",
+      "explanations": [
+        "Own flora.",
+        "Environment.",
+        "Correct.",
+        "Not hospital."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Asepsis (PDF p. 34)",
+      "quote": "Latrogenic infection - direct result of diagnostic or therapeutic procedures"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which agent is used to clean blood spills?",
+      "options": [
+        "Isopropyl alcohol",
+        "Chlorine bleach",
+        "Triclosan",
+        "Chlorhexidine"
+      ],
+      "answer": "B",
+      "rationale": "Chlorine (bleach) kills bacteria, TB, spores, fungi, and viruses and is used for blood spills.",
+      "explanations": [
+        "Hands, vials.",
+        "Correct.",
+        "Hands.",
+        "Hands."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Antiseptics and Disinfectants (PDF p. 34)",
+      "quote": "Used to clean blood spills"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "What are standard autoclave conditions?",
+      "options": [
+        "100°C, no pressure",
+        "121–123°C at 15–17 lb pressure",
+        "60°C for 1 hour",
+        "200°C dry heat"
+      ],
+      "answer": "B",
+      "rationale": "Autoclaving uses steam under pressure at 15–17 lb and 121–123°C.",
+      "explanations": [
+        "Boiling.",
+        "Correct.",
+        "Too low.",
+        "Dry heat, not autoclave."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Sterilization (PDF p. 35)",
+      "quote": "Temp: 121°C — 123°C"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which sterilization method suits heat-sensitive items but is toxic to humans?",
+      "options": [
+        "Autoclave",
+        "Ethylene oxide gas",
+        "Boiling",
+        "UV light"
+      ],
+      "answer": "B",
+      "rationale": "Ethylene oxide penetrates well and suits heat-sensitive items but is toxic.",
+      "explanations": [
+        "Heat.",
+        "Correct.",
+        "Heat.",
+        "Poor penetration."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Sterilization (PDF p. 35)",
+      "quote": "Disadvantage: toxic to humans"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which body fluid is exempt from standard precautions?",
+      "options": [
+        "Blood",
+        "Sweat",
+        "Urine",
+        "Wound drainage"
+      ],
+      "answer": "B",
+      "rationale": "Standard precautions apply to blood, all body fluids, secretions, and excretions except sweat.",
+      "explanations": [
+        "Included.",
+        "Correct.",
+        "Included.",
+        "Included."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Standard Precautions (PDF p. 35)",
+      "quote": "Blood, all body fluids, secretions and excretions (except sweat)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which disease requires AIRBORNE precautions?",
+      "options": [
+        "Pertussis",
+        "Mumps",
+        "Varicella",
+        "Impetigo"
+      ],
+      "answer": "C",
+      "rationale": "Airborne precautions are for measles, varicella (including zoster), and pulmonary TB.",
+      "explanations": [
+        "Droplet.",
+        "Droplet.",
+        "Correct.",
+        "Contact."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Transmission-Based Precautions (PDF p. 36)",
+      "quote": "Ex: Measles (rubeola), Varicella, (including zoster), Pulmonary tuberculosis"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A child has diphtheria. Which precautions are used?",
+      "options": [
+        "Airborne",
+        "Droplet",
+        "Contact only",
+        "Reverse"
+      ],
+      "answer": "B",
+      "rationale": "Droplet precautions apply to diphtheria, pertussis, mumps, rubella, strep pharyngitis, and pneumonic plague.",
+      "explanations": [
+        "Measles, TB.",
+        "Correct.",
+        "Skin, GI.",
+        "Protects client."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Transmission-Based Precautions (PDF p. 36)",
+      "quote": "Example: diphtheria, mycoplasma pneumonia, pertussis, mumps, rubella"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which condition requires CONTACT precautions?",
+      "options": [
+        "Scabies",
+        "Measles",
+        "Mumps",
+        "TB"
+      ],
+      "answer": "A",
+      "rationale": "Contact precautions apply to scabies, pediculosis, impetigo, C. difficile, hepatitis A, RSV, and MDROs.",
+      "explanations": [
+        "Correct.",
+        "Airborne.",
+        "Droplet.",
+        "Airborne."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Transmission-Based Precautions (PDF p. 36)",
+      "quote": "impetigo, pediculosis, scabies"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "For droplet precautions, when must staff wear a mask?",
+      "options": [
+        "Only outdoors",
+        "Within 3 feet",
+        "Never needed",
+        "Only at night"
+      ],
+      "answer": "B",
+      "rationale": "Under droplet precautions, a mask is worn when working within 3 feet of the client.",
+      "explanations": [
+        "Wrong.",
+        "Correct.",
+        "Wrong.",
+        "Wrong."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Droplet Precautions (PDF p. 36)",
+      "quote": "Wear a mask if working within 3 feet of the client"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "In color-coded waste segregation, which container receives infectious items?",
+      "options": [
+        "Black",
+        "Green",
+        "Yellow",
+        "Orange"
+      ],
+      "answer": "C",
+      "rationale": "Yellow is for infectious waste; black non-biodegradable, green biodegradable, orange radioactive, red sharps.",
+      "explanations": [
+        "Non-biodegradable.",
+        "Biodegradable.",
+        "Correct.",
+        "Radioactive."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Disposal of Equipment (PDF p. 37)",
+      "quote": "Yellow — infectious items"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which item needs NO special precautions after use by an infected client?",
+      "options": [
+        "Dishes",
+        "Lab specimens",
+        "Used needles",
+        "Soiled dressings"
+      ],
+      "answer": "A",
+      "rationale": "Dishes require no special precautions; specimens go in leak-proof biohazard containers, sharps in puncture-resistant containers.",
+      "explanations": [
+        "Correct.",
+        "Biohazard.",
+        "Sharps.",
+        "Bagged."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Disposal of Equipment (PDF p. 37)",
+      "quote": "Require no special precautions"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Accumulation of carbon dioxide in the blood is called:",
+      "options": [
+        "Hypoxemia",
+        "Hypercapnia",
+        "Hypoxia",
+        "Hypoventilation"
+      ],
+      "answer": "B",
+      "rationale": "Hypercapnia is CO2 accumulation; hypoxemia is low blood oxygen.",
+      "explanations": [
+        "Low O2 in blood.",
+        "Correct.",
+        "Low O2 anywhere.",
+        "Low ventilation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Respiratory Alterations (PDF p. 37)",
+      "quote": "Hypercapnia — accumulation of carbon dioxide in the blood"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How should pursed-lip breathing be done?",
+      "options": [
+        "Puff out the cheeks",
+        "Exhale slowly through pursed lips",
+        "Inhale through the mouth fast",
+        "Hold breath 30 seconds"
+      ],
+      "answer": "B",
+      "rationale": "Purse the lips as if to whistle and breathe out slowly without puffing the cheeks.",
+      "explanations": [
+        "Avoid.",
+        "Correct.",
+        "Not the method.",
+        "Not the method."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pursed-Lip Breathing (PDF p. 37)",
+      "quote": "breathe out slowly and gently without puffing out the cheeks"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "In controlled coughing, why cough twice?",
+      "options": [
+        "First loosens, second expels",
+        "To tire the client",
+        "To clear the nose",
+        "No reason"
+      ],
+      "answer": "A",
+      "rationale": "The first cough loosens mucus; the second expels it.",
+      "explanations": [
+        "Correct.",
+        "Wrong.",
+        "Wrong.",
+        "Wrong."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Controlled Coughing (PDF p. 38)",
+      "quote": "First cough loosens the mucus, while the second expels the secretions"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the usual sequence for chest physiotherapy?",
+      "options": [
+        "Percuss, drain, vibrate",
+        "Drain, percuss, vibrate",
+        "Vibrate, cough, drain",
+        "Cough, then drain"
+      ],
+      "answer": "B",
+      "rationale": "The sequence is postural drainage, percussion, vibration, then removal of secretions by coughing or suctioning.",
+      "explanations": [
+        "Wrong order.",
+        "Correct.",
+        "Wrong order.",
+        "Wrong order."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Percussion, Vibration and Postural Drainage (PDF p. 38)",
+      "quote": "The sequence for PVD is usually postural drainage, percussion, vibration"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Over which area is chest percussion AVOIDED?",
+      "options": [
+        "Posterior lower lobes",
+        "Lateral chest",
+        "Spine and kidneys",
+        "Upper back"
+      ],
+      "answer": "C",
+      "rationale": "Percussion is avoided over the breasts, sternum, spinal column, and kidneys.",
+      "explanations": [
+        "Common site.",
+        "Common site.",
+        "Correct.",
+        "Common site."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Percussion (PDF p. 38)",
+      "quote": "Percussion is avoided over the breasts, sternum, spinal column and kidneys"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "When is vibration applied during chest physiotherapy?",
+      "options": [
+        "During inhalation",
+        "During exhalation",
+        "During breath-holding",
+        "During coughing"
+      ],
+      "answer": "B",
+      "rationale": "Vibrate during exhalation and stop when the client inhales.",
+      "explanations": [
+        "Stop then.",
+        "Correct.",
+        "Not then.",
+        "Not then."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Vibration (PDF p. 39)",
+      "quote": "Stop vibrating when the client inhales"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "When is postural drainage BEST scheduled?",
+      "options": [
+        "Right after meals",
+        "Before meals and at bedtime",
+        "Only at midnight",
+        "Anytime after eating"
+      ],
+      "answer": "B",
+      "rationale": "Best times are before breakfast, before lunch, late afternoon, and before bedtime, to avoid vomiting.",
+      "explanations": [
+        "Vomiting risk.",
+        "Correct.",
+        "Not ideal.",
+        "Vomiting risk."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Postural Drainage (PDF p. 39)",
+      "quote": "Best time includes before breakfast. lunch, in the late afternoon and before bedtime"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which blanket should be used for a client on oxygen?",
+      "options": [
+        "Wool",
+        "Synthetic",
+        "Cotton",
+        "Fleece"
+      ],
+      "answer": "C",
+      "rationale": "Avoid static-generating wool and synthetic fabrics; use cotton.",
+      "explanations": [
+        "Static.",
+        "Static.",
+        "Correct.",
+        "Static."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Oxygen Safety (PDF p. 39)",
+      "quote": "Cotton blankets should be used"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What oxygen concentration does a nasal cannula deliver at 2–6 L/min?",
+      "options": [
+        "24–45%",
+        "60–80%",
+        "90–100%",
+        "10–15%"
+      ],
+      "answer": "A",
+      "rationale": "A nasal cannula delivers 24–45% oxygen at 2–6 L/min.",
+      "explanations": [
+        "Correct.",
+        "Masks.",
+        "Non-rebreather.",
+        "Too low."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Oxygen Delivery (PDF p. 39)",
+      "quote": "Delivers relatively low concentration of 02 (24-45%) at flow rates of 2-6 L/min"
+    }
+  ]
+}

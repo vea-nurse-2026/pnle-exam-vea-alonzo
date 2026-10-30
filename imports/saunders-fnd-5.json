@@ -1,0 +1,821 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A post-op client has religious food requirements. What shows cultural consideration?",
+      "options": [
+        "Serve the standard tray",
+        "Ask about and honor food customs",
+        "Tell family to stop bringing food",
+        "Skip meals on fasting days"
+      ],
+      "answer": "B",
+      "rationale": "Spiritual and cultural consideration means learning and maintaining the client's familiar customs to support healing.",
+      "explanations": [
+        "Ignores customs.",
+        "Correct.",
+        "Ignores customs.",
+        "Unsafe without plan."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1048 (PDF p. 1322)",
+      "quote": "Spiritual and cultural consideration reflects attempts to maintain familiar customs"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "How should the nurse address an older client from an unfamiliar culture?",
+      "options": [
+        "By first name",
+        "By formal name and title",
+        "By a nickname",
+        "As 'lolo' or 'lola' without asking"
+      ],
+      "answer": "B",
+      "rationale": "Using the formal name shows respect to older clients of any background; personal conversation not related to care is limited at first.",
+      "explanations": [
+        "May be disrespectful.",
+        "Correct.",
+        "Disrespectful.",
+        "Assumes."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1049 (PDF p. 1324)",
+      "quote": "it is generally prudent to show respect for an older client of any ethnic background by using his or her formal name."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "A client speaks only a dialect the nurse doesn't know, and no interpreter is free. What is BEST before a dressing change?",
+      "options": [
+        "Have a relative interpret",
+        "Use the agency interpreter",
+        "Proceed without explaining",
+        "Speak loudly in English"
+      ],
+      "answer": "B",
+      "rationale": "The ideal is a dialect-specific interpreter designated by the agency; family should not interpret medical information.",
+      "explanations": [
+        "Not ideal.",
+        "Correct.",
+        "No consent.",
+        "Ineffective."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1051 (PDF p. 1327)",
+      "quote": "it is ideal for the nurse to call on a dialect-specific interpreter designated by the health care agency"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which factor belongs in a cultural and spiritual assessment?",
+      "options": [
+        "Blood type",
+        "Family roles",
+        "Shoe size",
+        "Insurance number"
+      ],
+      "answer": "B",
+      "rationale": "Cultural assessment covers nutrition, communication, high-risk behaviors, health practices, family roles, and spirituality.",
+      "explanations": [
+        "Not cultural.",
+        "Correct.",
+        "Not cultural.",
+        "Not cultural."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1052 (PDF p. 1328)",
+      "quote": "nutrition, communication, high-risk behaviors, health care practices, family roles and organiz"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which food should be AVOIDED for a client on a kosher diet?",
+      "options": [
+        "Tuna",
+        "Apples",
+        "Pork",
+        "Chicken"
+      ],
+      "answer": "C",
+      "rationale": "Kosher diets avoid pork, meat of carnivores, and fish without scales or fins.",
+      "explanations": [
+        "Allowed.",
+        "Allowed.",
+        "Correct.",
+        "Allowed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1055 (PDF p. 1333)",
+      "quote": "Clients who follow a kosher diet avoid meat from carnivores, pork products, and fish without scales or fins."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A woman with headache has long red welts on her back from coin rubbing. What should the nurse do?",
+      "options": [
+        "Report abuse right away",
+        "Ask about home remedies",
+        "Scold the son for it",
+        "Ignore the welts"
+      ],
+      "answer": "B",
+      "rationale": "The nurse asks about home remedies and assesses cultural health practices; coin rubbing is a traditional remedy.",
+      "explanations": [
+        "Premature.",
+        "Correct.",
+        "Not therapeutic.",
+        "Must assess."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1057 (PDF p. 1335)",
+      "quote": "The nurse should ask the client if she has used any home remedies."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which death practice should the nurse expect for a dying Muslim client?",
+      "options": [
+        "Body facing Mecca",
+        "Cremation within 24 hours",
+        "Last rites by a priest",
+        "Embalming for a week"
+      ],
+      "answer": "A",
+      "rationale": "Muslims desire the body to face Mecca. Hindus favor cremation within 24 hours.",
+      "explanations": [
+        "Correct.",
+        "Hindu.",
+        "Catholic.",
+        "Not Muslim."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1058 (PDF p. 1337)",
+      "quote": "Those of the Muslim faith desire their body to be facing Mecca."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "A Muslim woman is stabilized after an assault. Which assignment is MOST appropriate?",
+      "options": [
+        "Any available nurse",
+        "A female nurse",
+        "A male nurse",
+        "A float nurse only"
+      ],
+      "answer": "B",
+      "rationale": "Gender roles influence care; many Muslim women should be cared for by a female nurse.",
+      "explanations": [
+        "Ignores culture.",
+        "Correct.",
+        "Inappropriate.",
+        "Not the issue."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1059 (PDF p. 1339)",
+      "quote": "Information about family and gender roles will greatly influence the nurse’s plan of care."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "Which factor contributes to health disparities?",
+      "options": [
+        "Blood type",
+        "Geographic location",
+        "Eye color",
+        "Handedness"
+      ],
+      "answer": "B",
+      "rationale": "Disparities arise from age, ethnicity, education, provider attitudes, geography, income, occupation, and health literacy.",
+      "explanations": [
+        "Not a factor.",
+        "Correct.",
+        "Not a factor.",
+        "Not a factor."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1060 (PDF p. 1340)",
+      "quote": "Many factors contribute to health disparities"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Besides food and illness beliefs, what else should the nurse consider in nutrition care across cultures?",
+      "options": [
+        "The brand of food",
+        "Body size perception",
+        "The price of food",
+        "The cooking time"
+      ],
+      "answer": "B",
+      "rationale": "Dietary preferences, food beliefs, and cultural perception of body size must be considered.",
+      "explanations": [
+        "Not key.",
+        "Correct.",
+        "Not key.",
+        "Not key."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1061 (PDF p. 1341)",
+      "quote": "client perception of body weight and size relative to culture must"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which statement shows a client treated for TB understands discharge teaching?",
+      "options": [
+        "'Contacts need testing.'",
+        "'I can stop drugs when well.'",
+        "'Boil all my dishes.'",
+        "'Masks are useless.'"
+      ],
+      "answer": "A",
+      "rationale": "Close contacts must be tested and treated if positive. Drugs are completed; dishes need no special handling.",
+      "explanations": [
+        "Correct.",
+        "Must complete.",
+        "Not needed.",
+        "Not true."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1063 (PDF p. 1343)",
+      "quote": "Any close contacts with the client must be tested and treated"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client on home IV antibiotics should report which finding early?",
+      "options": [
+        "Mild thirst at night",
+        "Site pain or drainage",
+        "A normal appetite",
+        "Clear yellow urine"
+      ],
+      "answer": "B",
+      "rationale": "Pain, drainage, and edema signal site infection; early detection prevents septicemia.",
+      "explanations": [
+        "Not a complication.",
+        "Correct.",
+        "Normal.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1064 (PDF p. 1346)",
+      "quote": "The nurse instructs the client to report clinical indicators of an IV site infection, including pain, drainage, and edema"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which statement shows understanding of home fire safety?",
+      "options": [
+        "'I'll hide my escape ladder.'",
+        "'I'll gather valuables first.'",
+        "'Smoke alarms and quick exit save lives.'",
+        "'I'll open doors to check.'"
+      ],
+      "answer": "C",
+      "rationale": "Early smoke detection and immediate evacuation reduce deaths, since alarms sound before flames appear.",
+      "explanations": [
+        "Keep accessible.",
+        "Delays escape.",
+        "Correct.",
+        "Feel doors first."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1068 (PDF p. 1350)",
+      "quote": "The early detection of smoke using a smoke detector and immediate evacuation from the house have significant and positive effects on mortality rates."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which statement on a low-sodium diet needs MORE teaching?",
+      "options": [
+        "'Frozen foods are lowest in sodium.'",
+        "'It helps lower my BP.'",
+        "'It doesn't replace my medicine.'",
+        "'It reduces fluid retention.'"
+      ],
+      "answer": "A",
+      "rationale": "Frozen and processed foods are often high in sodium.",
+      "explanations": [
+        "Correct answer: false.",
+        "Accurate.",
+        "Accurate.",
+        "Accurate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1070 (PDF p. 1352)",
+      "quote": "Sodium retains fluid, which leads to hypertension as a result of increased fluid volume."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which statement shows a pregnant woman understands toxoplasmosis prevention?",
+      "options": [
+        "'Raw meat is fine.'",
+        "'I wash hands only before meals.'",
+        "'I'll avoid my cat's litter box.'",
+        "'I'll use steroid cream.'"
+      ],
+      "answer": "C",
+      "rationale": "Infected cats shed toxoplasma in feces; pregnant women avoid litter boxes and undercooked meat.",
+      "explanations": [
+        "Risk.",
+        "Incomplete.",
+        "Correct.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1072 (PDF p. 1354)",
+      "quote": "Infected house cats transmit toxoplasmosis through the feces."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which diet does a child with cystic fibrosis need?",
+      "options": [
+        "Low-calorie, low-protein",
+        "Low-fat, high-fiber",
+        "Normal diet only",
+        "High-calorie, high-protein"
+      ],
+      "answer": "D",
+      "rationale": "CF is managed with high-calorie, high-protein food plus pancreatic enzymes and fat-soluble vitamins. Fat is not restricted.",
+      "explanations": [
+        "Too little.",
+        "Fat not restricted.",
+        "Not enough.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1073 (PDF p. 1355)",
+      "quote": "Children with CF are managed with a high-calorie, high-protein diet."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which measure relieves itching under a plaster cast?",
+      "options": [
+        "Scratch with a ruler",
+        "Trickle water inside",
+        "Push a stick in with help",
+        "Blow cool air with a hair dryer"
+      ],
+      "answer": "D",
+      "rationale": "Nothing is put inside a cast, and water weakens plaster. Cool air from a hair dryer can relieve itching.",
+      "explanations": [
+        "Skin injury.",
+        "Weakens plaster.",
+        "Skin injury.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1075 (PDF p. 1357)",
+      "quote": "Objects should not be put inside a cast because of the risk of scratching the skin"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is MOST important to determine before an arteriogram with contrast?",
+      "options": [
+        "Vital signs",
+        "Intake and output",
+        "Height and weight",
+        "Iodine allergy and consent"
+      ],
+      "answer": "D",
+      "rationale": "Iodine or seafood allergy predicts dye reaction, and consent is needed for the invasive injection.",
+      "explanations": [
+        "Baseline only.",
+        "Not first.",
+        "Not first.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1097 (PDF p. 1381)",
+      "quote": "Allergy to iodine or seafood is associated with allergy to the radiopaque dye"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "An older resident returns after several GI tests. Which assessment is the PRIORITY?",
+      "options": [
+        "Comfort level",
+        "Activity tolerance",
+        "Level of consciousness",
+        "Hydration and nutrition"
+      ],
+      "answer": "D",
+      "rationale": "GI tests need bowel prep and NPO status, so older adults risk dehydration and poor nutrition.",
+      "explanations": [
+        "Less priority.",
+        "Less priority.",
+        "Less priority.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1100 (PDF p. 1384)",
+      "quote": "require that the GI tract be cleaned (usually with laxatives and enemas) before testing."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which sign fits dehydration from long-term diuretic use?",
+      "options": [
+        "Decreased pulse",
+        "Bibasilar crackles",
+        "Higher BP",
+        "High urine specific gravity"
+      ],
+      "answer": "D",
+      "rationale": "Fluid deficit causes rapid pulse, weight loss, poor turgor, low output, and concentrated urine with high specific gravity.",
+      "explanations": [
+        "Pulse rises.",
+        "Overload.",
+        "Overload.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1107 (PDF p. 1391)",
+      "quote": "concentrated urine with increased specific grav"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Allen's test checks collateral circulation of which artery?",
+      "options": [
+        "Ulnar",
+        "Radial",
+        "Brachial",
+        "Femoral"
+      ],
+      "answer": "A",
+      "rationale": "Before radial puncture, Allen's test confirms adequate ulnar circulation to prevent hand ischemia.",
+      "explanations": [
+        "Correct.",
+        "Being punctured.",
+        "Not tested.",
+        "Not tested."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1114 (PDF p. 1398)",
+      "quote": "Allen’s test is performed to determine adequate ulnar circulation."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "ABG: pH 7.34, PCO2 37, HCO3 19. Which imbalance is present?",
+      "options": [
+        "Metabolic acidosis",
+        "Metabolic alkalosis",
+        "Respiratory acidosis",
+        "Respiratory alkalosis"
+      ],
+      "answer": "A",
+      "rationale": "pH below 7.35 with HCO3 below 22 and normal PCO2 is metabolic acidosis.",
+      "explanations": [
+        "Correct.",
+        "pH would be high.",
+        "PCO2 normal.",
+        "pH would be high."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1116 (PDF p. 1400)",
+      "quote": "Metabolic acidosis occurs when the pH falls to less than 7.35 and the bicarbonate level falls to less than 22 mEq/L"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "What is the priority after an intravenous pyelogram?",
+      "options": [
+        "Strict bed rest",
+        "Walk in the hallway",
+        "Increase fluid intake",
+        "Keep NPO"
+      ],
+      "answer": "C",
+      "rationale": "Fluids help clear the dye. Activity is as tolerated.",
+      "explanations": [
+        "Not needed.",
+        "Not the priority.",
+        "Correct.",
+        "Opposite."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1134 (PDF p. 1419)",
+      "quote": "After IVP, the client should take in increased fluids to aid in the clearance of the dye"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which IV solution is isotonic?",
+      "options": [
+        "D10W",
+        "0.45% NaCl",
+        "D5W",
+        "3% NaCl"
+      ],
+      "answer": "C",
+      "rationale": "D5W is isotonic in the bag, as are 0.9% NaCl and lactated Ringer's.",
+      "explanations": [
+        "Hypertonic.",
+        "Hypotonic.",
+        "Correct.",
+        "Hypertonic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1146 (PDF p. 1433)",
+      "quote": "Five percent dextrose in water is an isotonic solution"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "What maintains the integrity of an ABG sample?",
+      "options": [
+        "Preservative syringe",
+        "Heparinized syringe on ice",
+        "Plain tube at room temp",
+        "Heparinized syringe, warm"
+      ],
+      "answer": "B",
+      "rationale": "ABGs use a heparinized syringe, placed on ice and sent immediately. No preservative.",
+      "explanations": [
+        "Not used.",
+        "Correct.",
+        "Clots.",
+        "Alters results."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1155 (PDF p. 1442)",
+      "quote": "The sample of blood is placed on ice and sent to the laboratory immediately."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which care is correct after a bone biopsy?",
+      "options": [
+        "VS once a day",
+        "Keep site dependent",
+        "Routine IM opioids",
+        "Watch site for bleeding"
+      ],
+      "answer": "D",
+      "rationale": "The site is monitored for swelling, bleeding, or hematoma; VS every 4 hours for 24 hours; the site is elevated.",
+      "explanations": [
+        "Too infrequent.",
+        "Elevate.",
+        "Not routine.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1199 (PDF p. 1491)",
+      "quote": "Nursing care after bone biopsy includes monitoring the site for swelling, bleeding, or hematoma formation."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What is the PRIORITY before an arthrogram with contrast?",
+      "options": [
+        "Check allergies",
+        "Ask about pain",
+        "Check diet",
+        "Teach exercises"
+      ],
+      "answer": "A",
+      "rationale": "Because of contrast allergy risk, the nurse first assesses allergy to iodine or shellfish.",
+      "explanations": [
+        "Correct.",
+        "Less priority.",
+        "Less priority.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1200 (PDF p. 1492)",
+      "quote": "Because of the risk of allergy to contrast medium, the nurse places the highest priority on assessing whether the client has an allergy"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "After laryngectomy, oral intake starts with which food type?",
+      "options": [
+        "Bland",
+        "Full liquids",
+        "Clear liquids",
+        "Semisolid foods"
+      ],
+      "answer": "D",
+      "rationale": "Oral intake begins with semisolids; liquids are added once semisolids are managed.",
+      "explanations": [
+        "Not a texture stage.",
+        "Aspiration risk.",
+        "Aspiration risk.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1214 (PDF p. 1507)",
+      "quote": "Oral intake after laryngectomy is started with semisolid foods."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "Which order should wait until a comatose client is intubated?",
+      "options": [
+        "Gastric feeding",
+        "Urinary catheter",
+        "Finger-stick glucose",
+        "CBC draw"
+      ],
+      "answer": "A",
+      "rationale": "Intubation must precede gastric feeding to prevent aspiration.",
+      "explanations": [
+        "Correct.",
+        "Can proceed.",
+        "Can proceed.",
+        "Can proceed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1273 (PDF p. 1574)",
+      "quote": "Intubation should always precede gastric feeding to prevent pulmonary aspiration."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "A client says he goes to PT, but the record shows two missed visits. Which response uses confrontation?",
+      "options": [
+        "'Show me your exercises.'",
+        "'You'll never heal if you skip.'",
+        "'Is more PT scheduled?'",
+        "'I see you missed the last two visits.'"
+      ],
+      "answer": "D",
+      "rationale": "Confrontation presents the facts from the record to address avoidance.",
+      "explanations": [
+        "Avoids the issue.",
+        "Threatening.",
+        "Ignores facts.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1281 (PDF p. 1582)",
+      "quote": "the nurse employs the therapeutic communication technique of confrontation."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A head-injured client keeps pulling his feeding tube. Which restraint is BEST?",
+      "options": [
+        "Belt restraint",
+        "Waist restraint",
+        "Wrist restraints",
+        "Mitten restraints"
+      ],
+      "answer": "D",
+      "rationale": "Mittens prevent pulling without resistance, which could raise ICP. Wrist restraints cause resistance.",
+      "explanations": [
+        "No hand control.",
+        "No hand control.",
+        "Resistance raises ICP.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1284 (PDF p. 1585)",
+      "quote": "Mitten restraints are useful for this client because the client cannot pull against them"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A family says their father started wandering at night and got out once. What should the nurse say FIRST?",
+      "options": [
+        "'Tell me more about when this began.'",
+        "'Lock him in his room.'",
+        "'He needs a nursing home.'",
+        "'Give him a sleeping pill.'"
+      ],
+      "answer": "A",
+      "rationale": "The nurse first assesses and collects data about the behavior change.",
+      "explanations": [
+        "Correct.",
+        "Unsafe.",
+        "Premature.",
+        "Premature."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1288 (PDF p. 1589)",
+      "quote": "The nurse responds to the family by assessing the situation and collecting additional data"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Families (Normal & At Risk)",
+      "situation": "",
+      "stem": "An older client asks the home nurse to buy her groceries. What is BEST?",
+      "options": [
+        "'Do you often need help?'",
+        "'Let's discuss how to solve this.'",
+        "'Who usually shops for you?'",
+        "'I don't have time.'"
+      ],
+      "answer": "B",
+      "rationale": "The nurse completes the assessment and then finds immediate and long-term solutions with the client.",
+      "explanations": [
+        "Closed.",
+        "Correct.",
+        "Closed.",
+        "Dismissive."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1289 (PDF p. 1590)",
+      "quote": "the nurse’s first action is to finish the assessment and then find immediate and long-term solutions"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which belongs in seizure precautions?",
+      "options": [
+        "Keep all lights on",
+        "Suction ready at bedside",
+        "Tongue blade taped to bed",
+        "Restrain during a seizure"
+      ],
+      "answer": "B",
+      "rationale": "Suction is ready for secretions, and the client is accompanied during activities. Nothing goes in the mouth.",
+      "explanations": [
+        "Not required.",
+        "Correct.",
+        "Not used.",
+        "Causes injury."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1291 (PDF p. 1592)",
+      "quote": "Suction equipment should be readily available to remove accumulated secretions after the seizure."
+    }
+  ]
+}

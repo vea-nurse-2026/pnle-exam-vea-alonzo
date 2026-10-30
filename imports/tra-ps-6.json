@@ -1,0 +1,581 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client with antisocial personality disorder repeatedly breaks unit rules. What is the best nursing approach?",
+      "options": [
+        "Consistent limit setting",
+        "Ignoring the behavior",
+        "Punishing harshly",
+        "Changing rules for him"
+      ],
+      "answer": "A",
+      "rationale": "Set limits and enforce rules consistently, without anger or punitive responses.",
+      "explanations": [
+        "Correct.",
+        "Reinforces.",
+        "Nontherapeutic.",
+        "Invites manipulation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Antisocial PD (PDF p. 264)",
+      "quote": "Consistent adherence to rules and treatment plan"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "'You say you want to manage your anger, but you've missed the group meetings.' This nurse response uses:",
+      "options": [
+        "Confrontation",
+        "Reflection",
+        "Giving advice",
+        "Reassurance"
+      ],
+      "answer": "A",
+      "rationale": "Confrontation manages manipulative or deceptive behavior by pointing out inconsistencies.",
+      "explanations": [
+        "Correct.",
+        "Returns feelings.",
+        "Nontherapeutic.",
+        "Nontherapeutic."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Antisocial PD (PDF p. 264)",
+      "quote": "Confrontation – technique designed to manage manipulative or deceptive behavior."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which characteristic is typical of antisocial personality disorder?",
+      "options": [
+        "Violating others' rights",
+        "Fear of abandonment",
+        "Need to be cared for",
+        "Social hypersensitivity"
+      ],
+      "answer": "A",
+      "rationale": "Antisocial PD: violation of others' rights, lying, rationalization, thrill-seeking, irresponsibility.",
+      "explanations": [
+        "Correct.",
+        "Borderline.",
+        "Dependent.",
+        "Avoidant."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Antisocial PD (PDF p. 264)",
+      "quote": "Violation of the right of others"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client with borderline personality disorder has cuts on her forearms. What is the nursing priority?",
+      "options": [
+        "Client safety",
+        "Social skills teaching",
+        "Insight therapy",
+        "Diversional activity"
+      ],
+      "answer": "A",
+      "rationale": "Recurrent self-mutilation and suicidal gestures make safety the priority.",
+      "explanations": [
+        "Correct.",
+        "Later.",
+        "Later.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Borderline PD (PDF p. 264)",
+      "quote": "Promote client’s safety"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Intense fear of abandonment and unstable relationships suggest which disorder?",
+      "options": [
+        "Borderline personality",
+        "Schizoid personality",
+        "Paranoid personality",
+        "Narcissistic personality"
+      ],
+      "answer": "A",
+      "rationale": "Borderline PD features fear of abandonment, unstable intense relationships, and self-harm.",
+      "explanations": [
+        "Correct.",
+        "Detached.",
+        "Suspicious.",
+        "Grandiose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Borderline PD (PDF p. 264)",
+      "quote": "Fear of abandonment, real or perceived"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client dresses provocatively at work and constantly seeks attention. The nurse should:",
+      "options": [
+        "Give factual feedback on behavior",
+        "Compliment her appearance",
+        "Stand very close",
+        "Avoid all contact"
+      ],
+      "answer": "A",
+      "rationale": "For histrionic PD, give factual feedback, keep professional distance, and teach social skills.",
+      "explanations": [
+        "Correct.",
+        "Reinforces.",
+        "Boundaries.",
+        "Nontherapeutic."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Histrionic PD (PDF p. 264)",
+      "quote": "Provide factual feedback about behavior."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client with narcissistic personality disorder insults the nurse's competence. The nurse should:",
+      "options": [
+        "Stay matter-of-fact",
+        "Argue back firmly",
+        "Avoid the client",
+        "Apologize repeatedly"
+      ],
+      "answer": "A",
+      "rationale": "Use a matter-of-fact approach, do not internalize criticism, and set limits on rude behavior.",
+      "explanations": [
+        "Correct.",
+        "Escalates.",
+        "Nontherapeutic.",
+        "Reinforces."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Narcissistic PD (PDF p. 264)",
+      "quote": "The nurse must not internalize such criticism or take it personally"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client avoids social events for fear of criticism and feels inferior. Which disorder?",
+      "options": [
+        "Avoidant personality",
+        "Antisocial personality",
+        "Histrionic personality",
+        "Schizotypal personality"
+      ],
+      "answer": "A",
+      "rationale": "Avoidant PD: social discomfort, low self-esteem, hypersensitivity, fear of rejection.",
+      "explanations": [
+        "Correct.",
+        "Rule-breaking.",
+        "Attention-seeking.",
+        "Odd beliefs."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Avoidant PD (PDF p. 265)",
+      "quote": "They fear rejection, criticism, shame or disapproval"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "What is the main goal for a client with dependent personality disorder?",
+      "options": [
+        "Self-reliance and autonomy",
+        "More nurse direction",
+        "Social isolation",
+        "Fewer decisions"
+      ],
+      "answer": "A",
+      "rationale": "Foster self-reliance and teach problem-solving and decision-making skills.",
+      "explanations": [
+        "Correct.",
+        "Reinforces.",
+        "Not goal.",
+        "Opposite."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Dependent PD (PDF p. 265)",
+      "quote": "Foster client’s self-reliance and autonomy"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Repeated hand washing in OCD serves to:",
+      "options": [
+        "Reduce anxiety",
+        "Gain attention",
+        "Punish others",
+        "Express anger"
+      ],
+      "answer": "A",
+      "rationale": "Compulsions are repetitive acts that attempt to neutralize the anxiety caused by obsessions.",
+      "explanations": [
+        "Correct.",
+        "Not purpose.",
+        "Not purpose.",
+        "Not purpose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Obsessive-Compulsive (PDF p. 265)",
+      "quote": "compulsions (repetitive behaviors or mental acts) that attempt to neutralize anxiety"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which finding is expected in a client with anorexia nervosa?",
+      "options": [
+        "Amenorrhea",
+        "Hypertension",
+        "Heat intolerance",
+        "Tachycardia"
+      ],
+      "answer": "A",
+      "rationale": "Anorexia causes amenorrhea, bradycardia, hypotension, hypothermia, and cold intolerance.",
+      "explanations": [
+        "Correct.",
+        "Hypotension.",
+        "Cold intolerance.",
+        "Bradycardia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Anorexia Nervosa (PDF p. 265)",
+      "quote": "Amenorrhea"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "What is the initial treatment focus for a severely emaciated client with anorexia?",
+      "options": [
+        "Weight restoration",
+        "Family therapy",
+        "Insight therapy",
+        "Body-image group"
+      ],
+      "answer": "A",
+      "rationale": "Treatment first focuses on weight restoration, rehydration, and correcting electrolytes.",
+      "explanations": [
+        "Correct.",
+        "Later.",
+        "Later.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anorexia Treatment (PDF p. 266)",
+      "quote": "Weight restoration"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which finding suggests self-induced vomiting in bulimia nervosa?",
+      "options": [
+        "Loss of dental enamel",
+        "Amenorrhea only",
+        "Weight far below normal",
+        "Hypothermia"
+      ],
+      "answer": "A",
+      "rationale": "Purging erodes dental enamel and causes caries, esophageal tears, and metabolic alkalosis.",
+      "explanations": [
+        "Correct.",
+        "Less specific.",
+        "Usually normal weight.",
+        "Anorexia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Bulimia Nervosa (PDF p. 266)",
+      "quote": "Loss of dental enamel"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Frequent self-induced vomiting in bulimia leads to which acid-base imbalance?",
+      "options": [
+        "Metabolic alkalosis",
+        "Metabolic acidosis",
+        "Respiratory acidosis",
+        "Respiratory alkalosis"
+      ],
+      "answer": "A",
+      "rationale": "Vomiting loses gastric acid and causes metabolic alkalosis; laxative diarrhea causes acidosis.",
+      "explanations": [
+        "Correct.",
+        "Diarrhea.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Bulimia Nervosa (PDF p. 266)",
+      "quote": "Metabolic alkalosis (vomiting)"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which nurse attitude is best during meals for a client with an eating disorder?",
+      "options": [
+        "Calm, matter-of-fact",
+        "Pleading",
+        "Punitive",
+        "Overly praising"
+      ],
+      "answer": "A",
+      "rationale": "Assume a calm, matter-of-fact attitude with positive expectations.",
+      "explanations": [
+        "Correct.",
+        "Power struggle.",
+        "Nontherapeutic.",
+        "Focus on food."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Eating Disorders (PDF p. 266)",
+      "quote": "Assume a calm, matter-of-fact attitude and positive expectation of the client"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which is a negative (soft) symptom of schizophrenia?",
+      "options": [
+        "Anhedonia",
+        "Hallucinations",
+        "Delusions",
+        "Flight of ideas"
+      ],
+      "answer": "A",
+      "rationale": "Negative symptoms include alogia, anhedonia, apathy, flat affect, and avolition.",
+      "explanations": [
+        "Correct.",
+        "Positive.",
+        "Positive.",
+        "Positive."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Schizophrenia (PDF p. 267)",
+      "quote": "NEGATIVE/SOFT SYMPTOMS"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Schizophrenia requires disturbance in thought and perception for a minimum of:",
+      "options": [
+        "6 months",
+        "2 weeks",
+        "1 month",
+        "1 week"
+      ],
+      "answer": "A",
+      "rationale": "Schizophrenia: disturbance for at least 6 months, usually diagnosed in late adolescence or early adulthood.",
+      "explanations": [
+        "Correct.",
+        "Too short.",
+        "Too short.",
+        "Too short."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Schizophrenia (PDF p. 267)",
+      "quote": "Disturbance in thought process and perception for at least 6 months."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "'I'll take a pill on the hill if my name is Jill.' This speech pattern is:",
+      "options": [
+        "Clang association",
+        "Neologism",
+        "Echolalia",
+        "Thought blocking"
+      ],
+      "answer": "A",
+      "rationale": "Clang associations link ideas by sound or rhyme rather than meaning.",
+      "explanations": [
+        "Correct.",
+        "New words.",
+        "Repeating.",
+        "Stopping."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Schizophrenia (PDF p. 268)",
+      "quote": "Ideas that are related to one another based on sound or rhyming rather than meaning."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client refuses food, saying the staff poisoned it. This is a:",
+      "options": [
+        "Persecutory delusion",
+        "Grandiose delusion",
+        "Somatic delusion",
+        "Religious delusion"
+      ],
+      "answer": "A",
+      "rationale": "Persecutory delusions involve beliefs that others plan to harm, spy on, or poison the client.",
+      "explanations": [
+        "Correct.",
+        "Fame.",
+        "Body.",
+        "Religion."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Delusions (PDF p. 268)",
+      "quote": "The client may think that food has been poisoned"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client says the news anchor is sending him private messages. This is:",
+      "options": [
+        "Ideas of reference",
+        "Thought insertion",
+        "Somatic delusion",
+        "Clang association"
+      ],
+      "answer": "A",
+      "rationale": "Ideas of reference: belief that broadcasts or articles have special meaning for the client.",
+      "explanations": [
+        "Correct.",
+        "Thoughts placed.",
+        "Body.",
+        "Rhyme."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Delusions (PDF p. 268)",
+      "quote": "Involve the client’s belief that television broadcasts, music, or newspaper articles have special"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client stops abruptly mid-sentence and cannot continue the idea. This is:",
+      "options": [
+        "Thought blocking",
+        "Tangentiality",
+        "Circumstantiality",
+        "Flight of ideas"
+      ],
+      "answer": "A",
+      "rationale": "Thought blocking is abrupt stopping in the middle of a sentence or train of thought.",
+      "explanations": [
+        "Correct.",
+        "Never reaches point.",
+        "Eventually reaches point.",
+        "Rapid shifts."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Changes in Communication (PDF p. 268)",
+      "quote": "Stopping abruptly in the middle of a sentence or train of thoughts"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client believes others can hear what he is thinking. This is:",
+      "options": [
+        "Thought broadcasting",
+        "Thought insertion",
+        "Neologism",
+        "Word salad"
+      ],
+      "answer": "A",
+      "rationale": "Thought broadcasting: belief that others can hear or know the client's thoughts.",
+      "explanations": [
+        "Correct.",
+        "Thoughts put in.",
+        "New words.",
+        "Jumbled words."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Changes in Communication (PDF p. 268)",
+      "quote": "A delusion belief that other can hear or know what the client is thinking"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A major depressive episode requires symptoms present nearly every day for:",
+      "options": [
+        "2 weeks",
+        "2 days",
+        "6 months",
+        "2 years"
+      ],
+      "answer": "A",
+      "rationale": "Major depression: depressed mood or loss of pleasure for at least 2 weeks.",
+      "explanations": [
+        "Correct.",
+        "Too short.",
+        "Too long.",
+        "Dysthymia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Mood Disorders (PDF p. 269)",
+      "quote": "Symptoms must be present every day for 2 weeks"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which theory attributes depression to believing one has no control over the environment?",
+      "options": [
+        "Learned helplessness",
+        "Object loss",
+        "Genetic theory",
+        "Aggression turned inward"
+      ],
+      "answer": "A",
+      "rationale": "Learned helplessness: mood disorder from the belief that one lacks control.",
+      "explanations": [
+        "Correct.",
+        "Early loss.",
+        "Heredity.",
+        "Superego."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Mood Disorder Theories (PDF p. 269)",
+      "quote": "Mood disorder is caused by a belief that one has no control over his environment."
+    }
+  ]
+}

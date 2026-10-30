@@ -1,0 +1,701 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with a history of depression is prescribed nadolol for angina. What is MOST important to include when counseling this client?",
+      "options": [
+        "Risk of a fast heart rate",
+        "Likelihood of mild fatigue",
+        "High risk of hypoglycemia",
+        "Possible worsening of depression"
+      ],
+      "answer": "D",
+      "rationale": "Beta blockers can worsen depression in clients with a history of it, so these clients are monitored closely. Beta blockers cause bradycardia, not tachycardia.",
+      "explanations": [
+        "Beta blockers slow the heart.",
+        "Possible, but not the most important point.",
+        "Beta blockers can mask hypoglycemia; they do not commonly cause it.",
+        "Correct: depression may worsen."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q841 (PDF p. 1078)",
+      "quote": "Clients with depression or a history of depression have experienced an exacerbation of depression after beginning therapy with beta- adrenergic blocking agents."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "When should a client take fluoxetine for depression?",
+      "options": [
+        "With the evening meal",
+        "At bedtime",
+        "In the early morning",
+        "Only when feeling low"
+      ],
+      "answer": "C",
+      "rationale": "Fluoxetine is taken in the early morning without regard to meals. Taking it later can cause insomnia.",
+      "explanations": [
+        "Not the recommended time.",
+        "Bedtime dosing may cause insomnia.",
+        "Correct: early morning dosing.",
+        "It must be taken daily, not as needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q850 (PDF p. 1087)",
+      "quote": "Fluoxetine hydrochloride is an antidepressant and is administered in the early morning without consideration of meals."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A client with terminal cancer fears becoming addicted to the opioid prescribed for pain. What is the nurse's BEST response?",
+      "options": [
+        "'Wait as long as you can between doses.'",
+        "'Take it only when the pain is very severe.'",
+        "'Addiction is rare when opioids are taken for pain.'",
+        "'Ask your doctor for a weaker drug.'"
+      ],
+      "answer": "C",
+      "rationale": "The nurse gives correct information: addiction is rare when medication is taken to relieve pain. Leaving the client in pain is not acceptable.",
+      "explanations": [
+        "Leaves the client in pain.",
+        "Severe pain is harder to control.",
+        "Correct: accurate reassurance while keeping pain controlled.",
+        "Unnecessary and leaves pain undertreated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q906 (PDF p. 1149)",
+      "quote": "Addiction is rare for individuals who are taking medication to relieve pain."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client is admitted with panic disorder. Which benzodiazepine does the nurse expect to be prescribed?",
+      "options": [
+        "Doxepin",
+        "Alprazolam",
+        "Imipramine",
+        "Bupropion"
+      ],
+      "answer": "B",
+      "rationale": "Alprazolam, a benzodiazepine anxiolytic, depresses the CNS and promotes relaxation in panic disorder. The other drugs are antidepressants.",
+      "explanations": [
+        "An antidepressant.",
+        "Correct: a benzodiazepine anxiolytic.",
+        "An antidepressant.",
+        "An antidepressant."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1004 (PDF p. 1255)",
+      "quote": "Alprazolam, which is a benzodiazepine antianxiety agent, depresses the central nervous system (CNS) and induces relaxation in clients with panic disorders."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client on imipramine reports increasing drowsiness and fatigue. How should the nurse interpret this?",
+      "options": [
+        "An adverse effect to report",
+        "The expected therapeutic effect",
+        "A sign that anxiety is decreasing",
+        "A reason to double the dose"
+      ],
+      "answer": "A",
+      "rationale": "Drowsiness, lethargy, and fatigue on imipramine are adverse effects to report. Expected effects include better appetite and sleep, less anxiety, and a better sense of well-being.",
+      "explanations": [
+        "Correct: report drowsiness and fatigue.",
+        "Not the intended effect.",
+        "Unrelated to anxiety relief.",
+        "The dose is never changed by the client."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1011 (PDF p. 1262)",
+      "quote": "Adverse effects to report to the primary health care provider include drowsiness, lethargy, and fatigue."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client on quinidine for an atrial dysrhythmia misses a dose and remembers 4 hours later. What should the client do?",
+      "options": [
+        "Take two doses together now",
+        "Take the dose immediately",
+        "Take the next dose as usual",
+        "Stop the drug and call the doctor"
+      ],
+      "answer": "C",
+      "rationale": "A missed quinidine dose is taken only if remembered within 2 hours; otherwise it is omitted and the normal schedule resumes. Extra or late doses are unsafe.",
+      "explanations": [
+        "Doubling is unsafe.",
+        "Too late; more than 2 hours have passed.",
+        "Correct: omit it and resume the usual schedule.",
+        "Not necessary."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1067 (PDF p. 1349)",
+      "quote": "the client should be instructed to take the medication if remembered within 2 hours of the missed dose, or omit the dose and then resume the normal schedule."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A transplant client on cyclosporine plans breakfast. Which drink should the client avoid?",
+      "options": [
+        "Orange juice",
+        "Grapefruit juice",
+        "Milk",
+        "Brewed coffee"
+      ],
+      "answer": "B",
+      "rationale": "Grapefruit juice blocks cyclosporine metabolism and can raise its levels by 50% to 100%, greatly increasing the risk of toxicity.",
+      "explanations": [
+        "Acceptable.",
+        "Correct: it raises cyclosporine levels.",
+        "Acceptable.",
+        "Not the interaction of concern."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1071 (PDF p. 1353)",
+      "quote": "drinking grapefruit juice can raise cyclosporine levels by 50% to 100%, greatly increasing the risk of toxicity."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which statement shows a client is using a nitroglycerin patch correctly?",
+      "options": [
+        "'I'll add a second patch if chest pain occurs.'",
+        "'I'll put it on a hairless part of my body.'",
+        "'I'll rub it in to make it work faster.'",
+        "'I'll use it only when I feel chest pain.'"
+      ],
+      "answer": "B",
+      "rationale": "Topical nitroglycerin is applied to a nonhairy area on a scheduled basis. It is not used specifically for chest pain attacks and is not rubbed in.",
+      "explanations": [
+        "Patches are not added for acute pain.",
+        "Correct: apply to a nonhairy area.",
+        "Topical nitrates are not rubbed in.",
+        "Patches are used on a schedule."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1083 (PDF p. 1365)",
+      "quote": "Topical nitroglycerin is applied to a nonhairy part of the body."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which instruction is appropriate for a client taking furosemide?",
+      "options": [
+        "Avoid potassium-rich foods",
+        "Use extra salt in hot weather",
+        "Avoid getting overheated",
+        "Drink alcohol to stay hydrated"
+      ],
+      "answer": "C",
+      "rationale": "Furosemide is potassium-losing and can cause orthostatic hypotension. The client changes positions slowly, avoids overheating, and discusses alcohol use with the provider.",
+      "explanations": [
+        "Furosemide wastes potassium, so potassium foods are fine.",
+        "Not a recommendation.",
+        "Correct: heat worsens fluid loss and hypotension.",
+        "Alcohol worsens hypotension and dehydration."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1084 (PDF p. 1366)",
+      "quote": "Orthostatic hypotension is a risk, and the client must use caution when changing positions and with exposure to warm weather."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which statement shows a client correctly understands clonidine patch use?",
+      "options": [
+        "'I'll trim the patch if an edge lifts.'",
+        "'I'll change the patch every 7 days.'",
+        "'I'll take it off whenever I bathe.'",
+        "'I'll put it on a hairy area of my chest.'"
+      ],
+      "answer": "B",
+      "rationale": "The clonidine patch is changed every 7 days and left on while bathing. It is applied to a hairless site and never trimmed, which would alter the dose. A slightly loose patch is covered with the adhesive overlay.",
+      "explanations": [
+        "Trimming alters the dose.",
+        "Correct: change it every 7 days.",
+        "It stays on during bathing.",
+        "Apply to a hairless site."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1085 (PDF p. 1367)",
+      "quote": "The clonidine patch should not be trimmed because it will alter the medication dose."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client is starting cholestyramine for high cholesterol. Which instruction is correct?",
+      "options": [
+        "Take the powder dry",
+        "Take it with meals",
+        "Call at once for constipation",
+        "Limit fluid intake"
+      ],
+      "answer": "B",
+      "rationale": "Cholestyramine is taken with food and mixed with water, juice, applesauce, or soup, never dry. Constipation is a common side effect, and fluid intake is increased.",
+      "explanations": [
+        "It must never be taken dry.",
+        "Correct: take it with meals.",
+        "Constipation is common and expected.",
+        "Fluids should be increased."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1086 (PDF p. 1368)",
+      "quote": "Cholestyramine must be administered with food to be effective."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client taking colestipol long-term may need supplements of which nutrients?",
+      "options": [
+        "Vitamin C supplements only",
+        "Vitamin B12 injections",
+        "B-complex vitamin tablets",
+        "Fat-soluble vitamins, folic acid"
+      ],
+      "answer": "D",
+      "rationale": "Bile sequestrants bind bile salts, interfering with absorption of the fat-soluble vitamins A, D, E, and K and of folic acid. Long-term users may need supplements.",
+      "explanations": [
+        "Vitamin C is water-soluble and is not affected.",
+        "Not the main deficiency.",
+        "Not the main deficiency.",
+        "Correct: fat-soluble vitamins and folic acid."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1087 (PDF p. 1369)",
+      "quote": "the bile salts (which are rich in cholesterol) interfere with the absorption of the fat-soluble vitamins A, D, E, and K, as well as folic acid."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client on dextroamphetamine has trouble falling asleep. When should the client take the drug?",
+      "options": [
+        "With a bedtime snack",
+        "Just before going to bed",
+        "At least 6 hours before bedtime",
+        "Only on nights of poor sleep"
+      ],
+      "answer": "C",
+      "rationale": "Dextroamphetamine is a CNS stimulant. Taking it at least 6 hours before bedtime prevents sleep problems. Caffeine should also be avoided.",
+      "explanations": [
+        "Bedtime dosing worsens insomnia.",
+        "Bedtime dosing worsens insomnia.",
+        "Correct: at least 6 hours before bed.",
+        "Stimulants do not treat poor sleep."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1092 (PDF p. 1375)",
+      "quote": "The client should take the medication at least 6 hours before going to bed at night to prevent disturbances with sleep."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with liver cirrhosis takes triamterene daily. Which finding is an adverse effect of this drug?",
+      "options": [
+        "Dry skin",
+        "Excitability",
+        "Constipation",
+        "Hyperkalemia"
+      ],
+      "answer": "D",
+      "rationale": "Triamterene is potassium-retaining, so the concern is hyperkalemia, along with dehydration, hyponatremia, and lethargy.",
+      "explanations": [
+        "Not a typical adverse effect.",
+        "It causes drowsiness and lethargy instead.",
+        "Diarrhea is more typical.",
+        "Correct: potassium is retained."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1102 (PDF p. 1386)",
+      "quote": "Triamterene is a potassium-retaining diuretic. Adverse effects include hyperkalemia, dehydration, hyponatremia, and lethargy."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "Ate Liza, G1P0 at 41 weeks, is being induced with an IV oxytocin infusion. Nurse Rica is monitoring her closely.",
+      "stem": "Which contraction pattern shows the oxytocin dose is ADEQUATE?",
+      "options": [
+        "One contraction every minute",
+        "One contraction every 10 minutes",
+        "Three to five contractions in 10 minutes, with dilation",
+        "Continuous contractions with no rest between"
+      ],
+      "answer": "C",
+      "rationale": "The goal is the lowest dose that gives 3 to 5 contractions in 10 minutes with cervical dilation. Contractions more often than every 2 minutes reduce their quality and stress the fetus.",
+      "explanations": [
+        "Too frequent; uterine hyperstimulation.",
+        "Too infrequent to be effective.",
+        "Correct: the adequate pattern.",
+        "A tetanic pattern is dangerous."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1218 (PDF p. 1511)",
+      "quote": "3 to 5 contractions in a 10-minute period, with resultant cervical dilation."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "Ate Liza, G1P0 at 41 weeks, is being induced with an IV oxytocin infusion. Nurse Rica is monitoring her closely.",
+      "stem": "Which finding should make Nurse Rica suspect water intoxication from the oxytocin?",
+      "options": [
+        "Fatigue",
+        "Lethargy",
+        "Sleepiness",
+        "Tachycardia"
+      ],
+      "answer": "D",
+      "rationale": "Oxytocin has an antidiuretic effect. Signs of water intoxication include tachycardia, dysrhythmias, shortness of breath, nausea, and vomiting.",
+      "explanations": [
+        "Not a sign of water intoxication.",
+        "Not a sign of water intoxication.",
+        "Not a sign of water intoxication.",
+        "Correct: tachycardia is a sign."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1104 (PDF p. 1388)",
+      "quote": "the woman is monitored closely for signs of water intoxication, including tachycardia, cardiac dysrhythmias, shortness of breath, nausea, and vomiting."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with a seizure disorder takes carbamazepine. Which plasma level is in the therapeutic range?",
+      "options": [
+        "1 mcg/mL",
+        "10 mcg/mL",
+        "18 mcg/mL",
+        "20 mcg/mL"
+      ],
+      "answer": "B",
+      "rationale": "The therapeutic plasma level of carbamazepine is 5 to 12 mcg/mL. Lower levels may need a dose increase; higher levels risk toxicity.",
+      "explanations": [
+        "Subtherapeutic.",
+        "Correct: within 5 to 12 mcg/mL.",
+        "Above the therapeutic range.",
+        "Above the therapeutic range."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1127 (PDF p. 1411)",
+      "quote": "The therapeutic plasma level of carbamazepine is 5 to 12 mcg/mL"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with heart failure is on long-term diuretics. Which drug puts the client MOST at risk for hypokalemia?",
+      "options": [
+        "Bumetanide",
+        "Triamterene",
+        "Spironolactone",
+        "Amiloride"
+      ],
+      "answer": "A",
+      "rationale": "Bumetanide is a loop diuretic that wastes potassium. Triamterene, spironolactone, and amiloride are potassium-sparing.",
+      "explanations": [
+        "Correct: a loop diuretic causes potassium loss.",
+        "Potassium-sparing.",
+        "Potassium-sparing.",
+        "Potassium-sparing."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1128 (PDF p. 1413)",
+      "quote": "Bumetanide is a loop diuretic. The client on this medication would be at risk for hypokalemia."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A client on rifampin for TB has new laboratory results. Which finding suggests an adverse effect?",
+      "options": [
+        "ESR of 15 mm/hour",
+        "WBC of 6,000/mm3",
+        "Elevated ALT and bilirubin",
+        "Normal blood urea nitrogen"
+      ],
+      "answer": "C",
+      "rationale": "Rifampin can cause hepatotoxicity, hepatitis, and jaundice. Rising liver enzymes and bilirubin signal an adverse effect.",
+      "explanations": [
+        "A normal finding.",
+        "A normal finding.",
+        "Correct: a sign of hepatotoxicity.",
+        "A normal finding."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1130 (PDF p. 1415)",
+      "quote": "Adverse or toxic effects of rifampin include hepatotoxicity, hepatitis, jaundice, blood dyscrasias"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which statement by a client taking prazosin for hypertension shows a need for more teaching?",
+      "options": [
+        "'I will rise slowly from bed.'",
+        "'I will skip doses for a few days if dizzy.'",
+        "'I will check my blood pressure at home.'",
+        "'I will report dizziness to my doctor.'"
+      ],
+      "answer": "B",
+      "rationale": "Skipping prazosin can cause an abrupt rise in blood pressure. Dizziness and impotence are side effects to report, not reasons to stop on one's own.",
+      "explanations": [
+        "Correct practice.",
+        "Correct answer: skipping doses causes rebound hypertension.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1131 (PDF p. 1416)",
+      "quote": "Holding (skipping) medication will cause an abrupt rise in blood pressure."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with peptic ulcer disease takes large amounts of oral antacids. Which acid-base imbalance should the nurse watch for?",
+      "options": [
+        "Metabolic acidosis",
+        "Metabolic alkalosis",
+        "Respiratory acidosis",
+        "Respiratory alkalosis"
+      ],
+      "answer": "B",
+      "rationale": "Excess antacids can cause metabolic alkalosis (pH above 7.45, HCO3 above 27 mEq/L).",
+      "explanations": [
+        "Antacids add base, not acid.",
+        "Correct: excess base intake causes alkalosis.",
+        "The problem is metabolic.",
+        "The problem is metabolic."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1132 (PDF p. 1417)",
+      "quote": "when they are taken in excess they can lead to metabolic alkalosis"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client on furosemide and digoxin reports anorexia, nausea, and yellow vision before the morning doses. What should the nurse do FIRST?",
+      "options": [
+        "Give both drugs as scheduled",
+        "Give an antiemetic first",
+        "Check the serum digoxin level",
+        "Give only the furosemide"
+      ],
+      "answer": "C",
+      "rationale": "These symptoms suggest digoxin toxicity. The nurse checks the digoxin level first (then potassium, since low potassium worsens toxicity) and holds the drugs until the results are known.",
+      "explanations": [
+        "Giving digoxin could worsen toxicity.",
+        "Masks the sign of toxicity.",
+        "Correct: confirm toxicity first.",
+        "Furosemide can lower potassium and worsen toxicity."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1176 (PDF p. 1465)",
+      "quote": "The nurse should check the result of the digoxin level that was drawn because the client’s symptoms are compatible with digoxin toxicity."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which statement shows a client understands how to use sublingual nitroglycerin?",
+      "options": [
+        "'I'll keep the tablets in my shirt pocket.'",
+        "'I'll take one 5 to 10 minutes before activity.'",
+        "'I'll keep tablets for several years if unopened.'",
+        "'I'll store them in a pill box in the sun.'"
+      ],
+      "answer": "B",
+      "rationale": "Nitroglycerin can be taken 5 to 10 minutes before an activity that triggers chest pain. It is unstable in heat, cold, and light, so it is not kept close to the body.",
+      "explanations": [
+        "Body heat degrades the tablets.",
+        "Correct: prophylactic use before activity.",
+        "Tablets are discarded 3 to 6 months after opening, by the expiry date.",
+        "Light and heat degrade nitroglycerin."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1213 (PDF p. 1506)",
+      "quote": "Nitroglycerin may be self-administered sublingually 5 to 10 minutes before an activity that triggers chest pain."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client started betaxolol for hypertension. Which finding shows the drug is having its INTENDED effect?",
+      "options": [
+        "Edema of 3+",
+        "Weight loss of 2 kg in 2 days",
+        "Pulse up from 58 to 74",
+        "BP down from 142/94 to 128/82"
+      ],
+      "answer": "D",
+      "rationale": "Betaxolol, a beta blocker, lowers blood pressure. Bradycardia, weight gain, and edema are adverse effects that suggest heart failure.",
+      "explanations": [
+        "Edema suggests heart failure, an adverse effect.",
+        "Not the intended effect.",
+        "Beta blockers slow the heart.",
+        "Correct: BP is lowered."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1223 (PDF p. 1516)",
+      "quote": "Betaxolol is a beta-adrenergic blocking agent used to lower blood pressure, relieve angina, or eliminate dysrhythmias."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client takes theophylline, a xanthine bronchodilator. Which drink is the BEST choice?",
+      "options": [
+        "Cola",
+        "Brewed coffee",
+        "Chocolate milk",
+        "Fruit juice"
+      ],
+      "answer": "D",
+      "rationale": "Cola, coffee, and chocolate contain xanthines, which add to the cardiac and CNS side effects of theophylline.",
+      "explanations": [
+        "Contains xanthine (caffeine).",
+        "Contains xanthine (caffeine).",
+        "Contains xanthine.",
+        "Correct: no xanthines."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1224 (PDF p. 1517)",
+      "quote": "Cola, coffee, and chocolate contain xanthine and should be avoided by the client who is taking a xanthine bronchodilator."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Misoprostol is added for a client who takes NSAIDs regularly. Which outcome shows it is working?",
+      "options": [
+        "Relief of diarrhea",
+        "No new bleeding",
+        "No signs of infection",
+        "No epigastric pain"
+      ],
+      "answer": "D",
+      "rationale": "Regular NSAID use injures the gastric mucosa, causing epigastric pain. Misoprostol is given to prevent this. Diarrhea is a side effect of misoprostol.",
+      "explanations": [
+        "Diarrhea is a side effect, not the goal.",
+        "Not the drug's intended effect.",
+        "Unrelated to the drug.",
+        "Correct: it protects the gastric mucosa."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1226 (PDF p. 1519)",
+      "quote": "The client who regularly takes NSAIDs is prone to gastric mucosal injury, which gives the client epigastric pain as a symptom."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client with AIDS is receiving amphotericin B for a fungal lung infection. Which laboratory finding is an adverse effect?",
+      "options": [
+        "Hypokalemia",
+        "Hypernatremia",
+        "Hypochloremia",
+        "Hypercalcemia"
+      ],
+      "answer": "A",
+      "rationale": "Amphotericin B can cause severe hypokalemia (worsened by renal tubular acidosis), leading to muscle weakness and ECG changes.",
+      "explanations": [
+        "Correct: potassium loss is common.",
+        "Sodium is not affected.",
+        "Chloride is not affected.",
+        "Calcium is not affected."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1230 (PDF p. 1523)",
+      "quote": "Clients receiving amphotericin B may develop hypokalemia, which can be severe"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with hyperkalemia receives sodium polystyrene sulfonate. Which serum potassium shows the therapy is effective?",
+      "options": [
+        "4.9 mEq/L",
+        "5.4 mEq/L",
+        "5.8 mEq/L",
+        "6.2 mEq/L"
+      ],
+      "answer": "A",
+      "rationale": "Normal adult serum potassium is 3.5 to 5.0 mEq/L, so only 4.9 is normal. Hyperkalemia causes tall peaked T waves, flat P waves, and a widened QRS.",
+      "explanations": [
+        "Correct: within the normal range.",
+        "Still hyperkalemic.",
+        "Still hyperkalemic.",
+        "Still hyperkalemic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1236 (PDF p. 1529)",
+      "quote": "The normal serum potassium level for an adult is 3.5 to 5.0 mEq/L (3.5 to 5.0 mmol/L)."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client will be discharged once the phenytoin level is therapeutic. Which result meets this goal?",
+      "options": [
+        "3 mcg/mL",
+        "8 mcg/mL",
+        "15 mcg/mL",
+        "24 mcg/mL"
+      ],
+      "answer": "C",
+      "rationale": "The therapeutic phenytoin range is 10 to 20 mcg/mL. Lower levels risk seizures; higher levels risk toxicity.",
+      "explanations": [
+        "Subtherapeutic; seizure risk.",
+        "Subtherapeutic.",
+        "Correct: within 10 to 20 mcg/mL.",
+        "Toxic range."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1240 (PDF p. 1533)",
+      "quote": "The therapeutic range for serum phenytoin levels is 10 to 20 mcg/mL"
+    }
+  ]
+}

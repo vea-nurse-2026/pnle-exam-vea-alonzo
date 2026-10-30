@@ -1,0 +1,749 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "According to Ruth B. Freeman, what is the focus of community health nursing services?",
+      "options": [
+        "Acute hospital care",
+        "Promotion, prevention, home care",
+        "Research on rare diseases",
+        "District hospital surgery"
+      ],
+      "answer": "B",
+      "rationale": "Freeman described CHN as a service rendered by a professional nurse with communities, groups, families, and individuals in homes, health centers, clinics, schools, and workplaces for health promotion, illness prevention, and care of the sick at home and rehabilitation.",
+      "explanations": [
+        "Hospital-based, not community.",
+        "Correct: Freeman's definition.",
+        "Not the focus.",
+        "Not the focus."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Community Health Nursing (PDF p. 79)",
+      "quote": "Care of the sick at home and rehabilitation"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Dr. C.E. Winslow defined public health as the science and art of which three aims?",
+      "options": [
+        "Diagnose, treat, cure",
+        "Prevent, prolong, promote",
+        "Teach, train, supervise",
+        "Plan, organize, control"
+      ],
+      "answer": "B",
+      "rationale": "Winslow defined public health as the science and art of preventing disease, prolonging life, and promoting health and efficiency through organized community effort.",
+      "explanations": [
+        "Medical care aims.",
+        "Correct: Winslow's definition.",
+        "Not the definition.",
+        "Management functions."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Community Health Nursing (PDF p. 79)",
+      "quote": "According to Dr. C.E Winslow, public health is the science and art of"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "Nurse Carla is the public health nurse of a rural health unit in Iloilo.",
+      "stem": "Nurse Carla motivates barangay residents and starts community development activities. Which PHN role is she performing?",
+      "options": [
+        "Health monitor",
+        "Community organizer",
+        "Statistician",
+        "Nursing care provider"
+      ],
+      "answer": "B",
+      "rationale": "As community organizer, the PHN motivates and enhances community participation and initiates and participates in community development activities.",
+      "explanations": [
+        "Monitors health status.",
+        "Correct: builds participation.",
+        "Analyzes data.",
+        "Gives direct care."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Community Health Nursing (PDF p. 79)",
+      "quote": "Motivates and enhances community participation"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "Nurse Carla is the public health nurse of a rural health unit in Iloilo.",
+      "stem": "Nurse Carla trains the rural health midwives in her catchment area. Which role is this?",
+      "options": [
+        "Health educator/trainer",
+        "Change agent",
+        "Researcher",
+        "Role model"
+      ],
+      "answer": "A",
+      "rationale": "The health educator/counselor/trainer role includes health teaching, counseling, and training and educating rural health midwives.",
+      "explanations": [
+        "Correct: trains midwives.",
+        "Motivates behavior change.",
+        "Gathers data.",
+        "Sets an example."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Community Health Nursing (PDF p. 80)",
+      "quote": "Trains and educates rural health midwives"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "Nurse Carla is the public health nurse of a rural health unit in Iloilo.",
+      "stem": "Nurse Carla updates the RHU database and analyzes the data for interpretation. Which role is she performing?",
+      "options": [
+        "Planner/programmer",
+        "Service coordinator",
+        "Reporter/recorder/statistician",
+        "Manager/supervisor"
+      ],
+      "answer": "C",
+      "rationale": "The reporter/recorder/statistician records nursing interventions, updates the database, and makes statistical analysis of data for interpretation.",
+      "explanations": [
+        "Identifies needs.",
+        "Links services.",
+        "Correct: records and analyzes data.",
+        "Plans and leads."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Community Health Nursing (PDF p. 80)",
+      "quote": "Makes statistical analysis of data for interpretation"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Under the Local Government Code (RA 7160), what happened to health services from the provincial level down to the barangay?",
+      "options": [
+        "They were privatized",
+        "They were devolved to the LGUs",
+        "They were centralized under DOH",
+        "They were merged with PhilHealth"
+      ],
+      "answer": "B",
+      "rationale": "RA 7160 devolved all structures, personnel, and budgetary allocations from the provincial health level down to the barangays to the local government units.",
+      "explanations": [
+        "Not privatized.",
+        "Correct: devolution.",
+        "The opposite.",
+        "Not merged."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Local Health System (PDF p. 81)",
+      "quote": "All structures, personnel, and budgetary allocations from the provincial health level down to the barangays were DEVOLVED"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "What is the ideal population size of an inter-local health zone (health district)?",
+      "options": [
+        "10,000 to 50,000",
+        "50,000 to 100,000",
+        "100,000 to 500,000",
+        "500,000 to 1,000,000"
+      ],
+      "answer": "C",
+      "rationale": "An ideal health district has a population of 100,000 to 500,000 for optimum efficiency and effectiveness.",
+      "explanations": [
+        "Too small.",
+        "Too small.",
+        "Correct: ideal size.",
+        "Too large."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Local Health System (PDF p. 81)",
+      "quote": "Ideal health district would have a population size between 100,000 to 500,000"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Primary health care was adopted in the Philippines through which issuance?",
+      "options": [
+        "RA 7160",
+        "LOI 949",
+        "RA 9173",
+        "EO 51"
+      ],
+      "answer": "B",
+      "rationale": "PHC was adopted through Letter of Instruction 949, signed by President Marcos on October 19, 1979.",
+      "explanations": [
+        "Local Government Code.",
+        "Correct: LOI 949 (1979).",
+        "Nursing Act of 2002.",
+        "Milk Code."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Primary Health Care (PDF p. 81)",
+      "quote": "Signed by President Marcos on October 19, 1979"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Which is one of the four cornerstones (pillars) of primary health care?",
+      "options": [
+        "Use of advanced technology",
+        "Active community participation",
+        "Free hospital care",
+        "Specialist-led services"
+      ],
+      "answer": "B",
+      "rationale": "The four cornerstones are active community participation, intra- and inter-sectoral linkages, use of appropriate technology, and support mechanisms made available.",
+      "explanations": [
+        "Appropriate, not advanced, technology.",
+        "Correct: a cornerstone.",
+        "Not a cornerstone.",
+        "Not a cornerstone."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Primary Health Care (PDF p. 82)",
+      "quote": "Active community participation"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Which is an element of primary health care in the ELEMENTS mnemonic?",
+      "options": [
+        "Essential drugs",
+        "Executive check-ups",
+        "Elective surgery",
+        "Emergency air transport"
+      ],
+      "answer": "A",
+      "rationale": "ELEMENTS: Education for health, Locally endemic disease control, EPI, Maternal and child health and family planning, Essential drugs, Nutrition, Treatment, and Sanitation of the environment.",
+      "explanations": [
+        "Correct: a PHC element.",
+        "Not an element.",
+        "Not an element.",
+        "Not an element."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Primary Health Care (PDF p. 82)",
+      "quote": "E Ssential Drugs"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "A trained barangay health worker is which level of primary health care worker?",
+      "options": [
+        "Village/barangay health worker",
+        "Intermediate level health worker",
+        "First-line hospital staff",
+        "Specialist level"
+      ],
+      "answer": "A",
+      "rationale": "Village/barangay health workers include trained community health workers, health auxiliary volunteers, and traditional birth attendants or healers. PHNs, midwives, and rural health physicians are intermediate level.",
+      "explanations": [
+        "Correct: first level.",
+        "PHNs, midwives, physicians.",
+        "Not a PHC level.",
+        "Not a PHC level."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Primary Health Care (PDF p. 82)",
+      "quote": "Refers to trained community health workers or health auxiliary volunteer or a traditional birth attendant or healer"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "A rural health unit and a barangay health station belong to which level of care?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Quaternary"
+      ],
+      "answer": "A",
+      "rationale": "Primary care facilities include barangay health stations, rural health units, community hospitals, health centers, and puericulture centers.",
+      "explanations": [
+        "Correct: primary level.",
+        "District and provincial hospitals.",
+        "Regional and medical centers.",
+        "Not in the PH referral levels."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Levels of Health Care (PDF p. 82)",
+      "quote": "Barangay Health Stations"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "A district hospital that does minor surgery and simple laboratory tests and receives RHU referrals is at which level?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Barangay"
+      ],
+      "answer": "B",
+      "rationale": "Secondary care serves as the referral center for primary facilities, can do minor surgery and simple laboratory exams, and includes district and provincial hospitals.",
+      "explanations": [
+        "Refers to this level.",
+        "Correct: secondary.",
+        "Specialist care.",
+        "Not a level."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Levels of Health Care (PDF p. 82)",
+      "quote": "Capable of performing minor surgeries and perform some simple laboratory examinations"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Sputum AFB testing of a coughing client is which level of prevention?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Primordial"
+      ],
+      "answer": "B",
+      "rationale": "Secondary prevention is early detection and prompt treatment, such as diagnostic tests (AFB) and breast self-examination.",
+      "explanations": [
+        "Promotion and immunization.",
+        "Correct: early detection.",
+        "Rehabilitation.",
+        "Not the answer."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Levels of Prevention (PDF p. 83)",
+      "quote": "Focuses on early detection of disease and prompt treatment"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Teaching crutch walking to a client after a leg amputation is which level of prevention?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "None"
+      ],
+      "answer": "C",
+      "rationale": "Tertiary prevention is rehabilitation to prevent further disability and restore optimum function, such as crutch walking and physical therapy.",
+      "explanations": [
+        "Promotion.",
+        "Early detection.",
+        "Correct: rehabilitation.",
+        "It is prevention."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Levels of Prevention (PDF p. 83)",
+      "quote": "Rehabilitation (prevent further disability)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Families (Normal & At Risk)",
+      "situation": "",
+      "stem": "A family's breadwinner is about to retire with no other income source. In family assessment, this is a:",
+      "options": [
+        "Health deficit",
+        "Health threat",
+        "Foreseeable crisis",
+        "Wellness potential"
+      ],
+      "answer": "C",
+      "rationale": "A foreseeable crisis is an anticipated period of unusual demand on the family in terms of resources and adjustment.",
+      "explanations": [
+        "Disease already present.",
+        "Condition promoting disease.",
+        "Correct: anticipated demand.",
+        "State of wellness."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Community Health Nursing Process (PDF p. 83)",
+      "quote": "Anticipated periods of unusual demand on the individual/family in terms of resources and adjustment"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Families (Normal & At Risk)",
+      "situation": "",
+      "stem": "A family keeps an open drum of stagnant water where mosquitoes breed. This is a:",
+      "options": [
+        "Health deficit",
+        "Health threat",
+        "Foreseeable crisis",
+        "Wellness potential"
+      ],
+      "answer": "B",
+      "rationale": "A health threat is a condition that promotes disease or injury and keeps people from reaching their health potential.",
+      "explanations": [
+        "No disease yet.",
+        "Correct: promotes disease.",
+        "Not an anticipated life event.",
+        "Not a wellness state."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Community Health Nursing Process (PDF p. 83)",
+      "quote": "Condition that promote disease or injury and prevent people from realizing their health potential"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Families (Normal & At Risk)",
+      "situation": "",
+      "stem": "A child in the family has a developmental lag. This is a:",
+      "options": [
+        "Health deficit",
+        "Health threat",
+        "Foreseeable crisis",
+        "Wellness potential"
+      ],
+      "answer": "A",
+      "rationale": "A health deficit is a gap between actual and achievable health, such as an existing disease, disability, or developmental lag.",
+      "explanations": [
+        "Correct: existing gap.",
+        "Risk only.",
+        "Anticipated event.",
+        "Wellness state."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Community Health Nursing Process (PDF p. 83)",
+      "quote": "Already developed the disease or disability, developmental lag."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "In the community health nursing process, when are the evaluation parameters developed?",
+      "options": [
+        "Assessment",
+        "Planning",
+        "Implementation",
+        "Evaluation"
+      ],
+      "answer": "B",
+      "rationale": "Developing evaluation parameters is done in the planning stage, as part of the operational plan.",
+      "explanations": [
+        "Too early.",
+        "Correct: during planning.",
+        "Plan already set.",
+        "Too late."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Community Health Nursing Process (PDF p. 83)",
+      "quote": "Development of evaluation parameters is done in the planning stage"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Which management function establishes standards, measures performance, and corrects deviations?",
+      "options": [
+        "Planning",
+        "Organizing",
+        "Directing",
+        "Controlling"
+      ],
+      "answer": "D",
+      "rationale": "Controlling measures and corrects activities and sets standards so objectives are met: establish standards, measure performance, and correct deviations.",
+      "explanations": [
+        "Sets goals.",
+        "Assigns roles.",
+        "Conveys plans to workers.",
+        "Correct: controlling."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Management Functions of the CHN (PDF p. 84)",
+      "quote": "Process that measures and corrects the activities of the people and establishes standards so that objectives are met"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "During an RHU clinic day, which case does the nurse refer to the physician during triage?",
+      "options": [
+        "A child with simple diarrhea under IMCI",
+        "A TB client on DOTS refill",
+        "A non-program-based case",
+        "A child due for vaccines"
+      ],
+      "answer": "C",
+      "rationale": "In triaging, program-based cases are managed according to protocols, and all non-program-based cases are referred to the physician.",
+      "explanations": [
+        "Managed by protocol.",
+        "Managed by protocol.",
+        "Correct: refer to physician.",
+        "Managed by protocol."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Clinic Visit (PDF p. 84)",
+      "quote": "Refer all non-program based cases to the physician"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "Before measuring BP at the health center, how long should the client have avoided smoking and caffeine?",
+      "options": [
+        "5 minutes",
+        "15 minutes",
+        "30 minutes",
+        "2 hours"
+      ],
+      "answer": "C",
+      "rationale": "The client should rest for 5 minutes and should not have smoked or taken caffeine within 30 minutes before BP measurement.",
+      "explanations": [
+        "Rest period, not caffeine.",
+        "Too short.",
+        "Correct: 30 minutes.",
+        "Longer than required."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Blood Pressure Measurement (PDF p. 85)",
+      "quote": "Client should not have smoked or ingested caffeine within 30 minutes before BP measurement"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "On a client's first BP visit, the readings differ between arms. Which arm is used for later readings?",
+      "options": [
+        "The left arm always",
+        "The arm with the higher reading",
+        "The arm with the lower reading",
+        "Either arm"
+      ],
+      "answer": "B",
+      "rationale": "On the first visit, BP is taken in both arms; subsequent readings use the arm with the higher reading.",
+      "explanations": [
+        "Not a rule.",
+        "Correct: higher-reading arm.",
+        "Would underestimate.",
+        "Not consistent."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Blood Pressure Measurement (PDF p. 85)",
+      "quote": "Subsequent BP readings should be performed on the arm, with a higher BP reading"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Families (Normal & At Risk)",
+      "situation": "",
+      "stem": "Which factor is MOST important in deciding how often to make home visits?",
+      "options": [
+        "Agency policy",
+        "The family's needs",
+        "Other agencies involved",
+        "Past services given"
+      ],
+      "answer": "B",
+      "rationale": "The needs of the family are the most important factor in home visit frequency, followed by the family's acceptance.",
+      "explanations": [
+        "Considered, but less.",
+        "Correct: the most important.",
+        "Considered, but less.",
+        "Considered, but less."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Home Visit (PDF p. 86)",
+      "quote": "Needs of the (most important)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Families (Normal & At Risk)",
+      "situation": "",
+      "stem": "During a home visit, what does the nurse do right after stating the purpose of the visit?",
+      "options": [
+        "Do the bag technique",
+        "Assess the client's needs",
+        "Set a return visit",
+        "Record the data"
+      ],
+      "answer": "B",
+      "rationale": "Steps: greet and introduce self, state the purpose, observe the client and determine needs, place the bag and do bag technique, give care and teaching, record, and set a return visit.",
+      "explanations": [
+        "Comes after assessment.",
+        "Correct: next step.",
+        "Last step.",
+        "Near the end."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Home Visit (PDF p. 86)",
+      "quote": "Observe the patient and determine health needs"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Families (Normal & At Risk)",
+      "situation": "",
+      "stem": "What is the MAIN principle of bag technique?",
+      "options": [
+        "Carry all supplies",
+        "Minimize the spread of infection",
+        "Impress the family",
+        "Follow one fixed method"
+      ],
+      "answer": "B",
+      "rationale": "Bag technique should minimize, if not prevent, the spread of infection. It may vary with agency policy or the home situation as long as this principle is observed.",
+      "explanations": [
+        "Not the main principle.",
+        "Correct: infection control.",
+        "Not a principle.",
+        "It may vary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Bag Technique (PDF p. 86)",
+      "quote": "Minimize if not prevent the spread of any infection"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Which type of epidemiology tests hypotheses to find the causes of a disease?",
+      "options": [
+        "Descriptive",
+        "Analytical",
+        "Experimental",
+        "Evaluation"
+      ],
+      "answer": "B",
+      "rationale": "Analytical epidemiology analyzes causes or determinants of disease through hypothesis testing. Descriptive covers distribution and frequency.",
+      "explanations": [
+        "Distribution and frequency.",
+        "Correct: hypothesis testing.",
+        "Tests new control methods.",
+        "Measures program effectiveness."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Epidemiology (PDF p. 87)",
+      "quote": "Attempts to analyze causes or determinants of disease through hypothesis testing"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Which rate is considered a good index of the general health condition of a community?",
+      "options": [
+        "Crude birth rate",
+        "Infant mortality rate",
+        "Attack rate",
+        "Fetal death rate"
+      ],
+      "answer": "B",
+      "rationale": "The infant mortality rate is a good index of the general health condition of a community.",
+      "explanations": [
+        "Measures population growth.",
+        "Correct: general health index.",
+        "Risk of exposure.",
+        "Pregnancy wastage."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Vital Statistics (PDF p. 87)",
+      "quote": "Good index of the general health condition of a community"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Which measure is the index of the killing power of a disease?",
+      "options": [
+        "Incidence rate",
+        "Prevalence rate",
+        "Case fatality ratio",
+        "Crude death rate"
+      ],
+      "answer": "C",
+      "rationale": "The case fatality ratio indexes the killing power of a disease. It is affected by incomplete reporting and poor morbidity data.",
+      "explanations": [
+        "New cases.",
+        "New and old cases.",
+        "Correct: killing power.",
+        "All-cause deaths."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Vital Statistics (PDF p. 87)",
+      "quote": "Index of a killing power of a disease"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "A barangay counts ALL existing dengue cases, new and old, on one day. Which measure is this?",
+      "options": [
+        "Incidence rate",
+        "Prevalence rate",
+        "Attack rate",
+        "Case fatality ratio"
+      ],
+      "answer": "B",
+      "rationale": "Prevalence measures the proportion of the population with a disease at a particular time, counting new and old cases. Incidence counts new cases only.",
+      "explanations": [
+        "New cases only.",
+        "Correct: new and old.",
+        "Risk during an outbreak.",
+        "Deaths among cases."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Vital Statistics (PDF p. 87)",
+      "quote": "Measures the proportion of population which exhibits a particular disease at a particular time"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Which rate measures pregnancy wastage?",
+      "options": [
+        "Maternal mortality rate",
+        "Neonatal death rate",
+        "Fetal death rate",
+        "Crude birth rate"
+      ],
+      "answer": "C",
+      "rationale": "The fetal death rate measures pregnancy wastage: death of the product of conception before complete expulsion, regardless of pregnancy duration.",
+      "explanations": [
+        "Pregnancy-related maternal deaths.",
+        "Deaths in the first month.",
+        "Correct: pregnancy wastage.",
+        "Population growth."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Vital Statistics (PDF p. 87)",
+      "quote": "Measures pregnancy wastage"
+    }
+  ]
+}

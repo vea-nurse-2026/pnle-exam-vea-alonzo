@@ -1,0 +1,917 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Care of Families (Normal & At Risk)",
+      "situation": "",
+      "stem": "During a home visit, which finding needs counseling about injury risk?",
+      "options": [
+        "Fluorescent bulbs in lamps",
+        "Night-light in the hall",
+        "Steep stairway the client uses",
+        "Cord tucked behind furniture"
+      ],
+      "answer": "C",
+      "rationale": "Stairs increase fall risk. A tucked-away cord and good lighting are not hazards.",
+      "explanations": [
+        "Not a hazard.",
+        "Protective.",
+        "Correct: fall risk.",
+        "Not a hazard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q580 (PDF p. 785)",
+      "quote": "stairs are associated with an increased risk of falls."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which handwashing action shows a nursing attendant needs MORE teaching?",
+      "options": [
+        "Wets hands and wrists",
+        "Keeps hands above the forearms",
+        "Uses 3 to 5 mL of soap",
+        "Scrubs 10 to 15 seconds"
+      ],
+      "answer": "B",
+      "rationale": "Hands are kept lower than the forearms so water flows toward the fingertips.",
+      "explanations": [
+        "Correct practice.",
+        "Correct answer: hands lower.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q600 (PDF p. 809)",
+      "quote": "keeping the hands lower than the forearms so that water flows toward the fingertips."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client on partial weight-bearing uses crutches. How much weight may go on the affected leg?",
+      "options": [
+        "None",
+        "Touch only",
+        "30% to 50%",
+        "100%"
+      ],
+      "answer": "C",
+      "rationale": "Partial weight-bearing allows 30% to 50% of body weight on the affected limb. Touchdown allows contact without weight.",
+      "explanations": [
+        "Non-weight-bearing.",
+        "Touchdown.",
+        "Correct.",
+        "Full."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q604 (PDF p. 815)",
+      "quote": "The client who has partial weight-bearing status is allowed to place 30% to 50% of the body weight on the affected limb."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which device BEST improves bed mobility for a client in skeletal leg traction?",
+      "options": [
+        "Fracture bedpan",
+        "Overhead trapeze",
+        "Bed rails",
+        "Footboard"
+      ],
+      "answer": "B",
+      "rationale": "An overhead trapeze helps the client move in bed and on and off the bedpan.",
+      "explanations": [
+        "Limited use.",
+        "Correct.",
+        "Not for mobility.",
+        "Not for mobility."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q605 (PDF p. 816)",
+      "quote": "The use of an overhead trapeze is extremely helpful for assisting a client with moving about in bed"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "Which parent plan to prevent childhood obesity needs correction?",
+      "options": [
+        "Set regular meal times",
+        "Avoid TV while eating",
+        "Use food as a reward",
+        "Offer fruit as snacks"
+      ],
+      "answer": "C",
+      "rationale": "Food is not used as a reward. Consistent meal and snack times and no eating while watching TV are encouraged.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Correct answer: avoid.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q606 (PDF p. 817)",
+      "quote": "These measures include not using food as a reward"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "How should an older client with Parkinson's tremors instill eye drops?",
+      "options": [
+        "Instill them rapidly",
+        "Always have family do it",
+        "Lie down on a bed to instill",
+        "Refrigerate to thicken them"
+      ],
+      "answer": "C",
+      "rationale": "Tremors make instillation hard; lying down gives stability and helps the drops reach the eye.",
+      "explanations": [
+        "Unsafe.",
+        "Reduces independence.",
+        "Correct.",
+        "Not appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q608 (PDF p. 820)",
+      "quote": "The older client is instructed to lie down on a bed or sofa to instill the eye drops"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client with recurrent trichomoniasis asks about treatment during menses. What is correct?",
+      "options": [
+        "Stop during the period",
+        "Continue through the period",
+        "Douche daily",
+        "Skip the partner's dose"
+      ],
+      "answer": "B",
+      "rationale": "Treatment continues through menses because the vagina is more alkaline then and flare-ups are likely.",
+      "explanations": [
+        "Incorrect.",
+        "Correct.",
+        "Not advised.",
+        "Partner needs treatment."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q614 (PDF p. 827)",
+      "quote": "Treatment for a recurrent vaginal trichomoniasis infection continues through the menstrual period"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which is a source of histoplasmosis the client should avoid?",
+      "options": [
+        "Grape arbors",
+        "Bird and bat droppings",
+        "Swimming pools",
+        "Cut flowers"
+      ],
+      "answer": "B",
+      "rationale": "Histoplasmosis comes from soil contaminated with bird (especially chicken and pigeon) and bat droppings. Grape arbors do not harbor it.",
+      "explanations": [
+        "Not a source.",
+        "Correct.",
+        "Not a source.",
+        "Not a source."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q619 (PDF p. 834)",
+      "quote": "Grape arbors do not harbor the causative organism for histoplasmosis."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How can women prevent pelvic inflammatory disease?",
+      "options": [
+        "Douche monthly",
+        "Avoid unprotected intercourse",
+        "Use only low-dose pills",
+        "Avoid all exercise"
+      ],
+      "answer": "B",
+      "rationale": "Primary prevention of PID is avoiding unprotected intercourse. Douching increases risk.",
+      "explanations": [
+        "Increases risk.",
+        "Correct.",
+        "Not protective.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q625 (PDF p. 842)",
+      "quote": "The primary prevention of PID includes avoiding unprotected intercourse."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which home instruction is correct for parents of a child being tested for HIV?",
+      "options": [
+        "Toothbrushes may be shared",
+        "Do not share toothbrushes",
+        "Skip vaccines",
+        "Clean spills with water only"
+      ],
+      "answer": "B",
+      "rationale": "Toothbrushes are not shared, immunizations are kept current, and blood spills are cleaned and rinsed with bleach solution.",
+      "explanations": [
+        "Not allowed.",
+        "Correct.",
+        "Keep current.",
+        "Bleach rinse."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q661 (PDF p. 880)",
+      "quote": "Parents are instructed that toothbrushes are not to be shared."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "When is a post-op NG tube usually removed?",
+      "options": [
+        "When the doctor decides",
+        "When food stays down",
+        "When the GI tract heals",
+        "When flatus is passed"
+      ],
+      "answer": "D",
+      "rationale": "NG tubes are removed when GI function returns, shown by passing flatus.",
+      "explanations": [
+        "Not the criterion.",
+        "Comes later.",
+        "Too vague.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q711 (PDF p. 933)",
+      "quote": "NG tubes are discontinued when normal function returns to the GI tract."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which statement by a teenager treated for an STI needs MORE teaching?",
+      "options": [
+        "'My visit is confidential.'",
+        "'I'll finish my medicine.'",
+        "'I'll use condoms.'",
+        "'My partner doesn't need treatment.'"
+      ],
+      "answer": "D",
+      "rationale": "All sexual contacts must be notified and treated.",
+      "explanations": [
+        "Accurate.",
+        "Accurate.",
+        "Accurate.",
+        "Correct answer: partners need treatment."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q715 (PDF p. 937)",
+      "quote": "When treating STIs, all sexual contacts must be contacted and treated with medication."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A newly diagnosed diabetic should report glucose that is consistently above which level?",
+      "options": [
+        "150 mg/dL",
+        "200 mg/dL",
+        "250 mg/dL",
+        "350 mg/dL"
+      ],
+      "answer": "C",
+      "rationale": "Normal glucose is 70–110 mg/dL; clients report levels consistently above 250 mg/dL unless the provider says otherwise.",
+      "explanations": [
+        "Too low.",
+        "Too low.",
+        "Correct.",
+        "Too high."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q716 (PDF p. 938)",
+      "quote": "The normal blood glucose level ranges from 70 to 110 mg/dL (4 to 6 mmol/L)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which student comment about tobacco needs MORE teaching?",
+      "options": [
+        "'Chewing tobacco is safer than smoking.'",
+        "'Secondhand smoke is harmful.'",
+        "'Smoking in pregnancy hurts the baby.'",
+        "'Smoking at home affects family.'"
+      ],
+      "answer": "A",
+      "rationale": "All forms of tobacco, including chewing tobacco, are health hazards.",
+      "explanations": [
+        "Correct answer: false belief.",
+        "Accurate.",
+        "Accurate.",
+        "Accurate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q732 (PDF p. 957)",
+      "quote": "All forms of tobacco use, including chewing tobacco, are health hazards."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Why should NICU parents wash their hands properly?",
+      "options": [
+        "To shorten the stay",
+        "To prevent nosocomial infection",
+        "To replace gloves",
+        "To reduce antibiotic doses"
+      ],
+      "answer": "B",
+      "rationale": "Proper handwashing by staff and parents prevents nursery infections and lets parents take part in care.",
+      "explanations": [
+        "Not the purpose.",
+        "Correct.",
+        "Not the purpose.",
+        "Not the purpose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q734 (PDF p. 959)",
+      "quote": "Appropriate hand washing by staff and parents has been effective for the prevention of nosocomial infections"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "After a month of TB drugs, which finding shows isolation is no longer needed?",
+      "options": [
+        "Clay-colored stools",
+        "Negative sputum culture",
+        "No more nausea",
+        "Normal temperature only"
+      ],
+      "answer": "B",
+      "rationale": "A negative sputum culture shows treatment is effective and the client is no longer infectious.",
+      "explanations": [
+        "Side effect.",
+        "Correct.",
+        "Side effect.",
+        "Not enough."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q736 (PDF p. 961)",
+      "quote": "A negative culture indicates the effectiveness of treatment."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "What is the BEST advice to a coach for preventing dehydration in hot weather?",
+      "options": [
+        "Drink before and after only",
+        "Drink when thirsty",
+        "Salt tablets daily",
+        "Fluid breaks every 30 minutes"
+      ],
+      "answer": "D",
+      "rationale": "Hot weather speeds fluid and electrolyte loss, so fluid breaks every 30 minutes are scheduled.",
+      "explanations": [
+        "Not enough.",
+        "Thirst lags.",
+        "Not advised.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q742 (PDF p. 969)",
+      "quote": "the nurse encourages the coach to schedule fluid breaks at 30-minute intervals"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which menu fits a low-fat diet?",
+      "options": [
+        "Shrimp and avocado salad",
+        "Liver and potato salad",
+        "Lean steak and buttered potatoes",
+        "Skinless turkey, rice, strawberries"
+      ],
+      "answer": "D",
+      "rationale": "Skinless turkey, boiled rice, and strawberries are low in fat. Avocado, mayonnaise, butter, and red meat add fat.",
+      "explanations": [
+        "Avocado.",
+        "Mayonnaise.",
+        "Butter, red meat.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q743 (PDF p. 971)",
+      "quote": "Turkey breast without the skin, boiled rice, and strawberries offer the client nourishing foods that are low in fat."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which food should a client with uric acid stones eliminate?",
+      "options": [
+        "Sardines",
+        "Rice",
+        "Milk",
+        "Apples"
+      ],
+      "answer": "A",
+      "rationale": "Organ meats, sardines, herring, and other high-purine foods are eliminated.",
+      "explanations": [
+        "Correct: high purine.",
+        "Low purine.",
+        "Low purine.",
+        "Low purine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q745 (PDF p. 973)",
+      "quote": "Organ meats, sardines, herring, and other high-purine foods are eliminated from the diet."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A tuberculin skin test is given Monday. When should it be read?",
+      "options": [
+        "Tuesday",
+        "Wednesday or Thursday",
+        "Friday",
+        "Next Monday"
+      ],
+      "answer": "B",
+      "rationale": "The test is read in 48 to 72 hours.",
+      "explanations": [
+        "Too early.",
+        "Correct.",
+        "Too late.",
+        "Too late."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q748 (PDF p. 977)",
+      "quote": "The tuberculin skin test for tuberculosis is read in 48 to 72 hours"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which home instruction after knee arthroscopy is correct?",
+      "options": [
+        "Resume sports next day",
+        "Stay in bed a week",
+        "Report signs of infection",
+        "Keep the leg dependent"
+      ],
+      "answer": "C",
+      "rationale": "Signs of infection are reported; strenuous exercise is avoided for a few days, but walking is usually allowed.",
+      "explanations": [
+        "Too soon.",
+        "Not needed.",
+        "Correct.",
+        "Elevate instead."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q773 (PDF p. 1003)",
+      "quote": "After arthroscopy, signs/symptoms of infection should be reported"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which drink is safe for a client with hiatal hernia?",
+      "options": [
+        "Apple juice",
+        "Orange juice",
+        "Tomato juice",
+        "Coffee"
+      ],
+      "answer": "A",
+      "rationale": "Tomato and citrus products irritate, and caffeine increases gastric acid. Apple juice is safe.",
+      "explanations": [
+        "Correct.",
+        "Citrus.",
+        "Tomato.",
+        "Caffeine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q782 (PDF p. 1012)",
+      "quote": "Substances that are irritating to the client with hiatal hernia include tomato products and citrus fruits"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which food choice shows a client with atherosclerosis understands the diet?",
+      "options": [
+        "Roast beef",
+        "Fresh cantaloupe",
+        "Cheeseburger",
+        "Buttered mashed potato"
+      ],
+      "answer": "B",
+      "rationale": "The diet is low in saturated fat with less red meat and more fruits and vegetables.",
+      "explanations": [
+        "Red meat.",
+        "Correct.",
+        "Red meat, fat.",
+        "Butter."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q786 (PDF p. 1016)",
+      "quote": "To lower the risk of heart disease, the diet should be low in saturated fat"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which snack is BEST for a client with hypertension?",
+      "options": [
+        "Frozen pizza",
+        "Cheese and crackers",
+        "Raw carrots",
+        "Canned soup"
+      ],
+      "answer": "C",
+      "rationale": "Fresh vegetables like carrots and celery are naturally low in sodium.",
+      "explanations": [
+        "High sodium.",
+        "High sodium.",
+        "Correct.",
+        "High sodium."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q788 (PDF p. 1018)",
+      "quote": "Fresh fruits and vegetables such as carrots and celery are naturally lower in sodium."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "After bronchoscopy, which statement shows the client needs MORE teaching?",
+      "options": [
+        "'I'll report bright red blood.'",
+        "'I can smoke tonight.'",
+        "'I'll check my sputum.'",
+        "'I'll call if breathing worsens.'"
+      ],
+      "answer": "B",
+      "rationale": "Smoking is avoided. Bright red expectorated blood is reported.",
+      "explanations": [
+        "Correct practice.",
+        "Correct answer: avoid smoking.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q799 (PDF p. 1029)",
+      "quote": "The client needs to avoid smoking."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Why does a shy client need extra support for a voiding cystourethrogram?",
+      "options": [
+        "It is very painful",
+        "She must void in front of others",
+        "It needs general anesthesia",
+        "It takes all day"
+      ],
+      "answer": "B",
+      "rationale": "Voiding in the presence of others is embarrassing and may interfere with voiding.",
+      "explanations": [
+        "Not the reason.",
+        "Correct.",
+        "Not true.",
+        "Not true."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q802 (PDF p. 1035)",
+      "quote": "Having to void in the presence of others can be very embarrassing for clients"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which explanation BEST eases anxiety about a 12-lead ECG?",
+      "options": [
+        "'It uses mild shocks.'",
+        "'It takes an hour.'",
+        "'It's quick and painless.'",
+        "'You may move freely.'"
+      ],
+      "answer": "C",
+      "rationale": "ECG electrodes are painless; the test takes under 5 minutes and requires lying still.",
+      "explanations": [
+        "Not true.",
+        "Not true.",
+        "Correct.",
+        "Must lie still."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q805 (PDF p. 1039)",
+      "quote": "The ECG uses painless electrodes that are applied to the chest and limbs."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "A client with hyperparathyroidism says, 'This diet is too hard for me.' What is the BEST response?",
+      "options": [
+        "'Why don't you try harder?'",
+        "'Everyone finds it easy.'",
+        "'You're finding the diet difficult?'",
+        "'You must follow it.'"
+      ],
+      "answer": "C",
+      "rationale": "Paraphrasing encourages the client to express feelings and shows the message was understood.",
+      "explanations": [
+        "'Why' question.",
+        "Dismissive.",
+        "Correct: paraphrasing.",
+        "Authoritarian."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q810 (PDF p. 1044)",
+      "quote": "By paraphrasing the client’s statement, the nurse can encourage the client to verbalize emotions."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "A retiree yells in the dining room that the turkey is dry and cold. What is BEST?",
+      "options": [
+        "'Look what you've done.'",
+        "'Calm down now.'",
+        "'Come with me to the kitchen.'",
+        "'Others are eating quietly.'"
+      ],
+      "answer": "C",
+      "rationale": "Asking the client to come to the kitchen respects control, removes him from the room, and allows assessment.",
+      "explanations": [
+        "Blaming.",
+        "Dismissive.",
+        "Correct.",
+        "Shaming."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q817 (PDF p. 1051)",
+      "quote": "Asking the client to accompany the nurse to the kitchen respects the client’s need for control"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "During Allen's test, a client asks, 'No one else did that!' What is MOST therapeutic?",
+      "options": [
+        "'I can't speak for others.'",
+        "'Make everyone do it.'",
+        "'Report the others.'",
+        "'It checks hand blood flow.'"
+      ],
+      "answer": "D",
+      "rationale": "Allen's test checks collateral circulation before a radial ABG; giving information is therapeutic.",
+      "explanations": [
+        "Defensive.",
+        "Creates distrust.",
+        "Creates distrust.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q819 (PDF p. 1053)",
+      "quote": "Allen’s test is performed to assess collateral circulation in the hand"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "A client says nurses never answer his light and don't care. Which response is empathetic?",
+      "options": [
+        "'You're being impatient.'",
+        "'That nurse had no right.'",
+        "'You poor thing!'",
+        "'It's hard to have to ask for help.'"
+      ],
+      "answer": "D",
+      "rationale": "Empathy is perceiving how the client feels and what it means to him.",
+      "explanations": [
+        "Judgmental.",
+        "Takes sides.",
+        "Sympathy.",
+        "Correct: empathy."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q821 (PDF p. 1056)",
+      "quote": "“Empathy” is a term that describes the nurse’s capacity to enter into the life of another person"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "Family of a client who attempted suicide are tearful. What is MOST helpful?",
+      "options": [
+        "'I'll check when you can see her.'",
+        "'Everything is being done.'",
+        "'Don't feel guilty.'",
+        "'I can see you're very worried.'"
+      ],
+      "answer": "D",
+      "rationale": "Addressing feelings shows empathy. The others are communication blocks: wrong timing, cliché, false reassurance.",
+      "explanations": [
+        "Wrong timing.",
+        "Cliché.",
+        "False reassurance.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q829 (PDF p. 1065)",
+      "quote": "Option 4 addresses the family’s feelings and displays empathy."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "A client with hives worries about her wedding next week. Which response uses reflection?",
+      "options": [
+        "'Worried about the wedding?'",
+        "'It's just jitters.'",
+        "'The pill will fix it.'",
+        "'Could it ruin it?'"
+      ],
+      "answer": "A",
+      "rationale": "Reflection returns the client's feelings. The others minimize fears or change the focus.",
+      "explanations": [
+        "Correct: reflection.",
+        "Minimizes.",
+        "False reassurance.",
+        "Challenges."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q833 (PDF p. 1069)",
+      "quote": "The therapeutic communication technique that the nurse uses in option 1 is reflection."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "What should preoperative teaching for radical neck dissection focus on FIRST?",
+      "options": [
+        "The client's finances",
+        "The family's schedule",
+        "The client's knowledge",
+        "The discharge plans"
+      ],
+      "answer": "C",
+      "rationale": "Teaching starts by finding out what the client already knows, to correct misinformation and set a starting point.",
+      "explanations": [
+        "Not first.",
+        "Not first.",
+        "Correct.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q871 (PDF p. 1108)",
+      "quote": "The first step in client teaching is establishing what the client already knows."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "An older client with a hip fracture has periods of confusion. Which outcome MOST improves cognition?",
+      "options": [
+        "Better sleep",
+        "Less family anxiety",
+        "Independent self-care",
+        "Better concentration in care"
+      ],
+      "answer": "D",
+      "rationale": "Being able to concentrate and take part in care lets the nurse work toward other outcomes.",
+      "explanations": [
+        "Physiological.",
+        "Family-focused.",
+        "Physiological.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q899 (PDF p. 1142)",
+      "quote": "The client needs to be able to concentrate and participate in her or his care."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client on TPN fears lipids will make her obese. What should the nurse do FIRST?",
+      "options": [
+        "Ask how illness affects self-concept",
+        "Ask the doctor to explain",
+        "Say lipids are essential",
+        "Explain lipid replacement"
+      ],
+      "answer": "A",
+      "rationale": "The comment needs more than information at first; the nurse explores how illness affects self-concept.",
+      "explanations": [
+        "Correct.",
+        "Passes responsibility.",
+        "Information later.",
+        "Information later."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q905 (PDF p. 1148)",
+      "quote": "this client’s comment requires more than a simple informational response initially."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which statement shows POSITIVE coping with chemotherapy hair loss?",
+      "options": [
+        "'I won't go out bald.'",
+        "'It won't bother me.'",
+        "'I won't lose my hair.'",
+        "'I've picked a wig.'"
+      ],
+      "answer": "D",
+      "rationale": "Positive coping identifies feelings and plans interventions for side effects.",
+      "explanations": [
+        "Avoidance.",
+        "Denial.",
+        "Denial.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q913 (PDF p. 1156)",
+      "quote": "the client must identify personal feelings and positive interventions to deal with side effects."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A daughter feels guilty that her grieving father developed DKA despite her care. What is BEST?",
+      "options": [
+        "'You should have watched him more.'",
+        "'Hire a private nurse.'",
+        "'Maybe you made mistakes.'",
+        "'Emotional stress can trigger DKA.'"
+      ],
+      "answer": "D",
+      "rationale": "Environment, infection, or emotional stress such as grief can trigger DKA, which eases misplaced guilt.",
+      "explanations": [
+        "Increases guilt.",
+        "Not cost-effective.",
+        "Increases guilt.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q914 (PDF p. 1157)",
+      "quote": "Environment, infection, or an emotional stressor can initiate the physiological mechanism of DKA."
+    }
+  ]
+}

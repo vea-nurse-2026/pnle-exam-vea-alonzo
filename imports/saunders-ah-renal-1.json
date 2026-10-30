@@ -1,0 +1,869 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which pair of findings does the nurse expect in a client with end-stage renal disease?",
+      "options": [
+        "Polyuria and bradycardia",
+        "Hypotension and polyuria",
+        "Edema and anemia",
+        "Bradycardia and osteoporosis"
+      ],
+      "answer": "C",
+      "rationale": "The kidneys maintain water balance and secrete erythropoietin, which stimulates red cell production. When they fail, edema and anemia result.",
+      "explanations": [
+        "Oliguria and tachycardia are more likely.",
+        "Hypertension is more likely.",
+        "Correct: lost water balance and erythropoietin.",
+        "Not the expected pair."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q175 (PDF p. 328)",
+      "quote": "Impairment of these functions results in edema and anemia."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client is admitted with acute glomerulonephritis. Which recent history should the nurse ask about?",
+      "options": [
+        "Bleeding ulcer",
+        "Myocardial infarction",
+        "Deep vein thrombosis",
+        "Streptococcal infection"
+      ],
+      "answer": "D",
+      "rationale": "The main cause of acute glomerulonephritis is a beta-hemolytic streptococcal infection about 3 weeks before symptoms begin, such as strep throat or impetigo.",
+      "explanations": [
+        "Not a cause.",
+        "Not a cause.",
+        "Not a cause.",
+        "Correct: the predominant cause."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q177 (PDF p. 330)",
+      "quote": "The predominant cause of acute glomerulonephritis is infection with beta-hemolytic Streptococcus 3 weeks before the onset of symptoms."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which parameter should the nurse check DAILY in a client with nephrotic syndrome?",
+      "options": [
+        "Weight",
+        "Albumin level",
+        "Activity tolerance",
+        "BUN level"
+      ],
+      "answer": "A",
+      "rationale": "Nephrotic syndrome causes edema, hypoalbuminemia, and proteinuria. Fluid balance is tracked daily by weight, intake and output, edema, and girth. Albumin is checked as prescribed.",
+      "explanations": [
+        "Correct: tracks fluid balance.",
+        "Checked as prescribed, not daily.",
+        "Not the key parameter.",
+        "Not the key parameter."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q183 (PDF p. 336)",
+      "quote": "The nurse carefully assesses the fluid balance of the client, which includes daily monitoring of weight, intake and output, edema, and girth measurements."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which item should be kept in the room of a client being evaluated for the type of kidney stone?",
+      "options": [
+        "A urine strainer",
+        "A calorie count sheet",
+        "A vital signs sheet",
+        "An I&O record"
+      ],
+      "answer": "A",
+      "rationale": "Urine is strained until the stone passes. The stone is sent to the laboratory, and once its type is known, a prevention plan is made.",
+      "explanations": [
+        "Correct: catches stones for analysis.",
+        "Unrelated.",
+        "Unrelated to stone type.",
+        "Unrelated to stone type."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q271 (PDF p. 428)",
+      "quote": "Straining the urine will catch small stones that should be sent to the laboratory for analysis."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "What is the MOST serious complication of polycystic kidney disease?",
+      "options": [
+        "Diabetes insipidus",
+        "End-stage renal disease",
+        "Chronic UTI",
+        "Hypotension"
+      ],
+      "answer": "B",
+      "rationale": "Cysts form and the kidneys enlarge. The most serious complication is ESRD, managed by dialysis or transplant. Chronic UTI is the most common complication.",
+      "explanations": [
+        "Not associated.",
+        "Correct: the most serious.",
+        "The most common, not the most serious.",
+        "Hypertension is more typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q363 (PDF p. 531)",
+      "quote": "The most serious complication of polycystic kidney disease is ESRD, which is managed with dialysis or transplant."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client newly diagnosed with polycystic kidney disease is adjusting to the illness. What should the nurse include in the discussions?",
+      "options": [
+        "Ongoing fluid restriction",
+        "Genetic counseling",
+        "Managing hypotension",
+        "Avoiding all exercise"
+      ],
+      "answer": "B",
+      "rationale": "Adult polycystic kidney disease is autosomal dominant, so the client and extended family should have genetic counseling. Fluid restriction is unnecessary, and hypertension is more likely.",
+      "explanations": [
+        "Unnecessary.",
+        "Correct: hereditary disorder.",
+        "Hypertension is more likely.",
+        "Not required."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q814 (PDF p. 1048)",
+      "quote": "Because of this, the client and the extended family should have genetic counseling."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "A client returns from a left nephrectomy. Which assessment is MOST important to do hourly?",
+      "options": [
+        "Tolerance for clear liquids",
+        "Bowel sounds",
+        "Urine output",
+        "Skin turgor"
+      ],
+      "answer": "C",
+      "rationale": "Hourly urine output shows how well the remaining kidney is working and detects renal failure early. Pain, vital signs, and coughing and deep breathing are also monitored. The client is NPO at first.",
+      "explanations": [
+        "The client is NPO at first.",
+        "Not hourly.",
+        "Correct: checks the remaining kidney.",
+        "Not hourly."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q364 (PDF p. 532)",
+      "quote": "After nephrectomy, it is imperative to measure the urine output on an hourly basis."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "Aling Nena, 58, has chronic kidney disease and gets hemodialysis through an AV fistula in her right arm.",
+      "stem": "Which action protects Aling Nena's AV fistula?",
+      "options": [
+        "Take BP on the right arm",
+        "Draw blood from the right arm",
+        "Check for a thrill and bruit",
+        "Apply a tight dressing"
+      ],
+      "answer": "C",
+      "rationale": "The nurse palpates for a thrill and auscultates for a bruit every 4 hours. No BP readings, venipunctures, or IV lines go on the fistula arm.",
+      "explanations": [
+        "Never on the access arm.",
+        "Never on the access arm.",
+        "Correct: confirms patency.",
+        "Constricts flow."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q375 (PDF p. 543)",
+      "quote": "The nurse should implement the following to protect the fistula: palpate for thrills and auscultate for a bruit every 4 hours"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Aling Nena, 58, has chronic kidney disease and gets hemodialysis through an AV fistula in her right arm.",
+      "stem": "Which statement by Aling Nena about her fistula shows a need for MORE teaching?",
+      "options": [
+        "'I'll sleep on my right side.'",
+        "'I won't carry heavy bags on that arm.'",
+        "'I'll do arm exercises.'",
+        "'I'll check for the thrill daily.'"
+      ],
+      "answer": "A",
+      "rationale": "Clients avoid sleeping on the access arm, carrying heavy objects with it, or compressing it, and do routine range-of-motion exercises.",
+      "explanations": [
+        "Correct answer: compresses the fistula.",
+        "Correct practice.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1082 (PDF p. 1364)",
+      "quote": "avoiding sleeping with the body weight on the extremity with the access site"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Aling Nena, 58, has chronic kidney disease and gets hemodialysis through an AV fistula in her right arm.",
+      "stem": "Aling Nena asks how often hemodialysis is done. What is the typical schedule?",
+      "options": [
+        "2 hours, 6 days a week",
+        "1 hour daily",
+        "3 to 4 hours, 3 days a week",
+        "8 hours once a week"
+      ],
+      "answer": "C",
+      "rationale": "Typical hemodialysis is 3 to 4 hours, 3 days a week, adjusted for body size, dialyzer type, blood flow, and client preference.",
+      "explanations": [
+        "Not typical.",
+        "Not typical.",
+        "Correct: the usual schedule.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q672 (PDF p. 892)",
+      "quote": "The typical schedule for hemodialysis is 3 to 4 hours of treatment 3 days per week."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Aling Nena, 58, has chronic kidney disease and gets hemodialysis through an AV fistula in her right arm.",
+      "stem": "What should Aling Nena record daily to monitor her fluid status between treatments?",
+      "options": [
+        "Activity level",
+        "Pulse and respirations",
+        "Weight, intake and output",
+        "Blood sugar"
+      ],
+      "answer": "C",
+      "rationale": "Fluid status between treatments is tracked by daily intake and output and weight. Ideally she gains no more than 0.5 kg a day.",
+      "explanations": [
+        "Does not show fluid status.",
+        "Does not show fluid status.",
+        "Correct: fluid status.",
+        "Not the fluid measure."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q676 (PDF p. 896)",
+      "quote": "This can be done by recording intake and output and measuring weight on a daily basis."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "Aling Nena, 58, has chronic kidney disease and gets hemodialysis through an AV fistula in her right arm.",
+      "stem": "Which weight gain between dialysis sessions shows Aling Nena is following her diet and fluid limits?",
+      "options": [
+        "No more than 1 to 1.5 kg",
+        "No more than 3 kg",
+        "No more than 4 kg",
+        "No more than 5 kg"
+      ],
+      "answer": "A",
+      "rationale": "A limit of about 1 to 1.5 kg between treatments helps prevent the hypotension that occurs when large fluid volumes are removed during dialysis.",
+      "explanations": [
+        "Correct: the usual limit.",
+        "Too much.",
+        "Too much.",
+        "Too much."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1381 (PDF p. 1684)",
+      "quote": "usually a limit of 1 to 1.5 kg of weight gain between dialysis treatments helps prevent hypotension"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Aling Nena, 58, has chronic kidney disease and gets hemodialysis through an AV fistula in her right arm.",
+      "stem": "Aling Nena is on a fluid restriction. Which dessert choice shows she understands?",
+      "options": [
+        "Gulaman",
+        "Sherbet",
+        "Ice cream",
+        "Sponge cake"
+      ],
+      "answer": "D",
+      "rationale": "Anything liquid at room temperature counts as fluid, such as gelatin, sherbet, and ice cream. Avoiding hidden fluids lets her drink more to ease thirst.",
+      "explanations": [
+        "Liquid at room temperature.",
+        "Liquid at room temperature.",
+        "Liquid at room temperature.",
+        "Correct: not a hidden fluid."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q665 (PDF p. 884)",
+      "quote": "Dietary fluid includes anything that is liquid at room temperature."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Aling Nena, 58, has chronic kidney disease and gets hemodialysis through an AV fistula in her right arm.",
+      "stem": "Aling Nena has itching from uremia. Which skin care item should she AVOID?",
+      "options": [
+        "Mild soap",
+        "Bath oil",
+        "Lanolin lotion",
+        "Alcohol cleanser"
+      ],
+      "answer": "D",
+      "rationale": "Perfumes and alcohol dry the skin and worsen itching. Mild soap, bath oil, and lotion reduce dryness.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate.",
+        "Correct: increases dryness."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q666 (PDF p. 885)",
+      "quote": "Products that contain perfumes or alcohol increase skin dryness and pruritus and these should be avoided."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Aling Nena, 58, has chronic kidney disease and gets hemodialysis through an AV fistula in her right arm.",
+      "stem": "Aling Nena is on a protein-restricted diet. Which foods are INCOMPLETE proteins?",
+      "options": [
+        "Fish and eggs",
+        "Milk and fish",
+        "Eggs and milk",
+        "Nuts and grains"
+      ],
+      "answer": "D",
+      "rationale": "Nuts and grains are incomplete proteins. Meat, fish, milk, and eggs are complete proteins.",
+      "explanations": [
+        "Complete proteins.",
+        "Complete proteins.",
+        "Complete proteins.",
+        "Correct: incomplete proteins."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1353 (PDF p. 1656)",
+      "quote": "Nuts and grains are the only options that are not complete proteins."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with CKD is told he needs hemodialysis and says angrily, 'I'll never be the same.' What is his PRIMARY concern?",
+      "options": [
+        "Anxiety about dialysis",
+        "Inability to think clearly",
+        "Fear of pain",
+        "Altered body image"
+      ],
+      "answer": "D",
+      "rationale": "Clients may become angry over the permanence of CKD. Physical and lifestyle changes can cause an altered body image.",
+      "explanations": [
+        "No data support it.",
+        "No data support it.",
+        "No data support it.",
+        "Correct: fits his statement."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q809 (PDF p. 1043)",
+      "quote": "the client may experience an altered body image."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Mang Ben, 48, has calcium oxalate kidney stones.",
+      "stem": "Which list of high-oxalate foods shows Mang Ben understood the teaching?",
+      "options": [
+        "Spinach, beets, black tea",
+        "Rice, chicken, eggs",
+        "Cantaloupe, watermelon",
+        "Bread, milk, cheese"
+      ],
+      "answer": "A",
+      "rationale": "High-oxalate foods include beets, spinach, rhubarb, black tea, cocoa, nuts, okra, and chocolate. He should also drink up to 3000 mL a day unless restricted.",
+      "explanations": [
+        "Correct: high in oxalate.",
+        "Low in oxalate.",
+        "Low in oxalate.",
+        "Low in oxalate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q378 (PDF p. 547)",
+      "quote": "Food items that are high in oxalate include beets, spinach, rhubarb, black tea"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Mang Ben, 48, has calcium oxalate kidney stones.",
+      "stem": "Mang Ben's passed stone is calcium oxalate. Which food is BEST to avoid?",
+      "options": [
+        "Chicken",
+        "Okra",
+        "Rice",
+        "Eggs"
+      ],
+      "answer": "B",
+      "rationale": "Foods that raise urinary oxalate include spinach, rhubarb, strawberries, chocolate, nuts, beets, tea, and okra.",
+      "explanations": [
+        "Low in oxalate.",
+        "Correct: high in oxalate.",
+        "Low in oxalate.",
+        "Low in oxalate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q633 (PDF p. 851)",
+      "quote": "Foods that raise urinary oxalate excretion and predispose to stone formation include spinach, rhubarb, strawberries, chocolate, wheat bran, nuts, beets"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "Mang Ben, 48, has calcium oxalate kidney stones.",
+      "stem": "Two hours after morphine, Mang Ben says, 'I'm scared to death the pain will come back.' What is the PRIORITY concern?",
+      "options": [
+        "Lack of knowledge",
+        "Calculus in the ureter",
+        "Anxiety about recurring pain",
+        "Ineffective coping"
+      ],
+      "answer": "C",
+      "rationale": "Anticipating recurring pain produces anxiety and threatens psychological integrity. No data suggest a lack of knowledge or poor coping.",
+      "explanations": [
+        "No data support it.",
+        "No evidence.",
+        "Correct: fits his statement.",
+        "No data support it."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q935 (PDF p. 1179)",
+      "quote": "The anticipation of the recurring pain produces anxiety and threatens the client’s psychological integrity."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client has uric acid stones. Which food should the nurse teach him to avoid?",
+      "options": [
+        "Liver",
+        "Carrots",
+        "White rice",
+        "Skim milk"
+      ],
+      "answer": "A",
+      "rationale": "Purines are broken down into uric acid. Organ meats such as liver are high in purines and are limited.",
+      "explanations": [
+        "Correct: high in purines.",
+        "Low in purines.",
+        "Low in purines.",
+        "Low in purines."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q642 (PDF p. 860)",
+      "quote": "the nurse instructs the client to avoid foods that contain high amounts of purines because these foods contain a high concentration of uric acid."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How many glasses of water a day should a client with a nephrostomy tube drink at home?",
+      "options": [
+        "1 to 3",
+        "6 to 8",
+        "10 to 12",
+        "14 to 16"
+      ],
+      "answer": "B",
+      "rationale": "About 2000 mL a day (6 to 8 glasses) dilutes particles that could form stones and flushes the kidney and the tube.",
+      "explanations": [
+        "Too little.",
+        "Correct: about 2000 mL.",
+        "More than needed.",
+        "More than needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q613 (PDF p. 826)",
+      "quote": "The nurse encourages the client to take in 2000 mL of fluid per day, which is roughly equivalent to 6 to 8 glasses of water."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "A client is admitted for ureterolithotomy. Which assessment shows readiness for surgery?",
+      "options": [
+        "Need for a support group",
+        "Knowledge of postop activities",
+        "Preference for visitors",
+        "Plans for travel"
+      ],
+      "answer": "B",
+      "rationale": "As with any surgery, the client should know the procedure, the expected outcome, postoperative routines, and expected pain management.",
+      "explanations": [
+        "Not needed for this surgery.",
+        "Correct: a readiness item.",
+        "Not a readiness item.",
+        "Not a readiness item."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q815 (PDF p. 1049)",
+      "quote": "The client should have an understanding of the same items as are required for any surgery"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client with prostatitis asks why a stool softener is ordered. Which reply is BEST?",
+      "options": [
+        "'It's standard for urine problems.'",
+        "'It lowers swelling of the prostate.'",
+        "'It cures the infection.'",
+        "'It prevents painful constipation.'"
+      ],
+      "answer": "D",
+      "rationale": "Stool softeners prevent constipation, which is painful with an inflamed prostate. They do not reduce swelling directly.",
+      "explanations": [
+        "Not standard.",
+        "No direct effect.",
+        "Not true.",
+        "Correct: prevents painful straining."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q652 (PDF p. 870)",
+      "quote": "Stool softeners are prescribed for the client with prostatitis to prevent constipation, which can be painful."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Mang Tonyo, 68, had a transurethral resection of the prostate (TURP) for benign prostatic hyperplasia.",
+      "stem": "What should the nurse include in Mang Tonyo's discharge teaching?",
+      "options": [
+        "Mow the lawn after 1 week",
+        "Lift up to 20 kg after 2 weeks",
+        "Limit fluids to 4 glasses",
+        "Report signs of bleeding"
+      ],
+      "answer": "D",
+      "rationale": "He reports infection, bleeding, more pain, or obstruction. Strenuous activity and lifting more than about 20 pounds (9 kg) are avoided for 4 to 6 weeks.",
+      "explanations": [
+        "Too strenuous.",
+        "Too heavy, too soon.",
+        "He needs more fluids.",
+        "Correct: report complications."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q655 (PDF p. 873)",
+      "quote": "The client should notify the primary health care provider if there are any signs/symptoms of infection, bleeding, increased pain, or urinary obstruction."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Mang Tonyo, 68, had a transurethral resection of the prostate (TURP) for benign prostatic hyperplasia.",
+      "stem": "Which statement by Mang Tonyo shows a need for MORE teaching?",
+      "options": [
+        "'I'll add prune juice.'",
+        "'No heavy work for 4 to 6 weeks.'",
+        "'I'll drink 6 to 8 glasses daily.'",
+        "'Straining at stool is fine.'"
+      ],
+      "answer": "D",
+      "rationale": "Straining during defecation is avoided to prevent bleeding. Prune juice helps, and he drinks 6 to 8 glasses of fluid a day.",
+      "explanations": [
+        "Correct practice.",
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: straining causes bleeding."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1066 (PDF p. 1348)",
+      "quote": "Straining during defecation is avoided to prevent bleeding."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "Mang Tonyo, 68, had a transurethral resection of the prostate (TURP) for benign prostatic hyperplasia.",
+      "stem": "Mang Tonyo has continuous bladder irrigation. Which drainage color shows the flow rate is adequate?",
+      "options": [
+        "Dark red",
+        "Cherry red with clots",
+        "Pale yellow or light pink",
+        "Dark amber"
+      ],
+      "answer": "C",
+      "rationale": "The irrigation is adjusted to keep drainage clear pale yellow or slightly pink. It is increased if drainage is cherry colored or has clots.",
+      "explanations": [
+        "Increase the rate.",
+        "Increase the rate.",
+        "Correct: an adequate rate.",
+        "Not the goal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1238 (PDF p. 1531)",
+      "quote": "it is increased or decreased to maintain urine that is a clear, pale yellow color or has just a slight pink tinge."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "Mang Tonyo, 68, had a transurethral resection of the prostate (TURP) for benign prostatic hyperplasia.",
+      "stem": "Which drainage color should the nurse report to the provider?",
+      "options": [
+        "Pale pink",
+        "Bright red",
+        "Dark pink",
+        "Light yellow"
+      ],
+      "answer": "B",
+      "rationale": "Bright red drainage may mean active bleeding. Pale pink is expected. Dark pink means the irrigation rate should be increased.",
+      "explanations": [
+        "Expected.",
+        "Correct: possible active bleeding.",
+        "Increase the irrigation.",
+        "Expected."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1374 (PDF p. 1677)",
+      "quote": "Bright red bleeding should be reported because it could indicate complications related to active bleeding."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Mang Tonyo, 68, had a transurethral resection of the prostate (TURP) for benign prostatic hyperplasia.",
+      "stem": "What urine color should Mang Tonyo expect for several days after going home?",
+      "options": [
+        "Dark red",
+        "Pink-tinged",
+        "Clear yellow",
+        "Cloudy amber"
+      ],
+      "answer": "B",
+      "rationale": "Urine is pink-tinged for several days. Dark red must be corrected, clear urine is not yet expected, and cloudy urine may mean infection.",
+      "explanations": [
+        "Must be corrected.",
+        "Correct: expected.",
+        "Not yet expected.",
+        "May mean infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1460 (PDF p. 1769)",
+      "quote": "The client should expect that the urine will be pink-tinged for several days after this procedure."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "A client asks how the prostate is removed in TURP. Through which route?",
+      "options": [
+        "The urethra",
+        "A lower abdominal incision",
+        "An upper abdominal incision",
+        "A perineal incision"
+      ],
+      "answer": "A",
+      "rationale": "TURP uses a resectoscope passed through the urethra. Suprapubic and retropubic approaches use a lower abdominal incision, and the perineal approach goes between scrotum and anus.",
+      "explanations": [
+        "Correct: transurethral.",
+        "Suprapubic or retropubic.",
+        "Not used.",
+        "Perineal prostatectomy."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1386 (PDF p. 1689)",
+      "quote": "A TURP is done through the urethra."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "At a prostate screening clinic, which sign of prostatism should the nurse ask about?",
+      "options": [
+        "No postvoid dribbling",
+        "Stopping the stream quickly",
+        "A forceful stream",
+        "Hesitancy starting the stream"
+      ],
+      "answer": "D",
+      "rationale": "Prostatism includes a weaker, intermittent stream, hesitancy, inability to stop quickly, a sense of incomplete emptying, and nocturia.",
+      "explanations": [
+        "Dribbling is a sign.",
+        "Inability to stop is a sign.",
+        "The stream is weaker.",
+        "Correct: a sign of prostatism."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1377 (PDF p. 1680)",
+      "quote": "hesitancy in beginning the flow of urine, inability to stop urinating quickly"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A client with renal cell carcinoma of the left kidney (right kidney normal) fears needing dialysis. What should the nurse say FIRST?",
+      "options": [
+        "Dialysis is very likely",
+        "One kidney is enough",
+        "A transplant is needed",
+        "Dialysis starts soon"
+      ],
+      "answer": "B",
+      "rationale": "The client needs support and reassurance that a normally functioning remaining kidney can fully meet the body's metabolic needs.",
+      "explanations": [
+        "Not accurate.",
+        "Correct: accurate reassurance.",
+        "Not accurate.",
+        "Not accurate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q998 (PDF p. 1249)",
+      "quote": "the remaining kidney should be able to fully meet the body’s metabolic needs as long as it has normal function."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with nephrotic syndrome says, 'Why bother with my diet? Nothing I do will fix my kidneys.' What is the MOST appropriate concern?",
+      "options": [
+        "Anxiety",
+        "Powerlessness",
+        "Ineffective coping",
+        "Disturbed body image"
+      ],
+      "answer": "B",
+      "rationale": "Powerlessness is the belief that one's actions will not affect the outcome. Nephrotic syndrome is progressive, so the client may feel this way.",
+      "explanations": [
+        "Unease from an unclear source.",
+        "Correct: fits the statement.",
+        "Not supported.",
+        "Not supported."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q997 (PDF p. 1248)",
+      "quote": "Powerlessness is present when the client believes that personal actions will not affect an outcome in any significant way."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "After 2 days of care for nephrotic syndrome, which result shows the SMALLEST improvement?",
+      "options": [
+        "Weight 94 kg to 92 kg",
+        "BP 160/90 to 130/78",
+        "Albumin 1.9 to 2.0 g/dL",
+        "Proteinuria 4+ to 2+"
+      ],
+      "answer": "C",
+      "rationale": "Therapy aims to heal the leaking glomerular membrane. The 0.1 g/dL rise in serum albumin is the smallest change.",
+      "explanations": [
+        "A clear improvement.",
+        "A clear improvement.",
+        "Correct: barely changed.",
+        "A clear improvement."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1208 (PDF p. 1500)",
+      "quote": "The least amount of improvement is in the serum albumin"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which statement by a client with acute kidney injury shows a need for MORE teaching about high-quality protein?",
+      "options": [
+        "'Fish is a good choice.'",
+        "'Eggs are a good choice.'",
+        "'Chicken is a good choice.'",
+        "'Broccoli is a good choice.'"
+      ],
+      "answer": "D",
+      "rationale": "Complete proteins come from animal sources such as eggs, chicken, meat, and fish. Plant foods give incomplete proteins. With protein limited, the protein eaten should be high quality.",
+      "explanations": [
+        "Complete protein.",
+        "Complete protein.",
+        "Complete protein.",
+        "Correct answer: incomplete protein."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q656 (PDF p. 874)",
+      "quote": "High-quality or complete proteins come from animal sources and include such foods as eggs, chicken, meat, and fish."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client recovering from acute kidney injury should limit which dietary factor?",
+      "options": [
+        "Fats",
+        "Vitamins",
+        "Potassium",
+        "Carbohydrates"
+      ],
+      "answer": "C",
+      "rationale": "The kidneys excrete most potassium. In kidney failure, potassium is restricted (30 to 50 mEq/day), and dialysis is the main way to remove it.",
+      "explanations": [
+        "Not restricted.",
+        "Not restricted.",
+        "Correct: kidneys cannot excrete it.",
+        "Not restricted."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1210 (PDF p. 1503)",
+      "quote": "In the client with renal failure, potassium intake must be restricted as much as possible (30 to 50 mEq/day)."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with glomerulonephritis is at risk for acute kidney injury. Which complication should the nurse monitor for?",
+      "options": [
+        "Bradycardia",
+        "Hypertension",
+        "Low cardiac output",
+        "Low CVP"
+      ],
+      "answer": "B",
+      "rationale": "Intrarenal AKI from glomerulonephritis shows hypertension, tachycardia, oliguria, edema, and other signs of fluid overload. Prerenal AKI shows low output and low CVP.",
+      "explanations": [
+        "Tachycardia is expected.",
+        "Correct: fluid overload.",
+        "Seen in prerenal failure.",
+        "Seen in prerenal failure."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1540 (PDF p. 1851)",
+      "quote": "This form of acute kidney injury is commonly manifested by hypertension, tachycardia, oliguria, lethargy, edema, and other signs of fluid overload."
+    }
+  ]
+}

@@ -1,0 +1,941 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "What makes a burn client comfortable for hydrotherapy dressing change?",
+      "options": [
+        "Dress the client warmly",
+        "Premedicate 30–60 min before",
+        "Medicate after the procedure",
+        "Skip all analgesia"
+      ],
+      "answer": "B",
+      "rationale": "Pain medication 30 to 60 minutes before the dressing change helps the client tolerate a painful procedure.",
+      "explanations": [
+        "Not comfort.",
+        "Correct.",
+        "Too late.",
+        "Unkind."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q4 (PDF p. 141)",
+      "quote": "The client should receive pain medication approximately 30 to 60 minutes before a burn dressing change."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which finding signals a complication of crutch walking?",
+      "options": [
+        "Mild leg fatigue",
+        "Sore palms",
+        "Forearm muscle weakness",
+        "Increased appetite"
+      ],
+      "answer": "C",
+      "rationale": "Forearm weakness signals radial nerve injury from crutch pressure on the axillae.",
+      "explanations": [
+        "Expected.",
+        "Common.",
+        "Correct.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q10 (PDF p. 148)",
+      "quote": "Forearm muscle weakness is a sign of radial nerve injury caused by crutch pressure on the axillae."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Paracetamol liquid 450 mg is ordered; the label reads 160 mg/5 mL. How many mL are given?",
+      "options": [
+        "7 mL",
+        "10 mL",
+        "14 mL",
+        "20 mL"
+      ],
+      "answer": "C",
+      "rationale": "450 ÷ 160 × 5 = 14 mL (rounded).",
+      "explanations": [
+        "Miscalculated.",
+        "Miscalculated.",
+        "Correct.",
+        "Miscalculated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q19 (PDF p. 157)",
+      "quote": "After performing a medication calculation, ensure that the amount calculated is a reasonable amount."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What is the MOST accurate way to assess a weight loss program?",
+      "options": [
+        "Weigh the client",
+        "Check intake and output",
+        "Review a food diary",
+        "Measure activity"
+      ],
+      "answer": "A",
+      "rationale": "Weighing the client at the same time, in the same clothes, on the same scale is most accurate.",
+      "explanations": [
+        "Correct.",
+        "Measures intake.",
+        "Measures intake.",
+        "Measures activity."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q38 (PDF p. 177)",
+      "quote": "The most accurate measurement of weight loss is weighing of the client."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which pain description suggests a fracture after a fall?",
+      "options": [
+        "Dull ache",
+        "Sharp and continuous",
+        "Cramping",
+        "Burning"
+      ],
+      "answer": "B",
+      "rationale": "Fracture pain is sharp, continuous, and increasing. Bone pain is a dull, deep ache; muscle injury is cramping.",
+      "explanations": [
+        "Bone pain.",
+        "Correct.",
+        "Muscle.",
+        "Nerve."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q39 (PDF p. 178)",
+      "quote": "Fracture pain is generally described as sharp, continuous, and increasing in frequency."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client on TPN has a finger-stick glucose of 425 mg/dL. What should the nurse do?",
+      "options": [
+        "Stop the TPN",
+        "Slow the rate on her own",
+        "Notify the provider",
+        "Give insulin without an order"
+      ],
+      "answer": "C",
+      "rationale": "Hyperglycemia is a TPN complication; abnormalities are reported to the provider.",
+      "explanations": [
+        "Needs an order.",
+        "Needs an order.",
+        "Correct.",
+        "Needs an order."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q41 (PDF p. 180)",
+      "quote": "Hyperglycemia is a complication of TPN, and the nurse should report abnormalities"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client's BP is 146/72. What is the pulse pressure?",
+      "options": [
+        "72",
+        "74",
+        "146",
+        "218"
+      ],
+      "answer": "B",
+      "rationale": "Pulse pressure is systolic minus diastolic: 146 − 72 = 74.",
+      "explanations": [
+        "Diastolic.",
+        "Correct.",
+        "Systolic.",
+        "Sum."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q48 (PDF p. 187)",
+      "quote": "The difference between the systolic and diastolic blood pressure is the pulse pressure."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which finding shows a nasointestinal tube is in the intestine?",
+      "options": [
+        "Absent bowel sounds",
+        "Client denies nausea",
+        "Aspirate pH is alkaline",
+        "Aspirate pH is 2"
+      ],
+      "answer": "C",
+      "rationale": "Gastric fluid is acidic; intestinal fluid is alkaline, so an alkaline aspirate confirms intestinal placement.",
+      "explanations": [
+        "Not confirmatory.",
+        "Not confirmatory.",
+        "Correct.",
+        "Gastric."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q63 (PDF p. 208)",
+      "quote": "The pH of the gastric fluid is acidic, and the pH o"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which factor helps decide if a client with respiratory disease can benefit from progressive relaxation?",
+      "options": [
+        "The social status",
+        "The financial status",
+        "Energy and focus",
+        "The religion"
+      ],
+      "answer": "C",
+      "rationale": "The choice of relaxation technique considers energy, ability to concentrate, and physical capacity.",
+      "explanations": [
+        "Not relevant.",
+        "Not relevant.",
+        "Correct.",
+        "Not relevant."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q76 (PDF p. 221)",
+      "quote": "Active progressive relaxation training teaches the client how to effectively rest and reduce tension in the body."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which intervention helps URGE urinary incontinence?",
+      "options": [
+        "Surgery",
+        "Bladder retraining",
+        "Indwelling catheter",
+        "Fluid restriction to 500 mL"
+      ],
+      "answer": "B",
+      "rationale": "Urge incontinence is managed with bladder retraining, scheduled toileting, and pelvic muscle exercises.",
+      "explanations": [
+        "Not first line.",
+        "Correct.",
+        "Last resort.",
+        "Harmful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q79 (PDF p. 224)",
+      "quote": "Urge incontinence is the involuntary passage of urine after a strong sense of the urgency to void."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A 50-kg child is ordered morphine 8 mg SC q4h. The safe range is 0.1–0.2 mg/kg/dose. What should the nurse conclude?",
+      "options": [
+        "Dose is too low",
+        "Dose is safe",
+        "Dose is too high",
+        "Cannot be determined"
+      ],
+      "answer": "B",
+      "rationale": "110 lb ÷ 2.2 = 50 kg; 0.1–0.2 mg/kg = 5–10 mg. 8 mg is within range.",
+      "explanations": [
+        "Within range.",
+        "Correct.",
+        "Within range.",
+        "It can."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q113 (PDF p. 262)",
+      "quote": "Convert pounds to kilograms by dividing weight by 2.2."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is done immediately before reinserting a cleaned nondisposable inner cannula?",
+      "options": [
+        "Rinse it in alcohol",
+        "Leave it wet",
+        "Soak in peroxide",
+        "Dry it thoroughly"
+      ],
+      "answer": "D",
+      "rationale": "After washing and rinsing, the cannula is tapped dry and dried with tracheostomy pipe cleaners, then reinserted.",
+      "explanations": [
+        "Not used.",
+        "Aspiration risk.",
+        "Done earlier.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q131 (PDF p. 281)",
+      "quote": "the nurse taps it dry to remove large water droplets and then uses pipe cleaners"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "How does the nurse start a 24-hour urine collection?",
+      "options": [
+        "Save the first voiding",
+        "Have the client void and discard it",
+        "Collect only morning urine",
+        "Use a catheter"
+      ],
+      "answer": "B",
+      "rationale": "The first voiding is discarded because it was stored for an unknown time; all later urine is saved.",
+      "explanations": [
+        "Discarded.",
+        "Correct.",
+        "Incomplete.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q138 (PDF p. 288)",
+      "quote": "The nurse asks the client to void at the beginning of the collection period and discards this urine sample"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "An NG tube stops draining. What should the nurse do FIRST?",
+      "options": [
+        "Instill 20 mL to clear it",
+        "Verify tube placement",
+        "Reinsert a new tube",
+        "Increase suction"
+      ],
+      "answer": "B",
+      "rationale": "Placement is verified first, then irrigation if prescribed.",
+      "explanations": [
+        "After placement.",
+        "Correct.",
+        "Not first.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q142 (PDF p. 292)",
+      "quote": "the nurse verifies placement first to ensure that the tube remains in the stomach."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client on TPN via CVC needs an IV antibiotic. What should the nurse do?",
+      "options": [
+        "Give it through the TPN line",
+        "Use a separate IV line",
+        "Stop TPN for an hour",
+        "Mix it in the TPN bag"
+      ],
+      "answer": "B",
+      "rationale": "The TPN line is used only for TPN to prevent crystallization and interruption; other drugs go through a separate line.",
+      "explanations": [
+        "Not allowed.",
+        "Correct.",
+        "Not appropriate.",
+        "Not allowed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q146 (PDF p. 296)",
+      "quote": "The TPN line is used only for the administration of the TPN solution"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which behavior suggests a post-op client is in pain?",
+      "options": [
+        "Lip biting",
+        "Calm sleep",
+        "Reading quietly",
+        "Laughing with visitors"
+      ],
+      "answer": "A",
+      "rationale": "Behavioral pain indicators include gasping, lip biting, muscle tension, and pacing.",
+      "explanations": [
+        "Correct.",
+        "Not typical.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q147 (PDF p. 297)",
+      "quote": "Behavioral indicators of pain include gasping, lip biting"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which action is safe before a bolus NG feeding?",
+      "options": [
+        "Check residual after feeding",
+        "Feed with the client flat",
+        "Skip placement checks",
+        "Check placement and residual first"
+      ],
+      "answer": "D",
+      "rationale": "After initial x-ray confirmation, placement is verified (tube length, aspirate) and residual checked before each feeding.",
+      "explanations": [
+        "Too late.",
+        "Aspiration risk.",
+        "Unsafe.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q152 (PDF p. 302)",
+      "quote": "After initial radiographic confirmation of NG tube placement, methods used to verify nasogastric tube placement include"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "While advancing an NG tube, the client gags. What should the nurse check?",
+      "options": [
+        "Inspect the back of the throat",
+        "Push the tube faster",
+        "Give water",
+        "Hyperextend the neck"
+      ],
+      "answer": "A",
+      "rationale": "Gagging may mean the tube coiled in the oropharynx; the nurse inspects the throat.",
+      "explanations": [
+        "Correct.",
+        "Unsafe.",
+        "Not yet.",
+        "Wrong position."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q153 (PDF p. 303)",
+      "quote": "the NG tube may coil around itself in the oropharynx"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which dressing is used on a burn fasciotomy site?",
+      "options": [
+        "Dry sterile",
+        "Hydrocolloid",
+        "Wet sterile saline",
+        "None"
+      ],
+      "answer": "C",
+      "rationale": "The fasciotomy is left open to relieve pressure and covered with wet sterile saline dressings.",
+      "explanations": [
+        "Not used.",
+        "Not used.",
+        "Correct.",
+        "Covered."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q166 (PDF p. 318)",
+      "quote": "The site is covered with wet sterile s"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What does the client do as a chest tube is removed?",
+      "options": [
+        "Breathe normally",
+        "Exhale forcefully",
+        "Cough repeatedly",
+        "Take a deep breath and hold it"
+      ],
+      "answer": "D",
+      "rationale": "A held deep breath raises intrathoracic pressure, lessening air entry into the pleural space.",
+      "explanations": [
+        "Risk of air entry.",
+        "Not used.",
+        "Not used.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q169 (PDF p. 322)",
+      "quote": "The client is instructed to take a deep breath and hold it for chest tube removal."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client develops spastic contractions during ROM exercises. What should the nurse do?",
+      "options": [
+        "Force the joint further",
+        "Stop; apply firm pressure",
+        "Speed up the exercise",
+        "Ignore the spasm"
+      ],
+      "answer": "B",
+      "rationale": "Movement is stopped at the point of spasm and gentle firm pressure applied until the muscle relaxes.",
+      "explanations": [
+        "Injury.",
+        "Correct.",
+        "Worsens.",
+        "Unsafe."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q176 (PDF p. 329)",
+      "quote": "An unexpected outcome is the development of spastic muscle contraction during ROM exercises."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "In which position is a bolus NG feeding given?",
+      "options": [
+        "Supine",
+        "Semi-Fowler's",
+        "Trendelenburg",
+        "Lateral"
+      ],
+      "answer": "B",
+      "rationale": "The HOB is raised 35 to 40 degrees to prevent aspiration since the tube bypasses the gag reflex.",
+      "explanations": [
+        "Aspiration.",
+        "Correct.",
+        "Aspiration.",
+        "Not standard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q180 (PDF p. 333)",
+      "quote": "The head of the bed is elevated 35 to 40 degrees (Semi-Fowler’s) to preven"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "How is ureteral colic pain described?",
+      "options": [
+        "Dull CVA ache",
+        "Cramping across the abdomen",
+        "Mild burning on voiding",
+        "Sharp, wavelike, radiating to groin"
+      ],
+      "answer": "D",
+      "rationale": "Stone movement through the ureter causes sharp, excruciating, wavelike pain radiating to the genitalia and thigh.",
+      "explanations": [
+        "Renal.",
+        "Not typical.",
+        "Cystitis.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q184 (PDF p. 337)",
+      "quote": "is sharp, excruciating, and wavelike, radiating to the genitalia and thigh."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which foot care instruction is correct for an older client?",
+      "options": [
+        "Wear knee-high hose",
+        "Soak feet daily",
+        "Inspect the feet daily",
+        "Cut nails round and short"
+      ],
+      "answer": "C",
+      "rationale": "Inspect the feet daily, including soles and between toes. Avoid knee-highs and prolonged soaking.",
+      "explanations": [
+        "Restricts circulation.",
+        "Dries skin.",
+        "Correct.",
+        "Cut straight."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q188 (PDF p. 341)",
+      "quote": "Inspect the feet daily, including the tops and soles of the feet"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client on TPN reports nausea, polydipsia, and polyuria. Which data should the nurse check?",
+      "options": [
+        "Rectal temperature",
+        "Last potassium",
+        "Blood glucose",
+        "Urine color"
+      ],
+      "answer": "C",
+      "rationale": "These symptoms fit hyperglycemia from the high glucose load of TPN.",
+      "explanations": [
+        "Not related.",
+        "Not the first.",
+        "Correct.",
+        "Not specific."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q201 (PDF p. 355)",
+      "quote": "Clients receiving TPN are at risk for hyperglycemia related to the increased glucose load"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which finding shows a client uses the incentive spirometer effectively?",
+      "options": [
+        "Cloudy sputum",
+        "Shallow breathing",
+        "Productive cough",
+        "Faster breathing"
+      ],
+      "answer": "C",
+      "rationale": "Incentive spirometry reduces atelectasis, opens airways, stimulates coughing, and mobilizes secretions.",
+      "explanations": [
+        "Infection.",
+        "Ineffective.",
+        "Correct.",
+        "Distress."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q207 (PDF p. 362)",
+      "quote": "Incentive spirometry helps reduce atelectasis, open airways, stimulate coughing"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How should a dressing on an arterial leg ulcer be secured?",
+      "options": [
+        "Tape directly to the skin",
+        "Large tape strips around leg",
+        "Elastic wrap tightly",
+        "Kling roll taped only to itself"
+      ],
+      "answer": "D",
+      "rationale": "Tape is never placed on fragile ischemic skin; a roll bandage is taped only to itself.",
+      "explanations": [
+        "Damages skin.",
+        "Damages skin.",
+        "Impairs flow.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q209 (PDF p. 364)",
+      "quote": "Tape is never used directly on the skin"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which finding indicates a need to suction a ventilated client?",
+      "options": [
+        "Clear lungs",
+        "Calm, rested",
+        "Mucus bubbling in the ET tube",
+        "Normal SpO2, slow pulse"
+      ],
+      "answer": "C",
+      "rationale": "Indications include visible mucus bubbling, wet respirations, restlessness, crackles or rhonchi, and rising pulse and RR.",
+      "explanations": [
+        "Not indicated.",
+        "Not indicated.",
+        "Correct.",
+        "Not indicated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q219 (PDF p. 374)",
+      "quote": "Indications for suctioning include visible mucus bubbling in the ET tube"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A Foley drains a very distended bladder rapidly. What may the nurse do per policy?",
+      "options": [
+        "Let it all drain at once",
+        "Clamp the tubing for a short time",
+        "Remove the catheter",
+        "Irrigate the bladder"
+      ],
+      "answer": "B",
+      "rationale": "Rapid emptying of a large volume can cause hypovolemia or bladder spasm; clamping briefly allows equilibration.",
+      "explanations": [
+        "Risky.",
+        "Correct.",
+        "Not needed.",
+        "Not needed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q232 (PDF p. 387)",
+      "quote": "Rapid emptying of a large volume of urine may cause engorgement of pelvic blood vessels"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "After bladder repair with a suprapubic catheter, how are complications prevented?",
+      "options": [
+        "Clamp it daily",
+        "Ensure it drains freely",
+        "Irrigate hourly",
+        "Limit fluids"
+      ],
+      "answer": "B",
+      "rationale": "Urine buildup strains sutures; the catheter must drain freely.",
+      "explanations": [
+        "Causes buildup.",
+        "Correct.",
+        "Not needed.",
+        "Harmful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q235 (PDF p. 390)",
+      "quote": "A complication after surgical repair of the bladder is disruption of sutures caused by tension on them from urine buildup."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which belongs in care of a client with a Pleur-Evac?",
+      "options": [
+        "Keep the unit above the chest",
+        "Change position often",
+        "Clamp the tube for walks",
+        "Empty the chamber daily"
+      ],
+      "answer": "B",
+      "rationale": "Frequent position changes promote drainage; the system stays below waist level.",
+      "explanations": [
+        "Backflow.",
+        "Correct.",
+        "Unsafe.",
+        "Not done."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q241 (PDF p. 396)",
+      "quote": "Changing the client’s position frequently is necessary to promote drainage and ventilation."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A chest tube disconnects and the drainage unit tips and breaks. What should the nurse do FIRST?",
+      "options": [
+        "Call the doctor",
+        "Clamp for an hour",
+        "Tube end in sterile water",
+        "Remove the tube"
+      ],
+      "answer": "C",
+      "rationale": "An underwater seal is restored first by submerging the tube end in sterile water to prevent tension pneumothorax.",
+      "explanations": [
+        "Not first.",
+        "Risky.",
+        "Correct.",
+        "Never."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q242 (PDF p. 397)",
+      "quote": "the nurse should first reestablish an underwater seal to prevent tension pneumothorax"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Halfway through a cleansing enema, the client reports cramping. What should the nurse do?",
+      "options": [
+        "Keep going",
+        "Stop the enema",
+        "Raise the bag higher",
+        "Pause, then resume slower"
+      ],
+      "answer": "D",
+      "rationale": "The flow is stopped for 30 seconds and restarted at a slower rate.",
+      "explanations": [
+        "Painful.",
+        "Not needed.",
+        "Faster flow.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q256 (PDF p. 413)",
+      "quote": "the flow is stopped for 30 seconds and restarted at a slower rate."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Why is gastric residual checked before tube feeding?",
+      "options": [
+        "To confirm tube length",
+        "To check gastric emptying",
+        "To measure protein level",
+        "To check bowel sounds"
+      ],
+      "answer": "B",
+      "rationale": "Residual shows whether the stomach empties; a large residual raises aspiration risk.",
+      "explanations": [
+        "Not the purpose.",
+        "Correct.",
+        "Not the purpose.",
+        "Not the purpose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q262 (PDF p. 419)",
+      "quote": "All stomach contents are aspirated and measured before administering a tube feeding"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "The nurse aspirates 40 mL of formula before a feeding. What should she do?",
+      "options": [
+        "Discard it",
+        "Hold feeding for a day",
+        "Reinstill it, then feed",
+        "Replace with water"
+      ],
+      "answer": "C",
+      "rationale": "Residual contents are returned to the stomach to prevent electrolyte loss, and the feeding proceeds per policy.",
+      "explanations": [
+        "Loses electrolytes.",
+        "Not needed.",
+        "Correct.",
+        "Not done."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q274 (PDF p. 431)",
+      "quote": "the nurse reinstills the gastric contents into the stomach"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "After ureterolithotomy with a ureteral catheter, what should the nurse do?",
+      "options": [
+        "Clamp it hourly",
+        "Irrigate it routinely",
+        "Check drainage every 1–2 hours",
+        "Remove it on arrival"
+      ],
+      "answer": "C",
+      "rationale": "Drainage is checked on arrival and every 1–2 hours; the renal pelvis has a small capacity.",
+      "explanations": [
+        "Never.",
+        "Not routine.",
+        "Correct.",
+        "Not done."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q273 (PDF p. 430)",
+      "quote": "Drainage from the ureteral catheter should be checked when the client returns from the recovery room and at least every 1 to 2 hours"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A 1000-mL D5W bag hung at 3 pm runs at 75 mL/hr. How much remains at 11 pm?",
+      "options": [
+        "200 mL",
+        "400 mL",
+        "600 mL",
+        "750 mL"
+      ],
+      "answer": "B",
+      "rationale": "8 hours × 75 mL = 600 mL infused; 1000 − 600 = 400 mL remain.",
+      "explanations": [
+        "Miscalculated.",
+        "Correct.",
+        "Amount infused.",
+        "Miscalculated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q278 (PDF p. 435)",
+      "quote": "In an 8-hour period, 600 mL would infuse if an IV is set to infuse at 75 mL/hour."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Before teaching cane walking, what is the priority to check?",
+      "options": [
+        "A high level of stamina",
+        "Full range of motion",
+        "The client's arm length",
+        "Balance and strength"
+      ],
+      "answer": "D",
+      "rationale": "Balance, strength, and confidence determine whether a cane is suitable.",
+      "explanations": [
+        "Not needed.",
+        "Not needed.",
+        "Not priority.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q284 (PDF p. 442)",
+      "quote": "Assessing the client’s balance, strength, and confidence helps determine if the cane is a suitable assistive device"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "1000 mL NS at 100 mL/hr with a drop factor of 10 gtt/mL. What is the rate in gtt/min?",
+      "options": [
+        "10",
+        "17",
+        "25",
+        "33"
+      ],
+      "answer": "B",
+      "rationale": "100 mL/hr × 10 gtt/mL ÷ 60 min = 16.7, rounded to 17 gtt/min.",
+      "explanations": [
+        "Miscalculated.",
+        "Correct.",
+        "Miscalculated.",
+        "Miscalculated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q285 (PDF p. 443)",
+      "quote": "It will take 10 hours for 1000 mL to infuse at 100 mL/hour"
+    }
+  ]
+}

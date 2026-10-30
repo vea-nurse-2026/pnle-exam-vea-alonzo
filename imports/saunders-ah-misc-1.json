@@ -1,0 +1,1277 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which symptom does the nurse expect in newly diagnosed Hodgkin's disease?",
+      "options": [
+        "Weight gain",
+        "Night sweats",
+        "Painful lymph nodes",
+        "Headache"
+      ],
+      "answer": "B",
+      "rationale": "Hodgkin's typically presents with night sweats, painless enlarged nodes, fever, and malaise.",
+      "explanations": [
+        "Weight loss instead.",
+        "Correct.",
+        "Painless.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q33 (PDF p. 172)",
+      "quote": "Assessment of a client with Hodgkin’s disease most often reveals night sweats; enlarged, painless lymph nodes"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which finding suggests acute rejection after a kidney transplant?",
+      "options": [
+        "Low BP",
+        "Weight loss",
+        "Fever and hypertension",
+        "Increased urine output"
+      ],
+      "answer": "C",
+      "rationale": "Acute rejection, usually within 3 months, causes fever, hypertension, malaise, graft tenderness, and less urine.",
+      "explanations": [
+        "BP rises.",
+        "Weight gain.",
+        "Correct.",
+        "Output drops."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q49 (PDF p. 189)",
+      "quote": "Acute rejection usually occurs within the first 3 months after transplant"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which home measure helps oral mucositis from head and neck radiation?",
+      "options": [
+        "Alcohol mouthwash",
+        "Hard-bristle brushing",
+        "Frequent saline rinses",
+        "Spicy foods"
+      ],
+      "answer": "C",
+      "rationale": "Mucositis care includes gentle oral hygiene and frequent mild rinses such as saline; alcohol and irritants are avoided.",
+      "explanations": [
+        "Irritates.",
+        "Injures.",
+        "Correct.",
+        "Irritates."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q53 (PDF p. 193)",
+      "quote": "Oral mucositis (irritation, inflammation, and/or ulceration of the mucosa) also known as stomatitis"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "By the rule of nines, burns to both entire legs and the perineum are about what percent?",
+      "options": [
+        "19%",
+        "27%",
+        "37%",
+        "45%"
+      ],
+      "answer": "C",
+      "rationale": "Each leg is 18% (36%) plus the perineum 1% = 37%.",
+      "explanations": [
+        "Miscalculated.",
+        "Miscalculated.",
+        "Correct.",
+        "Miscalculated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q81 (PDF p. 226)",
+      "quote": "The most rapid method used to calculate the size of a burn injury in adult clients"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which finding supports mittelschmerz?",
+      "options": [
+        "Pain with intercourse",
+        "Pain with menses",
+        "Pain at ovulation, midcycle",
+        "Constant pelvic pain"
+      ],
+      "answer": "C",
+      "rationale": "Mittelschmerz is pelvic pain midway between periods at ovulation.",
+      "explanations": [
+        "Dyspareunia.",
+        "Dysmenorrhea.",
+        "Correct.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q87 (PDF p. 233)",
+      "quote": "Mittelschmerz (middle pain) refers to pelvic pain that occurs midway between menstrual periods"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which statement shows understanding of endometriosis?",
+      "options": [
+        "'A uterine infection.'",
+        "'A uterine fibroid.'",
+        "'Tissue outside uterus.'",
+        "'Uterine cancer.'"
+      ],
+      "answer": "C",
+      "rationale": "Endometriosis is tissue resembling endometrium outside the uterus that responds to hormones during the cycle.",
+      "explanations": [
+        "Incorrect.",
+        "Incorrect.",
+        "Correct.",
+        "Incorrect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q88 (PDF p. 234)",
+      "quote": "Endometriosis is defined as the presence of tissue outside the uterus that resembles the endometrium"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which plan prevents skin breakdown in a client with a pelvic fracture?",
+      "options": [
+        "Drag him up in bed",
+        "Minimize friction and shear",
+        "Keep skin moist always",
+        "Turn once per shift"
+      ],
+      "answer": "B",
+      "rationale": "Pressure injury prevention includes minimizing force and friction, regular repositioning, and keeping skin clean and dry.",
+      "explanations": [
+        "Shear injury.",
+        "Correct.",
+        "Macerates.",
+        "Too seldom."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q93 (PDF p. 241)",
+      "quote": "Interventions for prevention of pressure injuries include minimizing the force and friction applied to the skin"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which finding is MOST indicative of stage II Lyme disease?",
+      "options": [
+        "Bull's-eye rash only",
+        "Arthritis",
+        "Cardiac dysrhythmias",
+        "Fever only"
+      ],
+      "answer": "C",
+      "rationale": "Stage II (1–3 months) includes dysrhythmias, dyspnea, dizziness, and neurologic problems. Arthritis marks stage III.",
+      "explanations": [
+        "Stage I.",
+        "Stage III.",
+        "Correct.",
+        "Not specific."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q104 (PDF p. 253)",
+      "quote": "The most serious problems in this stage include cardiac dysrhythmias, dyspnea, dizziness"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which finding is expected in stage III Lyme disease?",
+      "options": [
+        "Palpitations",
+        "Dysrhythmia",
+        "Generalized rash",
+        "Enlarged, inflamed joints"
+      ],
+      "answer": "D",
+      "rationale": "Stage III features arthritic symptoms such as arthralgia and enlarged, inflamed joints.",
+      "explanations": [
+        "Stage II.",
+        "Stage II.",
+        "Stage I.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1109 (PDF p. 1393)",
+      "quote": "It is characterized by arthritic symptoms such as arthralgia and enlarged or inflamed joints"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which sign is characteristic of pemphigus vulgaris?",
+      "options": [
+        "Turner's sign",
+        "Chvostek's sign",
+        "Nikolsky's sign",
+        "Trousseau's sign"
+      ],
+      "answer": "C",
+      "rationale": "Nikolsky's sign, where the epidermis rubs off with slight friction, is a hallmark, with flaccid bullae.",
+      "explanations": [
+        "Abdominal bruising.",
+        "Hypocalcemia.",
+        "Correct.",
+        "Hypocalcemia."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q105 (PDF p. 254)",
+      "quote": "A hallmark sign of pemphigus vulgaris is Nikolsky’s sign"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "An anxious client with a finger laceration has pulse 106 and BP 158/88. What should the nurse do?",
+      "options": [
+        "Call a code",
+        "Give a beta-blocker",
+        "Get an ECG at once",
+        "Use stress-reduction measures"
+      ],
+      "answer": "D",
+      "rationale": "Stress triggers sympathetic stimulation causing tachycardia and high BP; stress reduction helps.",
+      "explanations": [
+        "Not indicated.",
+        "Not ordered.",
+        "Not first.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q133 (PDF p. 283)",
+      "quote": "Physical or emotional stress triggers sympathetic nervous system stimulation."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which skin care shows understanding during radiation therapy?",
+      "options": [
+        "Swim in chlorinated pools",
+        "Sunbathe the area",
+        "Protect from heat, cold, and sun",
+        "Scrub off markings"
+      ],
+      "answer": "C",
+      "rationale": "Treated skin is protected from temperature extremes, sun, and chlorinated water; markings are kept.",
+      "explanations": [
+        "Avoid.",
+        "Avoid.",
+        "Correct.",
+        "Keep markings."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q189 (PDF p. 342)",
+      "quote": "The client undergoing radiation therapy must keep the affected skin protected from temperature extremes, direct sunlight, and chlorinated water"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "After right radical mastectomy, which intervention is included?",
+      "options": [
+        "BP on the right arm",
+        "Blood draws from the right arm",
+        "Keep the right arm dependent",
+        "Check the back of the dressing"
+      ],
+      "answer": "D",
+      "rationale": "Drainage seeps down by gravity to the posterior axillary dressing first, so it is checked. No BP or draws on the affected arm.",
+      "explanations": [
+        "Avoid.",
+        "Avoid.",
+        "Elevate.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q198 (PDF p. 352)",
+      "quote": "gravity will cause the drainage to seep down and soak the posterior axillary portion of the dressing first."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Where does a burn heterograft come from?",
+      "options": [
+        "A cadaver",
+        "Another species, often pig",
+        "The client's own skin",
+        "Synthetic material"
+      ],
+      "answer": "B",
+      "rationale": "Heterograft is skin from another species, most often pig. Homograft is human (cadaver); autograft is the client's own.",
+      "explanations": [
+        "Homograft.",
+        "Correct.",
+        "Autograft.",
+        "Synthetic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q216 (PDF p. 371)",
+      "quote": "Heterograft is skin from another species."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which describes early Kaposi's sarcoma lesions?",
+      "options": [
+        "Raised and itchy",
+        "Flat pink, then violet",
+        "Weeping vesicles",
+        "Always single"
+      ],
+      "answer": "B",
+      "rationale": "Kaposi's sarcoma starts flat and pink and turns dark violet or black, usually bilaterally.",
+      "explanations": [
+        "Not typical.",
+        "Correct.",
+        "Not typical.",
+        "Often multiple."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q226 (PDF p. 381)",
+      "quote": "Kaposi’s sarcoma generally starts with an area that is flat and pink that changes to a dark violet or black color."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which discharge instruction fits a client after testicular cancer surgery?",
+      "options": [
+        "No driving for a month",
+        "No bathing for 2 weeks",
+        "Lift heavy objects freely",
+        "Report fever or wound drainage"
+      ],
+      "answer": "D",
+      "rationale": "The client reports chills, fever, drainage, redness, or discharge to the provider.",
+      "explanations": [
+        "Not standard.",
+        "Not standard.",
+        "Avoid.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q297 (PDF p. 460)",
+      "quote": "the nurse should emphasize the importance of notifying the primary health care provider if chills, fever, drainage, redness"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which plan ensures safe cancer pain control?",
+      "options": [
+        "Rely only on drugs",
+        "Start high, then taper",
+        "Wait until pain is severe",
+        "Start low and titrate up"
+      ],
+      "answer": "D",
+      "rationale": "Safe pain control starts with low doses and titrates up to relief, alongside nondrug measures.",
+      "explanations": [
+        "Incomplete.",
+        "Unsafe.",
+        "Poor control.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q468 (PDF p. 652)",
+      "quote": "Safe pain control includes starting with low doses and working up to a dose of medication that relieves the pain."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Families (Normal & At Risk)",
+      "situation": "",
+      "stem": "Which problem should adoptive parents be counseled about?",
+      "options": [
+        "Too-high self-standards",
+        "Guaranteed bonding",
+        "No need to tell the child",
+        "No adjustment period"
+      ],
+      "answer": "A",
+      "rationale": "Adoptive parents may set unrealistically high standards and may lack the child's biological history.",
+      "explanations": [
+        "Correct.",
+        "Not guaranteed.",
+        "Not advised.",
+        "Adjustment occurs."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q615 (PDF p. 828)",
+      "quote": "Adoptive parents may add pressure to themselves by setting unrealistically high standards"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client with AIDS is losing weight. What should the nurse advise?",
+      "options": [
+        "Three large meals",
+        "Low-calorie snacks",
+        "Skip meals if tired",
+        "Small high-calorie meals"
+      ],
+      "answer": "D",
+      "rationale": "Nutrient-dense, high-calorie food in small, frequent meals supports weight gain.",
+      "explanations": [
+        "Less tolerated.",
+        "Too few calories.",
+        "Worsens loss.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q617 (PDF p. 831)",
+      "quote": "The client who has a problem with nutrition and is losing weight should take in nutrient-dense and high-calorie meals"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which statement after vasectomy needs MORE teaching?",
+      "options": [
+        "'I can use scrotal support.'",
+        "'I can stop birth control now.'",
+        "'Ice helps swelling.'",
+        "'I'll return for a semen test.'"
+      ],
+      "answer": "B",
+      "rationale": "Birth control continues until semen analysis shows no sperm; live sperm may remain in the vas.",
+      "explanations": [
+        "Accurate.",
+        "Correct answer: wrong.",
+        "Accurate.",
+        "Accurate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q626 (PDF p. 843)",
+      "quote": "the client must continue to practice a method of birth control until the follow-up semen analysis shows azoospermia."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which statement about prostate cancer is correct?",
+      "options": [
+        "'Smoking raises the risk.'",
+        "'It only affects young men.'",
+        "'Exams are not needed.'",
+        "'Diet has no role.'"
+      ],
+      "answer": "A",
+      "rationale": "Smoking and a history of STIs raise risk; yearly digital rectal exams aid early detection.",
+      "explanations": [
+        "Correct.",
+        "Older men.",
+        "Recommended.",
+        "Diet matters."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q627 (PDF p. 844)",
+      "quote": "Smoking, history of a sexually transmitted infection, and yearly digital examinations are accurate statements"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which husband's statement on preventing infertility needs MORE teaching?",
+      "options": [
+        "'We'll eat well.'",
+        "'I'll avoid alcohol and drugs.'",
+        "'I'll limit marijuana.'",
+        "'Hot baths help my sperm.'"
+      ],
+      "answer": "D",
+      "rationale": "Keeping the testes cool by avoiding hot baths and tight clothing appears to improve sperm count.",
+      "explanations": [
+        "Accurate.",
+        "Accurate.",
+        "Accurate.",
+        "Correct answer: wrong."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q628 (PDF p. 845)",
+      "quote": "Keeping the testes cool by avoiding hot baths and tight clothing appears to improve the sperm count."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "After lung cancer surgery, which statement needs MORE teaching?",
+      "options": [
+        "'I'll avoid crowds.'",
+        "'I'll handle more pain on my own.'",
+        "'I'll walk daily.'",
+        "'I'll do breathing exercises.'"
+      ],
+      "answer": "B",
+      "rationale": "Increasing pain should be reported; clients are not expected to manage it alone.",
+      "explanations": [
+        "Correct practice.",
+        "Correct answer: report it.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q658 (PDF p. 877)",
+      "quote": "The client who just had surgery for lung cancer should not be expected to deal with increases in pain independently."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "How can a client with AIDS reduce recurrent thrush?",
+      "options": [
+        "Use alcohol mouthwash",
+        "Do careful routine mouth care",
+        "Brush once weekly",
+        "Avoid all fluids"
+      ],
+      "answer": "B",
+      "rationale": "Careful routine mouth care helps prevent overgrowth of Candida in immunosuppression.",
+      "explanations": [
+        "Irritates.",
+        "Correct.",
+        "Too seldom.",
+        "Harmful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q750 (PDF p. 979)",
+      "quote": "an overgrowth of the normal flora Candida can occur."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which food should a client with AIDS avoid?",
+      "options": [
+        "Raw seafood",
+        "Cooked rice",
+        "Pasteurized milk",
+        "Baked fish"
+      ],
+      "answer": "A",
+      "rationale": "Avoid raw or undercooked seafood, meat, poultry, eggs, and unpasteurized dairy.",
+      "explanations": [
+        "Correct.",
+        "Safe.",
+        "Safe.",
+        "Safe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q751 (PDF p. 980)",
+      "quote": "The client who is at risk for immunosuppression is taught to avoid raw or undercooked seafood, meat, poultry, and eggs."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which sign suggests an opportunistic respiratory infection in AIDS?",
+      "options": [
+        "Nausea and vomiting",
+        "Fever and exertional dyspnea",
+        "Rash on the legs",
+        "Joint pain"
+      ],
+      "answer": "B",
+      "rationale": "Fever and exertional dyspnea are signs of Pneumocystis jiroveci pneumonia.",
+      "explanations": [
+        "Not respiratory.",
+        "Correct.",
+        "Not respiratory.",
+        "Not respiratory."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1094 (PDF p. 1377)",
+      "quote": "Fever and exertional dyspnea are signs of Pneumocystis jiroveci pneumonia"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which is an appropriate goal for a client with AIDS at risk for PCP?",
+      "options": [
+        "Breathes without dyspnea",
+        "Gains 10 kg in a week",
+        "Avoids all visitors",
+        "Stops all medicines"
+      ],
+      "answer": "A",
+      "rationale": "PCP causes fever, exertional dyspnea, and nonproductive cough; a goal is effective breathing without dyspnea.",
+      "explanations": [
+        "Correct.",
+        "Unrealistic.",
+        "Isolating.",
+        "Harmful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1306 (PDF p. 1607)",
+      "quote": "A common, life-threatening opportunistic infection that occurs in clients with AIDS is Pneumocystis jiroveci pneumonia."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A family wants hospice for a client with terminal throat cancer. What is a main goal of hospice?",
+      "options": [
+        "Curing the cancer",
+        "Freedom from pain and symptoms",
+        "Aggressive treatment",
+        "Hospital-only care"
+      ],
+      "answer": "B",
+      "rationale": "Hospice emphasizes caring rather than curing, with the client free of pain and distressing symptoms.",
+      "explanations": [
+        "Not hospice.",
+        "Correct.",
+        "Not hospice.",
+        "Often at home."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q842 (PDF p. 1079)",
+      "quote": "Hospice care provides an environment that emphasizes caring rather than curing"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "How is acute cancer pain BEST assessed?",
+      "options": [
+        "The client's pain rating",
+        "The nurse's impression",
+        "Family's report",
+        "Vital signs only"
+      ],
+      "answer": "A",
+      "rationale": "The client's perception, usually rated 0–10, is the hallmark of pain assessment.",
+      "explanations": [
+        "Correct.",
+        "Subjective.",
+        "Indirect.",
+        "Unreliable."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q843 (PDF p. 1080)",
+      "quote": "The client’s perception of pain is the hallmark of pain assessment."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client with AIDS feels socially isolated. What is MOST useful?",
+      "options": [
+        "Stay home always",
+        "Keep social contacts",
+        "Tell no one at all",
+        "Join no groups"
+      ],
+      "answer": "B",
+      "rationale": "The nurse encourages social contact and reduces barriers, including educating family about transmission.",
+      "explanations": [
+        "Isolates.",
+        "Correct.",
+        "Isolates.",
+        "Isolates."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q988 (PDF p. 1238)",
+      "quote": "The nurse encourages the client to maintain social contact and support"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client's first HIV ELISA is positive and she cries. What should the nurse know?",
+      "options": [
+        "She definitely has AIDS",
+        "The test is repeated and confirmed",
+        "Treatment starts today",
+        "It cannot be false-positive"
+      ],
+      "answer": "B",
+      "rationale": "A positive ELISA is repeated because of possible false positives and confirmed with Western blot.",
+      "explanations": [
+        "Not confirmed.",
+        "Correct.",
+        "Premature.",
+        "It can."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q994 (PDF p. 1244)",
+      "quote": "If the client tests positive for HIV with the ELISA test, the test is repeated because of the potential for a false-positive result"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Before cystectomy, which statement shows FEAR?",
+      "options": [
+        "'I want to read more.'",
+        "'I'm scared of surgery.'",
+        "'I feel uneasy.'",
+        "'Why am I here?'"
+      ],
+      "answer": "B",
+      "rationale": "Fear has an identifiable object; here the uncertain outcome of surgery.",
+      "explanations": [
+        "Learning need.",
+        "Correct.",
+        "Vague anxiety.",
+        "Confusion."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q996 (PDF p. 1247)",
+      "quote": "For fear to be an actual problem, the client must be able to identify the object of fear."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "A client says, 'My cancer spread; I have less than 6 months.' What is MOST therapeutic?",
+      "options": [
+        "'Tell me how you're feeling.'",
+        "'Let's talk about your hobbies.'",
+        "'Doctors can be wrong.'",
+        "'Stay positive.'"
+      ],
+      "answer": "A",
+      "rationale": "The client is likely in shock and denial; inviting ventilation of feelings is therapeutic.",
+      "explanations": [
+        "Correct.",
+        "Social, off-topic.",
+        "False hope.",
+        "Cliché."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1008 (PDF p. 1259)",
+      "quote": "In option 1, the nurse invites the client to ventilate feelings."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which statement during external radiation needs MORE teaching?",
+      "options": [
+        "'I'll wear loose clothes.'",
+        "'I'll avoid pressure on the area.'",
+        "'I'll keep markings on.'",
+        "'I'll put lotion on before treatment.'"
+      ],
+      "answer": "D",
+      "rationale": "Lotions and powders are not applied without specific provider instructions.",
+      "explanations": [
+        "Correct practice.",
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: avoid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1077 (PDF p. 1359)",
+      "quote": "The client receiving external radiation therapy should avoid pressure on the irritated area and wear loose-fitting clothing."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which statement shows a client with AIDS learned energy conservation?",
+      "options": [
+        "'I'll stand to shave.'",
+        "'I'll sit when dressing and cooking.'",
+        "'I'll shower standing.'",
+        "'I'll do chores all at once.'"
+      ],
+      "answer": "B",
+      "rationale": "Sitting for activities such as dressing, shaving, cooking, and bathing conserves energy.",
+      "explanations": [
+        "Uses energy.",
+        "Correct.",
+        "Use a chair.",
+        "Tiring."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1079 (PDF p. 1361)",
+      "quote": "The client is taught to conserve energy by sitting for as many activities as possible"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which statement about thrush care needs MORE teaching?",
+      "options": [
+        "'I'll eat soft, bland food.'",
+        "'I'll rinse with warm saline.'",
+        "'I'll use a soft brush.'",
+        "'I'll use strong mouthwash.'"
+      ],
+      "answer": "D",
+      "rationale": "Commercial mouthwashes with alcohol cause pain; warm water or saline rinses are used.",
+      "explanations": [
+        "Correct practice.",
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: avoid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1081 (PDF p. 1363)",
+      "quote": "Clients with thrush cannot tolerate commercial mouthwashes because the high alcohol concentration"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which finding fits moist desquamation from radiation?",
+      "options": [
+        "Mild redness",
+        "Dry peeling",
+        "Rash only",
+        "Weeping exposed dermis"
+      ],
+      "answer": "D",
+      "rationale": "Moist desquamation destroys basal cells and exposes the dermis, which leaks serum.",
+      "explanations": [
+        "Earlier.",
+        "Dry desquamation.",
+        "Not this.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1105 (PDF p. 1389)",
+      "quote": "Moist desquamation occurs when the basal cells of the skin are destroyed."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "How is a client positioned for intraperitoneal chemotherapy?",
+      "options": [
+        "Prone",
+        "Semi-Fowler's",
+        "Trendelenburg",
+        "Left lateral"
+      ],
+      "answer": "B",
+      "rationale": "IP chemotherapy is infused into the peritoneal cavity with the client in semi-Fowler's for comfort and breathing.",
+      "explanations": [
+        "Not used.",
+        "Correct.",
+        "Not used.",
+        "Not used."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1173 (PDF p. 1462)",
+      "quote": "IP therapy is the administration of chemotherapeutic agents into the peritoneal cavity."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "What should a client with very dry, irritated skin apply?",
+      "options": [
+        "Muscle rub",
+        "Aspercreme",
+        "Topical emollient",
+        "Acetic acid"
+      ],
+      "answer": "C",
+      "rationale": "Emollients treat dry, cracked, irritated skin. Muscle rubs are for aches; acetic acid is for wound irrigation.",
+      "explanations": [
+        "Aches.",
+        "Aches.",
+        "Correct.",
+        "Irrigation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1179 (PDF p. 1469)",
+      "quote": "A topical emollient is used for dry, cracked, and irritated skin."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which statement shows understanding of laser surgery for cervical cancer?",
+      "options": [
+        "'I'll be admitted for a week.'",
+        "'I'll have general anesthesia.'",
+        "'It will be very painful.'",
+        "'It's outpatient and painless.'"
+      ],
+      "answer": "D",
+      "rationale": "Laser therapy is outpatient, painless, and used when lesion borders are visible; no general anesthesia.",
+      "explanations": [
+        "Outpatient.",
+        "Not needed.",
+        "Painless.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1349 (PDF p. 1652)",
+      "quote": "Laser therapy is performed in an outpatient setting and is used when all boundaries of the lesion are visible."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "When do fibrocystic breast symptoms usually worsen?",
+      "options": [
+        "After menses",
+        "Before menses",
+        "During ovulation only",
+        "After menopause"
+      ],
+      "answer": "B",
+      "rationale": "Lumps and tenderness worsen before menses because of hormonal changes.",
+      "explanations": [
+        "Improve.",
+        "Correct.",
+        "Not typical.",
+        "Improve."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1370 (PDF p. 1673)",
+      "quote": "The client with fibrocystic breast disorder experiences worsening of symptoms"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "After radical vulvectomy, which discharge plan shows best understanding?",
+      "options": [
+        "Walk and rest when tired",
+        "Drive the next day",
+        "Resume heavy housework",
+        "Sit for long periods"
+      ],
+      "answer": "A",
+      "rationale": "Activity resumes slowly; walking helps, with rest when fatigued. Driving and heavy work are avoided.",
+      "explanations": [
+        "Correct.",
+        "Avoid.",
+        "Avoid.",
+        "Avoid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1372 (PDF p. 1675)",
+      "quote": "The client should resume activity slowly, and walking is a beneficial activity."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Before bilateral orchiectomy, a 25-year-old needs priority exploration of which concern?",
+      "options": [
+        "His diet",
+        "Hospital routine",
+        "Loss of fertility",
+        "Visiting hours"
+      ],
+      "answer": "C",
+      "rationale": "Loss of reproductive ability is a major psychological concern and is a priority to address.",
+      "explanations": [
+        "Less priority.",
+        "Less priority.",
+        "Correct.",
+        "Less priority."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1376 (PDF p. 1679)",
+      "quote": "the nurse should place priority on addressing loss of reproductive ability"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A man treated for syphilis before has a new penile lesion. Which feature suggests reinfection?",
+      "options": [
+        "Papules with redness",
+        "Cauliflower-like",
+        "Painless and indurated",
+        "Painful vesicles"
+      ],
+      "answer": "C",
+      "rationale": "The syphilis chancre is painless and indurated. Warts are cauliflower-like; herpes causes painful vesicles.",
+      "explanations": [
+        "Scabies.",
+        "Warts.",
+        "Correct.",
+        "Herpes."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1378 (PDF p. 1681)",
+      "quote": "The characteristic lesion of syphilis is painless and indurated."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which finding is expected in infiltrating ductal breast carcinoma?",
+      "options": [
+        "Bilateral soft masses",
+        "Painful mobile lump",
+        "Single fixed, hard, painless mass",
+        "Clear nipple discharge only"
+      ],
+      "answer": "C",
+      "rationale": "It usually presents as a single, unilateral, fixed, irregular, hard, painless mass.",
+      "explanations": [
+        "Not typical.",
+        "Benign features.",
+        "Correct.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1391 (PDF p. 1694)",
+      "quote": "Infiltrating ductal carcinoma of the breast usually presents as a fixed, irregularly shaped mass."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "After mastectomy with node dissection, which plan shows correct arm care?",
+      "options": [
+        "Wear gloves for gardening",
+        "Carry heavy bags on that arm",
+        "Have BP taken on that arm",
+        "Cut cuticles closely"
+      ],
+      "answer": "A",
+      "rationale": "The client avoids trauma to the affected arm (gloves for gardening) to prevent edema and infection.",
+      "explanations": [
+        "Correct.",
+        "Avoid.",
+        "Avoid.",
+        "Avoid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1394 (PDF p. 1698)",
+      "quote": "The client is at risk for edema and infection as a result of lymph node dissection."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A COPD client on 2 L O2 has RR 22 and reports dyspnea. What should the nurse do FIRST?",
+      "options": [
+        "Increase O2 to 6 L",
+        "Call an ambulance",
+        "Give a sedative",
+        "Assess breathing"
+      ],
+      "answer": "D",
+      "rationale": "Further assessment comes first; oxygen is not raised without validation because of CO2 retention risk.",
+      "explanations": [
+        "Risky.",
+        "Premature.",
+        "Depresses breathing.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1413 (PDF p. 1719)",
+      "quote": "Completing an assessment and collecting additional information regarding the client’s respiratory status is the initial nursing action."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which finding is expected in systemic lupus erythematosus?",
+      "options": [
+        "Bradycardia",
+        "Butterfly rash on the face",
+        "Weight gain",
+        "Hypothermia"
+      ],
+      "answer": "B",
+      "rationale": "SLE may cause fever, aches, a butterfly facial rash, pleural effusion, lymphadenopathy, and pericarditis.",
+      "explanations": [
+        "Not typical.",
+        "Correct.",
+        "Not typical.",
+        "Fever instead."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1439 (PDF p. 1747)",
+      "quote": "Manifestations of SLE may include fever, musculoskeletal aches and pains, butterfly rash on the face"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A client on chemo has a falling WBC. Which precaution is MOST appropriate?",
+      "options": [
+        "Pad the side rails",
+        "Remove sharp objects",
+        "Bleeding precautions",
+        "Infection precautions"
+      ],
+      "answer": "D",
+      "rationale": "Low WBC means infection risk. Padding rails and removing sharps are bleeding precautions.",
+      "explanations": [
+        "Bleeding.",
+        "Bleeding.",
+        "Not indicated.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1443 (PDF p. 1752)",
+      "quote": "Padding the side rails and removing all hazardous and sharp objects from the environment would be instituted if the client is at risk for bleeding."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "After cervical cryosurgery, what discharge is expected?",
+      "options": [
+        "Bloody, heavy",
+        "Clear and watery",
+        "Thick and green",
+        "Foul-smelling"
+      ],
+      "answer": "B",
+      "rationale": "Discharge is clear and watery after cryosurgery; pain is mild.",
+      "explanations": [
+        "Report.",
+        "Correct.",
+        "Infection.",
+        "Infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1455 (PDF p. 1764)",
+      "quote": "Vaginal discharge should be clear and watery after the procedure."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which behavior shows the MOST difficulty adjusting after mastectomy?",
+      "options": [
+        "Refuses to look at the dressing",
+        "Asks about prostheses",
+        "Cries briefly",
+        "Asks about reconstruction"
+      ],
+      "answer": "A",
+      "rationale": "Refusing to look shows she is not ready to acknowledge the loss.",
+      "explanations": [
+        "Correct.",
+        "Adjusting.",
+        "Normal grief.",
+        "Adjusting."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1492 (PDF p. 1801)",
+      "quote": "The client demonstrates the most difficult adjustment to the loss if she refuses to look at the dressing."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which exercise is done in the first 24 hours after mastectomy?",
+      "options": [
+        "Wall climbing",
+        "Pendulum swings",
+        "Hand and elbow flexion",
+        "Shoulder rotations"
+      ],
+      "answer": "C",
+      "rationale": "In the first 24 hours, the client moves fingers and hands and flexes and extends the elbow.",
+      "explanations": [
+        "Later.",
+        "Later.",
+        "Correct.",
+        "Later."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1502 (PDF p. 1811)",
+      "quote": "During the first 24 hours after surgery, the client is assisted to move the fingers and hands, and to flex and extend the elbow."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A client on chemo has platelets of 15,000/mm³. Which precautions apply?",
+      "options": [
+        "Contact",
+        "Bleeding",
+        "Respiratory",
+        "Neutropenic"
+      ],
+      "answer": "B",
+      "rationale": "Platelets below 20,000/mm³ place the client at risk for bleeding.",
+      "explanations": [
+        "Infection.",
+        "Correct.",
+        "Airborne.",
+        "Low WBC."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1542 (PDF p. 1854)",
+      "quote": "When the platelet count is less than 20,000 mm3 (20 × 109/L), the client is at risk for bleeding"
+    }
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A child on stimulant therapy should have which monitored for growth suppression?",
+      "options": [
+        "Height and weight",
+        "Vision",
+        "Hearing",
+        "Blood type"
+      ],
+      "answer": "A",
+      "rationale": "Stimulants can suppress growth, so weight and height are monitored.",
+      "explanations": [
+        "Correct.",
+        "Not main.",
+        "Not main.",
+        "Not relevant."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Stimulants (PDF p. 251)",
+      "quote": "Growth suppression: Monitor thechild's weight and height"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client on disulfiram should avoid which product?",
+      "options": [
+        "Alcohol aftershave",
+        "Unscented soap",
+        "Plain water",
+        "Fruit juice"
+      ],
+      "answer": "A",
+      "rationale": "Products such as aftershave, cologne, mouthwash, and some cough syrups contain alcohol and can trigger a reaction.",
+      "explanations": [
+        "Correct.",
+        "Safe.",
+        "Safe.",
+        "Safe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Disulfiram (PDF p. 251)",
+      "quote": "Aftershave lotion"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Disulfiram is best suited for which client?",
+      "options": [
+        "Motivated to abstain, not impulsive",
+        "Impulsive and unmotivated",
+        "Actively drinking daily",
+        "Unwilling to stop"
+      ],
+      "answer": "A",
+      "rationale": "Disulfiram is useful for persons motivated to abstain who are not impulsive.",
+      "explanations": [
+        "Correct.",
+        "Dangerous.",
+        "Dangerous.",
+        "Not suitable."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Disulfiram (PDF p. 251)",
+      "quote": "Usefulfor persons who are motivated to abstain from drinking and who are not impulsive."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Why is atropine given before ECT?",
+      "options": [
+        "To decrease secretions",
+        "To relax muscles",
+        "To induce anesthesia",
+        "To cause a seizure"
+      ],
+      "answer": "A",
+      "rationale": "Atropine decreases secretions; succinylcholine relaxes muscles; methohexital is the anesthetic.",
+      "explanations": [
+        "Correct.",
+        "Succinylcholine.",
+        "Methohexital.",
+        "Electrical stimulus."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, ECT (PDF p. 252)",
+      "quote": "Atropine sulfate To decrease secretions"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which is a common short-term effect after ECT?",
+      "options": [
+        "Confusion and memory loss",
+        "Permanent paralysis",
+        "Hyperactivity",
+        "Weight gain"
+      ],
+      "answer": "A",
+      "rationale": "Clients may be confused and have short-term memory impairment; reorient them.",
+      "explanations": [
+        "Correct.",
+        "Not typical.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, ECT (PDF p. 252)",
+      "quote": "Following ECT the client may be mildly confused, disoriented and may have short term memory impa"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "What preparation is needed before ECT?",
+      "options": [
+        "NPO after midnight and void",
+        "Heavy breakfast",
+        "No consent needed",
+        "Take all morning drugs"
+      ],
+      "answer": "A",
+      "rationale": "NPO after midnight, void, IV access, and informed consent.",
+      "explanations": [
+        "Correct.",
+        "Aspiration.",
+        "Consent required.",
+        "Not all."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, ECT (PDF p. 251)",
+      "quote": "NPO after midnight"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Per the handout, how many ECT treatments usually produce a therapeutic effect?",
+      "options": [
+        "6–12",
+        "1",
+        "30",
+        "50"
+      ],
+      "answer": "A",
+      "rationale": "Usually 6–12 treatments (up to 15), spaced about 48 hours apart.",
+      "explanations": [
+        "Correct.",
+        "Too few.",
+        "Too many.",
+        "Too many."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, ECT (PDF p. 252)",
+      "quote": "6 -12 treatments(up to 15)"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "A woman who never wanted children becomes an over-involved 'super-mom.' Which defense?",
+      "options": [
+        "Reaction formation",
+        "Displacement",
+        "Compensation",
+        "Projection"
+      ],
+      "answer": "A",
+      "rationale": "Reaction formation is acting opposite to one's true feelings.",
+      "explanations": [
+        "Correct.",
+        "Redirecting.",
+        "Offsetting weakness.",
+        "Attributing."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Defense Mechanisms (PDF p. 253)",
+      "quote": "Acting the opposite of what one thinks are feels."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "A man angry at his boss yells at his wife. Which defense?",
+      "options": [
+        "Displacement",
+        "Rationalization",
+        "Sublimation",
+        "Denial"
+      ],
+      "answer": "A",
+      "rationale": "Displacement vents feelings on a less threatening person.",
+      "explanations": [
+        "Correct.",
+        "Excusing.",
+        "Channeling.",
+        "Not admitting."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Defense Mechanisms (PDF p. 253)",
+      "quote": "A person who is mad at the boss yells at his or her spouse"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "What distinguishes suppression from repression?",
+      "options": [
+        "Suppression is conscious forgetting",
+        "Suppression is unconscious",
+        "They are the same",
+        "Repression is conscious"
+      ],
+      "answer": "A",
+      "rationale": "Suppression is conscious exclusion; repression is unconscious forgetting.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Different.",
+        "Opposite."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Defense Mechanisms (PDF p. 253)",
+      "quote": "Conscious forgetting"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "A teen tempted by friends develops sudden blindness without concern. Which defense?",
+      "options": [
+        "Conversion",
+        "Denial",
+        "Regression",
+        "Undoing"
+      ],
+      "answer": "A",
+      "rationale": "Conversion expresses emotional conflict as a sensorimotor symptom, often with indifference.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Defense Mechanisms (PDF p. 253)",
+      "quote": "Expression of an emotional conflict through the development of a physical symptom"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which personality component seeks instant gratification?",
+      "options": [
+        "Id",
+        "Ego",
+        "Superego",
+        "Preconscious"
+      ],
+      "answer": "A",
+      "rationale": "The id seeks instant gratification; the superego is conscience; the ego mediates.",
+      "explanations": [
+        "Correct.",
+        "Mediator.",
+        "Conscience.",
+        "Awareness level."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Personality Structure (PDF p. 252)",
+      "quote": "Seeks instant gratification"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "An adult remembering childhood events with effort uses which level of awareness?",
+      "options": [
+        "Preconscious",
+        "Conscious",
+        "Unconscious",
+        "Superego"
+      ],
+      "answer": "A",
+      "rationale": "Preconscious material can be recalled with effort.",
+      "explanations": [
+        "Correct.",
+        "Current awareness.",
+        "Cannot recall.",
+        "Not a level."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Levels of Awareness (PDF p. 254)",
+      "quote": "Not currently in the person's awareness, but he or she can recall them with some effort."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Remotivation therapy is unsuitable for which client?",
+      "options": [
+        "Actively psychotic client",
+        "Rehabilitating client",
+        "Withdrawn older adult",
+        "Chronic patient"
+      ],
+      "answer": "A",
+      "rationale": "Remotivation discusses neutral topics for rehabilitative clients, not actively psychotic ones.",
+      "explanations": [
+        "Correct.",
+        "Suitable.",
+        "Suitable.",
+        "Suitable."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Psychotherapeutic Interventions (PDF p. 254)",
+      "quote": "not for activetly psychotic patients"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "What is the ideal size of a therapy group?",
+      "options": [
+        "8–10",
+        "2",
+        "20–25",
+        "50"
+      ],
+      "answer": "A",
+      "rationale": "Minimum 3 members; ideal 8–10.",
+      "explanations": [
+        "Correct.",
+        "Too small.",
+        "Too large.",
+        "Too large."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Group Therapy (PDF p. 254)",
+      "quote": "Minimum number of members in a group is 3, while the ideal number is 8 —10"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Dolls are used to help an abused child express feelings. This is:",
+      "options": [
+        "Play therapy",
+        "Milieu therapy",
+        "Psychoanalysis",
+        "Hypnotherapy"
+      ],
+      "answer": "A",
+      "rationale": "Play therapy lets the child experience intense emotion safely through play.",
+      "explanations": [
+        "Correct.",
+        "Environment.",
+        "Unconscious.",
+        "Trance."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Play Therapy (PDF p. 254)",
+      "quote": "For victims of child abuse, give dolls."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which therapy uses free association and dream analysis?",
+      "options": [
+        "Psychoanalysis",
+        "Behavior modification",
+        "Milieu therapy",
+        "Group therapy"
+      ],
+      "answer": "A",
+      "rationale": "Psychoanalysis explores the unconscious using free association and dream analysis.",
+      "explanations": [
+        "Correct.",
+        "Reinforcement.",
+        "Environment.",
+        "Groups."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Psychoanalysis (PDF p. 254)",
+      "quote": "Utilizes dream analysis and free association"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "How long does a crisis state usually last?",
+      "options": [
+        "4–6 weeks",
+        "1 day",
+        "6 months",
+        "1 year"
+      ],
+      "answer": "A",
+      "rationale": "A crisis is self-limiting, usually lasting 4–6 weeks.",
+      "explanations": [
+        "Correct.",
+        "Too short.",
+        "Too long.",
+        "Too long."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Crisis (PDF p. 255)",
+      "quote": "Lasts for 4 — 6 weeks"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "Losing a job suddenly is which type of crisis?",
+      "options": [
+        "Situational",
+        "Maturational",
+        "Adventitious",
+        "Developmental"
+      ],
+      "answer": "A",
+      "rationale": "Situational crises are unexpected external events like job loss or death.",
+      "explanations": [
+        "Correct.",
+        "Expected.",
+        "Disaster.",
+        "Expected."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Types of Crisis (PDF p. 255)",
+      "quote": "Loss of a job"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A community hit by a typhoon experiences which crisis type?",
+      "options": [
+        "Adventitious (social)",
+        "Maturational",
+        "Situational only",
+        "Developmental"
+      ],
+      "answer": "A",
+      "rationale": "Adventitious crises include natural disasters, war, and violent crimes.",
+      "explanations": [
+        "Correct.",
+        "Expected.",
+        "Individual.",
+        "Expected."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Types of Crisis (PDF p. 255)",
+      "quote": "Includes natural disasters and acts 0 nature like"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "What is the nurse's role during crisis intervention?",
+      "options": [
+        "Active and directive",
+        "Passive observer",
+        "Silent",
+        "Avoids involvement"
+      ],
+      "answer": "A",
+      "rationale": "The nurse is active and directive in crisis intervention.",
+      "explanations": [
+        "Correct.",
+        "Not.",
+        "Not.",
+        "Not."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Crisis Intervention (PDF p. 256)",
+      "quote": "Active and directive, the nurse has to assist the patient"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which Philippine law defines and penalizes rape?",
+      "options": [
+        "RA 8353",
+        "RA 9262",
+        "RA 7610",
+        "RA 9165"
+      ],
+      "answer": "A",
+      "rationale": "RA 8353 (Anti-Rape Law of 1997) defines rape; RA 9262 is anti-VAWC; RA 7610 child abuse; RA 9165 dangerous drugs.",
+      "explanations": [
+        "Correct.",
+        "VAWC.",
+        "Child abuse.",
+        "Drugs."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Rape (PDF p. 256)",
+      "quote": "According to Republic Act 8353"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "How should the nurse support a rape survivor in the ER?",
+      "options": [
+        "Let her set the pace",
+        "Rush the exam",
+        "Decide for her",
+        "Insist on charges"
+      ],
+      "answer": "A",
+      "rationale": "Provide emotional support, let her set the pace, and give back control; filing charges is her decision.",
+      "explanations": [
+        "Correct.",
+        "Not.",
+        "Not.",
+        "Her choice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Nursing Care for Rape Victims (PDF p. 256)",
+      "quote": "Give as much control back to the victim as possible"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "What is the main problem in autism spectrum disorder?",
+      "options": [
+        "Social impairment",
+        "High fever",
+        "Hyperactivity only",
+        "Memory loss"
+      ],
+      "answer": "A",
+      "rationale": "ASD involves impaired social interaction and communication with stereotyped behaviors.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not main.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Autism (PDF p. 257)",
+      "quote": "Main Problem: Impaired Interpersonal Functioning"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A child with autism head-bangs during tantrums. What is the priority?",
+      "options": [
+        "Safety helmet",
+        "Ignore it",
+        "Scold him",
+        "Leave him alone"
+      ],
+      "answer": "A",
+      "rationale": "Safety is priority: helmet, padded walls.",
+      "explanations": [
+        "Correct.",
+        "Unsafe.",
+        "Ineffective.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Autism (PDF p. 257)",
+      "quote": "Helmet"
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client on oral buspirone for anxiety says the tablets are hard to swallow. What should the nurse advise?",
+      "options": [
+        "Crush the tablets before taking them",
+        "Swallow the tablet whole in applesauce",
+        "Switch to the liquid form",
+        "Stop the drug until the next checkup"
+      ],
+      "answer": "A",
+      "rationale": "Buspirone tablets may be crushed and taken without regard to meals. There is no liquid form, and stopping the drug is not appropriate.",
+      "explanations": [
+        "Correct: buspirone may be crushed.",
+        "A whole tablet is still hard to swallow.",
+        "Buspirone has no liquid form.",
+        "Stopping interrupts treatment."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q636 (PDF p. 854)",
+      "quote": "Buspirone tablets may be crushed and administered without regard to meals."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Baby Miguel, 8 months old, has congestive heart failure from a ventricular septal defect. He is going home on oral digoxin, and the nurse is teaching his parents.",
+      "stem": "Which statement by the mother shows she understands how to give the digoxin?",
+      "options": [
+        "'I will mix it with his milk so he takes it.'",
+        "'I will check his pulse before each dose.'",
+        "'If he vomits, I will repeat the dose.'",
+        "'If I miss a dose, I will give two next time.'"
+      ],
+      "answer": "B",
+      "rationale": "Digoxin is not mixed with food or formula (the full dose may not be taken). The pulse is checked before each dose, and a dose is not repeated after vomiting or doubled when missed.",
+      "explanations": [
+        "Mixing with milk may mean an incomplete dose.",
+        "Correct: check the pulse before giving digoxin.",
+        "Do not repeat a dose after vomiting.",
+        "Never double a missed dose."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q637 (PDF p. 855)",
+      "quote": "The medication should not be mixed with food or formula because this method would not ensure that the child receives the entire dose of medication."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which statement shows that a client starting oral contraceptives understands the teaching?",
+      "options": [
+        "'I won't need any other method from the first day.'",
+        "'I will use a backup method during the first pill cycle.'",
+        "'I can skip a pill if I have sex less often.'",
+        "'If I miss a pill, I'll wait for the next pack.'"
+      ],
+      "answer": "B",
+      "rationale": "A second method is used during the first cycle. Pills are taken at the same time daily, and a missed pill is taken as soon as remembered.",
+      "explanations": [
+        "Protection is not reliable during the first cycle.",
+        "Correct: backup is needed in the first cycle.",
+        "Pills must be taken daily.",
+        "A missed pill is taken as soon as remembered."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q639 (PDF p. 857)",
+      "quote": "The client must be instructed to use a second birth control method during the first pill cycle of contraceptives."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "A woman with a family history of heart disease wants to start oral contraceptives. What should the nurse ask about NEXT?",
+      "options": [
+        "Cigarette smoking",
+        "Regular exercise",
+        "A low-cholesterol diet",
+        "Other birth control methods"
+      ],
+      "answer": "A",
+      "rationale": "Oral contraceptives are a risk factor for heart disease, especially combined with cigarette smoking. Exercise and cholesterol control are general measures.",
+      "explanations": [
+        "Correct: smoking plus OCPs greatly raises cardiovascular risk.",
+        "A general measure, not the key risk.",
+        "A general measure, not the key risk.",
+        "Premature before assessing risk."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q647 (PDF p. 865)",
+      "quote": "Oral contraceptive use is a risk factor for heart disease, particularly when it is combined with cigarette smoking."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with atrial fibrillation asks why long-term anticoagulants are needed. What is the BEST explanation?",
+      "options": [
+        "'Blood backs up in your legs and forms clots.'",
+        "'The rhythm lowers your blood pressure.'",
+        "'Blood pools in the upper heart chambers and can clot.'",
+        "'Your heart muscle is too weak to pump.'"
+      ],
+      "answer": "C",
+      "rationale": "Quivering atria lose their organized contraction ('atrial kick'), so blood stagnates and can form mural thrombi. These clots can travel to the lungs or brain.",
+      "explanations": [
+        "The clots form in the atria, not the legs.",
+        "Not the reason for anticoagulation.",
+        "Correct: atrial pooling leads to mural thrombi.",
+        "Not the reason for anticoagulation."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q648 (PDF p. 866)",
+      "quote": "The blood that pools in the atria can then clot, which increases the risk of pulmonary and cerebral emboli."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which instruction should the nurse give a client taking clorazepate for an anxiety disorder?",
+      "options": [
+        "'Smoking makes the drug work better.'",
+        "'Call your doctor if you feel any drowsiness.'",
+        "'Change positions slowly, since dizziness can occur.'",
+        "'Take it with grapefruit juice for absorption.'"
+      ],
+      "answer": "C",
+      "rationale": "Dizziness is a side effect, so the client rises slowly from lying to sitting to standing. Drowsiness lessens with continued use, and smoking reduces the drug's effectiveness.",
+      "explanations": [
+        "Smoking reduces its effectiveness.",
+        "Drowsiness is expected and decreases over time.",
+        "Correct: dizziness is a side effect.",
+        "Not a recommended practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q651 (PDF p. 869)",
+      "quote": "Dizziness is a side effect of this medication."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with Parkinson's disease has just started levodopa. When should the client expect symptoms to begin improving?",
+      "options": [
+        "Within 24 hours",
+        "In about 1 week",
+        "In 5 to 7 days",
+        "In 2 to 3 weeks"
+      ],
+      "answer": "D",
+      "rationale": "Symptoms usually begin to resolve 2 to 3 weeks after starting levodopa; some clients need up to 6 months. Knowing this supports adherence.",
+      "explanations": [
+        "Too soon.",
+        "Too soon.",
+        "Too soon.",
+        "Correct: 2 to 3 weeks."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q653 (PDF p. 871)",
+      "quote": "Signs and symptoms of Parkinson’s disease usually begin to resolve within 2 to 3 weeks after starting therapy"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with heart failure is starting digoxin at home. What should the nurse teach the client to do to detect early complications?",
+      "options": [
+        "Take the pulse every day",
+        "Have electrolytes drawn weekly",
+        "Check the blood pressure once a week",
+        "Weigh only once a month"
+      ],
+      "answer": "A",
+      "rationale": "The client takes their pulse daily and reports a rate below 60 or above 100 beats per minute to the provider.",
+      "explanations": [
+        "Correct: daily pulse checks detect toxicity early.",
+        "Not routinely needed weekly.",
+        "Not the key early warning.",
+        "Daily weights are better for heart failure, but the pulse is key for digoxin."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q675 (PDF p. 895)",
+      "quote": "Adult clients taking digoxin should take the pulse each day"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which statement shows a client correctly understands diltiazem therapy for Prinzmetal angina?",
+      "options": [
+        "'I will take it after meals.'",
+        "'I will get up slowly from bed.'",
+        "'Constipation means it is working.'",
+        "'I can stop it once my chest pain goes away.'"
+      ],
+      "answer": "B",
+      "rationale": "Diltiazem, a calcium channel blocker, can cause hypotension, so the client rises slowly. It is taken before meals and at bedtime. Irregular heartbeat, dyspnea, marked dizziness, or constipation are reported.",
+      "explanations": [
+        "It is taken before meals.",
+        "Correct: rising slowly prevents falls from hypotension.",
+        "Constipation is a side effect to report.",
+        "It is not stopped without the provider."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q677 (PDF p. 897)",
+      "quote": "Hypotension can occur, and the client is instructed to rise slowly."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with heart failure takes triamterene. Which food is the BEST choice for this client?",
+      "options": [
+        "Banana",
+        "Orange",
+        "Baked potato",
+        "Canned pears"
+      ],
+      "answer": "D",
+      "rationale": "Triamterene is potassium-sparing, so high-potassium foods (bananas, oranges, potatoes) are limited. Canned foods are often lower in potassium.",
+      "explanations": [
+        "High in potassium.",
+        "High in potassium.",
+        "High in potassium.",
+        "Correct: canned fruit is lower in potassium."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q679 (PDF p. 899)",
+      "quote": "Triamterene is a potassium-retaining diuretic"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A client with breast cancer is starting cyclophosphamide. Which instruction is MOST important to prevent a serious adverse effect?",
+      "options": [
+        "Drink plenty of fluids during therapy",
+        "Limit fluids to prevent edema",
+        "Expect permanent hair loss",
+        "Ignore a mild sore throat"
+      ],
+      "answer": "A",
+      "rationale": "Cyclophosphamide can cause hemorrhagic cystitis, so copious fluids are needed. Hair grows back, and a sore throat may signal infection and must be reported.",
+      "explanations": [
+        "Correct: fluids prevent hemorrhagic cystitis.",
+        "Fluids are needed, not restricted.",
+        "Hair usually grows back.",
+        "A sore throat may mean infection."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q680 (PDF p. 900)",
+      "quote": "Hemorrhagic cystitis is an adverse reaction associated with cyclophosphamide."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with trigeminal neuralgia is started on carbamazepine. Which statement shows understanding of the teaching?",
+      "options": [
+        "'I will report a fever or sore throat.'",
+        "'Some joint pain is expected.'",
+        "'Bruising is normal on this drug.'",
+        "'I can stop it once the pain ends.'"
+      ],
+      "answer": "A",
+      "rationale": "Carbamazepine can cause agranulocytosis, so fever and sore throat (signs of infection) are reported. Unusual bruising and bleeding are also adverse effects to report.",
+      "explanations": [
+        "Correct: signs of infection from agranulocytosis.",
+        "Not an expected effect.",
+        "Bruising must be reported.",
+        "It is not stopped without the provider."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q710 (PDF p. 932)",
+      "quote": "Agranulocytosis is an adverse effect of carbamazepine, and it places the client at risk for infection."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which statement by a client on timolol, a beta blocker, shows correct understanding?",
+      "options": [
+        "'I can stop it when my BP is normal.'",
+        "'I will hold it if my pulse is below 60.'",
+        "'Shortness of breath is expected.'",
+        "'I may double the dose if I feel dizzy.'"
+      ],
+      "answer": "B",
+      "rationale": "Clients on beta blockers check their pulse daily and hold the dose and notify the provider if it is below 60. They do not stop the drug abruptly, they change positions slowly, and they report shortness of breath.",
+      "explanations": [
+        "Abrupt stopping is dangerous.",
+        "Correct: hold for a pulse below 60 and notify the provider.",
+        "Dyspnea must be reported.",
+        "The dose is never changed by the client."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q719 (PDF p. 941)",
+      "quote": "holding it if the rate is less than 60 beats/min (and notifying the primary health care provider)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client is taking benazepril, an ACE inhibitor, for hypertension. Which instruction is correct?",
+      "options": [
+        "Use salt freely with meals",
+        "Avoid salt in the diet",
+        "Check the BP only once a year",
+        "Get up quickly in the morning"
+      ],
+      "answer": "B",
+      "rationale": "Clients on ACE inhibitors avoid salt, change positions slowly, monitor their BP weekly, and continue other lifestyle changes.",
+      "explanations": [
+        "Salt worsens hypertension.",
+        "Correct: salt is avoided.",
+        "BP is monitored weekly.",
+        "Rising quickly can cause orthostatic hypotension."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q720 (PDF p. 942)",
+      "quote": "The client taking an ACE inhibitor is instructed to avoid the use of salt."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client taking lovastatin for hyperlipidemia needs periodic monitoring of which laboratory test?",
+      "options": [
+        "Bleeding time",
+        "Serum creatinine",
+        "Blood glucose",
+        "Liver function tests"
+      ],
+      "answer": "D",
+      "rationale": "Lovastatin is converted by the liver and is not used in active liver disease. Liver function tests are checked periodically.",
+      "explanations": [
+        "Not affected by statins.",
+        "Not the main concern.",
+        "Not the main concern.",
+        "Correct: statins can affect the liver."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q721 (PDF p. 943)",
+      "quote": "This medication is converted by the liver to active metabolites"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client on clonazepam develops slurred speech, confusion, and slowed breathing. The nurse suspects:",
+      "options": [
+        "An expected effect that fades in weeks",
+        "Benzodiazepine toxicity",
+        "Benzodiazepine withdrawal",
+        "An allergic reaction"
+      ],
+      "answer": "B",
+      "rationale": "Clonazepam toxicity causes slurred speech, sedation, confusion, respiratory depression, hypotension, and eventually coma. Mild drowsiness lessens with use, but these signs are not expected.",
+      "explanations": [
+        "These are toxic, not expected, effects.",
+        "Correct: signs of benzodiazepine toxicity.",
+        "Withdrawal causes agitation and tremors.",
+        "Not allergic signs."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q722 (PDF p. 944)",
+      "quote": "exhibit slurred speech, sedation, confusion, respiratory depression, hypotension, and eventually coma."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Dipyridamole is prescribed for a client after heart valve replacement. What is its purpose?",
+      "options": [
+        "To lower the client's blood pressure",
+        "To prevent a future heart attack",
+        "To protect the new valve from clots",
+        "To prevent a stroke in the future"
+      ],
+      "answer": "C",
+      "rationale": "Dipyridamole is an antiplatelet drug often given with warfarin to protect artificial heart valves. It does not itself prevent stroke or heart attack and is not an antihypertensive.",
+      "explanations": [
+        "Not an antihypertensive.",
+        "Not its stated purpose.",
+        "Correct: antiplatelet protection of the valve.",
+        "Not its stated purpose."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q723 (PDF p. 945)",
+      "quote": "It may be administered in combination with warfarin sodium to protect the client’s artificial heart valves."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A postpartum client recovering from DIC goes home on a low-dose anticoagulant. What should the nurse tell her to avoid?",
+      "options": [
+        "Brushing her teeth",
+        "Taking aspirin",
+        "Walking and climbing stairs",
+        "All physical activity"
+      ],
+      "answer": "B",
+      "rationale": "Aspirin is an antiplatelet drug that interacts with anticoagulants and raises the bleeding risk. She can brush gently with a soft toothbrush and stay active.",
+      "explanations": [
+        "She should use a soft toothbrush, not stop brushing.",
+        "Correct: aspirin increases the bleeding risk.",
+        "These activities are acceptable.",
+        "Not necessary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q738 (PDF p. 963)",
+      "quote": "Aspirin is an antiplatelet medication and can interact with the anticoagulant medication"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which instruction should the nurse give a client taking ketoconazole?",
+      "options": [
+        "Avoid exposure to sunlight",
+        "Limit alcohol to two drinks a day",
+        "Take it with an antacid",
+        "Take it on an empty stomach"
+      ],
+      "answer": "A",
+      "rationale": "Ketoconazole increases photosensitivity, so sun exposure is avoided. It is hepatotoxic (avoid alcohol), needs gastric acid to work (avoid antacids for 2 hours), and is taken with food.",
+      "explanations": [
+        "Correct: the drug causes photosensitivity.",
+        "Alcohol should be avoided entirely.",
+        "Antacids reduce absorption.",
+        "It is taken with food."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q752 (PDF p. 981)",
+      "quote": "The client should avoid exposure to sunlight because the medication increases photosensitivity."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child recovering from a head injury goes home on tapering doses of dexamethasone. What should the nurse tell the parents?",
+      "options": [
+        "'It prevents infection in the brain.'",
+        "'It will be stopped after two doses.'",
+        "'Facial swelling means the drug must stop.'",
+        "'Stopping it suddenly can bring back brain swelling.'"
+      ],
+      "answer": "D",
+      "rationale": "Stopping dexamethasone abruptly can cause cerebral edema to rebound, so it is tapered. It reduces inflammation, not infection, and facial swelling is a common side effect that resolves.",
+      "explanations": [
+        "It reduces inflammation, not infection.",
+        "It is tapered gradually.",
+        "Facial edema is common and goes away after therapy.",
+        "Correct: abrupt withdrawal causes rebound edema."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q769 (PDF p. 999)",
+      "quote": "The rebounding of cerebral edema is a side effect of dexamethasone sodium phosphate withdrawal if it is done abruptly."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child treated for scarlet fever now has puffy eyes, poor appetite, and scant tea-colored urine. What does the nurse suspect?",
+      "options": [
+        "An allergic reaction to penicillin",
+        "Acute glomerulonephritis",
+        "Normal recovery from scarlet fever",
+        "Dehydration from fever"
+      ],
+      "answer": "B",
+      "rationale": "Scarlet fever is caused by group A beta-hemolytic streptococci. Periorbital edema, reduced tea-colored urine, and anorexia point to acute glomerulonephritis, which must be reported.",
+      "explanations": [
+        "Not signs of a penicillin allergy.",
+        "Correct: classic signs of post-streptococcal AGN.",
+        "These findings are abnormal.",
+        "Dehydration does not cause facial edema."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q771 (PDF p. 1001)",
+      "quote": "The signs/symptoms identified in the question indicate acute glomerulonephritis"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client on allopurinol for gout asks what to do during an acute attack. The nurse explains that the provider will likely:",
+      "options": [
+        "Double the allopurinol dose",
+        "Replace allopurinol with aspirin",
+        "Stop all gout drugs for a week",
+        "Add colchicine or an NSAID"
+      ],
+      "answer": "D",
+      "rationale": "Allopurinol prevents attacks but does not relieve their pain. Colchicine or an NSAID is added for an acute attack.",
+      "explanations": [
+        "Allopurinol does not relieve acute pain.",
+        "Aspirin is not used and can raise uric acid.",
+        "Stopping all drugs is not the approach.",
+        "Correct: colchicine or an NSAID treats the acute attack."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q774 (PDF p. 1004)",
+      "quote": "Allopurinol helps prevent an attack of gouty arthritis, but it does not relieve the pain."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client is started on lisinopril. Which frequent side effect should the nurse tell the client about?",
+      "options": [
+        "Dry cough",
+        "Polyuria",
+        "Hypothermia",
+        "Hypertension"
+      ],
+      "answer": "A",
+      "rationale": "Cough is a frequent side effect of all ACE inhibitors. Hypertension is the reason for the drug, not a side effect.",
+      "explanations": [
+        "Correct: a hallmark ACE inhibitor side effect.",
+        "Not a common side effect.",
+        "Not a side effect.",
+        "This is what the drug treats."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q776 (PDF p. 1006)",
+      "quote": "Cough is a frequent side effect of therapy with any of the angiotensin-converting enzyme (ACE) inhibitors."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which statement by a client on lithium shows understanding of the home regimen?",
+      "options": [
+        "'I will restrict my water intake.'",
+        "'I will keep normal salt in my diet.'",
+        "'I will keep the tablets in the refrigerator.'",
+        "'I will take extra doses when I feel low.'"
+      ],
+      "answer": "B",
+      "rationale": "Lithium replaces sodium in the cells and increases sodium excretion. Clients keep a normal sodium intake and drink at least 1 to 1.5 L of fluid daily; low sodium raises lithium levels.",
+      "explanations": [
+        "Fluids should be adequate, not restricted.",
+        "Correct: steady sodium intake prevents toxicity.",
+        "It is stored at room temperature.",
+        "Extra doses risk toxicity."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q777 (PDF p. 1007)",
+      "quote": "Client teaching includes the maintenance of sodium intake in the daily diet and increased fluid intake"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "The family of a client on an antipsychotic is taught to watch for pseudoparkinsonism. Which signs should they report?",
+      "options": [
+        "High fever and muscle rigidity",
+        "Restlessness and inability to sit still",
+        "Stooped posture and shuffling gait",
+        "Sudden twisting of the neck"
+      ],
+      "answer": "C",
+      "rationale": "Pseudoparkinsonism is an extrapyramidal effect: stooped posture, shuffling gait, masklike face, drooling, tremors, and pill-rolling. High fever suggests neuroleptic malignant syndrome.",
+      "explanations": [
+        "Suggests neuroleptic malignant syndrome.",
+        "Describes akathisia.",
+        "Correct: classic pseudoparkinsonism.",
+        "Describes acute dystonia."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q778 (PDF p. 1008)",
+      "quote": "This condition is characterized by a stooped posture, a shuffling gait, a masklike facial appearance, drooling, tremors, and pill-rolling motions of the fingers."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client on tranylcypromine asks which snack is safe. Which food can the nurse recommend?",
+      "options": [
+        "Yogurt",
+        "Raisins",
+        "Smoked fish",
+        "Fresh oranges"
+      ],
+      "answer": "D",
+      "rationale": "On an MAO inhibitor, tyramine foods are avoided: yogurt, raisins, smoked or pickled fish and meat, beer, wine, caffeine, avocados, bananas, plums. Oranges are allowed.",
+      "explanations": [
+        "Contains tyramine.",
+        "Contains tyramine.",
+        "Contains tyramine.",
+        "Correct: oranges are permitted."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q779 (PDF p. 1009)",
+      "quote": "Oranges are permissible."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which instruction belongs in the teaching plan for a client taking iron supplements for iron deficiency anemia?",
+      "options": [
+        "Eat a low-fiber diet daily",
+        "Limit fluid intake each day",
+        "Limit meat, fish, and poultry",
+        "Avoid taking it with milk"
+      ],
+      "answer": "D",
+      "rationale": "Milk and antacids reduce iron absorption. Enough fiber and fluids prevent constipation, and natural iron sources such as meat, fish, and poultry are encouraged.",
+      "explanations": [
+        "Fiber prevents iron-related constipation.",
+        "Fluids prevent constipation.",
+        "These are good iron sources.",
+        "Correct: milk and antacids block absorption."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q790 (PDF p. 1020)",
+      "quote": "The client should avoid taking the iron supplements with milk or antacids because these items decrease the absorption of iron."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client with schizophrenia on an antipsychotic is going home. Which health-promotion instruction should the nurse include?",
+      "options": [
+        "Avoid long exposure to the sun",
+        "Follow a strict tyramine-free diet",
+        "Watch for relapse of depression",
+        "Have blood levels checked weekly"
+      ],
+      "answer": "A",
+      "rationale": "Antipsychotics cause photosensitivity, so prolonged sun exposure is avoided. Tyramine restriction is for MAOIs, and routine blood levels are for lithium.",
+      "explanations": [
+        "Correct: antipsychotics cause photosensitivity.",
+        "This applies to MAO inhibitors.",
+        "Antipsychotics are not used for depression here.",
+        "Blood levels are monitored for lithium."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q800 (PDF p. 1030)",
+      "quote": "Photosensitivity is a side effect of antipsychotic medications."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "When teaching a male client about spironolactone, which psychosocial side effect should the nurse address?",
+      "options": [
+        "Hair loss",
+        "Weight loss",
+        "Decreased libido",
+        "Edema"
+      ],
+      "answer": "C",
+      "rationale": "Spironolactone can cause decreased libido, gynecomastia in males, and hirsutism in females, which can threaten body image and sexual identity.",
+      "explanations": [
+        "Not associated with spironolactone.",
+        "Not a specific effect of spironolactone.",
+        "Correct: affects sexual function and body image.",
+        "It is a diuretic and reduces edema."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q826 (PDF p. 1061)",
+      "quote": "These are related to decreased libido, gynecomastia in males, and hirsutism in females."
+    }
+  ]
+}

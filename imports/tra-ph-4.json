@@ -1,0 +1,461 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which lab test monitors heparin therapy?",
+      "options": [
+        "aPTT",
+        "PT/INR",
+        "Platelet count only",
+        "Bleeding time"
+      ],
+      "answer": "A",
+      "rationale": "Heparin is monitored by aPTT (therapeutic 1.5–2.5 times control); warfarin by PT/INR.",
+      "explanations": [
+        "Correct.",
+        "Warfarin.",
+        "Incomplete.",
+        "Not standard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Anticoagulants (PDF p. 126)",
+      "quote": "Heparin: Monitor aPTT (activated partial thromboplastin time)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the usual therapeutic INR range for warfarin?",
+      "options": [
+        "0.5–1.0",
+        "2.0–3.0",
+        "4.0–5.0",
+        "6.0–7.0"
+      ],
+      "answer": "B",
+      "rationale": "Warfarin is monitored by PT/INR, with a usual therapeutic INR of 2.0–3.0.",
+      "explanations": [
+        "Normal/low.",
+        "Correct.",
+        "Too high.",
+        "Too high."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Anticoagulants (PDF p. 126)",
+      "quote": "INR: 2.0 to 3.0"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the antidote for warfarin (Coumadin)?",
+      "options": [
+        "Vitamin K",
+        "Protamine sulfate",
+        "Naloxone",
+        "Atropine"
+      ],
+      "answer": "A",
+      "rationale": "Vitamin K reverses warfarin; protamine sulfate reverses heparin.",
+      "explanations": [
+        "Correct.",
+        "Heparin.",
+        "Opioids.",
+        "Bradycardia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Anticoagulants (PDF p. 126)",
+      "quote": "Coumadin: Vitamin K"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which teaching is correct for a client on anticoagulants?",
+      "options": [
+        "Use a soft toothbrush",
+        "Take aspirin for pain",
+        "Get IM injections freely",
+        "Ignore dark stools"
+      ],
+      "answer": "A",
+      "rationale": "Use a soft toothbrush, avoid aspirin and IM injections, and report bleeding such as black stools.",
+      "explanations": [
+        "Correct.",
+        "Avoid.",
+        "Avoid.",
+        "Report."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anticoagulants (PDF p. 126)",
+      "quote": "Use of soft toothbrush"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which drug level is monitored for a client on theophylline?",
+      "options": [
+        "Serum theophylline",
+        "Serum digoxin",
+        "Serum lithium",
+        "Serum glucose"
+      ],
+      "answer": "A",
+      "rationale": "Theophylline has a narrow therapeutic range, so serum levels are monitored.",
+      "explanations": [
+        "Correct.",
+        "Digoxin.",
+        "Lithium.",
+        "Not specific."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Bronchodilators (PDF p. 128)",
+      "quote": "Monitor theophylline levels"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "After an oral mucolytic, what should the client avoid right away?",
+      "options": [
+        "Drinking fluids",
+        "Deep breathing",
+        "Coughing",
+        "Walking"
+      ],
+      "answer": "A",
+      "rationale": "Take no fluids directly after oral administration; otherwise increase overall fluid intake.",
+      "explanations": [
+        "Correct.",
+        "Encouraged.",
+        "Encouraged.",
+        "Allowed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Mucolytics (PDF p. 129)",
+      "quote": "Take no fluids directly after oral administration"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "How long before allergy skin testing should antihistamines be stopped?",
+      "options": [
+        "4 days",
+        "1 hour",
+        "1 month",
+        "Not needed"
+      ],
+      "answer": "A",
+      "rationale": "Discontinue antihistamines four days before allergy skin testing to avoid false negatives.",
+      "explanations": [
+        "Correct.",
+        "Too short.",
+        "Too long.",
+        "Needed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Antihistamines (PDF p. 130)",
+      "quote": "Discontinue four days before skin testing for allergies"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "When a client uses both a bronchodilator and a steroid inhaler, which is used first?",
+      "options": [
+        "Bronchodilator",
+        "Steroid",
+        "Either",
+        "Both at once"
+      ],
+      "answer": "A",
+      "rationale": "Give the bronchodilator first to open airways, then the steroid; rinse the mouth after the steroid.",
+      "explanations": [
+        "Correct.",
+        "Second.",
+        "Order matters.",
+        "Not done."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anti-inflammatory Drugs (PDF p. 131)",
+      "quote": "Give bronchodilators first before steroids"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Why should the client rinse the mouth after a steroid inhaler?",
+      "options": [
+        "To prevent oral thrush",
+        "To improve taste",
+        "To clean the device",
+        "No reason"
+      ],
+      "answer": "A",
+      "rationale": "Rinsing after a steroid inhaler reduces oral candidiasis.",
+      "explanations": [
+        "Correct.",
+        "Not the reason.",
+        "Not the reason.",
+        "Has a reason."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Anti-inflammatory Drugs (PDF p. 131)",
+      "quote": "Rinse mouth after using steroid inhaler"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client on thyroid replacement should report which pulse?",
+      "options": [
+        "Over 100 beats/min",
+        "60 beats/min",
+        "80 beats/min",
+        "72 beats/min"
+      ],
+      "answer": "A",
+      "rationale": "Report a pulse over 100 and toxicity signs such as chest pain, palpitations, and nervousness.",
+      "explanations": [
+        "Correct.",
+        "Normal.",
+        "Normal.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Thyroid Agents (PDF p. 133)",
+      "quote": "Monitor pulse rate; report pulse rate over 100"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client on an antithyroid drug should avoid OTC products containing:",
+      "options": [
+        "Iodine",
+        "Calcium",
+        "Vitamin C",
+        "Zinc"
+      ],
+      "answer": "A",
+      "rationale": "Antithyroid therapy clients avoid OTC drugs containing iodine.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anti-hyperthyroid Agents (PDF p. 133)",
+      "quote": "Avoid OTC drugs containing iodine"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "How is response to ADH (vasopressin) therapy for diabetes insipidus monitored?",
+      "options": [
+        "Intake and output",
+        "Blood glucose",
+        "Thyroid levels",
+        "Hearing"
+      ],
+      "answer": "A",
+      "rationale": "ADH helps reabsorb water; I&O and BP show response.",
+      "explanations": [
+        "Correct.",
+        "Not specific.",
+        "Not related.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, ADH (PDF p. 134)",
+      "quote": "Monitor response to therapy: I&O, blood pressure"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client on a loop diuretic should report which change?",
+      "options": [
+        "Changes in hearing",
+        "Better sleep",
+        "Increased appetite",
+        "Darker hair"
+      ],
+      "answer": "A",
+      "rationale": "Loop diuretics can be ototoxic; report hearing changes and change positions slowly.",
+      "explanations": [
+        "Correct.",
+        "Not related.",
+        "Not related.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Diuretics (PDF p. 134)",
+      "quote": "Report changes in hearing"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which teaching applies to sulfonamides for UTI?",
+      "options": [
+        "Increase fluids and avoid sun",
+        "Limit fluids",
+        "Sunbathe to heal",
+        "Stop when better"
+      ],
+      "answer": "A",
+      "rationale": "Increase fluids (prevent crystalluria) and avoid direct sunlight.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Photosensitive.",
+        "Complete course."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Sulfonamides (PDF p. 135)",
+      "quote": "Avoid direct sunlight"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A transplant client on immunosuppressants should report which early?",
+      "options": [
+        "Fever or sore throat",
+        "Hair growth",
+        "Increased appetite",
+        "Mild weight gain"
+      ],
+      "answer": "A",
+      "rationale": "Report early signs of infection such as fever and sore throat; hirsutism is reversible.",
+      "explanations": [
+        "Correct.",
+        "Expected, reversible.",
+        "Not urgent.",
+        "Not urgent."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Immunosuppressants (PDF p. 135)",
+      "quote": "Report early signs of infection (fever, sore throat)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Why should nitrofurantoin tablets not be crushed?",
+      "options": [
+        "They stain teeth",
+        "They taste sweet",
+        "They lose color",
+        "They expire"
+      ],
+      "answer": "A",
+      "rationale": "Nitrofurantoin stains teeth; dilute the suspension and rinse the mouth after.",
+      "explanations": [
+        "Correct.",
+        "Not the reason.",
+        "Not the reason.",
+        "Not the reason."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Anti-infectives (PDF p. 136)",
+      "quote": "Do not crush pill because it stains teeth"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Tetracycline should be avoided in which client?",
+      "options": [
+        "Young children",
+        "Adult men",
+        "Older adults",
+        "Teens over 16"
+      ],
+      "answer": "A",
+      "rationale": "Tetracyclines are not for young children or the last half of pregnancy (tooth staining, bone effects).",
+      "explanations": [
+        "Correct.",
+        "May use.",
+        "May use.",
+        "May use."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anti-infectives (PDF p. 137)",
+      "quote": "Not for young children or in last half of pregnancy"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which teaching applies to fluoroquinolones like ciprofloxacin?",
+      "options": [
+        "Avoid sunlight",
+        "Take with antacids",
+        "Drive soon after",
+        "Double missed doses"
+      ],
+      "answer": "A",
+      "rationale": "Fluoroquinolones cause photosensitivity and dizziness; avoid sun and hazardous activities.",
+      "explanations": [
+        "Correct.",
+        "Reduces absorption.",
+        "Avoid.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anti-infectives (PDF p. 137)",
+      "quote": "Fluoroquinolones: Avoid hazardous activities; avoid sunlight"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which sign suggests superinfection during antibiotic therapy?",
+      "options": [
+        "Sore throat, fever, fatigue",
+        "Normal appetite",
+        "Clear urine",
+        "Better energy"
+      ],
+      "answer": "A",
+      "rationale": "Monitor for superinfection signs such as sore throat, fever, and fatigue.",
+      "explanations": [
+        "Correct.",
+        "Normal.",
+        "Normal.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Anti-infectives (PDF p. 138)",
+      "quote": "Monitor for signs of superinfection: sore throat, fever, fatigue"
+    }
+  ]
+}

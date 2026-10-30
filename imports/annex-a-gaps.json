@@ -1,0 +1,225 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP V", "topic": "Therapeutic Communication", "situation": "",
+      "stem": "A client tells the nurse, 'I don't want to talk to you. You're only the nurse. I'll wait for my doctor.' Which response is MOST therapeutic?",
+      "options": ["'I'm a licensed professional, and I know a lot.'", "'You'd rather talk with your doctor?'", "'Your doctor is very busy today.'", "'Fine, I'll leave you alone then.'"],
+      "answer": "B",
+      "rationale": "Reflecting the client's statement sends the feeling back for validation and keeps the focus on the client's wish to talk with the doctor. Defensive replies and withdrawing block communication.",
+      "explanations": ["A defensive response.", "Correct: reflection keeps communication open.", "Gives an excuse and dismisses the client's need.", "Withdrawal reinforces the behavior and ends communication."],
+      "difficulty": "Easy", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 1170)",
+      "quote": "The nurse uses techniques of therapeutic communication to reflect the client’s statement"
+    },
+    {
+      "subject": "NP V", "topic": "Therapeutic Communication", "situation": "",
+      "stem": "A client says, 'I don't do anything right. I'm such a loser.' Which is the nurse's MOST therapeutic response?",
+      "options": ["'You do things right all the time.'", "'Can we talk about something else?'", "'You feel you don't do anything right?'", "'Everyone feels that way sometimes.'"],
+      "answer": "C",
+      "rationale": "Restating the client's words gives the client a chance to say more, so the nurse learns what the client means. Reassurance, changing the subject, and generalizing close off the conversation.",
+      "explanations": ["False reassurance that disagrees with the client.", "Changes the subject.", "Correct: restating invites the client to elaborate.", "Minimizes the client's feelings."],
+      "difficulty": "Easy", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 1173)",
+      "quote": "Option 1 provides the client with the opportunity to verbalize."
+    },
+    {
+      "subject": "NP V", "topic": "Therapeutic Communication", "situation": "",
+      "stem": "A client who has just learned of kidney failure says, 'This means I will die very soon.' Which response by the nurse is BEST?",
+      "options": ["'You're worried that you are going to die soon?'", "'Why do you think you will die soon?'", "'Don't worry; dialysis will take care of it.'", "'Many people live long lives with kidney failure.'"],
+      "answer": "A",
+      "rationale": "Reflection clarifies the client's concern and encourages them to express their feelings. 'Why' questions demand explanations, and reassurance denies the client's fear.",
+      "explanations": ["Correct: reflection encourages expression of feelings.", "'Why' questions put the client on the defensive.", "False reassurance.", "Denies the client's concern."],
+      "difficulty": "Moderate", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 1195)",
+      "quote": "uses the therapeutic communication technique of reflection, and it both clarifies and encourages the further expression of the client’s feelings."
+    },
+    {
+      "subject": "NP V", "topic": "Documentation in Psychiatric Nursing", "situation": "",
+      "stem": "A client is found sitting on the floor. The nurse ensures the client's safety, completes an incident report, and notifies the physician. What should the nurse do NEXT?",
+      "options": ["Staple the incident report to the client's chart", "Document the incident objectively in the client's record", "Give the client a copy of the incident report", "Write 'incident report filed' in the nurse's notes"],
+      "answer": "B",
+      "rationale": "The nurse documents the event completely and objectively in the client's record. The incident report is a confidential internal quality document; it is not copied, placed in the chart, or mentioned in the notes.",
+      "explanations": ["The report never goes into the chart.", "Correct: objective documentation in the record.", "The report is internal and is not copied.", "Mentioning the report in the chart is inappropriate."],
+      "difficulty": "Moderate", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 633)",
+      "quote": "The incident report is a confidential, privileged, and internal document used to improve client safety and quality of care"
+    },
+    {
+      "subject": "NP V", "topic": "Documentation in Psychiatric Nursing", "situation": "",
+      "stem": "Which entry on an incident report about a client's fall is written CORRECTLY?",
+      "options": ["'The aide left the side rails down, causing the fall.'", "'The client is probably confused from the new drug.'", "'The client fell because the floor was poorly cleaned.'", "'Client found on floor beside bed; states, I slipped.'"],
+      "answer": "D",
+      "rationale": "An incident report records objective facts: what was seen, what the client said, who was involved, and what was done. It does not assign blame or give opinions.",
+      "explanations": ["Assigns blame.", "States an opinion as fact.", "Assumes a cause the nurse did not witness.", "Correct: an objective observation plus the client's own words."],
+      "difficulty": "Moderate", "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 615)",
+      "quote": "An incident report is a tool used by health care facilities to document situations that have caused harm or have the potential to cause harm"
+    },
+    {
+      "subject": "NP V", "topic": "Collaboration & Teamwork", "situation": "",
+      "stem": "Which client is MOST appropriate to assign to a nursing aide (unlicensed assistive personnel)?",
+      "options": ["A client who needs frequent ambulation", "A client who needs a sterile dressing change", "A client on a bowel program needing a rectal suppository", "A newly admitted client needing an initial assessment"],
+      "answer": "A",
+      "rationale": "Assignments match each worker's job description and competence. Ambulation can be done by an aide; medications, sterile procedures, and assessment need a licensed nurse.",
+      "explanations": ["Correct: ambulation is within an aide's role.", "Sterile dressing changes need a licensed nurse.", "Giving medication needs a licensed nurse.", "Assessment cannot be delegated."],
+      "difficulty": "Easy", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 644)",
+      "quote": "The client described in option 2 has needs, frequent ambulation, that can be met by UAP."
+    },
+    {
+      "subject": "NP V", "topic": "Equipment for High-Acuity & Emergency Care", "situation": "",
+      "stem": "A client with ARDS is placed on a CPAP face mask. Which action makes the therapy effective?",
+      "options": ["Applying the mask loosely so the client is comfortable", "Removing the mask every 15 minutes", "Fitting the mask snugly over the nose and mouth", "Placing the mask over the mouth only"],
+      "answer": "C",
+      "rationale": "The CPAP mask must fit snugly over the nose and mouth to keep positive pressure in the airways. A loose fit or frequent removal loses the pressure.",
+      "explanations": ["A loose fit loses the positive pressure.", "Frequent removal interrupts the therapy.", "Correct: a snug seal maintains airway pressure.", "The mask must cover the nose and mouth."],
+      "difficulty": "Moderate", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 433)",
+      "quote": "The CPAP face mask must be applied over the nose and mouth with a snug fit"
+    },
+    {
+      "subject": "NP V", "topic": "Equipment for High-Acuity & Emergency Care", "situation": "",
+      "stem": "A central venous catheter has just been inserted. Before starting the IV infusion, what is the nurse's PRIORITY?",
+      "options": ["Assessing the client's pain level", "Taking the client's temperature", "Checking the chest x-ray result", "Monitoring the blood pressure"],
+      "answer": "C",
+      "rationale": "Central line insertion can puncture the lung and cause a pneumothorax. A chest x-ray detects this and confirms catheter tip placement before IV therapy begins.",
+      "explanations": ["Important, but not the priority safety check.", "Infection would not show this early.", "Correct: rules out pneumothorax and confirms placement.", "Important, but secondary to confirming placement."],
+      "difficulty": "Moderate", "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 200)",
+      "quote": "Assessing the results of a chest radiograph is one of the best methods to determine if this complication has occurred"
+    },
+    {
+      "subject": "NP V", "topic": "Equipment for High-Acuity & Emergency Care", "situation": "",
+      "stem": "The water-seal chamber of a client's chest drainage system rises and falls with each breath. What should the nurse do?",
+      "options": ["Milk the tubing to remove a clot", "Clamp the chest tube right away", "Notify the physician of an air leak", "Document the finding as expected"],
+      "answer": "D",
+      "rationale": "Fluctuation (tidaling) in the water-seal chamber is normal during breathing until the lung re-expands. Its absence may mean an occluded tube or a re-expanded lung; continuous bubbling suggests an air leak.",
+      "explanations": ["Milking is not routinely done and is not needed here.", "Clamping can cause a tension pneumothorax.", "Continuous bubbling, not tidaling, suggests an air leak.", "Correct: tidaling is a normal finding."],
+      "difficulty": "Moderate", "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 323)",
+      "quote": "Fluctuations (tidaling) in the water seal chamber are normal during inhalation and exhalation"
+    },
+    {
+      "subject": "NP III", "topic": "Quality Improvement & Research", "situation": "",
+      "stem": "During a variance analysis of critical paths, which finding shows the need for further action?",
+      "options": ["The client was discharged a day earlier than planned", "The client could not walk on day 2 as the path expected", "The client's pain was controlled as scheduled", "The client finished discharge teaching on time"],
+      "answer": "B",
+      "rationale": "A variance is a deviation from the critical path. A negative variance, such as a missed expected outcome, needs action to keep the client on track.",
+      "explanations": ["A positive variance; no corrective action needed.", "Correct: a negative variance needs follow-up.", "Outcome met as planned.", "Outcome met as planned."],
+      "difficulty": "Moderate", "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 643)",
+      "quote": "Variances are actual deviations or detours from the critical paths."
+    },
+    {
+      "subject": "NP III", "topic": "Quality Improvement & Research", "situation": "",
+      "stem": "How often is variance analysis done for clients on critical paths?",
+      "options": ["Continuously throughout the stay", "Once on admission", "Every third day of hospitalization", "Only on the day of discharge"],
+      "answer": "A",
+      "rationale": "Variance analysis is continuous: caregivers keep comparing client outcomes with the critical path so that negative variances are caught early.",
+      "explanations": ["Correct: monitoring is continuous.", "A single check misses later variances.", "Intermittent checks delay detection.", "Too late to correct problems."],
+      "difficulty": "Easy", "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 677)",
+      "quote": "Variance analysis occurs continually as the case manager and other caregivers monitor client outcomes against critical paths."
+    },
+    {
+      "subject": "NP IV", "topic": "Health Education", "situation": "",
+      "stem": "A client newly diagnosed with diabetes tells the home care nurse, 'I'm so frustrated with all these insulin lessons.' What should the nurse do FIRST?",
+      "options": ["Continue the lesson to finish on schedule", "Give the insulin for the client this time", "Refer the client back to the physician", "Find out what is causing the frustration"],
+      "answer": "D",
+      "rationale": "Learning is blocked until the cause of the frustration is addressed. The nurse identifies it before going on with teaching or involving the physician.",
+      "explanations": ["Pushing on blocks learning further.", "A short-term fix that does not build self-care.", "Premature before assessing the problem.", "Correct: assess the barrier to learning first."],
+      "difficulty": "Easy", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 1196)",
+      "quote": "The home care nurse must determine what is causing the client’s frustration."
+    },
+    {
+      "subject": "NP IV", "topic": "Collaboration & Teamwork", "situation": "",
+      "stem": "A group of staff nurses resists a new method of assigning nurses to units. What should the nurse manager do FIRST?",
+      "options": ["Implement the change anyway and ignore complaints", "Hold face-to-face meetings to discuss the issues", "Transfer the resisting nurses to other units", "Postpone the change indefinitely"],
+      "answer": "B",
+      "rationale": "Face-to-face meetings let staff voice their feelings, identify problems, and develop strategies together, which addresses the resistance directly.",
+      "explanations": ["Ignoring resistance does not solve it.", "Correct: open communication addresses resistance.", "Punitive and does not solve the problem.", "Avoidance leaves the problem unresolved."],
+      "difficulty": "Moderate", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 679)",
+      "quote": "Face-to-face meetings to address the issue at hand will allow verbalization of feelings, identification of problems and issues"
+    },
+    {
+      "subject": "NP IV", "topic": "Reporting & Recording", "situation": "",
+      "stem": "A nurse manager plans to change the unit's documentation system. What is the FIRST step in the change process?",
+      "options": ["Choose new charting forms", "Train the staff on the new system", "Identify and define the problem to be corrected", "Set a date to start the new system"],
+      "answer": "C",
+      "rationale": "The change process begins by identifying and defining the problem. If the problem is wrong, the whole plan targets the wrong thing. Goal setting and planning come next.",
+      "explanations": ["Comes after the problem is defined.", "Training comes during implementation.", "Correct: define the problem first.", "Scheduling comes later."],
+      "difficulty": "Easy", "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 686)",
+      "quote": "When beginning the change process, the nurse should identify and define the problem that needs improvement or correction."
+    },
+    {
+      "subject": "NP IV", "topic": "Personal & Professional Development", "situation": "",
+      "stem": "A home care nurse disapproves of a client's lifestyle and leaves the home of a client with HIV without giving care. Which statement about the nurse's action is accurate?",
+      "options": ["The nurse breached the duty to give nondiscriminatory care", "Personal autonomy allows the nurse to leave", "The nurse acted correctly to avoid conflict", "Any personal belief justifies refusing care"],
+      "answer": "A",
+      "rationale": "Nurses must care for all clients without discrimination. Personal autonomy does not override the client's rights, and refusal based on personal disapproval of a lifestyle is not acceptable.",
+      "explanations": ["Correct: the nurse failed the duty to care without discrimination.", "Autonomy does not apply when it harms the client's rights.", "Abandoning the client is not conflict management.", "Personal objections to a lifestyle are not valid grounds."],
+      "difficulty": "Moderate", "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed. (PDF p. 598)",
+      "quote": "The nurse has a duty to provide care to all clients in a nondiscriminatory manner."
+    },
+    {
+      "subject": "NP II", "topic": "Theories of Growth and Development", "situation": "",
+      "stem": "According to Erikson, which nursing action BEST supports the psychosocial task of a 2-year-old?",
+      "options": ["Letting the toddler choose between two shirts", "Dressing the toddler quickly to save time", "Praising the toddler for sharing toys", "Encouraging the toddler to join group games"],
+      "answer": "A",
+      "rationale": "Toddlers are in Erikson's stage of autonomy versus shame and doubt. Offering simple, limited choices builds a sense of autonomy.",
+      "explanations": ["Correct: limited choices foster autonomy.", "Doing everything for the toddler limits autonomy.", "Sharing is not yet expected; toddlers play in parallel.", "Cooperative group play fits older children."],
+      "difficulty": "Easy", "bloom": "Applying",
+      "source": "Erikson's psychosocial theory (standard developmental theory; no excerpt in your materials yet — please verify)",
+      "quote": ""
+    },
+    {
+      "subject": "NP II", "topic": "Theories of Growth and Development", "situation": "",
+      "stem": "A 10-month-old searches under a blanket for a toy that was just hidden. In Piaget's theory, this shows:",
+      "options": ["Conservation", "Object permanence", "Egocentrism", "Abstract reasoning"],
+      "answer": "B",
+      "rationale": "Object permanence, knowing an object still exists when out of sight, develops in Piaget's sensorimotor stage (birth to 2 years).",
+      "explanations": ["Conservation develops in the concrete operational stage.", "Correct: a sensorimotor-stage achievement.", "Egocentrism is typical of the preoperational stage.", "Abstract reasoning belongs to formal operations."],
+      "difficulty": "Easy", "bloom": "Understanding",
+      "source": "Piaget's cognitive development theory (standard developmental theory; no excerpt in your materials yet — please verify)",
+      "quote": ""
+    },
+    {
+      "subject": "NP II", "topic": "Theories of Growth and Development", "situation": "",
+      "stem": "A 4-year-old boy says he will marry his mother when he grows up. According to Freud, this child is in which stage?",
+      "options": ["Oral", "Anal", "Phallic", "Latency"],
+      "answer": "C",
+      "rationale": "In Freud's phallic stage (about 3 to 6 years), the child is attached to the opposite-sex parent (the Oedipus or Electra complex).",
+      "explanations": ["The oral stage is infancy.", "The anal stage is the toddler years.", "Correct: the phallic stage, with the Oedipus complex.", "Latency is the school-age period."],
+      "difficulty": "Moderate", "bloom": "Understanding",
+      "source": "Freud's psychosexual theory (standard developmental theory; no excerpt in your materials yet — please verify)",
+      "quote": ""
+    },
+    {
+      "subject": "NP I", "topic": "Utilization of Research", "situation": "",
+      "stem": "A nurse studies whether home-visit breastfeeding counseling increases exclusive breastfeeding rates in a barangay. What is the DEPENDENT variable?",
+      "options": ["Home-visit breastfeeding counseling", "The barangay where the study is done", "The number of home visits made", "The exclusive breastfeeding rate"],
+      "answer": "D",
+      "rationale": "The dependent variable is the outcome being measured (the exclusive breastfeeding rate). The independent variable is the intervention (counseling).",
+      "explanations": ["This is the independent variable.", "The setting is not a variable here.", "This describes the intervention's dose.", "Correct: the measured outcome."],
+      "difficulty": "Moderate", "bloom": "Analyzing",
+      "source": "Basic research design principles (no excerpt in your materials yet — please verify)",
+      "quote": ""
+    },
+    {
+      "subject": "NP I", "topic": "Utilization of Research", "situation": "",
+      "stem": "Halfway through a community survey, a respondent says she no longer wants to take part. What should the nurse researcher do?",
+      "options": ["Respect her decision to withdraw without penalty", "Remind her that she already signed the consent form", "Finish the interview quickly first", "Offer extra incentives so she will continue"],
+      "answer": "A",
+      "rationale": "Under respect for persons, research participants may withdraw at any time without penalty. Signed consent does not bind them to continue.",
+      "explanations": ["Correct: the right to withdraw is part of informed consent.", "Consent can be withdrawn at any time.", "Continuing violates her autonomy.", "Incentives to continue are coercive."],
+      "difficulty": "Easy", "bloom": "Applying",
+      "source": "Research ethics: respect for persons and informed consent (no excerpt in your materials yet — please verify)",
+      "quote": ""
+    }
+  ]
+}

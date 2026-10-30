@@ -1,0 +1,509 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which retinal cells are responsible for night vision?",
+      "options": [
+        "Rods",
+        "Cones",
+        "Macula",
+        "Choroid"
+      ],
+      "answer": "A",
+      "rationale": "Rods: night vision; cones: color and bright light; macula: central vision.",
+      "explanations": [
+        "Correct.",
+        "Color.",
+        "Central.",
+        "Vascular."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Anatomy of the Eye (PDF p. 472)",
+      "quote": "Rods - responsible for night vision"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A visual acuity of 20/200 means the client sees at 20 feet what a normal eye sees at:",
+      "options": [
+        "200 feet",
+        "20 feet",
+        "2 feet",
+        "100 feet"
+      ],
+      "answer": "A",
+      "rationale": "Top number is test distance; bottom is distance a normal eye sees the same line.",
+      "explanations": [
+        "Correct.",
+        "Normal.",
+        "Incorrect.",
+        "Incorrect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Snellen Chart (PDF p. 472)",
+      "quote": "A person whose vision is 20/200 can see an object from 20 feet away"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Normal intraocular pressure is:",
+      "options": [
+        "10–21 mm Hg",
+        "30–40 mm Hg",
+        "0–5 mm Hg",
+        "50 mm Hg"
+      ],
+      "answer": "A",
+      "rationale": "Tonometry measures IOP; normal 10–21 mm Hg.",
+      "explanations": [
+        "Correct.",
+        "Glaucoma.",
+        "Low.",
+        "High."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Tonometer (PDF p. 472)",
+      "quote": "Normal IOP is 10-21 mmHg"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which test screens for macular degeneration?",
+      "options": [
+        "Amsler grid",
+        "Ishihara plates",
+        "Snellen chart",
+        "Tonometry"
+      ],
+      "answer": "A",
+      "rationale": "Wavy or missing lines on the Amsler grid suggest macular problems.",
+      "explanations": [
+        "Correct.",
+        "Color.",
+        "Acuity.",
+        "IOP."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Amsler Grid (PDF p. 473)",
+      "quote": "Test often used for patients with macular problems"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Legal blindness is best-corrected visual acuity of:",
+      "options": [
+        "20/200 or worse",
+        "20/40",
+        "20/20",
+        "20/70"
+      ],
+      "answer": "A",
+      "rationale": "Legal blindness: BCVA not exceeding 20/200 in the better eye.",
+      "explanations": [
+        "Correct.",
+        "Mild.",
+        "Normal.",
+        "Low vision."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Eye Terms (PDF p. 473)",
+      "quote": "Legal Blindness- BCVA that does not exceed 20/200"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Removal of the entire eye and part of the optic nerve is:",
+      "options": [
+        "Enucleation",
+        "Evisceration",
+        "Exenteration",
+        "Keratoplasty"
+      ],
+      "answer": "A",
+      "rationale": "Evisceration removes contents; exenteration removes eye, lids, and orbit contents.",
+      "explanations": [
+        "Correct.",
+        "Contents.",
+        "Orbit.",
+        "Cornea."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Eye Terms (PDF p. 473)",
+      "quote": "Enucleation is the removal of the entire eye and part of the optic nerve"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How should a client manage a stye?",
+      "options": [
+        "Warm soaks, no squeezing",
+        "Squeeze it out",
+        "Cold packs only",
+        "Rub the eye"
+      ],
+      "answer": "A",
+      "rationale": "Warm soaks promote drainage; good hygiene; do not squeeze.",
+      "explanations": [
+        "Correct.",
+        "Spreads infection.",
+        "Not best.",
+        "Spreads."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Hordeolum (PDF p. 474)",
+      "quote": "Teach patient how to clean eyelid margins and not to squeeze the stye."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which compress is used for viral conjunctivitis?",
+      "options": [
+        "Cold",
+        "Warm",
+        "Hot",
+        "None ever"
+      ],
+      "answer": "A",
+      "rationale": "Cold compresses for viral; warm soaks for bacterial crusting.",
+      "explanations": [
+        "Correct.",
+        "Bacterial.",
+        "Not this.",
+        "Incorrect."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Conjunctivitis (PDF p. 474)",
+      "quote": "Cold compress for viral conjunctivitis"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "What is the most important measure to prevent spread of conjunctivitis?",
+      "options": [
+        "Hand washing",
+        "Wearing contacts",
+        "Sharing towels",
+        "Rubbing eyes"
+      ],
+      "answer": "A",
+      "rationale": "Good hand washing prevents spread.",
+      "explanations": [
+        "Correct.",
+        "Avoid.",
+        "Spreads.",
+        "Spreads."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Conjunctivitis (PDF p. 474)",
+      "quote": "Urge good hand washing to prevent spread of infection"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which test detects corneal abrasion?",
+      "options": [
+        "Fluorescein staining",
+        "Tonometry",
+        "Amsler grid",
+        "Ishihara"
+      ],
+      "answer": "A",
+      "rationale": "Fluorescein stains epithelial defects, seen with Wood's or slit lamp.",
+      "explanations": [
+        "Correct.",
+        "IOP.",
+        "Macula.",
+        "Color."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Corneal Abrasion (PDF p. 474)",
+      "quote": "Fluorescein staining"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with uveitis on topical corticosteroids should have follow-up for:",
+      "options": [
+        "Intraocular pressure",
+        "Blood glucose only",
+        "Hearing",
+        "Liver tests"
+      ],
+      "answer": "A",
+      "rationale": "Corticosteroids can increase IOP.",
+      "explanations": [
+        "Correct.",
+        "Not main.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Iritis/Uveitis (PDF p. 475)",
+      "quote": "corticosteroids can increase I0P"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Gradual, painless blurring of vision with glare and a cloudy pupil suggests:",
+      "options": [
+        "Cataract",
+        "Acute glaucoma",
+        "Retinal detachment",
+        "Conjunctivitis"
+      ],
+      "answer": "A",
+      "rationale": "Cataract: lens opacity, painless gradual loss, glare.",
+      "explanations": [
+        "Correct.",
+        "Painful.",
+        "Floaters, curtain.",
+        "Red, discharge."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cataract (PDF p. 475)",
+      "quote": "Gradual and painless loss of vision"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After cataract surgery, which instruction is correct?",
+      "options": [
+        "Avoid bending at the waist",
+        "Lie on the operative side",
+        "Cough to clear lungs",
+        "Remove eye shield at night"
+      ],
+      "answer": "A",
+      "rationale": "Avoid bending, coughing, and straining; lie on unaffected side; wear shield.",
+      "explanations": [
+        "Correct.",
+        "Unaffected side.",
+        "Raises IOP.",
+        "Wear it."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Cataract Nursing (PDF p. 476)",
+      "quote": "Advise patient against rapid movement or bending from the waist"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Sudden severe eye pain and restlessness after cataract surgery may indicate:",
+      "options": [
+        "Increased IOP",
+        "Normal healing",
+        "Dry eye",
+        "Allergy"
+      ],
+      "answer": "A",
+      "rationale": "Report sudden pain with restlessness and rising pulse.",
+      "explanations": [
+        "Correct.",
+        "Not normal.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cataract Nursing (PDF p. 476)",
+      "quote": "Notify health care provider of sudden pain associated with restlessness and increased pulse"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Sudden severe eye pain, halos, nausea, and a fixed semi-dilated pupil suggest:",
+      "options": [
+        "Angle-closure glaucoma",
+        "Cataract",
+        "Open-angle glaucoma",
+        "Stye"
+      ],
+      "answer": "A",
+      "rationale": "Acute angle closure is an emergency with very high IOP.",
+      "explanations": [
+        "Correct.",
+        "Painless.",
+        "Gradual.",
+        "Lid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Acute Glaucoma (PDF p. 477)",
+      "quote": "Pupil is vertically oval, fixed in a semi-dilated position"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Pilocarpine treats glaucoma by:",
+      "options": [
+        "Increasing aqueous outflow",
+        "Dilating the pupil",
+        "Increasing aqueous production",
+        "Raising IOP"
+      ],
+      "answer": "A",
+      "rationale": "Miotics constrict the pupil and open the trabecular meshwork for outflow.",
+      "explanations": [
+        "Correct.",
+        "Constricts.",
+        "Opposite.",
+        "Lowers."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Glaucoma Management (PDF p. 477)",
+      "quote": "topical miotic agents (increase the outflow of aqueous humor"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client with glaucoma should avoid which drug class unless approved?",
+      "options": [
+        "Anticholinergics",
+        "Miotics",
+        "Beta-blocker eyedrops",
+        "Carbonic anhydrase inhibitors"
+      ],
+      "answer": "A",
+      "rationale": "Anticholinergics and corticosteroids may raise IOP.",
+      "explanations": [
+        "Correct.",
+        "Treatment.",
+        "Treatment.",
+        "Treatment."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Glaucoma Teaching (PDF p. 477)",
+      "quote": "avoid use of medications that may increase IOP, such as corticosteroids and anticholinergics"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which finding is typical of chronic open-angle glaucoma?",
+      "options": [
+        "Gradual peripheral vision loss",
+        "Sudden severe pain",
+        "Central vision loss first",
+        "Red eye with pus"
+      ],
+      "answer": "A",
+      "rationale": "Open-angle glaucoma: painless, progressive peripheral field loss.",
+      "explanations": [
+        "Correct.",
+        "Acute.",
+        "Macular.",
+        "Infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Open-Angle Glaucoma (PDF p. 477)",
+      "quote": "Slowly developing impairment of peripheral vision"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client with open-angle glaucoma feels fine and wants to stop eyedrops. The nurse explains:",
+      "options": [
+        "Use is lifelong to prevent damage",
+        "Stop if no symptoms",
+        "Use only when pain occurs",
+        "Drops cure it"
+      ],
+      "answer": "A",
+      "rationale": "Glaucoma is chronic; IOP can damage the eye without symptoms.",
+      "explanations": [
+        "Correct.",
+        "Damage.",
+        "Damage.",
+        "No cure."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Open-Angle Glaucoma Nursing (PDF p. 477)",
+      "quote": "although he may be asymptomatic, IOP could still be elevated"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Floaters and a curtain-like shadow across the visual field suggest:",
+      "options": [
+        "Retinal detachment",
+        "Cataract",
+        "Conjunctivitis",
+        "Stye"
+      ],
+      "answer": "A",
+      "rationale": "Retinal detachment: floaters, flashes, veil; surgical emergency.",
+      "explanations": [
+        "Correct.",
+        "Gradual blur.",
+        "Red eye.",
+        "Lid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Retinal Detachment (PDF p. 478)",
+      "quote": "A sensation of a veil-like coating may be present"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A silicone band placed around the sclera to reattach the retina is:",
+      "options": [
+        "Scleral buckling",
+        "Pneumatic retinopexy",
+        "Phacoemulsification",
+        "Iridotomy"
+      ],
+      "answer": "A",
+      "rationale": "Scleral buckle indents the sclera to bring retinal layers together.",
+      "explanations": [
+        "Correct.",
+        "Gas bubble.",
+        "Cataract.",
+        "Glaucoma."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Retinal Detachment Surgery (PDF p. 478)",
+      "quote": "Scleral Buckling"
+    }
+  ]
+}

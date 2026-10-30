@@ -1,0 +1,317 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Who formulated the concept of the asylum as a safe refuge?",
+      "options": [
+        "Pinel and Tuke",
+        "Emil Kraepelin",
+        "Eugene Bleuler",
+        "Sigmund Freud"
+      ],
+      "answer": "A",
+      "rationale": "Pinel and Tuke formulated asylum; Kraepelin classified disorders; Bleuler coined 'schizophrenia'.",
+      "explanations": [
+        "Correct.",
+        "Classification.",
+        "Schizophrenia.",
+        "Psychoanalysis."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Historical Perspectives (PDF p. 236)",
+      "quote": "Formulated the concept of asylum (safe refuge)"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Who coined the term 'schizophrenia'?",
+      "options": [
+        "Eugene Bleuler",
+        "Emil Kraepelin",
+        "Dorothea Dix",
+        "Philippe Pinel"
+      ],
+      "answer": "A",
+      "rationale": "Eugene Bleuler coined schizophrenia.",
+      "explanations": [
+        "Correct.",
+        "Classification.",
+        "Advocate.",
+        "Asylum."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Historical Perspectives (PDF p. 236)",
+      "quote": "Eugene Bleuler = coined the term schizophrenia."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "What is the main tool of the psychiatric nurse?",
+      "options": [
+        "Therapeutic use of self",
+        "Medications",
+        "Restraints",
+        "Psychological tests"
+      ],
+      "answer": "A",
+      "rationale": "Therapeutic use of self, introduced by Peplau, requires self-awareness.",
+      "explanations": [
+        "Correct.",
+        "Adjunct.",
+        "Last resort.",
+        "Not main."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Therapeutic Use of Self (PDF p. 237)",
+      "quote": "Main tool used by the nurse in Psychiatric Nursing."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "In Johari's window, qualities known to others but not to oneself are the:",
+      "options": [
+        "Blind self",
+        "Open self",
+        "Hidden self",
+        "Unknown self"
+      ],
+      "answer": "A",
+      "rationale": "Quadrant II (blind) is known to others, not self; I open; III hidden; IV unknown.",
+      "explanations": [
+        "Correct.",
+        "Both know.",
+        "Only self.",
+        "No one."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Johari's Window (PDF p. 237)",
+      "quote": "Qualities known only to others, not to self"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "'Is there something you'd like to talk about?' is an example of:",
+      "options": [
+        "Broad opening",
+        "Focusing",
+        "Restating",
+        "Presenting reality"
+      ],
+      "answer": "A",
+      "rationale": "Broad openings let the client take the initiative in choosing the topic.",
+      "explanations": [
+        "Correct.",
+        "Single point.",
+        "Repeating.",
+        "Reality."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Communication Techniques (PDF p. 237)",
+      "quote": "Allowing client to take the initiative in introducing the topic"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "'Of all your concerns, which is most troublesome?' uses which technique?",
+      "options": [
+        "Focusing",
+        "Exploring",
+        "General leads",
+        "Silence"
+      ],
+      "answer": "A",
+      "rationale": "Focusing concentrates on a single point, useful when a client jumps between topics.",
+      "explanations": [
+        "Correct.",
+        "Delving more.",
+        "Encouraging.",
+        "Nonverbal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Communication Techniques (PDF p. 238)",
+      "quote": "Of all the concerns you have mentioned, Which"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "A hallucinating client says he hears voices; the nurse says, 'I hear no one else in the room.' This is:",
+      "options": [
+        "Presenting reality",
+        "Reflecting",
+        "Agreeing",
+        "Arguing"
+      ],
+      "answer": "A",
+      "rationale": "Presenting reality indicates what is real when the client misinterprets it.",
+      "explanations": [
+        "Correct.",
+        "Returns feelings.",
+        "Reinforces.",
+        "Nontherapeutic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Communication Techniques (PDF p. 239)",
+      "quote": "I see no one else in the room."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "Client: 'Should I tell the doctor?' Nurse: 'Do you think you should?' This is:",
+      "options": [
+        "Reflecting",
+        "Restating",
+        "Giving advice",
+        "Focusing"
+      ],
+      "answer": "A",
+      "rationale": "Reflecting directs the client's thoughts and feelings back to them.",
+      "explanations": [
+        "Correct.",
+        "Repeats idea.",
+        "Nontherapeutic.",
+        "Single point."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Communication Techniques (PDF p. 239)",
+      "quote": "Nurse: \"Do you think you should?\""
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "'I will sit with you a while' is an example of:",
+      "options": [
+        "Offering self",
+        "Giving recognition",
+        "Making observations",
+        "Suggesting collaboration"
+      ],
+      "answer": "A",
+      "rationale": "Offering self makes the nurse available unconditionally.",
+      "explanations": [
+        "Correct.",
+        "Acknowledging.",
+        "Perceptions.",
+        "Working together."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Communication Techniques (PDF p. 239)",
+      "quote": "I will sit with you a while."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "'I notice you are biting your lips' is an example of:",
+      "options": [
+        "Making observations",
+        "Exploring",
+        "Presenting reality",
+        "Giving information"
+      ],
+      "answer": "A",
+      "rationale": "Making observations verbalizes what the nurse perceives.",
+      "explanations": [
+        "Correct.",
+        "Delving.",
+        "Reality.",
+        "Facts."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Communication Techniques (PDF p. 239)",
+      "quote": "I notice that you are biting your"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "'What could you do to let your anger out harmlessly?' is:",
+      "options": [
+        "Formulating a plan of action",
+        "Encouraging comparison",
+        "General lead",
+        "Accepting"
+      ],
+      "answer": "A",
+      "rationale": "Formulating a plan of action helps the client plan for future situations.",
+      "explanations": [
+        "Correct.",
+        "Similarities.",
+        "Encouraging.",
+        "Reception."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Communication Techniques (PDF p. 238)",
+      "quote": "What could you do to let your anger out harmlessly?"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "'Tell me whether my understanding agrees with yours' is:",
+      "options": [
+        "Consensual validation",
+        "Reflecting",
+        "Silence",
+        "Restating"
+      ],
+      "answer": "A",
+      "rationale": "Consensual validation searches for mutual understanding of word meanings.",
+      "explanations": [
+        "Correct.",
+        "Feelings.",
+        "Nonverbal.",
+        "Repeating."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Communication Techniques (PDF p. 238)",
+      "quote": "Tell me whether my understanding of it agrees with yours."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "'What seemed to lead up to this?' is:",
+      "options": [
+        "Time sequencing",
+        "Focusing",
+        "Accepting",
+        "Restating"
+      ],
+      "answer": "A",
+      "rationale": "Placing events in time sequence clarifies relationships between events.",
+      "explanations": [
+        "Correct.",
+        "Single point.",
+        "Reception.",
+        "Repeating."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Communication Techniques (PDF p. 239)",
+      "quote": "What seemed to lead up to?"
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "After tonsillectomy, which sign most strongly suggests bleeding?",
+      "options": [
+        "Frequent swallowing",
+        "Mild sore throat",
+        "Low-grade fever",
+        "Thirst"
+      ],
+      "answer": "A",
+      "rationale": "Frequent swallowing indicates blood trickling down the throat.",
+      "explanations": [
+        "Correct.",
+        "Expected.",
+        "Common.",
+        "Common."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Tonsillectomy Care (PDF p. 326)",
+      "quote": "Assess for post op bleeding such as frequent swallowing"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which food is restricted soon after tonsillectomy?",
+      "options": [
+        "Milk and ice cream",
+        "Ice chips",
+        "Cool water",
+        "Gelatin"
+      ],
+      "answer": "A",
+      "rationale": "Milk products may be restricted because they coat the throat and increase clearing.",
+      "explanations": [
+        "Correct.",
+        "Allowed.",
+        "Allowed.",
+        "Allowed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tonsillectomy Care (PDF p. 326)",
+      "quote": "Milk and milk products (ice cream and yogurt) may be restricted"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which immediate post-tonsillectomy position allows drainage from the mouth?",
+      "options": [
+        "Prone, head turned",
+        "Supine and flat",
+        "High Fowler's",
+        "Trendelenburg"
+      ],
+      "answer": "A",
+      "rationale": "Prone with head turned to the side lets secretions drain.",
+      "explanations": [
+        "Correct.",
+        "Aspiration.",
+        "Not initially.",
+        "Not indicated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tonsillectomy Care (PDF p. 326)",
+      "quote": "the most comfortable position is prone"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Severe sore throat, trismus, and drooling after tonsillitis suggest:",
+      "options": [
+        "Peritonsillar abscess",
+        "Laryngitis",
+        "Allergic rhinitis",
+        "Common cold"
+      ],
+      "answer": "A",
+      "rationale": "Quinsy causes trismus, drooling, odynophagia, and possible airway obstruction.",
+      "explanations": [
+        "Correct.",
+        "Hoarseness.",
+        "Sneezing.",
+        "Mild."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Peritonsillar Abscess (PDF p. 326)",
+      "quote": "Severe sore throat, fever trismus (inability to open the mouth), and drooling."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "What is the initial sign of laryngitis?",
+      "options": [
+        "Hoarseness",
+        "Hemoptysis",
+        "Stridor",
+        "Trismus"
+      ],
+      "answer": "A",
+      "rationale": "Hoarseness is initial; aphonia and cough may follow. Rest the voice.",
+      "explanations": [
+        "Correct.",
+        "Not typical.",
+        "Severe.",
+        "Abscess."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Laryngitis (PDF p. 327)",
+      "quote": "Hoarseness of voice – initial sign"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which symptom warrants evaluation for laryngeal cancer?",
+      "options": [
+        "Hoarseness over 2 weeks",
+        "Sneezing",
+        "Mild cold",
+        "Brief sore throat"
+      ],
+      "answer": "A",
+      "rationale": "Persistent hoarseness over 2 weeks, especially in smokers and drinkers.",
+      "explanations": [
+        "Correct.",
+        "Allergy.",
+        "Viral.",
+        "Self-limited."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cancer of the Larynx (PDF p. 327)",
+      "quote": "Hoarseness of voice for more than 2 weeks"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Before a total laryngectomy, the nurse should first:",
+      "options": [
+        "Establish a communication method",
+        "Teach voice exercises",
+        "Schedule speech at day 1",
+        "Delay discussion"
+      ],
+      "answer": "A",
+      "rationale": "Total laryngectomy causes permanent voice loss; set up communication before surgery.",
+      "explanations": [
+        "Correct.",
+        "No larynx.",
+        "Not possible.",
+        "Needed now."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Laryngectomy Care (PDF p. 327)",
+      "quote": "Establish a method for communication before surgery"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Chronic bronchitis is diagnosed by a productive cough lasting:",
+      "options": [
+        "3 months/yr, 2 years",
+        "1 week only",
+        "1 month, once",
+        "6 months, once"
+      ],
+      "answer": "A",
+      "rationale": "Productive cough at least 3 months per year for 2 consecutive years.",
+      "explanations": [
+        "Correct.",
+        "Acute.",
+        "Not criteria.",
+        "Not criteria."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, COPD (PDF p. 328)",
+      "quote": "Presence of a productive cough lasting at least 3 months a year for 2 successive years"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A thin client with barrel chest, pursed-lip breathing, and minimal cough is described as a:",
+      "options": [
+        "Pink puffer (emphysema)",
+        "Blue bloater (bronchitis)",
+        "Asthmatic",
+        "Bronchiectatic"
+      ],
+      "answer": "A",
+      "rationale": "Emphysema: pink puffer, barrel chest, weight loss; bronchitis: blue bloater, productive cough.",
+      "explanations": [
+        "Correct.",
+        "Cough, cyanosis.",
+        "Wheeze episodes.",
+        "Copious sputum."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Emphysema (PDF p. 328)",
+      "quote": "Pink puffer"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which test identifies a genetic cause of emphysema?",
+      "options": [
+        "Alpha-1 antitrypsin assay",
+        "Sweat chloride test",
+        "Troponin",
+        "Mantoux test"
+      ],
+      "answer": "A",
+      "rationale": "Alpha-1 antitrypsin deficiency is a genetic cause.",
+      "explanations": [
+        "Correct.",
+        "CF.",
+        "MI.",
+        "TB."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, COPD Diagnostics (PDF p. 328)",
+      "quote": "Alpha-1-antitrypsin assay useful in identifying genetically determined deficiency in emphysema"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Why is pursed-lip breathing taught to a client with COPD?",
+      "options": [
+        "Prevents small airway collapse",
+        "Increases CO2 retention",
+        "Speeds expiration",
+        "Strengthens the diaphragm only"
+      ],
+      "answer": "A",
+      "rationale": "Pursed-lip breathing slows expiration and keeps airways open.",
+      "explanations": [
+        "Correct.",
+        "Reduces.",
+        "Slows.",
+        "Not main."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, COPD Interventions (PDF p. 329)",
+      "quote": "Pursed-lip breathing helps slow expiration, prevents collapse of small airways"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Oxygen for a client with COPD is usually given at:",
+      "options": [
+        "1–2 L/min",
+        "10 L/min",
+        "15 L/min by mask",
+        "No oxygen ever"
+      ],
+      "answer": "A",
+      "rationale": "Low-flow oxygen avoids suppressing hypoxic drive and worsening CO2 retention.",
+      "explanations": [
+        "Correct.",
+        "Too high.",
+        "Too high.",
+        "Incorrect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, COPD Interventions (PDF p. 329)",
+      "quote": "Administer low flow of oxygen (1-2L/min)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which meal plan suits a client with COPD who has weight loss?",
+      "options": [
+        "Small, frequent meals",
+        "Three large meals",
+        "Low-calorie diet",
+        "Skip breakfast"
+      ],
+      "answer": "A",
+      "rationale": "Small frequent meals and supplements improve intake without increasing dyspnea.",
+      "explanations": [
+        "Correct.",
+        "Dyspnea.",
+        "Weight loss.",
+        "Inadequate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, COPD Interventions (PDF p. 329)",
+      "quote": "Provide small frequent meals"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which asthma medication is used for quick relief of acute symptoms?",
+      "options": [
+        "Salbutamol (albuterol)",
+        "Montelukast",
+        "Inhaled corticosteroid",
+        "Salmeterol"
+      ],
+      "answer": "A",
+      "rationale": "Short-acting beta2 agonists are quick-relief; the others are long-term control.",
+      "explanations": [
+        "Correct.",
+        "Control.",
+        "Control.",
+        "Long-acting."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Asthma Pharmacology (PDF p. 329)",
+      "quote": "Short-acting beta2-adrenergic agonists"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What are the three most common symptoms of asthma?",
+      "options": [
+        "Cough, dyspnea, wheezing",
+        "Fever, rash, vomiting",
+        "Hemoptysis, clubbing, weight loss",
+        "Chest pain, syncope, edema"
+      ],
+      "answer": "A",
+      "rationale": "Cough, dyspnea, and wheezing are most common.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Bronchiectasis.",
+        "Cardiac."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Bronchial Asthma (PDF p. 329)",
+      "quote": "Three most common symptoms of asthma"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Chronic cough with copious purulent sputum, hemoptysis, and clubbing suggests:",
+      "options": [
+        "Bronchiectasis",
+        "Asthma",
+        "Laryngitis",
+        "Pleurisy"
+      ],
+      "answer": "A",
+      "rationale": "Bronchiectasis is irreversible bronchial dilation with copious purulent sputum.",
+      "explanations": [
+        "Correct.",
+        "Wheeze.",
+        "Hoarse.",
+        "Pain."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Bronchiectasis (PDF p. 330)",
+      "quote": "Chronic cough with copious amount of purulent sputum"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which technique should the family of a client with bronchiectasis learn?",
+      "options": [
+        "Postural drainage",
+        "Fluid restriction",
+        "Incentive spirometry only",
+        "Breath holding"
+      ],
+      "answer": "A",
+      "rationale": "Postural drainage and chest physiotherapy help clear secretions.",
+      "explanations": [
+        "Correct.",
+        "Thickens mucus.",
+        "Not main.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Bronchiectasis (PDF p. 330)",
+      "quote": "Educate the patient and his family in performing postural drainage"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "A gold miner with silicosis has a positive tuberculin test. The nurse anticipates:",
+      "options": [
+        "Prophylactic isoniazid",
+        "No treatment",
+        "Steroids only",
+        "Antifungal"
+      ],
+      "answer": "A",
+      "rationale": "Silicosis increases TB risk; give prophylactic INH if tuberculin-positive.",
+      "explanations": [
+        "Correct.",
+        "Risky.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Occupational Lung Diseases (PDF p. 330)",
+      "quote": "Give prophylactic isoniazid (INH) to patient with positive tuberculin test"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Tracheal deviation away from the injured side with hypotension indicates:",
+      "options": [
+        "Tension pneumothorax",
+        "Simple pneumothorax",
+        "Pleural effusion",
+        "Pleurisy"
+      ],
+      "answer": "A",
+      "rationale": "Trapped air causes mediastinal shift away from the affected side.",
+      "explanations": [
+        "Correct.",
+        "No shift.",
+        "Fluid.",
+        "Inflammation."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Tension Pneumothorax (PDF p. 331)",
+      "quote": "Tracheal deviation away from affected side in tension pneumothorax"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the immediate management of tension pneumothorax?",
+      "options": [
+        "Needle decompression",
+        "Observation",
+        "Chest physiotherapy",
+        "Bronchodilator"
+      ],
+      "answer": "A",
+      "rationale": "Immediate decompression prevents cardiovascular collapse, followed by chest tube.",
+      "explanations": [
+        "Correct.",
+        "Fatal.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tension Pneumothorax (PDF p. 331)",
+      "quote": "Immediate decompression to prevent cardiovascular collapse"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client has a sucking stab wound to the chest. The nurse's first action is to:",
+      "options": [
+        "Cover with an occlusive dressing",
+        "Remove any clots",
+        "Turn to unaffected side",
+        "Give oral fluids"
+      ],
+      "answer": "A",
+      "rationale": "Close the open wound immediately with an occlusive (petroleum) dressing.",
+      "explanations": [
+        "Correct.",
+        "Harmful.",
+        "Not first.",
+        "Not indicated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Open Pneumothorax (PDF p. 331)",
+      "quote": "Apply petroleum gauze to sucking chest wound"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "After thoracentesis for pleural effusion, the nurse should:",
+      "options": [
+        "Record amount and send to lab",
+        "Discard the fluid",
+        "Lay client flat on puncture side immediately",
+        "Encourage coughing hard"
+      ],
+      "answer": "A",
+      "rationale": "Record the amount of fluid aspirated and send it for laboratory analysis.",
+      "explanations": [
+        "Correct.",
+        "Needed.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pleural Effusion (PDF p. 332)",
+      "quote": "Record the amount of fluid aspirated and send it to the laboratory"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Sharp, knifelike chest pain worse on deep inspiration with a friction rub suggests:",
+      "options": [
+        "Pleurisy",
+        "Pleural effusion",
+        "Asthma",
+        "Emphysema"
+      ],
+      "answer": "A",
+      "rationale": "Inflamed pleural layers rub during respiration, causing localized pleuritic pain.",
+      "explanations": [
+        "Correct.",
+        "Fluid dampens.",
+        "Wheeze.",
+        "Chronic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Pleurisy (PDF p. 332)",
+      "quote": "severe, sharp, knifelike pain"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Blood in the pleural space after chest trauma is called:",
+      "options": [
+        "Hemothorax",
+        "Pneumothorax",
+        "Empyema",
+        "Chylothorax"
+      ],
+      "answer": "A",
+      "rationale": "Hemothorax may cause hidden blood loss; treated with chest tube and volume replacement.",
+      "explanations": [
+        "Correct.",
+        "Air.",
+        "Pus.",
+        "Lymph."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hemothorax (PDF p. 332)",
+      "quote": "Blood in pleural space as a result of penetrating or blunt chest trauma"
+    }
+  ]
+}

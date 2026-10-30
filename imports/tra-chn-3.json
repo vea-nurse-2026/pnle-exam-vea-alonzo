@@ -1,0 +1,533 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Nurse Ana is vaccinating infants at the RHU on immunization day.",
+      "stem": "How does Nurse Ana give BCG?",
+      "options": [
+        "0.05 mL ID, right deltoid",
+        "0.5 mL IM, thigh",
+        "0.5 mL SC, upper arm",
+        "2 drops orally"
+      ],
+      "answer": "A",
+      "rationale": "BCG for infants is 0.05 mL intradermal in the right deltoid region.",
+      "explanations": [
+        "Correct: BCG.",
+        "Pentavalent/Hep B.",
+        "Measles.",
+        "OPV."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, EPI Routine Schedule (PDF p. 93)",
+      "quote": "BCG 0.05 mL ID Right deltoid region"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Nurse Ana is vaccinating infants at the RHU on immunization day.",
+      "stem": "Where does Nurse Ana inject the hepatitis B vaccine for an infant?",
+      "options": [
+        "Right deltoid, ID",
+        "Vastus lateralis, IM",
+        "Outer upper arm, SC",
+        "Gluteus, IM"
+      ],
+      "answer": "B",
+      "rationale": "Hepatitis B and DPT-containing vaccines are 0.5 mL IM in the upper outer thigh (vastus lateralis).",
+      "explanations": [
+        "BCG site.",
+        "Correct: vastus lateralis.",
+        "Measles site.",
+        "Not used in infants."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, EPI Routine Schedule (PDF p. 93)",
+      "quote": "HEPA B 0.5 mL IM Upper outer portion of thigh (Vastus lateralis)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Nurse Ana is vaccinating infants at the RHU on immunization day.",
+      "stem": "By which route does Nurse Ana give the measles-containing vaccine?",
+      "options": [
+        "Intradermal",
+        "Intramuscular",
+        "Subcutaneous",
+        "Oral"
+      ],
+      "answer": "C",
+      "rationale": "Measles vaccine is 0.5 mL subcutaneous in the outer upper arm.",
+      "explanations": [
+        "BCG.",
+        "Pentavalent/Hep B.",
+        "Correct: subcutaneous.",
+        "OPV."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, EPI Routine Schedule (PDF p. 93)",
+      "quote": "MEASLES 0.5 mL SQ Outer portion of upper arm"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Nurse Ana is vaccinating infants at the RHU on immunization day.",
+      "stem": "What is the minimum interval between pentavalent doses?",
+      "options": [
+        "2 weeks",
+        "4 weeks",
+        "8 weeks",
+        "6 months"
+      ],
+      "answer": "B",
+      "rationale": "Pentavalent starts at 6 weeks, with 3 doses at 4-week intervals. Shorter intervals may lessen the antibody response.",
+      "explanations": [
+        "Too short.",
+        "Correct: 4 weeks.",
+        "Longer than the minimum.",
+        "Too long."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, EPI Routine Schedule (PDF p. 93)",
+      "quote": "Pentavalent 6 weeks 3 4 weeks"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "Which three micronutrient deficiencies does the DOH nutrition program target?",
+      "options": [
+        "Vitamin A, iron, iodine",
+        "Vitamin C, zinc, calcium",
+        "Vitamin D, B12, folate",
+        "Protein, fat, fiber"
+      ],
+      "answer": "A",
+      "rationale": "The common nutritional deficiencies addressed are vitamin A, iron, and iodine.",
+      "explanations": [
+        "Correct: the three targets.",
+        "Not the listed three.",
+        "Not the listed three.",
+        "Macronutrients."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nutrition Program (PDF p. 93)",
+      "quote": "Common Nutritional Deficiencies"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "Applying pit and fissure sealant to a child's molars is which type of oral intervention?",
+      "options": [
+        "Promotive",
+        "Preventive",
+        "Curative",
+        "Rehabilitative"
+      ],
+      "answer": "B",
+      "rationale": "Preventive oral interventions include oral exams, oral hygiene, pit and fissure sealant, and fluoride use. Fillings and extractions are curative.",
+      "explanations": [
+        "Health education.",
+        "Correct: preventive.",
+        "Fillings, extraction.",
+        "Not a listed class."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Oral Health Program (PDF p. 93)",
+      "quote": "Pit & Fissure Sealant Program"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "Barangay San Isidro has scattered houses. The PHN is reviewing the water supply.",
+      "stem": "The barangay uses a protected well with no distribution system. What level of water facility is this?",
+      "options": [
+        "Level I",
+        "Level II",
+        "Level III",
+        "Unapproved"
+      ],
+      "answer": "A",
+      "rationale": "Level I (point source) is a protected well or developed spring without a distribution system, suited to rural areas with scattered houses.",
+      "explanations": [
+        "Correct: point source.",
+        "Communal faucets.",
+        "House connections.",
+        "It is approved."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Approved Water Supply Facilities (PDF p. 94)",
+      "quote": "Protect well or developed spring with an outlet but without a distribution system"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "Barangay San Isidro has scattered houses. The PHN is reviewing the water supply.",
+      "stem": "The farthest Level I user should be no more than how far from the source?",
+      "options": [
+        "25 meters",
+        "100 meters",
+        "250 meters",
+        "1 kilometer"
+      ],
+      "answer": "C",
+      "rationale": "A Level I source serves 15 to 25 households, and the farthest user must be no more than 250 meters away.",
+      "explanations": [
+        "Level II limit.",
+        "Not the limit.",
+        "Correct: 250 m.",
+        "Too far."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Approved Water Supply Facilities (PDF p. 94)",
+      "quote": "Outreach must not be more than 250 meters from the farthest user"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "A water system with a reservoir, piped network, and communal faucets for 4 to 6 households each is which level?",
+      "options": [
+        "Level I",
+        "Level II",
+        "Level III",
+        "Unapproved"
+      ],
+      "answer": "B",
+      "rationale": "Level II (communal faucet system) has a piped network and communal faucets, with one faucet per 4 to 6 households and no more than 25 meters from the farthest house.",
+      "explanations": [
+        "No distribution system.",
+        "Correct: communal faucets.",
+        "Individual connections.",
+        "It is approved."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Approved Water Supply Facilities (PDF p. 94)",
+      "quote": "One faucet per 4 to 6 households"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Which water source is UNAPPROVED?",
+      "options": [
+        "Protected well",
+        "Developed spring",
+        "Communal faucet",
+        "Open dug well"
+      ],
+      "answer": "D",
+      "rationale": "Unapproved water facilities include open dug wells, unimproved springs, and wells that need priming.",
+      "explanations": [
+        "Level I.",
+        "Level I.",
+        "Level II.",
+        "Correct: unapproved."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Unapproved Water Facility (PDF p. 94)",
+      "quote": "Unimproved springs"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "When must a water supply source be disinfected?",
+      "options": [
+        "Only during outbreaks",
+        "Once every 5 years",
+        "When newly built or repaired",
+        "Only when it smells"
+      ],
+      "answer": "C",
+      "rationale": "Disinfection is required for newly constructed water supply facilities and for facilities that have been repaired or improved.",
+      "explanations": [
+        "Not only then.",
+        "Not the rule.",
+        "Correct: new or repaired.",
+        "Not the rule."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Water Quality Surveillance (PDF p. 95)",
+      "quote": "Newly constructed water supply facilities"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "A household uses a pour-flush toilet. What level of toilet facility is this?",
+      "options": [
+        "Level I",
+        "Level II",
+        "Level III",
+        "Unapproved"
+      ],
+      "answer": "A",
+      "rationale": "Level I includes non-water carriage facilities (pit latrines, reed odorless earth closets) and those needing small amounts of water (pour-flush toilets, aqua privies).",
+      "explanations": [
+        "Correct: Level I.",
+        "Water flush with septic vault.",
+        "Connected to sewerage.",
+        "It is approved."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Approved Toilet Facilities (PDF p. 95)",
+      "quote": "Toilet Facilities requiring small amount of water"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which law is the Code on Sanitation of the Philippines?",
+      "options": [
+        "PD 856",
+        "RA 9003",
+        "RA 9275",
+        "RA 8749"
+      ],
+      "answer": "A",
+      "rationale": "PD 856 is the Sanitation Code. RA 9003 is Ecological Solid Waste Management, RA 9275 is the Clean Water Act, and RA 8749 is the Clean Air Act.",
+      "explanations": [
+        "Correct: Sanitation Code.",
+        "Solid waste.",
+        "Clean Water Act.",
+        "Clean Air Act."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Health and Sanitation Laws (PDF p. 94)",
+      "quote": "PD 856 – Sanitation Code of the Philippines"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A barangay starts waste segregation and a materials recovery facility. Which law mandates this?",
+      "options": [
+        "RA 9003",
+        "RA 9275",
+        "RA 6969",
+        "PD 856"
+      ],
+      "answer": "A",
+      "rationale": "RA 9003, the Ecological Solid Waste Management Act of 2000, governs solid waste management, including segregation.",
+      "explanations": [
+        "Correct: solid waste.",
+        "Clean Water Act.",
+        "Toxic and nuclear waste.",
+        "Sanitation Code."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Health and Sanitation Laws (PDF p. 94)",
+      "quote": "RA 9003- Ecological Solid Waste Management Act of 2000"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Under DOH AO 1-2006, which stool test is required for food handlers?",
+      "options": [
+        "Direct fecal smear",
+        "FECT",
+        "Stool culture",
+        "Occult blood test"
+      ],
+      "answer": "B",
+      "rationale": "DOH AO 1-2006 requires laboratories to use the formalin ether concentration technique (FECT) instead of direct fecal smear for food handlers' stool analysis.",
+      "explanations": [
+        "Replaced by FECT.",
+        "Correct: FECT.",
+        "Not the requirement.",
+        "Not the requirement."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Food Sanitation Program (PDF p. 95)",
+      "quote": "Formalin Ether Concentration Technique (FECT) instead of the direct fecal smear"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "In teaching food safety, to what temperature should all parts of cooked or reheated food reach?",
+      "options": [
+        "40°C",
+        "55°C",
+        "70°C",
+        "100°C"
+      ],
+      "answer": "C",
+      "rationale": "Food should be cooked thoroughly so all parts reach 70°C, and reheated to at least 70°C.",
+      "explanations": [
+        "Too low.",
+        "Too low.",
+        "Correct: 70°C.",
+        "Not required."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Four Rights in Food Safety (PDF p. 96)",
+      "quote": "Cook food thoroughly (temperature on all parts of the food should reach 70 degrees centigrade"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How long can cooked food stay at room temperature?",
+      "options": [
+        "30 minutes",
+        "2 hours",
+        "6 hours",
+        "Overnight"
+      ],
+      "answer": "B",
+      "rationale": "Under right storage, cooked food should be left at room temperature for no more than 2 hours. 'When in doubt, throw it out!'",
+      "explanations": [
+        "Stricter than the rule.",
+        "Correct: 2 hours.",
+        "Too long.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Four Rights in Food Safety (PDF p. 96)",
+      "quote": "All cooked food should be left at room temperature for not more than two hours"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which teaching belongs to 'right source' in the four rights of food safety?",
+      "options": [
+        "Avoid dented or bulging cans",
+        "Reheat food to 70°C",
+        "Keep raw and cooked food apart",
+        "Store food in sealed containers"
+      ],
+      "answer": "A",
+      "rationale": "Right source includes buying fresh food, checking expiry dates, avoiding dented or bulging cans, and boiling water for at least 2 minutes.",
+      "explanations": [
+        "Correct: right source.",
+        "Right storage.",
+        "Right preparation.",
+        "Right storage."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Four Rights in Food Safety (PDF p. 95)",
+      "quote": "Avoid buying canned goods with dents, bulges, deformation, broken seals and improper seams"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "How long is a Sentrong Sigla certification valid?",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "5 years"
+      ],
+      "answer": "B",
+      "rationale": "Sentrong Sigla certification is valid for 2 years. Facilities that keep their status get renewal stickers.",
+      "explanations": [
+        "Too short.",
+        "Correct: 2 years.",
+        "Excellence award requirement.",
+        "Too long."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Sentrong Sigla Certification (PDF p. 96)",
+      "quote": "The SS Certification validity of certification is every two years."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "In what kind of pot should herbal decoctions be boiled?",
+      "options": [
+        "Aluminum pot",
+        "Enamel or clay pot",
+        "Any metal pot",
+        "Plastic container"
+      ],
+      "answer": "B",
+      "rationale": "Medicinal plants are boiled in enamelware or clay pots, not aluminum, and the pots are cleaned well before and after.",
+      "explanations": [
+        "Avoided.",
+        "Correct: enamel or clay.",
+        "Not recommended.",
+        "Not for boiling."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Herbal Medicine Guidelines (PDF p. 97)",
+      "quote": "In boiling the plants, use enamel were or clay pots, not aluminum ware."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A mother has given an herbal remedy 3 times with no improvement. What should the nurse advise?",
+      "options": [
+        "Double the dose",
+        "Add a second herb",
+        "Consult a physician",
+        "Continue for 2 weeks"
+      ],
+      "answer": "C",
+      "rationale": "If there is no improvement after two or three doses, the client should consult a physician. Only one plant is used at a time.",
+      "explanations": [
+        "Unsafe.",
+        "Use one plant at a time.",
+        "Correct: seek medical care.",
+        "Delays care."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Herbal Medicine Guidelines (PDF p. 97)",
+      "quote": "If there are no signs of improvement after two or three administration of the drug, consult a physician"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How many tablespoons of FRESH lagundi leaves are boiled for a 9-year-old with cough?",
+      "options": [
+        "1 ½ tbsp",
+        "3 tbsp",
+        "4 tbsp",
+        "6 tbsp"
+      ],
+      "answer": "B",
+      "rationale": "For lagundi, fresh leaves are 6 tbsp for adults, 3 tbsp for ages 7–12, and 1½ tbsp for ages 2–6. Boil in 2 cups of water for 15 minutes and divide into 3 doses.",
+      "explanations": [
+        "Ages 2–6.",
+        "Correct: ages 7–12.",
+        "Adult dried dose.",
+        "Adult fresh dose."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Lagundi (PDF p. 97)",
+      "quote": "7- 12 y/o 3 tbsp. 2 tbsp."
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which findings should the nurse expect in a client with abruptio placentae?",
+      "options": [
+        "Painless, bright red bleeding",
+        "Uterine tenderness with abdominal and back pain",
+        "A soft, relaxed uterus between contractions",
+        "Strong, regular contractions every 10 minutes"
+      ],
+      "answer": "B",
+      "rationale": "Abruptio placentae is early separation of a normally implanted placenta. It causes uterine irritability with frequent low-intensity contractions, uterine tenderness, abdominal and low back pain, and nonreassuring fetal heart patterns. Painless bleeding suggests placenta previa.",
+      "explanations": [
+        "Suggests placenta previa.",
+        "Correct: classic abruption findings.",
+        "The uterus is irritable and tender.",
+        "Contractions are frequent and of low intensity."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q6 (PDF p. 143)",
+      "quote": "Manifestations include uterine irritability with frequent low- intensity contractions, uterine tenderness"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "In the second trimester, how does fundal height usually relate to gestational age?",
+      "options": [
+        "It is less than gestational age",
+        "It correlates with gestational age",
+        "It is greater than gestational age",
+        "It has no relation to gestational age"
+      ],
+      "answer": "B",
+      "rationale": "Until the third trimester, fundal height in centimeters on average correlates with gestational age in weeks. Consistent technique, ideally by the same examiner, improves reliability.",
+      "explanations": [
+        "Not the usual finding.",
+        "Correct: it correlates on average.",
+        "Not the usual finding.",
+        "It is a useful estimate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q14 (PDF p. 152)",
+      "quote": "Until the third trimester, the measurement of fundal height will, on average, correlate with the gestational age."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A laboring client feels wetness, and the nurse sees the umbilical cord at the perineum. What is the IMMEDIATE action?",
+      "options": [
+        "Check the fetal heart rate first",
+        "Call the physician right away",
+        "Move her to the delivery room",
+        "Trendelenburg; lift presenting part"
+      ],
+      "answer": "D",
+      "rationale": "For cord prolapse, the nurse immediately places the client in Trendelenburg and gently holds the presenting part up to relieve cord compression. The nurse keeps this position while the physician is notified and the fetal heart rate is monitored.",
+      "explanations": [
+        "Done, but after relieving compression.",
+        "Done, but after relieving compression.",
+        "Done after relieving compression.",
+        "Correct: relieve cord compression first."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q15 (PDF p. 153)",
+      "quote": "the nurse immediately places the client in the Trendelenburg position while gently holding the presenting part upward to relieve the cord compression."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "On admission to the nursery, a newborn's anterior fontanel feels soft. How should the nurse interpret this?",
+      "options": [
+        "Dehydration",
+        "A normal finding",
+        "Increased intracranial pressure",
+        "Decreased intracranial pressure"
+      ],
+      "answer": "B",
+      "rationale": "The anterior fontanel is diamond-shaped, about 2 to 3 cm wide and 3 to 4 cm long, and normally soft. A full or bulging fontanel may mean increased ICP; a depressed one, dehydration.",
+      "explanations": [
+        "Dehydration causes a depressed fontanel.",
+        "Correct: soft is normal.",
+        "A bulging fontanel suggests increased ICP.",
+        "Not a standard interpretation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q16 (PDF p. 154)",
+      "quote": "It can be described as soft, which is normal, or full and bulging, which could indicate increased intracranial pressure."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "A pregnant client has a vaginal Candida albicans infection. What does the nurse expect to find?",
+      "options": [
+        "Costovertebral angle tenderness",
+        "No observable signs at all",
+        "Itching and thick white discharge",
+        "Proteinuria and hypertension"
+      ],
+      "answer": "C",
+      "rationale": "Candida infection causes pain, itching, and a thick white vaginal discharge. Proteinuria and hypertension suggest preeclampsia; CVA pain suggests an upper urinary tract infection.",
+      "explanations": [
+        "Suggests pyelonephritis.",
+        "Symptoms are usually present.",
+        "Correct: typical of candidiasis.",
+        "Suggests preeclampsia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q25 (PDF p. 164)",
+      "quote": "Clinical manifestations of a Candida infection include pain; itching; and a thick, white vaginal discharge."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which laboratory finding supports iron deficiency anemia in a pregnant client?",
+      "options": [
+        "Signs of dehydration",
+        "Signs of overhydration",
+        "A high hematocrit",
+        "Hemoglobin below 11 g/dL"
+      ],
+      "answer": "D",
+      "rationale": "Iron deficiency is the main cause of pathological anemia in pregnancy and is suspected when hemoglobin falls below 11 g/dL.",
+      "explanations": [
+        "Not specifically associated.",
+        "Not specifically associated.",
+        "Hematocrit is low in anemia.",
+        "Correct: the diagnostic threshold."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q26 (PDF p. 165)",
+      "quote": "When the hemoglobin level is below 11 mg/dL (110 mmol/L), iron deficiency is suspected."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which finding should make the nurse suspect endometritis in a postpartum client?",
+      "options": [
+        "Breast engorgement on day 3",
+        "A WBC of 15,000/mm3 on day 1",
+        "Lochia rubra on the second day",
+        "Fever of 38°C for 2 days in a row"
+      ],
+      "answer": "D",
+      "rationale": "A fever of 38°C (100.4°F) or higher on 2 successive days within the first 10 postpartum days, not counting the first 24 hours, indicates postpartum infection. A mildly high WBC and engorgement can be normal.",
+      "explanations": [
+        "A normal postpartum response.",
+        "The WBC is normally elevated postpartum.",
+        "Normal in the first days.",
+        "Correct: the criterion for puerperal infection."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q27 (PDF p. 166)",
+      "quote": "The presence of fever of 38° C (100.4° F) or more on 2 successive days of the first 10 postpartum days (not counting the first 24 hours after birth) is indicative of a postpartum infection."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Baby Rafael was born at 43 weeks' gestation by vaginal delivery. The amniotic fluid was meconium-stained.",
+      "stem": "Which physical characteristic does the nurse expect in Baby Rafael?",
+      "options": [
+        "Dry, peeling, cracked skin",
+        "Smooth soles without creases",
+        "Lanugo all over the body",
+        "A thick coat of vernix"
+      ],
+      "answer": "A",
+      "rationale": "A postterm infant (after 42 weeks) has dry, peeling, cracked, almost leathery skin (desquamation). Smooth soles, abundant lanugo, and thick vernix are signs of a preterm infant.",
+      "explanations": [
+        "Correct: desquamation of postterm skin.",
+        "A preterm sign.",
+        "A preterm sign.",
+        "A preterm sign."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q28 (PDF p. 167)",
+      "quote": "The postterm infant (born after the 42nd week of gestation) exhibits dry, peeling, cracked, almost leather-like skin"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Baby Rafael was born at 43 weeks' gestation by vaginal delivery. The amniotic fluid was meconium-stained.",
+      "stem": "Baby Rafael develops tachypnea, grunting, retractions, and nasal flaring. What does the nurse suspect?",
+      "options": [
+        "Hypoglycemia",
+        "Respiratory distress syndrome",
+        "Meconium aspiration syndrome",
+        "Transient tachypnea of the newborn"
+      ],
+      "answer": "C",
+      "rationale": "Meconium aspiration syndrome is common in postterm infants and occurs when meconium in the amniotic fluid enters the lungs. RDS is a complication of preterm infants.",
+      "explanations": [
+        "Does not explain these findings.",
+        "Seen in preterm infants.",
+        "Correct: postterm infant with meconium-stained fluid.",
+        "Usually follows cesarean birth."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q29 (PDF p. 168)",
+      "quote": "MAS occurs often in postterm infants and develops when meconium in the amniotic fluid enters the lungs during fetal life or at birth."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "A client's last menstrual period began June 20, 2026. Using Naegele's rule, what is her estimated date of birth?",
+      "options": [
+        "March 13, 2027",
+        "March 27, 2027",
+        "April 27, 2027",
+        "February 27, 2027"
+      ],
+      "answer": "B",
+      "rationale": "Naegele's rule: subtract 3 months from the first day of the LMP, add 7 days, and adjust the year. June 20 minus 3 months is March 20; plus 7 days is March 27, 2027. It assumes a regular 28-day cycle.",
+      "explanations": [
+        "Subtracts 7 days instead of adding them.",
+        "Correct: March 20 + 7 days = March 27, 2027.",
+        "One month off.",
+        "One month off."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q92 (PDF p. 240)",
+      "quote": "the nurse would subtract 3 months from the first day of the last menstrual period, add 7 days, and then adjust the year as appropriate."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "How should the client be positioned for a fundal height measurement at 28 weeks?",
+      "options": [
+        "Standing upright and still",
+        "Trendelenburg position",
+        "Supine with head raised 45°",
+        "Supine, pillow, knees flexed"
+      ],
+      "answer": "D",
+      "rationale": "Fundal height is measured with the client supine, head on a pillow, and knees slightly flexed. Other positions prevent an accurate measurement.",
+      "explanations": [
+        "Prevents accurate measurement.",
+        "Prevents accurate measurement.",
+        "Prevents accurate measurement.",
+        "Correct: the standard position."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q94 (PDF p. 242)",
+      "quote": "the client lies in a supine (back) position with her head on a pillow and knees slightly flexed."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Which action prevents heat loss by CONDUCTION in a newborn?",
+      "options": [
+        "Wrapping the baby in a blanket",
+        "Closing the delivery room doors",
+        "Drying the baby with a warm towel",
+        "Placing the baby on a warmed surface"
+      ],
+      "answer": "D",
+      "rationale": "Conduction is heat loss to a cold surface the baby touches, so a warmed surface prevents it. Closing doors prevents convection, and drying prevents evaporation.",
+      "explanations": [
+        "Mainly reduces radiation and convection.",
+        "Prevents convection.",
+        "Prevents evaporation.",
+        "Correct: prevents conduction."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q103 (PDF p. 252)",
+      "quote": "Hypothermia caused by conduction occurs when the newborn is on a cold surface, such as a cold pad or mattress."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which finding in a preterm newborn is NORMAL and not a sign of respiratory distress syndrome?",
+      "options": [
+        "Grunting respirations",
+        "Nasal flaring",
+        "Chest retractions",
+        "Acrocyanosis in the first hours"
+      ],
+      "answer": "D",
+      "rationale": "RDS shows cyanosis, tachypnea or apnea, retractions, grunting, and nasal flaring. Acrocyanosis (bluish hands and feet) reflects immature peripheral circulation and is common in the first hours.",
+      "explanations": [
+        "A sign of RDS.",
+        "A sign of RDS.",
+        "A sign of RDS.",
+        "Correct: a common, expected finding."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q108 (PDF p. 257)",
+      "quote": "Acrocyanosis, the bluish discoloration of the hands and feet, is associated with immature peripheral circulation and is not uncommon in the first few hours of life."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Which apical heart rate is normal for a newborn?",
+      "options": [
+        "90 beats per minute",
+        "140 beats per minute",
+        "180 beats per minute",
+        "190 beats per minute"
+      ],
+      "answer": "B",
+      "rationale": "The normal newborn heart rate is about 100 to 160 beats per minute, auscultated at the fourth intercostal space for a full minute.",
+      "explanations": [
+        "Bradycardia.",
+        "Correct: within 100 to 160.",
+        "Tachycardia.",
+        "Tachycardia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q109 (PDF p. 258)",
+      "quote": "The normal heart rate in a newborn infant is approximately 100 to 160 beats per minute."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Which observation during breastfeeding suggests a problem with the infant's latch?",
+      "options": [
+        "Audible swallowing",
+        "Breasts soften after the feeding",
+        "Rhythmic sucking with pauses",
+        "Dimpling of the infant's cheeks"
+      ],
+      "answer": "D",
+      "rationale": "Infant signs of breastfeeding problems include dimpled cheeks, smacking or clicking sounds, falling asleep after less than 5 minutes, refusing the breast, and tongue thrusting.",
+      "explanations": [
+        "A sign of effective feeding.",
+        "A sign of effective milk transfer.",
+        "A sign of effective feeding.",
+        "Correct: suggests poor latch."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q130 (PDF p. 280)",
+      "quote": "Infant signs of breast-feeding problems include dimpling of the cheeks; making smacking or clicking sounds"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Which newborn respiratory finding is NORMAL?",
+      "options": [
+        "46 breaths per minute while awake and quiet",
+        "30 breaths per minute while crying",
+        "64 breaths per minute while sleeping",
+        "20 breaths per minute while awake"
+      ],
+      "answer": "A",
+      "rationale": "Normal newborn respirations are 30 to 50 per minute when not crying. They are counted for a full minute because newborns breathe periodically.",
+      "explanations": [
+        "Correct: within 30 to 50 when quiet.",
+        "Crying alters the rate.",
+        "Above normal.",
+        "Below normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q158 (PDF p. 309)",
+      "quote": "Normal respiratory rate varies from 30 to 50 breaths per minute when the infant is not crying."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A client in the third trimester has calf pain when walking. Which sign supports superficial thrombophlebitis?",
+      "options": [
+        "Severe chills",
+        "Kernig's sign",
+        "Brudzinski's sign",
+        "A palpable, hard thrombus"
+      ],
+      "answer": "D",
+      "rationale": "Superficial thrombophlebitis shows a palpable, bumpy, hard thrombus with tenderness, pain, and warm, pinkish-red skin over it. Kernig's and Brudzinski's signs test for meningeal irritation.",
+      "explanations": [
+        "Nonspecific.",
+        "Tests for meningitis.",
+        "Tests for meningitis.",
+        "Correct: a classic sign."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q159 (PDF p. 310)",
+      "quote": "The manifestations of superficial thrombophlebitis include a palpable thrombus that feels bumpy and hard"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "At 32 weeks, a client admitted after a road crash develops slight vaginal bleeding and mild cramps. Which action BEST supports fetal viability?",
+      "options": [
+        "Start IV fluids at 125 mL/hour",
+        "Give oxygen by face mask",
+        "Begin external fetal monitoring",
+        "Insert an internal fetal scalp electrode"
+      ],
+      "answer": "C",
+      "rationale": "External fetal monitoring detects changes in fetal heart rate and rhythm that show fetal jeopardy. Internal monitoring is contraindicated with vaginal bleeding, and oxygen is premature without fetal distress.",
+      "explanations": [
+        "The bleeding is not enough to need IV replacement yet.",
+        "Premature without signs of distress.",
+        "Correct: detects fetal jeopardy.",
+        "Contraindicated with vaginal bleeding."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q193 (PDF p. 347)",
+      "quote": "External fetal monitoring will allow the nurse to determine any change in the fetal heart rate and rhythm that would indicate that the fetus is in jeopardy."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A client at 33 weeks has premature rupture of membranes. Which is a MAJOR part of her nursing care?",
+      "options": [
+        "Monitoring for signs of infection",
+        "Encouraging frequent vaginal exams",
+        "Restricting all fluids",
+        "Discouraging fetal movement counts"
+      ],
+      "answer": "A",
+      "rationale": "Monitoring for infection is a major part of care in PROM. Biophysical profiles assess the fetus and amniotic fluid, and daily fetal movement counts are taught.",
+      "explanations": [
+        "Correct: infection risk is high.",
+        "Vaginal exams increase infection risk.",
+        "Not indicated.",
+        "Fetal movement counting is encouraged."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q245 (PDF p. 400)",
+      "quote": "Monitoring for signs of infection is a major part of the nursing care."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which statement about prenatal nutrition is accurate?",
+      "options": [
+        "All pregnant women are at high nutritional risk",
+        "Calcium intake should rise from early pregnancy",
+        "Calcium is needed only in the third trimester",
+        "Iron supplements are only for anemic women"
+      ],
+      "answer": "B",
+      "rationale": "Calcium is critical in the third trimester but intake must increase from the start of pregnancy. Dietary iron is usually insufficient, so supplements are routinely recommended.",
+      "explanations": [
+        "Not all are high risk.",
+        "Correct: increase from the onset.",
+        "Increase it from the start.",
+        "Iron supplements are routinely recommended."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q247 (PDF p. 402)",
+      "quote": "Calcium intake is critical during the third trimester but must be increased from the onset of pregnancy."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "A client has hypertonic labor contractions. Which action BEST conserves her energy and promotes rest?",
+      "options": [
+        "Keep the TV on for distraction",
+        "Assist with breathing and relaxation",
+        "Keep the room brightly lit",
+        "Encourage walking in the hallway"
+      ],
+      "answer": "B",
+      "rationale": "Breathing and relaxation techniques help the client cope and conserve energy. A quiet, dim room promotes rest; noise and bright light do not.",
+      "explanations": [
+        "Noise prevents rest.",
+        "Correct: helps her cope and rest.",
+        "Bright light prevents rest.",
+        "Uses energy."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q265 (PDF p. 422)",
+      "quote": "Breathing and relaxation techniques aid the client in coping with the discomfort of labor and conserving energy."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "At 30 weeks, why does the nurse auscultate the lower lung lobes of a pregnant client with heart disease?",
+      "options": [
+        "To detect mitral valve prolapse",
+        "To identify dysrhythmias",
+        "To assess fetal well-being",
+        "To detect early heart failure"
+      ],
+      "answer": "D",
+      "rationale": "Blood volume peaks at 18 to 32 weeks. Crackles in the lower lobes can be an early sign of cardiac decompensation and heart failure.",
+      "explanations": [
+        "Not assessed by lung sounds.",
+        "Not assessed by lung sounds.",
+        "Unrelated to lung sounds.",
+        "Correct: detects pulmonary congestion."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q286 (PDF p. 444)",
+      "quote": "Fluid volume during pregnancy peaks between 18 and 32 weeks’ gestation."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "Aling Marites, 38, G3P2 at 36 weeks, is admitted with severe preeclampsia.",
+      "stem": "Which complication should the nurse monitor her for MOST closely?",
+      "options": [
+        "Seizures",
+        "Hallucinations",
+        "Placenta previa",
+        "Hypoglycemia"
+      ],
+      "answer": "A",
+      "rationale": "Gestational hypertension can progress to preeclampsia and eclampsia, so seizures are a major complication.",
+      "explanations": [
+        "Correct: eclampsia means seizures.",
+        "Not directly associated.",
+        "Not directly associated.",
+        "Not directly associated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q293 (PDF p. 455)",
+      "quote": "Gestational hypertension can lead to preeclampsia and eclampsia; therefore, a major complication of gestational hypertension is seizures."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "Aling Marites, 38, G3P2 at 36 weeks, is admitted with severe preeclampsia.",
+      "stem": "Aling Marites suddenly has a seizure. What is the nurse's FIRST action?",
+      "options": [
+        "Maintain an open airway",
+        "Give oxygen by face mask",
+        "Check the BP and fetal heart tones",
+        "Start an IV infusion"
+      ],
+      "answer": "A",
+      "rationale": "Eclampsia is marked by seizures. The first action is to establish and maintain an airway and prevent injury. The nurse never leaves the client.",
+      "explanations": [
+        "Correct: the airway comes first.",
+        "Done after the airway is secured.",
+        "Done after the airway is secured.",
+        "Done after the airway is secured."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q329 (PDF p. 494)",
+      "quote": "it is important as a first action to establish and maintain an open airway and prevent injuries to the client."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which maternal history factor increases the newborn's risk of neonatal sepsis?",
+      "options": [
+        "Two previous miscarriages",
+        "Asian family heritage",
+        "Membranes ruptured over 18 hours",
+        "First pregnancy at age 25"
+      ],
+      "answer": "C",
+      "rationale": "Risk factors include prolonged or premature rupture of membranes (over 18 hours), poor or late prenatal care, substance use, low socioeconomic status, and poor nutrition.",
+      "explanations": [
+        "Not a risk factor.",
+        "Not a risk factor.",
+        "Correct: prolonged rupture raises infection risk.",
+        "Not a risk factor."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q299 (PDF p. 462)",
+      "quote": "Premature rupture of the membranes or prolonged rupture of membranes greater than 18 hours before birth is also a risk factor for neonatal"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Why must a client who drinks alcohol in the FIRST trimester stop right away?",
+      "options": [
+        "Organs form during the first trimester",
+        "Alcohol only matters in the third trimester",
+        "It mainly affects the mother's liver",
+        "It only causes low birth weight"
+      ],
+      "answer": "A",
+      "rationale": "The first trimester is organogenesis, when fetal organs and systems form, so alcohol exposure then is especially harmful.",
+      "explanations": [
+        "Correct: organogenesis occurs then.",
+        "It is harmful throughout pregnancy.",
+        "The fetus is affected.",
+        "The effects go beyond birth weight."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q300 (PDF p. 463)",
+      "quote": "The first trimester, “organogenesis,” is characterized by the differentiation and development of fetal organs, systems, and structures."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "What does the FIRST Leopold maneuver (fundal grip) determine?",
+      "options": [
+        "Fetal descent",
+        "Placenta previa",
+        "Fetal lie and presentation",
+        "Fetal heart rate"
+      ],
+      "answer": "C",
+      "rationale": "The first maneuver feels what occupies the fundus (head or breech), which shows the fetal lie and presentation. Descent is assessed in the fourth maneuver. Leopold maneuvers are not done during a contraction.",
+      "explanations": [
+        "Assessed by the fourth maneuver.",
+        "Diagnosed by ultrasound.",
+        "Correct: the fundal contents show lie and presentation.",
+        "Not determined by palpation."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q306 (PDF p. 470)",
+      "quote": "The first maneuver, the fundal grip, determines the contents (size, consistency, shape, and mobility) of the fundus"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which history supports a risk for gestational diabetes?",
+      "options": [
+        "Age 22",
+        "G4 P0 A3",
+        "Height 168 cm, weight 59 kg",
+        "Tiredness after a day of work"
+      ],
+      "answer": "B",
+      "rationale": "A history of unexplained miscarriages or stillbirths puts a client at high risk for gestational diabetes. Fatigue is normal in pregnancy, and a normal weight is not a risk factor.",
+      "explanations": [
+        "Not a risk factor.",
+        "Correct: repeated pregnancy losses.",
+        "Normal weight; not obese.",
+        "Fatigue is common in pregnancy."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q328 (PDF p. 493)",
+      "quote": "A history of unexplained stillbirths or miscarriages puts the client at high risk for gestational diabetes."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which equipment does the nurse routinely use to hear the fetal heart rate at 16 weeks?",
+      "options": [
+        "Continuous fetal heart monitor",
+        "Adult stethoscope",
+        "Bell of a stethoscope",
+        "Doppler ultrasound fetoscope"
+      ],
+      "answer": "D",
+      "rationale": "From near the end of the first trimester, fetal heart tones can be heard with an ultrasound (Doppler) device. Continuous monitors are for labor. The normal FHR is 120 to 160 bpm.",
+      "explanations": [
+        "Used in labor or special situations.",
+        "Not adequate.",
+        "Not adequate.",
+        "Correct: detects FHR from about 10 to 12 weeks."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q336 (PDF p. 504)",
+      "quote": "Toward the end of the first trimester, the fetal heart tones can be heard with an ultrasound fetoscope."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Which action BEST helps prevent jaundice in a breastfed newborn?",
+      "options": [
+        "Phototherapy for every newborn",
+        "No feeding until the second period of reactivity",
+        "Breastfeeding every 2 to 3 hours",
+        "Water supplements between feedings"
+      ],
+      "answer": "C",
+      "rationale": "Frequent early breastfeeding helps prevent jaundice because colostrum is a natural laxative that promotes passage of meconium, and with it bilirubin.",
+      "explanations": [
+        "Phototherapy is treatment, not prevention.",
+        "Delaying feeding worsens jaundice and milk supply.",
+        "Correct: promotes meconium passage.",
+        "Water does not remove bilirubin."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q351 (PDF p. 519)",
+      "quote": "colostrum is a natural laxative and helps promote the passage of meconium."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A large-for-gestational-age newborn of a diabetic mother is admitted. Which test should the nurse prepare to do?",
+      "options": [
+        "Serum insulin level",
+        "Heel-stick blood glucose",
+        "Rh and ABO typing",
+        "Bilirubin levels"
+      ],
+      "answer": "B",
+      "rationale": "Hypoglycemia is the most common problem in LGA infants, especially of diabetic mothers. Once the cord is cut, maternal glucose stops but the baby keeps producing high insulin.",
+      "explanations": [
+        "Not routine.",
+        "Correct: screens for hypoglycemia.",
+        "Not the priority.",
+        "Not the immediate priority."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q356 (PDF p. 524)",
+      "quote": "After birth, the most common problem in the LGA infant is hypoglycemia, especially if the mother is diabetic."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A newborn has a subdural hematoma. Which assessment detects its primary sign?",
+      "options": [
+        "Checking the urine for blood",
+        "Monitoring the voiding pattern",
+        "Testing for joint contractures",
+        "Comparing movement of the right and left limbs"
+      ],
+      "answer": "D",
+      "rationale": "A subdural hematoma presses on part of the brain and changes stimulus responses in the limbs on the opposite side of the body. Blood in the urine suggests abdominal trauma.",
+      "explanations": [
+        "Suggests abdominal trauma.",
+        "Newborns are normally incontinent.",
+        "Not the primary sign.",
+        "Correct: detects one-sided changes."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q376 (PDF p. 544)",
+      "quote": "This can cause changes in the stimuli responses in the extremities on the opposite side of the body"
+    }
+  ]
+}

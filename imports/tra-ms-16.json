@@ -1,0 +1,605 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "ABG: pH 7.28, PaCO2 38, HCO3 16. This is:",
+      "options": [
+        "Metabolic acidosis",
+        "Respiratory acidosis",
+        "Metabolic alkalosis",
+        "Respiratory alkalosis"
+      ],
+      "answer": "A",
+      "rationale": "Low pH with low bicarbonate and normal CO2 is metabolic acidosis.",
+      "explanations": [
+        "Correct.",
+        "High CO2.",
+        "High pH.",
+        "High pH."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Metabolic Acidosis (PDF p. 402)",
+      "quote": "Expected blood gas changes include a low pH (less than 7.35) and a low bicarbonate level"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Severe diarrhea leads to which acid-base imbalance?",
+      "options": [
+        "Metabolic acidosis",
+        "Metabolic alkalosis",
+        "Respiratory acidosis",
+        "Respiratory alkalosis"
+      ],
+      "answer": "A",
+      "rationale": "Diarrhea causes excess bicarbonate elimination.",
+      "explanations": [
+        "Correct.",
+        "Vomiting.",
+        "Lungs.",
+        "Hyperventilation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Metabolic Acidosis (PDF p. 402)",
+      "quote": "Excesseliminationofbicarbonateions (diarrhea)."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Deep, rapid breathing in metabolic acidosis is the body's attempt to:",
+      "options": [
+        "Blow off CO2",
+        "Retain CO2",
+        "Retain bicarbonate",
+        "Excrete potassium"
+      ],
+      "answer": "A",
+      "rationale": "Hyperventilation compensates by lowering CO2.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Kidneys.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Metabolic Acidosis (PDF p. 402)",
+      "quote": "Rapid, deep breathing (hyperventilation) as body attempts to compensate"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with prolonged vomiting has a high pH and high bicarbonate. The nurse identifies:",
+      "options": [
+        "Metabolic alkalosis",
+        "Metabolic acidosis",
+        "Respiratory alkalosis",
+        "Respiratory acidosis"
+      ],
+      "answer": "A",
+      "rationale": "High pH and high HCO3 from gastric acid loss.",
+      "explanations": [
+        "Correct.",
+        "Low pH.",
+        "Low CO2.",
+        "Low pH."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Metabolic Alkalosis (PDF p. 402)",
+      "quote": "Prolonged vomiting or nasogastric suctioning"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which replacement is given for metabolic alkalosis with hypokalemia?",
+      "options": [
+        "Potassium chloride",
+        "Sodium bicarbonate",
+        "Calcium gluconate",
+        "D5W only"
+      ],
+      "answer": "A",
+      "rationale": "KCl replaces both potassium and chloride losses.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Metabolic Alkalosis (PDF p. 402)",
+      "quote": "potassium is administered as KCI to replace both K and CI losses"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with sedative overdose has RR 6/min. Expected ABG imbalance:",
+      "options": [
+        "Respiratory acidosis",
+        "Respiratory alkalosis",
+        "Metabolic alkalosis",
+        "Metabolic acidosis"
+      ],
+      "answer": "A",
+      "rationale": "Hypoventilation retains CO2, causing respiratory acidosis.",
+      "explanations": [
+        "Correct.",
+        "Hyperventilation.",
+        "Not this.",
+        "Not primary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Respiratory Acidosis (PDF p. 403)",
+      "quote": "Overdose of sedatives"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "An anxious client hyperventilates and reports lightheadedness. The nurse expects:",
+      "options": [
+        "Respiratory alkalosis",
+        "Respiratory acidosis",
+        "Metabolic acidosis",
+        "Metabolic alkalosis"
+      ],
+      "answer": "A",
+      "rationale": "Hyperventilation blows off CO2; coach slow breathing.",
+      "explanations": [
+        "Correct.",
+        "Hypoventilation.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Respiratory Alkalosis (PDF p. 403)",
+      "quote": "Respiratory alkalosis is always caused by hyperventilation"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which nursing action helps an anxious client with respiratory alkalosis?",
+      "options": [
+        "Coach slow breathing",
+        "Give oxygen at 10 L",
+        "Encourage fast breathing",
+        "Give bicarbonate"
+      ],
+      "answer": "A",
+      "rationale": "Slow breathing or rebreathing allows CO2 to accumulate.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Worsens.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Respiratory Alkalosis (PDF p. 403)",
+      "quote": "the patient is instructed to breathe more slowly to allow CO2 to accumulate"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A burn with blisters, mottled red base, weeping, and severe pain is:",
+      "options": [
+        "Deep partial thickness",
+        "Superficial",
+        "Full thickness",
+        "Fourth degree"
+      ],
+      "answer": "A",
+      "rationale": "Second-degree burns are blistered, weeping, and painful; full thickness is painless and leathery.",
+      "explanations": [
+        "Correct.",
+        "No blisters usually.",
+        "Painless.",
+        "Not described."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Burn Depth (PDF p. 404)",
+      "quote": "Weeping surface, edema"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A burn that is dry, leathery, white, and painless is:",
+      "options": [
+        "Full thickness",
+        "Superficial",
+        "Superficial partial",
+        "Deep partial"
+      ],
+      "answer": "A",
+      "rationale": "Third-degree burns destroy nerve endings; grafting is needed.",
+      "explanations": [
+        "Correct.",
+        "Painful.",
+        "Painful.",
+        "Painful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Burn Depth (PDF p. 404)",
+      "quote": "Dry, pale white, leathery or charred"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Using the rule of nines, an adult with burns on the entire front of the chest and abdomen and one entire arm has:",
+      "options": [
+        "27% TBSA",
+        "18% TBSA",
+        "36% TBSA",
+        "9% TBSA"
+      ],
+      "answer": "A",
+      "rationale": "Anterior trunk 18% + one arm 9% = 27%.",
+      "explanations": [
+        "Correct.",
+        "Trunk only.",
+        "Too high.",
+        "Arm only."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Rule of 9's (PDF p. 405)",
+      "quote": "Arms- 9 % each"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "For scattered small burns, the size of the client's palm represents about:",
+      "options": [
+        "1% TBSA",
+        "5% TBSA",
+        "9% TBSA",
+        "0.1% TBSA"
+      ],
+      "answer": "A",
+      "rationale": "Palm method: palm ≈ 1% TBSA.",
+      "explanations": [
+        "Correct.",
+        "Too large.",
+        "Arm.",
+        "Too small."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Palm Method (PDF p. 405)",
+      "quote": "the size of the patient’s palm is approximately 1 % of TBSA"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which burn is classified as major regardless of size?",
+      "options": [
+        "Burn of the face or hands",
+        "5% superficial leg burn",
+        "Sunburn on back",
+        "Small arm blister"
+      ],
+      "answer": "A",
+      "rationale": "Burns to face, eyes, ears, hands, feet, perineum, joints, and inhalation or electrical injury are major.",
+      "explanations": [
+        "Correct.",
+        "Minor.",
+        "Minor.",
+        "Minor."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Extent of Burn (PDF p. 405)",
+      "quote": "All burns involving eyes, ears, face, hands, feet, perineum, joints."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A burn method that adjusts body-part percentages by age is the:",
+      "options": [
+        "Lund and Browder",
+        "Rule of nines",
+        "Palm method",
+        "Parkland formula"
+      ],
+      "answer": "A",
+      "rationale": "Lund and Browder is more accurate and age-adjusted.",
+      "explanations": [
+        "Correct.",
+        "Fixed adult.",
+        "Scattered.",
+        "Fluids."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Estimating TBSA (PDF p. 405)",
+      "quote": "Modifies percentages for body segments according to age."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "An electrical burn victim needs cardiac monitoring mainly because of:",
+      "options": [
+        "Risk of dysrhythmias",
+        "Risk of hypothermia",
+        "Skin graft need",
+        "Eye damage"
+      ],
+      "answer": "A",
+      "rationale": "Current through the body causes ventricular fibrillation and internal damage.",
+      "explanations": [
+        "Correct.",
+        "Not main.",
+        "Later.",
+        "Not main."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Electrical Burns (PDF p. 405)",
+      "quote": "associated with cardiopulmonary arrest, ventricular fibrillation"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Singed nasal hair, sooty sputum, and hoarseness after a fire suggest:",
+      "options": [
+        "Inhalation injury",
+        "Minor burn",
+        "Allergy",
+        "Asthma"
+      ],
+      "answer": "A",
+      "rationale": "These signs indicate smoke inhalation; monitor airway closely.",
+      "explanations": [
+        "Correct.",
+        "Underestimates.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Smoke Inhalation (PDF p. 406)",
+      "quote": "Singed nasal hair"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Cherry-red skin and headache after a fire in an enclosed room suggest:",
+      "options": [
+        "CO poisoning",
+        "Hypovolemia",
+        "Sunburn",
+        "Anaphylaxis"
+      ],
+      "answer": "A",
+      "rationale": "CO binds hemoglobin about 200 times more than oxygen.",
+      "explanations": [
+        "Correct.",
+        "Pale.",
+        "Not this.",
+        "Hives."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Carbon Monoxide (PDF p. 406)",
+      "quote": "Bright cherry red, in face and upper torso."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Oxygen for CO poisoning is continued until carboxyhemoglobin is below:",
+      "options": [
+        "5%",
+        "20%",
+        "40%",
+        "50%"
+      ],
+      "answer": "A",
+      "rationale": "Give oxygen until COHb is less than 5%.",
+      "explanations": [
+        "Correct.",
+        "Too high.",
+        "Too high.",
+        "Too high."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Carbon Monoxide (PDF p. 406)",
+      "quote": "Oxygen is administered until the carboxyhemoglobin level is less than 5 %"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "In the first 24–48 hours after a major burn, fluid shifts from:",
+      "options": [
+        "Vascular to interstitial space",
+        "Interstitial to vascular",
+        "Cells to vessels",
+        "Lungs to kidneys"
+      ],
+      "answer": "A",
+      "rationale": "Increased capillary permeability causes edema and hypovolemia.",
+      "explanations": [
+        "Correct.",
+        "Later phase.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Emergent Phase (PDF p. 407)",
+      "quote": "Fluid shift from intravascular to interstitial space causing hypovolemia"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which lab finding is expected in the emergent phase of burns?",
+      "options": [
+        "Hyperkalemia",
+        "Hypokalemia",
+        "Low hematocrit",
+        "Alkalosis"
+      ],
+      "answer": "A",
+      "rationale": "Cell damage releases K; hemoconcentration raises Hct; metabolic acidosis occurs.",
+      "explanations": [
+        "Correct.",
+        "Later.",
+        "High.",
+        "Acidosis."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Burn Diagnostics (PDF p. 408)",
+      "quote": "Hyperkalemia (K+ leaks into blood vessels)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Stress ulcer in a burn client is called:",
+      "options": [
+        "Curling's ulcer",
+        "Cushing's ulcer",
+        "Peptic ulcer",
+        "Decubitus ulcer"
+      ],
+      "answer": "A",
+      "rationale": "Diminished GI blood flow causes Curling's ulcer; Cushing's follows head injury.",
+      "explanations": [
+        "Correct.",
+        "Head injury.",
+        "General.",
+        "Pressure."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, GI Changes in Burns (PDF p. 407)",
+      "quote": "Curling’s ulcer"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "What is the leading cause of morbidity and death in thermal burns after resuscitation?",
+      "options": [
+        "Sepsis",
+        "Hypothermia",
+        "Pain",
+        "Contractures"
+      ],
+      "answer": "A",
+      "rationale": "Immunosuppression increases infection and sepsis risk.",
+      "explanations": [
+        "Correct.",
+        "Not leading.",
+        "Not leading.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Immunological Changes (PDF p. 407)",
+      "quote": "Sepsis continues to be the leading cause of morbidity"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "What is the correct first aid for a fresh thermal burn?",
+      "options": [
+        "Cool with water, no ice",
+        "Apply ice",
+        "Apply butter",
+        "Apply toothpaste"
+      ],
+      "answer": "A",
+      "rationale": "Cool with water; never ice, ointments, or salves.",
+      "explanations": [
+        "Correct.",
+        "Damage.",
+        "Infection.",
+        "Infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Burn Emergency Procedure (PDF p. 408)",
+      "quote": "Never apply ice directly to the burn."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A worker splashes an alkali chemical on the arm. The first action is to:",
+      "options": [
+        "Flush with running water",
+        "Neutralize with vinegar",
+        "Cover with ointment",
+        "Wait for EMS"
+      ],
+      "answer": "A",
+      "rationale": "Remove clothing and irrigate with copious running water.",
+      "explanations": [
+        "Correct.",
+        "Heat reaction.",
+        "Traps chemical.",
+        "Delay."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Chemical Burns (PDF p. 408)",
+      "quote": "Rinse all areas of the body that have come in contact with the chemical."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "In the RACE fire protocol, what does 'R' stand for?",
+      "options": [
+        "Rescue",
+        "Report",
+        "Run",
+        "Remove oxygen"
+      ],
+      "answer": "A",
+      "rationale": "RACE: Rescue, Activate alarm, Confine, Extinguish.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Burn Emergency (PDF p. 408)",
+      "quote": "R- Rescue the patient"
+    }
+  ]
+}

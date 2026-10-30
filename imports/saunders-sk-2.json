@@ -1,0 +1,965 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "After vomiting has stopped for 4 hours, what should the nurse offer first?",
+      "options": [
+        "Dry toast",
+        "Plain gelatin",
+        "Crackers",
+        "Sips of clear liquid"
+      ],
+      "answer": "D",
+      "rationale": "Clear liquids are tolerated first, in sips of 20 to 30 mL, such as water or flat ginger ale.",
+      "explanations": [
+        "Later.",
+        "Later.",
+        "Later.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q315 (PDF p. 479)",
+      "quote": "Clear liquids are best tolerated first after episodes of nausea and vomiting."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What does the client do as an NG tube is removed?",
+      "options": [
+        "Inhale deeply",
+        "Exhale slowly",
+        "Take a deep breath and hold",
+        "Swallow repeatedly"
+      ],
+      "answer": "C",
+      "rationale": "Breath-holding minimizes aspiration of gastric contents spilling from the tube.",
+      "explanations": [
+        "Aspiration risk.",
+        "Not standard.",
+        "Correct.",
+        "Not standard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q317 (PDF p. 481)",
+      "quote": "breath-holding minimizes the risk of aspirating gastric contents spilled from the tube during removal."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What should the nurse check before hanging an intralipid infusion?",
+      "options": [
+        "Clear yellow color",
+        "Room temperature only",
+        "Expiry date only",
+        "Separation or oily layer"
+      ],
+      "answer": "D",
+      "rationale": "Separation or an oily appearance may mean spoiled or contaminated emulsion.",
+      "explanations": [
+        "Lipids are milky.",
+        "Incomplete.",
+        "Incomplete.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q318 (PDF p. 482)",
+      "quote": "The nurse checks the solution for separation or an oily appearance"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the first dressing layer at a chest tube insertion site?",
+      "options": [
+        "Petrolatum gauze",
+        "Dry gauze",
+        "Hydrocolloid",
+        "Transparent film"
+      ],
+      "answer": "A",
+      "rationale": "Petrolatum gauze forms an occlusive seal at the insertion site; gauze layers go on top.",
+      "explanations": [
+        "Correct.",
+        "Not occlusive.",
+        "Not used.",
+        "Not first."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q320 (PDF p. 484)",
+      "quote": "The first layer of the chest tube dressing is petrolatum gauze"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A clinic client's left-arm BP is 200/118. What should the nurse do NEXT?",
+      "options": [
+        "Call the provider",
+        "Ask about headaches",
+        "Take BP in the right arm",
+        "Send him home"
+      ],
+      "answer": "C",
+      "rationale": "The nurse checks the opposite arm to see if the elevation is limited to one extremity, and rechecks.",
+      "explanations": [
+        "After confirming.",
+        "Later.",
+        "Correct.",
+        "Unsafe."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q327 (PDF p. 492)",
+      "quote": "the nurse takes the pressure in the opposite arm"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client due for furosemide and nifedipine requests an antacid. What should the nurse do?",
+      "options": [
+        "Give the antacid 1 hour apart",
+        "Give all together",
+        "Skip the antacid",
+        "Crush them together"
+      ],
+      "answer": "A",
+      "rationale": "Antacids interfere with absorption, so they are separated from other drugs by at least 1 hour.",
+      "explanations": [
+        "Correct.",
+        "Interferes.",
+        "Not needed.",
+        "Not appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q340 (PDF p. 508)",
+      "quote": "antacids should be separated from other medications by at least 1 hour."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "What is the safest way to ambulate a client with a nephrostomy tube?",
+      "options": [
+        "Attach it to a leg bag",
+        "Clamp it during walks",
+        "Carry the bag above the hip",
+        "Disconnect it"
+      ],
+      "answer": "A",
+      "rationale": "A leg bag allows movement while protecting tube integrity and drainage.",
+      "explanations": [
+        "Correct.",
+        "Never clamp.",
+        "Backflow.",
+        "Infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q362 (PDF p. 530)",
+      "quote": "The safest approach to protect the integrity and safety of the nephrostomy tube with a mobile client is to attach the tube to a leg collection bag."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "An IV drug is incompatible with the running solution. What should the nurse do?",
+      "options": [
+        "Mix them anyway",
+        "Give it IM instead",
+        "Hold the dose",
+        "Flush with NS"
+      ],
+      "answer": "D",
+      "rationale": "The line is flushed with normal saline before and after the drug to prevent in-line precipitation.",
+      "explanations": [
+        "Unsafe.",
+        "Not ordered.",
+        "Not needed.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q393 (PDF p. 563)",
+      "quote": "the tubing is flushed before and after the medication with infusions of normal saline"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "How are eardrops given to an infant?",
+      "options": [
+        "Pull the auricle up and back",
+        "Pull the auricle down and back",
+        "Pull straight out",
+        "Do not pull the ear"
+      ],
+      "answer": "B",
+      "rationale": "For children under 3, the auricle is pulled down and back with the affected ear uppermost. Over 3, it is pulled up and back.",
+      "explanations": [
+        "Older child.",
+        "Correct.",
+        "Not standard.",
+        "Needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q394 (PDF p. 564)",
+      "quote": "With the nondominant hand, the nurse pulls down and back on the auricle."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "How are eardrops given to a 6-year-old?",
+      "options": [
+        "Pull the ear down and back",
+        "Pull the ear up and back",
+        "Insert the dropper deep",
+        "Wear sterile gloves"
+      ],
+      "answer": "B",
+      "rationale": "For children over 3, the ear is pulled upward and back. Gloves are not needed for parents.",
+      "explanations": [
+        "Under 3.",
+        "Correct.",
+        "Unsafe.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q698 (PDF p. 920)",
+      "quote": "To administer eardrops in a child who is more than 3 years old, the ear is pulled upward and back."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "When is a sputum culture best collected?",
+      "options": [
+        "Early morning",
+        "After lunch",
+        "After antibiotics",
+        "At bedtime"
+      ],
+      "answer": "A",
+      "rationale": "Sputum collects in the airways during sleep, so early morning gives the best specimen, ideally before antibiotics.",
+      "explanations": [
+        "Correct.",
+        "Less sputum.",
+        "Alters results.",
+        "Less sputum."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q408 (PDF p. 582)",
+      "quote": "The specimen is obtained early in the morning whenever possible"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Where should the drainage bag be placed after inserting a Foley catheter?",
+      "options": [
+        "On the client's abdomen",
+        "Below bladder level",
+        "Level with the bladder",
+        "On the bed rail above"
+      ],
+      "answer": "B",
+      "rationale": "The bag below bladder level ensures drainage and prevents retrograde flow and infection.",
+      "explanations": [
+        "Backflow.",
+        "Correct.",
+        "Poor drainage.",
+        "Backflow."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q413 (PDF p. 590)",
+      "quote": "The drainage bag is placed lower than bladder level to ensure drainage"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is done before injecting heparin 5000 units subcutaneously?",
+      "options": [
+        "Use an infusion pump",
+        "Aspirate for blood",
+        "Massage the site",
+        "Change the needle"
+      ],
+      "answer": "D",
+      "rationale": "Changing the needle prevents leakage along the needle tract. SC heparin needs no infusion device and the site is not massaged.",
+      "explanations": [
+        "Not needed.",
+        "Not done.",
+        "Causes bruising.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q422 (PDF p. 599)",
+      "quote": "the needle is changed before injection to prevent leakage of medication along the needle tract."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "What should the nurse do FIRST when developing a diabetes teaching program?",
+      "options": [
+        "Assess the clients' needs",
+        "Order pamphlets",
+        "Schedule classes",
+        "Invite a speaker"
+      ],
+      "answer": "A",
+      "rationale": "The nurse first assesses clients and their needs to plan effectively.",
+      "explanations": [
+        "Correct.",
+        "Later.",
+        "Later.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q445 (PDF p. 625)",
+      "quote": "the nurse must first assess the clients and their needs to effectively plan the program."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How does the nurse BEST ensure safe self-medication at home?",
+      "options": [
+        "Count pills each visit",
+        "Have family give all doses",
+        "Leave written notes only",
+        "Have the client explain and demonstrate"
+      ],
+      "answer": "D",
+      "rationale": "Asking the client to explain and demonstrate shows understanding and skill.",
+      "explanations": [
+        "Monitors only.",
+        "Reduces independence.",
+        "Not enough.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q469 (PDF p. 653)",
+      "quote": "the nurse asks the client to explain and demonstrate correct self-administration of medication procedures"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "1000 mL over 8 hours with a drop factor of 15 gtt/mL. What is the rate?",
+      "options": [
+        "21 gtt/min",
+        "31 gtt/min",
+        "42 gtt/min",
+        "63 gtt/min"
+      ],
+      "answer": "B",
+      "rationale": "1000 × 15 ÷ 480 min = 31.25, so 31 gtt/min.",
+      "explanations": [
+        "Miscalculated.",
+        "Correct.",
+        "Miscalculated.",
+        "Miscalculated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q477 (PDF p. 663)",
+      "quote": "Then divide the result by 480 minutes"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which observation shows crutches are fitted correctly?",
+      "options": [
+        "Crutch top touches the axilla",
+        "Elbow flexed about 30 degrees",
+        "Elbow fully straight",
+        "Handgrip at shoulder level"
+      ],
+      "answer": "B",
+      "rationale": "The elbow is flexed about 30 degrees on the handgrip, and the crutch top is two to three finger-widths below the axilla.",
+      "explanations": [
+        "Nerve damage.",
+        "Correct.",
+        "No leverage.",
+        "Too high."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q511 (PDF p. 706)",
+      "quote": "the elbow should be at approximately 30 degrees of flexion when the hand is resting on the handgrip."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which shows correct walker use?",
+      "options": [
+        "Slides it while leaning on it",
+        "Walks into it first",
+        "Sets all four legs down, then steps",
+        "Carries it while walking"
+      ],
+      "answer": "C",
+      "rationale": "The client places all four points of the walker flat about 2 feet forward before putting weight on it and stepping.",
+      "explanations": [
+        "Unsafe.",
+        "Unsafe.",
+        "Correct.",
+        "No support."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q520 (PDF p. 715)",
+      "quote": "put all four points of the walker 2 feet forward flat on the floor before putting weight on"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Urine flows as the Foley enters the bladder. What does the nurse do NEXT?",
+      "options": [
+        "Inflate the balloon now",
+        "Advance 2.5 to 5 cm more",
+        "Pull back slightly",
+        "Remove the catheter"
+      ],
+      "answer": "B",
+      "rationale": "The balloon is behind the tip, so the catheter is advanced 2.5 to 5 cm further before inflating.",
+      "explanations": [
+        "Urethral injury.",
+        "Correct.",
+        "Wrong.",
+        "Not needed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q530 (PDF p. 728)",
+      "quote": "the nurse inserts the catheter 2.5 to 5 cm further after urine begins to flow"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is done before suctioning a tracheostomy?",
+      "options": [
+        "Set suction above 200 mm Hg",
+        "Suction for 30 seconds",
+        "Hyperoxygenate the client",
+        "Use clean technique"
+      ],
+      "answer": "C",
+      "rationale": "The client is hyperoxygenated with deep breaths, a bag, or the ventilator's sigh before suctioning, using sterile technique.",
+      "explanations": [
+        "Too high.",
+        "Too long.",
+        "Correct.",
+        "Sterile."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q537 (PDF p. 735)",
+      "quote": "the nurse hyperoxygenates the client"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "How is a sputum specimen for culture collected?",
+      "options": [
+        "In any clean cup",
+        "With sterile technique",
+        "Right after meals",
+        "Mixed with saliva"
+      ],
+      "answer": "B",
+      "rationale": "Culture and sensitivity specimens need sterile technique to identify organisms accurately.",
+      "explanations": [
+        "Not sterile.",
+        "Correct.",
+        "Not best.",
+        "Contaminated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q538 (PDF p. 736)",
+      "quote": "Sputum specimens for culture and sensitivity testing need to be obtained using sterile techniques"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "An NPH insulin vial has clumps. What should the nurse do?",
+      "options": [
+        "Use a new vial",
+        "Shake it hard",
+        "Warm it up",
+        "Draw from below the clumps"
+      ],
+      "answer": "A",
+      "rationale": "NPH is uniformly cloudy; clumping or frosting means loss of potency, so a new vial is used.",
+      "explanations": [
+        "Correct.",
+        "Not effective.",
+        "Not effective.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q546 (PDF p. 747)",
+      "quote": "Clumping, frosting, and precipitates a"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "How is a urinalysis specimen obtained from an indwelling catheter?",
+      "options": [
+        "From the bag",
+        "Detach the tubing",
+        "Clean the perineum",
+        "From the port"
+      ],
+      "answer": "D",
+      "rationale": "The closed system stays sterile; the specimen is aspirated from the port after cleansing.",
+      "explanations": [
+        "Stale urine.",
+        "Breaks the system.",
+        "Not needed.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q551 (PDF p. 752)",
+      "quote": "the indwelling urinary catheter system must remain sterile to reduce the risk of infection."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Which catheter care direction should be given to a nursing attendant?",
+      "options": [
+        "Loop tubing below the bag",
+        "Empty the bag weekly",
+        "Clean the perineum with soap and water",
+        "Lift the bag above the bladder"
+      ],
+      "answer": "C",
+      "rationale": "The perineal area is cleansed with mild soap and water at least three times a day and after bowel movements.",
+      "explanations": [
+        "Blocks drainage.",
+        "Too seldom.",
+        "Correct.",
+        "Backflow."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q552 (PDF p. 753)",
+      "quote": "The perineal area is cleansed thoroughly using mild soap and water"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A 1000-mL bag hung at 9 am runs at 100 gtt/min by microdrip. How much remains at 2 pm?",
+      "options": [
+        "100 mL",
+        "300 mL",
+        "500 mL",
+        "700 mL"
+      ],
+      "answer": "C",
+      "rationale": "With microdrip, gtt/min = mL/hr, so 100 mL/hr × 5 hr = 500 mL infused; 500 mL remain.",
+      "explanations": [
+        "Miscalculated.",
+        "Miscalculated.",
+        "Correct.",
+        "Miscalculated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q555 (PDF p. 756)",
+      "quote": "With a microdrip, gtt/min=mL/hr infused."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A peritoneal dialysis catheter dressing gets wet while bathing. What should be done?",
+      "options": [
+        "Change it at once",
+        "Let it air dry",
+        "Leave until next change",
+        "Cover with plastic"
+      ],
+      "answer": "A",
+      "rationale": "A wet dressing lets bacteria reach the site; it is changed immediately and kept dry.",
+      "explanations": [
+        "Correct.",
+        "Infection risk.",
+        "Infection risk.",
+        "Traps moisture."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q569 (PDF p. 774)",
+      "quote": "A dressing that is wet is a conduit for bacteria to reach the catheter insertion site."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with right-sided weakness transfers to a wheelchair. Where is the chair placed?",
+      "options": [
+        "On the client's right side",
+        "On the client's left side",
+        "Behind the client",
+        "Far from the bed"
+      ],
+      "answer": "B",
+      "rationale": "Movement is toward the unaffected (left) side so the client can use the strong leg.",
+      "explanations": [
+        "Weak side.",
+        "Correct.",
+        "Unsafe.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q593 (PDF p. 801)",
+      "quote": "movement should occur toward the client’s unaffected (strong) side"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client with hypoparathyroidism has hyperphosphatemia. Which food should be avoided?",
+      "options": [
+        "Apples",
+        "Rice",
+        "Carbonated drinks",
+        "Cabbage"
+      ],
+      "answer": "C",
+      "rationale": "High-phosphate foods include fish, eggs, milk products, whole grains, and carbonated beverages.",
+      "explanations": [
+        "Low phosphate.",
+        "Low phosphate.",
+        "Correct.",
+        "Low phosphate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q623 (PDF p. 839)",
+      "quote": "Food items and liquids that are naturally high in phosphates include fish, eggs, milk products, whole grains"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client gets dizzy using the incentive spirometer. What is the likely cause?",
+      "options": [
+        "Breathing too slowly",
+        "Overbreathing between",
+        "Holding breath 3 sec",
+        "Sitting upright"
+      ],
+      "answer": "B",
+      "rationale": "Not breathing normally between spirometer breaths causes hyperventilation and respiratory alkalosis.",
+      "explanations": [
+        "Not the cause.",
+        "Correct.",
+        "Recommended.",
+        "Recommended."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q643 (PDF p. 861)",
+      "quote": "Hyperventilation is the most common cause of respiratory alkalosis"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which shows a client understands home Foley care?",
+      "options": [
+        "Bag above bladder level",
+        "Bag below bladder, tubing unkinked",
+        "Clean perineum weekly",
+        "Clamp it at night"
+      ],
+      "answer": "B",
+      "rationale": "The bag stays below the bladder with tubing free of kinks; the perineum is cleaned twice daily.",
+      "explanations": [
+        "Backflow.",
+        "Correct.",
+        "Too seldom.",
+        "Not done."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q646 (PDF p. 864)",
+      "quote": "The drainage bag of an indwelling urinary catheter should be lower than the level of the bladder"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client weighed 75 kg on admission. Which weight shows adequate nutrition?",
+      "options": [
+        "69 kg",
+        "70 kg",
+        "71 kg",
+        "74 kg"
+      ],
+      "answer": "D",
+      "rationale": "Adequate nutrition means keeping baseline weight or losing less than about 2 kg (5 lb).",
+      "explanations": [
+        "Too much loss.",
+        "Too much loss.",
+        "Too much loss.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q659 (PDF p. 878)",
+      "quote": "if the client maintains the baseline body weight or loses less than 5 pounds."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How should the nurse evaluate a client's learning of IV dressing care?",
+      "options": [
+        "Ask if he understands",
+        "Give a written test",
+        "Have him demonstrate it",
+        "Ask the family"
+      ],
+      "answer": "C",
+      "rationale": "Psychomotor skills are best evaluated by observing a return demonstration (teach-back).",
+      "explanations": [
+        "Not reliable.",
+        "Not for skills.",
+        "Correct.",
+        "Indirect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q662 (PDF p. 881)",
+      "quote": "a teach back method to observe the client performing the skill"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which statement about an implanted port needs MORE teaching?",
+      "options": [
+        "'Keep the site clean.'",
+        "'Report redness.'",
+        "'I must pump it daily.'",
+        "'Report fever.'"
+      ],
+      "answer": "C",
+      "rationale": "An implanted port does not need pumping to stay patent.",
+      "explanations": [
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: false.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q663 (PDF p. 882)",
+      "quote": "An implanted vascular access port does not need to be pumped to maintain patency."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which meat choice is BEST for a client with hypertension?",
+      "options": [
+        "Bacon",
+        "Hot dog",
+        "Fresh chicken breast",
+        "Corned beef"
+      ],
+      "answer": "C",
+      "rationale": "Bacon, hot dogs, luncheon meats, and corned beef are high in sodium.",
+      "explanations": [
+        "High sodium.",
+        "High sodium.",
+        "Correct.",
+        "High sodium."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q669 (PDF p. 888)",
+      "quote": "Foods from the meat group that are higher in sodium include bacon, hot dogs, luncheon meat"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How can a home IV client prevent phlebitis and infiltration?",
+      "options": [
+        "Massage the site daily",
+        "Keep the site secured and protected",
+        "Remove tape at night",
+        "Move the arm vigorously"
+      ],
+      "answer": "B",
+      "rationale": "Protecting and securing the site keeps the catheter immobile.",
+      "explanations": [
+        "Irritates.",
+        "Correct.",
+        "Dislodges.",
+        "Dislodges."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q673 (PDF p. 893)",
+      "quote": "Protecting the IV site and securing it with tape are extremely important"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Where are crutches placed in the tripod standing position?",
+      "options": [
+        "3 inches in front",
+        "6 to 10 inches front and side",
+        "Directly beside the feet",
+        "1 foot behind"
+      ],
+      "answer": "B",
+      "rationale": "In the tripod position, crutches are 6 to 10 inches in front of and to the side of the toes.",
+      "explanations": [
+        "Too close.",
+        "Correct.",
+        "Unstable.",
+        "Unstable."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q674 (PDF p. 894)",
+      "quote": "The crutches are placed anywhere from 6 to 10 inches in front of and to the side of the client’s t"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Where should a mother start when bathing her newborn?",
+      "options": [
+        "Diaper area",
+        "Eyes and face",
+        "Feet",
+        "Scalp"
+      ],
+      "answer": "B",
+      "rationale": "Bathing starts with the cleanest area, the eyes and face, then ears and neck.",
+      "explanations": [
+        "Last.",
+        "Correct.",
+        "Later.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q695 (PDF p. 917)",
+      "quote": "Bathing should start at the eyes and face and with the cleanest area first."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which incentive spirometer action needs MORE teaching?",
+      "options": [
+        "Inhales slowly",
+        "Breathes through the nose",
+        "Holds breath to 5",
+        "Seals lips on mouthpiece"
+      ],
+      "answer": "B",
+      "rationale": "Incentive spirometry is ineffective with nose breathing.",
+      "explanations": [
+        "Correct practice.",
+        "Correct answer: wrong.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q707 (PDF p. 929)",
+      "quote": "Incentive spirometry is ineffective if the client breathes through the nose."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which position helps a client with COPD breathe more easily?",
+      "options": [
+        "Flat on the back",
+        "Leaning on a table",
+        "Side-lying, flat",
+        "Trendelenburg"
+      ],
+      "answer": "B",
+      "rationale": "Sitting upright and leaning on an overbed table, or with arms on the chair arms, eases dyspnea.",
+      "explanations": [
+        "Worsens.",
+        "Correct.",
+        "Not best.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q708 (PDF p. 930)",
+      "quote": "Appropriate positions include sitting upright while leaning on an overbed table"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How much larger than the stoma is the colostomy appliance opening cut?",
+      "options": [
+        "1/8 inch",
+        "1/2 inch",
+        "1 inch",
+        "Same size"
+      ],
+      "answer": "A",
+      "rationale": "1/8 inch larger minimizes exposed skin without pressing on the stoma.",
+      "explanations": [
+        "Correct.",
+        "Too large.",
+        "Too large.",
+        "Presses stoma."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q792 (PDF p. 1022)",
+      "quote": "The size of the opening for the appliance is generally cut 1/8 inch larger than the size of the client’s stoma."
+    }
+  ]
+}

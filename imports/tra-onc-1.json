@@ -1,0 +1,701 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which characteristic describes a benign tumor?",
+      "options": [
+        "Encapsulated",
+        "Infiltrating",
+        "Metastasizing",
+        "Rapid-growing"
+      ],
+      "answer": "A",
+      "rationale": "Benign tumors are encapsulated, well differentiated, slow-growing, and do not metastasize.",
+      "explanations": [
+        "Correct.",
+        "Malignant.",
+        "Malignant.",
+        "Malignant."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Characteristics of Tumor (PDF p. 284)",
+      "quote": "Encapsulation (+) (-)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A malignant tumor of bone tissue is called:",
+      "options": [
+        "Osteosarcoma",
+        "Osteoma",
+        "Adenocarcinoma",
+        "Glioma"
+      ],
+      "answer": "A",
+      "rationale": "'-oma' usually denotes benign tumors; sarcomas arise from connective tissue such as bone.",
+      "explanations": [
+        "Correct.",
+        "Benign.",
+        "Glandular.",
+        "Glial."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Tumor Nomenclature (PDF p. 284)",
+      "quote": "Osteosarcoma"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "In TNM staging, the 'N' refers to:",
+      "options": [
+        "Lymph node involvement",
+        "Number of tumors",
+        "Necrosis",
+        "Nerve invasion"
+      ],
+      "answer": "A",
+      "rationale": "TNM: Tumor extent, Node involvement, Metastasis.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Grading vs Staging (PDF p. 285)",
+      "quote": "Node: lymph node involvement"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Classifying tumor cells by how much they resemble the tissue of origin is called:",
+      "options": [
+        "Grading",
+        "Staging",
+        "Screening",
+        "Biopsy"
+      ],
+      "answer": "A",
+      "rationale": "Grading classifies cells by differentiation; staging determines size, invasion, and metastasis.",
+      "explanations": [
+        "Correct.",
+        "Spread.",
+        "Detection.",
+        "Sampling."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Grading vs Staging (PDF p. 285)",
+      "quote": "Refers to the classification of tumor cells"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "In carcinogenesis, altered cells invade adjacent tissue and metastasize during:",
+      "options": [
+        "Progression",
+        "Initiation",
+        "Promotion",
+        "Remission"
+      ],
+      "answer": "A",
+      "rationale": "Initiation alters DNA, promotion expresses mutant genes, progression invades and metastasizes.",
+      "explanations": [
+        "Correct.",
+        "DNA change.",
+        "Gene expression.",
+        "Not a stage."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Carcinogenesis (PDF p. 285)",
+      "quote": "Invade adjacent tissues and metastasize"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which is a cancer warning sign the nurse should teach?",
+      "options": [
+        "A sore that does not heal",
+        "Weight gain after holidays",
+        "Occasional headache",
+        "Mild cold"
+      ],
+      "answer": "A",
+      "rationale": "CAUTION US signs include a sore that does not heal, unusual bleeding, and a nagging cough.",
+      "explanations": [
+        "Correct.",
+        "Not a sign.",
+        "Not a sign.",
+        "Not a sign."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Warning Signs (PDF p. 285)",
+      "quote": "A sore that does not heal"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which test confirms a cancer diagnosis?",
+      "options": [
+        "Biopsy",
+        "Mammography",
+        "Tumor marker",
+        "Fluoroscopy"
+      ],
+      "answer": "A",
+      "rationale": "Biopsy obtains tissue for cell analysis and is definitive; imaging and markers support diagnosis.",
+      "explanations": [
+        "Correct.",
+        "Screening.",
+        "Supportive.",
+        "Imaging."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Diagnostic Tests (PDF p. 286)",
+      "quote": "Obtaining tissue sample for analysis of cells."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Freezing tumor tissue with liquid nitrogen is called:",
+      "options": [
+        "Cryosurgery",
+        "Electrosurgery",
+        "Chemosurgery",
+        "Radical excision"
+      ],
+      "answer": "A",
+      "rationale": "Cryosurgery uses liquid nitrogen to freeze and destroy tissue.",
+      "explanations": [
+        "Correct.",
+        "Electric current.",
+        "Topical chemo.",
+        "Wide removal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Surgery (PDF p. 286)",
+      "quote": "Cryosurgery: liquid nitrogen is used to freeze tissue"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A client receiving external beam radiation asks about skin care. The nurse advises:",
+      "options": [
+        "Do not wash off the skin markings",
+        "Apply lotion before therapy",
+        "Use talcum powder",
+        "Use a heating pad"
+      ],
+      "answer": "A",
+      "rationale": "Keep markings, avoid ointments, lotions, and powders, and protect skin from heat.",
+      "explanations": [
+        "Correct.",
+        "Avoid.",
+        "Avoid.",
+        "Avoid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, External Radiation (PDF p. 286)",
+      "quote": "Do not remove the markings on the area."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A visitor asks whether a client on external beam radiation is radioactive. The nurse answers:",
+      "options": [
+        "No, the client emits no radiation",
+        "Yes, keep 6 feet away",
+        "Yes, for 24 hours",
+        "Only body fluids are"
+      ],
+      "answer": "A",
+      "rationale": "In teletherapy the source is outside the body; the client is not radioactive.",
+      "explanations": [
+        "Correct.",
+        "Brachytherapy.",
+        "Not true.",
+        "Unsealed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, External Radiation (PDF p. 286)",
+      "quote": "Client is NOT radioactive (does not emit radiation)."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which nurse should not be assigned to a client with a cervical radium implant?",
+      "options": [
+        "A pregnant nurse",
+        "A male nurse",
+        "A senior nurse",
+        "A night-shift nurse"
+      ],
+      "answer": "A",
+      "rationale": "Never assign pregnant staff, and do not allow child visitors, for brachytherapy clients.",
+      "explanations": [
+        "Correct.",
+        "Acceptable.",
+        "Acceptable.",
+        "Acceptable."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Brachytherapy (PDF p. 287)",
+      "quote": "Never assign a pregnant hospital staff to the client."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which radiation safety principle protects the nurse caring for a client with an implant?",
+      "options": [
+        "Time, distance, shielding",
+        "Gloves only",
+        "Open-door room",
+        "Long care visits"
+      ],
+      "answer": "A",
+      "rationale": "Limit time, keep distance (about 6 feet), and use shielding with a dosimeter badge.",
+      "explanations": [
+        "Correct.",
+        "Inadequate.",
+        "Private room.",
+        "Limit time."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Brachytherapy (PDF p. 287)",
+      "quote": "Distance: Maintain six (6) feet away from client."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "During intracavitary brachytherapy for cervical cancer, which diet is ordered?",
+      "options": [
+        "Low-residue",
+        "High-fiber",
+        "High-fat",
+        "Clear liquids only"
+      ],
+      "answer": "A",
+      "rationale": "Low-residue diet slows bowel movement to prevent dislodging the implant; bed rest and catheter are used.",
+      "explanations": [
+        "Correct.",
+        "Increases stool.",
+        "Not indicated.",
+        "Not required."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Brachytherapy (PDF p. 287)",
+      "quote": "Low-residue/Low-fiber diet: to slow down bowel movement and prevent defecation."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A client received oral iodine-131 for thyroid cancer. Which instruction is correct?",
+      "options": [
+        "Flush the toilet three times",
+        "Share the bathroom freely",
+        "Body fluids are safe",
+        "Hug children often"
+      ],
+      "answer": "A",
+      "rationale": "With unsealed sources, body fluids are radioactive: flush 3 times and do not share the toilet.",
+      "explanations": [
+        "Correct.",
+        "Avoid.",
+        "Radioactive.",
+        "Avoid."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Unsealed Brachytherapy (PDF p. 287)",
+      "quote": "Flush the toilet 3 times after voiding/defecating."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Vincristine acts on the cell cycle by:",
+      "options": [
+        "Arresting metaphase",
+        "Breaking the DNA helix",
+        "Binding hormone receptors",
+        "Blocking RNA in G0"
+      ],
+      "answer": "A",
+      "rationale": "Mitotic inhibitors (vincristine, vinblastine, paclitaxel) arrest metaphase.",
+      "explanations": [
+        "Correct.",
+        "Alkylating.",
+        "Hormonal.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Mitotic Inhibitors (PDF p. 288)",
+      "quote": "Arrest metaphase by inhibiting mitotic tubular formation"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which chemotherapy drug is an antimetabolite?",
+      "options": [
+        "Methotrexate",
+        "Cyclophosphamide",
+        "Doxorubicin",
+        "Vincristine"
+      ],
+      "answer": "A",
+      "rationale": "Antimetabolites (methotrexate, 6-MP, cytarabine) block enzymes needed for DNA synthesis.",
+      "explanations": [
+        "Correct.",
+        "Alkylating.",
+        "Antibiotic.",
+        "Mitotic inhibitor."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Anti-metabolites (PDF p. 287)",
+      "quote": "Methotrexate"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which antineoplastic class crosses the blood-brain barrier, useful for brain tumors?",
+      "options": [
+        "Nitrosoureas",
+        "Antimetabolites",
+        "Monoclonal antibodies",
+        "Hormonal agents"
+      ],
+      "answer": "A",
+      "rationale": "Nitrosoureas (carmustine, lomustine) cross the blood-brain barrier.",
+      "explanations": [
+        "Correct.",
+        "Not noted.",
+        "Not noted.",
+        "Not noted."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nitrosoureas (PDF p. 288)",
+      "quote": "Cross the blood-brain barrier"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Trastuzumab and rituximab belong to which class?",
+      "options": [
+        "Monoclonal antibodies",
+        "Alkylating agents",
+        "Antimetabolites",
+        "Nitrosoureas"
+      ],
+      "answer": "A",
+      "rationale": "Monoclonal antibodies target cancer cells while sparing normal cells.",
+      "explanations": [
+        "Correct.",
+        "DNA helix.",
+        "DNA enzymes.",
+        "BBB."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Monoclonal Antibodies (PDF p. 289)",
+      "quote": "Destroy cancer cells and spare normal cells"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which practice is correct when preparing chemotherapy drugs?",
+      "options": [
+        "Wear gloves, gown, and face shield",
+        "Prepare in a closed small room",
+        "Eat while waiting",
+        "Discard in an open bin"
+      ],
+      "answer": "A",
+      "rationale": "Use full PPE, a well-ventilated area, hazard labels, and leak- and puncture-proof disposal.",
+      "explanations": [
+        "Correct.",
+        "Ventilated area.",
+        "Never.",
+        "Leak-proof."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Preparing Chemo Drugs (PDF p. 289)",
+      "quote": "Wear gloves at all times."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A chemotherapy drug spills on the counter. The nurse should:",
+      "options": [
+        "Use a chemo spill kit",
+        "Wipe with a dry tissue",
+        "Leave it to dry",
+        "Rinse into the sink"
+      ],
+      "answer": "A",
+      "rationale": "Spills are cleaned with a designated spill kit.",
+      "explanations": [
+        "Correct.",
+        "Unsafe.",
+        "Unsafe.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Handling Waste (PDF p. 289)",
+      "quote": "In case of spillage of chemotherapeutic drugs, use a spill kit for clean-up."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "How should antiemetics be scheduled for a client on highly emetogenic chemotherapy?",
+      "options": [
+        "Round-the-clock",
+        "Only when vomiting",
+        "Once weekly",
+        "At bedtime only"
+      ],
+      "answer": "A",
+      "rationale": "Give antiemetics round-the-clock; nausea may last 24–48 hours and recur up to a week later.",
+      "explanations": [
+        "Correct.",
+        "Too late.",
+        "Inadequate.",
+        "Inadequate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Nausea & Vomiting (PDF p. 289)",
+      "quote": "Round-the-clock medications."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "When does chemotherapy-induced alopecia usually begin?",
+      "options": [
+        "2–3 weeks after starting",
+        "Within 24 hours",
+        "After 6 months",
+        "Only after completion"
+      ],
+      "answer": "A",
+      "rationale": "Hair loss begins 2–3 weeks after starting; regrowth may begin around 8 weeks after therapy.",
+      "explanations": [
+        "Correct.",
+        "Too early.",
+        "Too late.",
+        "Earlier."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Alopecia (PDF p. 289)",
+      "quote": "Begins 2 to 3 weeks"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which mouth care is appropriate for chemotherapy-induced stomatitis?",
+      "options": [
+        "Saline rinse, soft toothbrush",
+        "Alcohol-based mouthwash",
+        "Spicy foods",
+        "Citrus juice"
+      ],
+      "answer": "A",
+      "rationale": "Use saline rinses, a soft brush, and a bland diet; avoid alcohol mouthwash, spicy, and citrus foods.",
+      "explanations": [
+        "Correct.",
+        "Irritates.",
+        "Irritates.",
+        "Irritates."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Stomatitis (PDF p. 290)",
+      "quote": "Saline mouth rinse. Never use alcohol-based commercial mouthwash."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Why is viscous lidocaine avoided for stomatitis in children?",
+      "options": [
+        "It suppresses the gag reflex",
+        "It stains teeth",
+        "It causes alopecia",
+        "It raises platelets"
+      ],
+      "answer": "A",
+      "rationale": "Viscous lidocaine can suppress the gag reflex, increasing aspiration risk in children.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Stomatitis (PDF p. 290)",
+      "quote": "Contraindicated: Child (suppressed gag reflex)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A neutropenic client's relative brings fresh flowers. The nurse should:",
+      "options": [
+        "Explain flowers are not allowed",
+        "Place them at bedside",
+        "Put them by the window",
+        "Water them daily"
+      ],
+      "answer": "A",
+      "rationale": "Neutropenic precautions exclude fresh flowers and raw foods to reduce infection risk.",
+      "explanations": [
+        "Correct.",
+        "Infection risk.",
+        "Infection risk.",
+        "Infection risk."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Neutropenia (PDF p. 290)",
+      "quote": "Neutropenic diet: No flowers, fresh fruits, vegetables, raw food."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A client with chemotherapy-induced thrombocytopenia needs to shave. The nurse provides:",
+      "options": [
+        "An electric razor",
+        "A straight razor",
+        "A disposable blade",
+        "No shaving ever"
+      ],
+      "answer": "A",
+      "rationale": "Bleeding precautions: electric razor, soft toothbrush, no enemas, suppositories, or antiplatelets.",
+      "explanations": [
+        "Correct.",
+        "Cuts.",
+        "Cuts.",
+        "Unnecessary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Thrombocytopenia (PDF p. 290)",
+      "quote": "No shaving using straight razors. Use electric razor."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which order should the nurse question for a client with a platelet count of 20,000/mm³?",
+      "options": [
+        "Rectal suppository",
+        "Stool softener",
+        "Soft toothbrush",
+        "Electric razor"
+      ],
+      "answer": "A",
+      "rationale": "Avoid suppositories and enemas because of bleeding risk; use stool softeners.",
+      "explanations": [
+        "Correct.",
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Thrombocytopenia (PDF p. 290)",
+      "quote": "No suppositories and enema. Use stool softeners."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which drug is given for chemotherapy-induced anemia?",
+      "options": [
+        "Erythropoietin",
+        "Filgrastim",
+        "Heparin",
+        "Vitamin K"
+      ],
+      "answer": "A",
+      "rationale": "Erythropoietin stimulates RBC production; schedule rest periods with activities.",
+      "explanations": [
+        "Correct.",
+        "WBCs.",
+        "Anticoagulant.",
+        "Clotting."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Anemia (PDF p. 290)",
+      "quote": "Administer erythropoietin as ordered."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Clay-colored stools and rapid weight loss in a 70-year-old smoker suggest cancer of the:",
+      "options": [
+        "Pancreas",
+        "Stomach",
+        "Colon",
+        "Esophagus"
+      ],
+      "answer": "A",
+      "rationale": "Pancreatic cancer causes abdominal pain, weight loss, glucose problems, and acholic stools from biliary obstruction.",
+      "explanations": [
+        "Correct.",
+        "Less typical.",
+        "Less typical.",
+        "Less typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Pancreatic Cancer (PDF p. 291)",
+      "quote": "Clay-colored stools (Acholic stools)"
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "What is the normal serum sodium range?",
+      "options": [
+        "135–145 mEq/L",
+        "120–130 mEq/L",
+        "150–160 mEq/L",
+        "3.5–5.5 mEq/L"
+      ],
+      "answer": "A",
+      "rationale": "Sodium 135–145; potassium 3.5–5.5 mEq/L.",
+      "explanations": [
+        "Correct.",
+        "Low.",
+        "High.",
+        "Potassium."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Normal Electrolytes (PDF p. 395)",
+      "quote": "Sodium — 135-145 mEq/L"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Movement of water from low to high solute concentration is:",
+      "options": [
+        "Osmosis",
+        "Diffusion",
+        "Filtration",
+        "Active transport"
+      ],
+      "answer": "A",
+      "rationale": "Osmosis moves solvent; diffusion moves solute from high to low.",
+      "explanations": [
+        "Correct.",
+        "Solute.",
+        "Pressure.",
+        "Energy."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Fluid Movement (PDF p. 395)",
+      "quote": "OSMOSIS — movement of SOLVENT; low to high concentration"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Why are infants and older adults at higher risk of fluid imbalance?",
+      "options": [
+        "Body water, thirst",
+        "More body fat",
+        "They drink more",
+        "More muscle mass"
+      ],
+      "answer": "A",
+      "rationale": "Infants are about 80% water; elderly have less muscle and diminished thirst.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Fluid Balance Factors (PDF p. 395)",
+      "quote": "ELDERLY — less muscle; thirst center diminished"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A dehydrated client's hematocrit is likely to be:",
+      "options": [
+        "Elevated",
+        "Decreased",
+        "Normal always",
+        "Zero"
+      ],
+      "answer": "A",
+      "rationale": "Too little fluid causes hemoconcentration and high hematocrit.",
+      "explanations": [
+        "Correct.",
+        "Overload.",
+        "Changes.",
+        "Impossible."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Lab Tests (PDF p. 395)",
+      "quote": "too little fluid in the blood will cause hemoconcentration"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client on furosemide has muscle weakness and a U wave on ECG. The likely imbalance is:",
+      "options": [
+        "Hypokalemia",
+        "Hyperkalemia",
+        "Hypernatremia",
+        "Hypercalcemia"
+      ],
+      "answer": "A",
+      "rationale": "Diuretics cause K loss: weakness, flat T, prominent U wave.",
+      "explanations": [
+        "Correct.",
+        "Peaked T.",
+        "Thirst.",
+        "Short QT."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hypokalemia (PDF p. 395)",
+      "quote": "prominent U wave, flat T wave"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Tall, peaked T waves in a client with renal failure suggest:",
+      "options": [
+        "Hyperkalemia",
+        "Hypokalemia",
+        "Hyponatremia",
+        "Hypocalcemia"
+      ],
+      "answer": "A",
+      "rationale": "Hyperkalemia causes peaked T waves, widened QRS, and V-fib risk.",
+      "explanations": [
+        "Correct.",
+        "U wave.",
+        "Neuro.",
+        "Long QT."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hyperkalemia (PDF p. 396)",
+      "quote": "peaked, narrow T waves"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which condition shifts potassium out of cells, causing hyperkalemia?",
+      "options": [
+        "Acidosis",
+        "Alkalosis",
+        "Insulin therapy",
+        "Vomiting"
+      ],
+      "answer": "A",
+      "rationale": "In acidosis, H+ moves into cells and K+ moves out.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Lowers K.",
+        "Lowers K."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Hyperkalemia (PDF p. 396)",
+      "quote": "acidosis also can cause hyperkalemia"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with SIADH becomes confused and has a seizure. The likely cause is:",
+      "options": [
+        "Hyponatremia",
+        "Hypernatremia",
+        "Hyperkalemia",
+        "Hypercalcemia"
+      ],
+      "answer": "A",
+      "rationale": "Dilutional hyponatremia causes headache, confusion, seizures, coma.",
+      "explanations": [
+        "Correct.",
+        "Dehydration.",
+        "Cardiac.",
+        "Lethargy."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hyponatremia (PDF p. 397)",
+      "quote": "Patients with conditions that result in excessive retention of fluid, such as the syndrome of inappropriate antidiuretic hormone"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Thirst, dry mucous membranes, and irritability with serum Na 152 mEq/L indicate:",
+      "options": [
+        "Hypernatremia",
+        "Hyponatremia",
+        "Hypokalemia",
+        "Hypocalcemia"
+      ],
+      "answer": "A",
+      "rationale": "Hypernatremia: thirst, dehydration signs, neurologic irritability.",
+      "explanations": [
+        "Correct.",
+        "Low Na.",
+        "Weakness.",
+        "Tetany."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hypernatremia (PDF p. 397)",
+      "quote": "Complaints of thirst"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Prolonged gastric suctioning can cause hypochloremia and:",
+      "options": [
+        "Metabolic alkalosis",
+        "Metabolic acidosis",
+        "Respiratory acidosis",
+        "Hyperkalemia"
+      ],
+      "answer": "A",
+      "rationale": "Loss of HCl from suction or vomiting causes metabolic alkalosis.",
+      "explanations": [
+        "Correct.",
+        "Diarrhea.",
+        "Lungs.",
+        "Opposite."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Hypochloremia (PDF p. 397)",
+      "quote": "gastric suctioning (resulting in loss of acid and metabolic alkalosis)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which ECG change is associated with hypocalcemia?",
+      "options": [
+        "Prolonged QT",
+        "Shortened QT",
+        "U wave",
+        "Peaked T"
+      ],
+      "answer": "A",
+      "rationale": "Hypocalcemia prolongs QT; hypercalcemia shortens it.",
+      "explanations": [
+        "Correct.",
+        "Hyper-Ca.",
+        "Low K.",
+        "High K."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hypocalcemia (PDF p. 398)",
+      "quote": "ECG: Prolonged QT interval"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A client with bone metastases has nausea, weakness, and somnolence. The nurse suspects:",
+      "options": [
+        "Hypercalcemia",
+        "Hypocalcemia",
+        "Hypokalemia",
+        "Hyponatremia"
+      ],
+      "answer": "A",
+      "rationale": "Bone cancer releases calcium; hypercalcemia causes anorexia, weakness, somnolence.",
+      "explanations": [
+        "Correct.",
+        "Tetany.",
+        "U wave.",
+        "Seizures."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hypercalcemia (PDF p. 398)",
+      "quote": "from cancer in the bone releasing calcium into the bloodstream"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Chronic alcohol use and loop diuretics commonly cause:",
+      "options": [
+        "Hypomagnesemia",
+        "Hypermagnesemia",
+        "Hypercalcemia",
+        "Hypernatremia"
+      ],
+      "answer": "A",
+      "rationale": "Alcohol and diuretics increase urinary magnesium loss.",
+      "explanations": [
+        "Correct.",
+        "Antacids, renal.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hypomagnesemia (PDF p. 398)",
+      "quote": "alcohol abuse"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Overuse of magnesium-containing antacids in renal failure may cause:",
+      "options": [
+        "Hypermagnesemia",
+        "Hypomagnesemia",
+        "Hypokalemia",
+        "Hypocalcemia"
+      ],
+      "answer": "A",
+      "rationale": "Excess intake with decreased excretion raises magnesium: weakness, hypotension.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Hypermagnesemia (PDF p. 399)",
+      "quote": "specifically found in antacids"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Phosphate and calcium have which relationship?",
+      "options": [
+        "Inverse",
+        "Direct",
+        "No relation",
+        "Identical"
+      ],
+      "answer": "A",
+      "rationale": "High phosphate means low calcium, and vice versa.",
+      "explanations": [
+        "Correct.",
+        "Incorrect.",
+        "Incorrect.",
+        "Incorrect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Phosphate (PDF p. 399)",
+      "quote": "High Phosphate=Low Calcium; Low Phosphate=High Calcium"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Normal arterial pH is:",
+      "options": [
+        "7.35–7.45",
+        "7.25–7.30",
+        "7.50–7.60",
+        "6.80–7.00"
+      ],
+      "answer": "A",
+      "rationale": "pH 7.35–7.45; PaCO2 35–45; HCO3 22–26.",
+      "explanations": [
+        "Correct.",
+        "Acidotic.",
+        "Alkalotic.",
+        "Severe acidosis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Arterial Blood Gases (PDF p. 399)",
+      "quote": "NORMAL BLOOD PH: 7.35-7.45"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which finding suggests fluid volume deficit?",
+      "options": [
+        "Flat neck veins",
+        "Distended neck veins",
+        "Bounding pulse",
+        "Lung crackles"
+      ],
+      "answer": "A",
+      "rationale": "FVD: flat neck veins, tachycardia, orthostatic hypotension, concentrated urine.",
+      "explanations": [
+        "Correct.",
+        "Excess.",
+        "Excess.",
+        "Excess."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Fluid Volume Deficit (PDF p. 400)",
+      "quote": "Flattened neck veins"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which IV fluid is used to expand plasma volume in a hypotensive dehydrated client?",
+      "options": [
+        "0.9% sodium chloride",
+        "0.45% sodium chloride",
+        "D5W",
+        "3% saline"
+      ],
+      "answer": "A",
+      "rationale": "Isotonic solutions (NS, LR) expand plasma volume.",
+      "explanations": [
+        "Correct.",
+        "Hypotonic.",
+        "Becomes hypotonic.",
+        "Hypertonic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, FVD Management (PDF p. 400)",
+      "quote": "Frequently used to treat the hypotensive patient with FVD"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "In fluid volume deficit, BUN is typically:",
+      "options": [
+        "High vs creatinine",
+        "Low",
+        "Always normal",
+        "Equal to sodium"
+      ],
+      "answer": "A",
+      "rationale": "BUN rises out of proportion to creatinine in hypovolemia.",
+      "explanations": [
+        "Correct.",
+        "Overload.",
+        "Changes.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, FVD Diagnostics (PDF p. 400)",
+      "quote": "BUN elevated out of proportion to the serum creatinine"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A weight gain of 1 kg overnight equals about how much retained fluid?",
+      "options": [
+        "1 L",
+        "100 mL",
+        "250 mL",
+        "5 L"
+      ],
+      "answer": "A",
+      "rationale": "1 kg (2.2 lb) gain equals about 1 L of fluid.",
+      "explanations": [
+        "Correct.",
+        "Too little.",
+        "Too little.",
+        "Too much."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, FVE Management (PDF p. 401)",
+      "quote": "Weight gain of 2.2 lb (1 kg) is equivalent to a gain of approximately 1 L of fluid."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Distended neck veins, crackles, and bounding pulse indicate:",
+      "options": [
+        "Fluid volume excess",
+        "Fluid volume deficit",
+        "Hypokalemia",
+        "Hypocalcemia"
+      ],
+      "answer": "A",
+      "rationale": "Hypervolemia: edema, JVD, crackles, increased BP and CVP.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Fluid Volume Excess (PDF p. 401)",
+      "quote": "Distended neck veins"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which diuretic may cause hyperkalemia?",
+      "options": [
+        "Spironolactone",
+        "Furosemide",
+        "Bumetanide",
+        "Hydrochlorothiazide"
+      ],
+      "answer": "A",
+      "rationale": "Potassium-sparing diuretics acting in the distal tubule can raise K.",
+      "explanations": [
+        "Correct.",
+        "Lowers K.",
+        "Lowers K.",
+        "Lowers K."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, FVE Management (PDF p. 401)",
+      "quote": "Hyperkalemia can occur with diuretics that work in the last distal tubule (eg, spironolactone)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client on a sodium-restricted diet should be taught to:",
+      "options": [
+        "Read food labels",
+        "Use soy sauce freely",
+        "Eat canned soups",
+        "Take OTC antacids freely"
+      ],
+      "answer": "A",
+      "rationale": "Read labels and avoid OTC drugs that may contain sodium.",
+      "explanations": [
+        "Correct.",
+        "High Na.",
+        "High Na.",
+        "May contain Na."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, FVE Management (PDF p. 401)",
+      "quote": "Patients are instructed to read food labels carefully"
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with massive bleeding from a stab wound is in which type of shock?",
+      "options": [
+        "Hypovolemic",
+        "Cardiogenic",
+        "Neurogenic",
+        "Septic"
+      ],
+      "answer": "A",
+      "rationale": "Hypovolemic shock results from loss of blood or plasma.",
+      "explanations": [
+        "Correct.",
+        "Pump failure.",
+        "SNS loss.",
+        "Infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hypovolemic Shock (PDF p. 319)",
+      "quote": "Hemorrhage/Excessive bleeding"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Shock after a massive anterior-wall MI is classified as:",
+      "options": [
+        "Cardiogenic",
+        "Hypovolemic",
+        "Anaphylactic",
+        "Neurogenic"
+      ],
+      "answer": "A",
+      "rationale": "Cardiogenic shock is pump failure from MI, HF, or tamponade.",
+      "explanations": [
+        "Correct.",
+        "Volume.",
+        "Allergy.",
+        "Spinal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cardiogenic Shock (PDF p. 319)",
+      "quote": "Myocardial infarction"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with a cervical spinal cord injury has hypotension with bradycardia and warm, dry skin. This suggests:",
+      "options": [
+        "Neurogenic shock",
+        "Hypovolemic shock",
+        "Cardiogenic shock",
+        "Septic shock"
+      ],
+      "answer": "A",
+      "rationale": "Loss of sympathetic tone below the lesion causes vasodilation and bradycardia.",
+      "explanations": [
+        "Correct.",
+        "Tachycardia, cool.",
+        "Pump failure.",
+        "Infection."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Neurogenic Shock (PDF p. 319)",
+      "quote": "loss of autonomic nervous system function below the level of the lesion"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client develops wheezing and hypotension minutes after IV antibiotic starts. After stopping the drug, the nurse gives:",
+      "options": [
+        "Epinephrine",
+        "Furosemide",
+        "Morphine",
+        "Digoxin"
+      ],
+      "answer": "A",
+      "rationale": "Remove the antigen and give epinephrine for vasoconstriction and bronchodilation; diphenhydramine follows.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anaphylactic Shock (PDF p. 319)",
+      "quote": "Epinephrine is given for its vasoconstrictive action (emergency drug)."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Septic shock is most commonly caused by:",
+      "options": [
+        "Gram-negative bacteria",
+        "Allergens",
+        "Blood loss",
+        "Spinal injury"
+      ],
+      "answer": "A",
+      "rationale": "Septic shock is the body's reaction to bacterial toxins, generally gram-negative.",
+      "explanations": [
+        "Correct.",
+        "Anaphylaxis.",
+        "Hypovolemic.",
+        "Neurogenic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Septic Shock (PDF p. 319)",
+      "quote": "generally gram-negative infection"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Hypertension caused by pheochromocytoma is classified as:",
+      "options": [
+        "Secondary",
+        "Essential",
+        "Primary",
+        "Idiopathic"
+      ],
+      "answer": "A",
+      "rationale": "Secondary HTN has an identifiable cause: renal disease, pheochromocytoma, Cushing's, coarctation.",
+      "explanations": [
+        "Correct.",
+        "No cause.",
+        "No cause.",
+        "No cause."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Secondary Hypertension (PDF p. 320)",
+      "quote": "Pheochromocytoma"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which lifestyle factor increases the risk for essential hypertension?",
+      "options": [
+        "High salt intake",
+        "High potassium intake",
+        "Regular exercise",
+        "Low-calorie diet"
+      ],
+      "answer": "A",
+      "rationale": "Risks: high salt, caffeine, alcohol, smoking, inactivity, low potassium, calcium, magnesium.",
+      "explanations": [
+        "Correct.",
+        "Protective.",
+        "Protective.",
+        "Protective."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Essential Hypertension (PDF p. 320)",
+      "quote": "High salt intake or caffeine"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "ACE inhibitors such as captopril lower blood pressure by:",
+      "options": [
+        "Less aldosterone",
+        "Faster heart rate",
+        "Higher output",
+        "Calcium in bone"
+      ],
+      "answer": "A",
+      "rationale": "ACE inhibitors reduce peripheral resistance and aldosterone without reflex tachycardia.",
+      "explanations": [
+        "Correct.",
+        "No.",
+        "No.",
+        "No."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, ACE Inhibitors (PDF p. 320)",
+      "quote": "Decrease secretion of aldosterone"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which diuretic is potassium-sparing?",
+      "options": [
+        "Spironolactone",
+        "Furosemide",
+        "Hydrochlorothiazide",
+        "Bumetanide"
+      ],
+      "answer": "A",
+      "rationale": "Spironolactone spares potassium; loops and thiazides waste it.",
+      "explanations": [
+        "Correct.",
+        "Loop.",
+        "Thiazide.",
+        "Loop."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Diuretics (PDF p. 321)",
+      "quote": "Spironolactone (Aldactone)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A 28-year-old heavy smoker has instep claudication and rubor with absent pedal pulses. This suggests:",
+      "options": [
+        "Buerger's disease",
+        "Raynaud's phenomenon",
+        "DVT",
+        "Varicose veins"
+      ],
+      "answer": "A",
+      "rationale": "Thromboangiitis obliterans affects young male smokers with claudication and rubor.",
+      "explanations": [
+        "Correct.",
+        "Color changes.",
+        "Swelling.",
+        "Veins."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Buerger's Disease (PDF p. 321)",
+      "quote": "Heavy smoking and chewing tobacco"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "What is the most important teaching for a client with Buerger's disease?",
+      "options": [
+        "Stop all tobacco use",
+        "Increase salt",
+        "Use heating pads",
+        "Cross legs often"
+      ],
+      "answer": "A",
+      "rationale": "Smoking cessation halts progression.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Burns.",
+        "Impairs flow."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Buerger's Disease (PDF p. 321)",
+      "quote": "Heavy smoking and chewing tobacco"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Raynaud's phenomenon shows which color sequence in the fingers?",
+      "options": [
+        "White, blue, red",
+        "Red, white, blue",
+        "Blue, red, white",
+        "Red, blue, white"
+      ],
+      "answer": "A",
+      "rationale": "Vasospasm causes pallor (white), cyanosis (blue), then reactive hyperemia (red).",
+      "explanations": [
+        "Correct.",
+        "Wrong order.",
+        "Wrong order.",
+        "Wrong order."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Raynaud's Phenomenon (PDF p. 321)",
+      "quote": "The characteristic sequence of color change of Raynaud's phenomenon is described as white, blue, and red."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which advice helps a client with Raynaud's phenomenon who works in an air-conditioned office?",
+      "options": [
+        "Keep a sweater handy",
+        "Hold cold drinks",
+        "Use nicotine gum",
+        "Soak in ice water"
+      ],
+      "answer": "A",
+      "rationale": "Avoid cold and nicotine; keep warm clothing available.",
+      "explanations": [
+        "Correct.",
+        "Cold.",
+        "Nicotine.",
+        "Cold."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Raynaud's Nursing Care (PDF p. 322)",
+      "quote": "Sweater should be available when entering air-conditioned rooms"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Virchow's triad of DVT risk includes vessel injury, altered coagulation, and:",
+      "options": [
+        "Venous stasis",
+        "Hypotension",
+        "Hyperthermia",
+        "Anemia"
+      ],
+      "answer": "A",
+      "rationale": "Virchow's triad: vessel wall injury, venous stasis, hypercoagulability.",
+      "explanations": [
+        "Correct.",
+        "Not part.",
+        "Not part.",
+        "Not part."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Venous Thromboembolism (PDF p. 322)",
+      "quote": "Venous stasis (stasis of blood)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which measure prevents DVT in a postoperative client?",
+      "options": [
+        "Compression stockings",
+        "Pillow under knees",
+        "Prolonged bed rest",
+        "Crossing legs"
+      ],
+      "answer": "A",
+      "rationale": "Compression stockings, SC heparin or LMWH, and early ambulation prevent DVT.",
+      "explanations": [
+        "Correct.",
+        "Stasis.",
+        "Stasis.",
+        "Stasis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, DVT Prevention (PDF p. 322)",
+      "quote": "Preventive measures include the application of graduated compression stockings"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which laboratory value is monitored for a client on warfarin?",
+      "options": [
+        "INR",
+        "Serum amylase",
+        "BUN",
+        "Troponin"
+      ],
+      "answer": "A",
+      "rationale": "Monitor PT/INR for warfarin and aPTT for heparin.",
+      "explanations": [
+        "Correct.",
+        "Pancreas.",
+        "Kidney.",
+        "MI."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, DVT Nursing Management (PDF p. 322)",
+      "quote": "the nurse must frequently monitor the aPTT, prothrombin time, and INR"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "When should an ambulatory client apply graduated compression stockings?",
+      "options": [
+        "Before getting out of bed",
+        "After a shower at noon",
+        "At bedtime",
+        "Only when legs swell"
+      ],
+      "answer": "A",
+      "rationale": "Remove at night and reapply before legs are lowered to the floor in the morning.",
+      "explanations": [
+        "Correct.",
+        "Too late.",
+        "Remove at night.",
+        "Too late."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Nursing Alert (PDF p. 322)",
+      "quote": "reapplied before the legs are lowered from the bed to the floor in the morning"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A spindle-shaped aneurysm involving the entire circumference of an artery is:",
+      "options": [
+        "Fusiform",
+        "Saccular",
+        "Dissecting",
+        "False"
+      ],
+      "answer": "A",
+      "rationale": "Fusiform is symmetric; saccular is one-sided; dissecting splits layers; false is a pulsating hematoma.",
+      "explanations": [
+        "Correct.",
+        "One side.",
+        "Splits layers.",
+        "Hematoma."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Aneurysm Types (PDF p. 323)",
+      "quote": "Fusiform aneurysm—symmetric, spindle shaped expansion"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "The respiratory center in the medulla mainly responds to blood levels of:",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Sodium",
+        "Glucose"
+      ],
+      "answer": "A",
+      "rationale": "The medulla responds to CO2; carotid and aortic chemoreceptors respond to hypoxemia.",
+      "explanations": [
+        "Correct.",
+        "Chemoreceptors.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Respiratory Anatomy (PDF p. 324)",
+      "quote": "The respiratory center in the medulla is sensitive to concentration of carbon dioxide in the blood."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the basic gas-exchange unit of the lungs?",
+      "options": [
+        "Alveoli",
+        "Bronchi",
+        "Trachea",
+        "Pleura"
+      ],
+      "answer": "A",
+      "rationale": "O2 and CO2 diffuse across the alveolar-capillary membrane.",
+      "explanations": [
+        "Correct.",
+        "Conducting.",
+        "Conducting.",
+        "Membrane."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Respiratory Anatomy (PDF p. 324)",
+      "quote": "Basic gas-exchange unit of the respiratory system is the alveoli."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Before using a corticosteroid nasal spray for allergic rhinitis, the client should:",
+      "options": [
+        "Blow the nose first",
+        "Tilt head far back",
+        "Lie flat",
+        "Hold breath 1 minute"
+      ],
+      "answer": "A",
+      "rationale": "Blow the nose before applying medication for maximal relief.",
+      "explanations": [
+        "Correct.",
+        "Not needed.",
+        "Not needed.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Allergic Rhinitis (PDF p. 325)",
+      "quote": "the patient is instructed to blow the nose before applying any medication into the nasal cavity"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "The common cold is highly contagious because the virus is shed:",
+      "options": [
+        "About 2 days before symptoms",
+        "Only after fever",
+        "Only by touch after 2 weeks",
+        "Never before symptoms"
+      ],
+      "answer": "A",
+      "rationale": "Virus is shed about 2 days before symptoms and during the early symptomatic phase.",
+      "explanations": [
+        "Correct.",
+        "Earlier.",
+        "Incorrect.",
+        "Incorrect."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Viral Rhinitis (PDF p. 325)",
+      "quote": "virus is shed for about 2 days before the symptoms appear"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "What is the drug of choice for bacterial (streptococcal) pharyngitis?",
+      "options": [
+        "Penicillin",
+        "Acyclovir",
+        "Fluconazole",
+        "Metronidazole"
+      ],
+      "answer": "A",
+      "rationale": "Penicillin is the treatment of choice; cephalosporins and macrolides are alternatives.",
+      "explanations": [
+        "Correct.",
+        "Antiviral.",
+        "Antifungal.",
+        "Anaerobes."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Acute Pharyngitis (PDF p. 325)",
+      "quote": "Penicillin is the treatment of choice"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which comfort measure helps a client with acute pharyngitis?",
+      "options": [
+        "Warm saline gargles",
+        "Spicy soup",
+        "Dry hot air",
+        "Crunchy foods"
+      ],
+      "answer": "A",
+      "rationale": "Warm saline gargles, cool drinks, popsicles, soft diet, and ice collar soothe the throat.",
+      "explanations": [
+        "Correct.",
+        "Irritates.",
+        "Irritates.",
+        "Irritates."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Acute Pharyngitis (PDF p. 325)",
+      "quote": "Warm saline gargles or throat irrigations"
+    }
+  ]
+}

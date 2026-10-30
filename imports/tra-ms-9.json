@@ -1,0 +1,557 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "The client stops inhaling when the examiner presses below the right costal margin. This is:",
+      "options": [
+        "Murphy's sign",
+        "Rovsing's sign",
+        "Cullen's sign",
+        "Chvostek's sign"
+      ],
+      "answer": "A",
+      "rationale": "Murphy's sign indicates cholecystitis.",
+      "explanations": [
+        "Correct.",
+        "Appendicitis.",
+        "Pancreatitis.",
+        "Hypocalcemia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cholecystitis (PDF p. 353)",
+      "quote": "Murphy's sign- Pain on taking a deep breath"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Gallstone pain typically occurs in the RUQ and may radiate to the:",
+      "options": [
+        "Right scapula",
+        "Left arm",
+        "Groin",
+        "Jaw"
+      ],
+      "answer": "A",
+      "rationale": "Biliary colic radiates to the back near the right scapular tip.",
+      "explanations": [
+        "Correct.",
+        "Cardiac.",
+        "Renal.",
+        "Cardiac."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cholelithiasis (PDF p. 353)",
+      "quote": "possibly radiating to the back or near the right scapular tip"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What is the diagnostic procedure of choice for gallstones?",
+      "options": [
+        "Ultrasonography",
+        "Barium swallow",
+        "Colonoscopy",
+        "Chest x-ray"
+      ],
+      "answer": "A",
+      "rationale": "Ultrasound is the procedure of choice.",
+      "explanations": [
+        "Correct.",
+        "Esophagus.",
+        "Colon.",
+        "Lungs."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Gallbladder Diagnostics (PDF p. 353)",
+      "quote": "Ultrasonography- diagnostic procedure"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which diet should a client with cholelithiasis follow?",
+      "options": [
+        "Low-fat",
+        "High-fat",
+        "High-cholesterol",
+        "Fried foods allowed"
+      ],
+      "answer": "A",
+      "rationale": "Low-fat diet reduces gallbladder stimulation and colic.",
+      "explanations": [
+        "Correct.",
+        "Triggers pain.",
+        "Worsens.",
+        "Triggers pain."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Gallbladder Management (PDF p. 353)",
+      "quote": "Low-fat liquids"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Ursodeoxycholic acid is used to:",
+      "options": [
+        "Dissolve small gallstones",
+        "Treat hepatitis B",
+        "Reduce ammonia",
+        "Stop variceal bleeding"
+      ],
+      "answer": "A",
+      "rationale": "UDCA dissolves small radiolucent gallstones.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Lactulose.",
+        "Banding."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Gallbladder Pharmacology (PDF p. 353)",
+      "quote": "dissolve small radiolucent gall stone"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Using shock waves to fragment gallstones without incision is:",
+      "options": [
+        "Lithotripsy (ESWL)",
+        "Choledochostomy",
+        "Laparoscopy",
+        "ERCP procedure"
+      ],
+      "answer": "A",
+      "rationale": "ESWL is noninvasive fragmentation of stones.",
+      "explanations": [
+        "Correct.",
+        "Incision.",
+        "Surgery.",
+        "Endoscopy."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Gallbladder Management (PDF p. 353)",
+      "quote": "Non-invasive procedure; uses repeated shock waves"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "The biliary drainage tube is clamped 1 hour before and after meals in order to:",
+      "options": [
+        "Aid fat digestion",
+        "Prevent infection",
+        "Measure output",
+        "Relieve pain"
+      ],
+      "answer": "A",
+      "rationale": "Clamping lets bile flow into the duodenum to aid fat digestion.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Biliary Drainage (PDF p. 354)",
+      "quote": "to allow bile to the duodenum to aid in digestion"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Acute pancreatitis is self-digestion of the pancreas mainly by:",
+      "options": [
+        "Trypsin",
+        "Pepsin",
+        "Bile",
+        "Salivary amylase"
+      ],
+      "answer": "A",
+      "rationale": "Activated trypsin and other proteolytic enzymes digest the pancreas.",
+      "explanations": [
+        "Correct.",
+        "Stomach.",
+        "Liver.",
+        "Mouth."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Acute Pancreatitis (PDF p. 354)",
+      "quote": "principally trypsin"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Bluish discoloration around the umbilicus in acute pancreatitis is:",
+      "options": [
+        "Cullen's sign",
+        "Turner's sign",
+        "Murphy's sign",
+        "Homan's sign"
+      ],
+      "answer": "A",
+      "rationale": "Cullen's: periumbilical; Grey Turner's: flank, indicating retroperitoneal bleeding.",
+      "explanations": [
+        "Correct.",
+        "Flank.",
+        "Gallbladder.",
+        "DVT."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Acute Pancreatitis (PDF p. 354)",
+      "quote": "Cullen's sign- bluish discoloration around the umbilicus"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which lab results support acute pancreatitis?",
+      "options": [
+        "High amylase, lipase",
+        "Low amylase",
+        "High calcium",
+        "Low WBC"
+      ],
+      "answer": "A",
+      "rationale": "Elevated amylase, lipase, and WBC; hypocalcemia may occur.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Low calcium.",
+        "High WBC."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Acute Pancreatitis (PDF p. 354)",
+      "quote": "Elevated amylase"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Why is a client with acute pancreatitis kept NPO?",
+      "options": [
+        "To rest the pancreas",
+        "To prepare for x-ray",
+        "To lower calcium",
+        "To prevent constipation"
+      ],
+      "answer": "A",
+      "rationale": "NPO inhibits pancreatic stimulation and enzyme secretion.",
+      "explanations": [
+        "Correct.",
+        "Not main.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Acute Pancreatitis (PDF p. 354)",
+      "quote": "The client should avoid oral intake to inhibit pancreatic stimulation"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Frothy, foul-smelling, fatty stools in chronic pancreatitis are called:",
+      "options": [
+        "Steatorrhea",
+        "Melena",
+        "Hematochezia",
+        "Tarry stools"
+      ],
+      "answer": "A",
+      "rationale": "Impaired fat digestion causes steatorrhea; give pancreatic enzymes with meals.",
+      "explanations": [
+        "Correct.",
+        "Upper GI blood.",
+        "Lower GI blood.",
+        "Upper GI blood."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Chronic Pancreatitis (PDF p. 354)",
+      "quote": "Stools become frequent, frothy, and foul-smelling"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Chronic pancreatitis may lead to which endocrine complication?",
+      "options": [
+        "Diabetes mellitus",
+        "Hyperthyroidism",
+        "Addison's disease",
+        "Gigantism"
+      ],
+      "answer": "A",
+      "rationale": "Islet cell damage causes diabetes; glucose tolerance becomes abnormal.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Chronic Pancreatitis (PDF p. 355)",
+      "quote": "Manage any endocrine insufficiency such as Diabetes Mellitus"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client with a perforated ulcer has a rigid, board-like abdomen and rebound tenderness. This suggests:",
+      "options": [
+        "Peritonitis",
+        "Gastritis",
+        "GERD",
+        "Hemorrhoids"
+      ],
+      "answer": "A",
+      "rationale": "Peritonitis: rigidity, rebound tenderness, ileus, fever, tachycardia.",
+      "explanations": [
+        "Correct.",
+        "Mild.",
+        "Mild.",
+        "Anal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Peritonitis (PDF p. 355)",
+      "quote": "Muscles become rigid and tender"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which position decreases pain in a client with peritonitis?",
+      "options": [
+        "Side-lying with knees flexed",
+        "Prone",
+        "Supine with legs straight",
+        "Trendelenburg"
+      ],
+      "answer": "A",
+      "rationale": "Knees flexed decreases tension on abdominal organs.",
+      "explanations": [
+        "Correct.",
+        "Painful.",
+        "Tension.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Peritonitis Nursing (PDF p. 356)",
+      "quote": "Patient is placed on the side with knees flexed"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which hormone is released by the posterior pituitary?",
+      "options": [
+        "Antidiuretic hormone",
+        "Growth hormone",
+        "TSH",
+        "ACTH"
+      ],
+      "answer": "A",
+      "rationale": "Posterior pituitary releases ADH and oxytocin.",
+      "explanations": [
+        "Correct.",
+        "Anterior.",
+        "Anterior.",
+        "Anterior."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Posterior Pituitary (PDF p. 357)",
+      "quote": "Antidiuretic Hormone (ADH)/ Vasopressin"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Aldosterone acts on the kidney to:",
+      "options": [
+        "Retain Na, lose K",
+        "Excrete sodium",
+        "Retain potassium",
+        "Excrete water"
+      ],
+      "answer": "A",
+      "rationale": "Mineralocorticoids increase sodium absorption and potassium loss.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Opposite.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Adrenal Cortex (PDF p. 358)",
+      "quote": "Increase sodium absorption, potassium loss by kidney."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Calcitonin from the thyroid gland:",
+      "options": [
+        "Lowers blood calcium",
+        "Raises blood calcium",
+        "Raises glucose",
+        "Increases heart rate"
+      ],
+      "answer": "A",
+      "rationale": "Calcitonin lowers calcium; parathormone raises it.",
+      "explanations": [
+        "Correct.",
+        "PTH.",
+        "Glucagon.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Thyroid Gland (PDF p. 358)",
+      "quote": "Lower blood calcium and phosphate levels."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Why is serum calcium monitored after thyroidectomy?",
+      "options": [
+        "Parathyroid injury",
+        "Thyroid makes Ca",
+        "Calcitonin rises",
+        "Insulin falls"
+      ],
+      "answer": "A",
+      "rationale": "Parathyroid glands may be removed or injured, causing hypocalcemia.",
+      "explanations": [
+        "Correct.",
+        "Incorrect.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Parathyroid Glands (PDF p. 358)",
+      "quote": "they are often difficult to locate and can be removed accidentally"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Glucagon from pancreatic alpha cells:",
+      "options": [
+        "Raises blood glucose",
+        "Lowers blood glucose",
+        "Delays glucose absorption",
+        "Stores fat"
+      ],
+      "answer": "A",
+      "rationale": "Glucagon stimulates glycogenolysis and gluconeogenesis.",
+      "explanations": [
+        "Correct.",
+        "Insulin.",
+        "Somatostatin.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pancreatic Islet Cells (PDF p. 358)",
+      "quote": "Increases blood glucose concentration"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which hormone is produced by the kidney to stimulate RBC production?",
+      "options": [
+        "Erythropoietin",
+        "Renin",
+        "Aldosterone",
+        "Calcitonin"
+      ],
+      "answer": "A",
+      "rationale": "Erythropoietin increases RBC production; renin activates RAAS.",
+      "explanations": [
+        "Correct.",
+        "RAAS.",
+        "Adrenal.",
+        "Thyroid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Kidney Hormones (PDF p. 359)",
+      "quote": "Erythropoietin"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Gigantism results from excess growth hormone when:",
+      "options": [
+        "Before plate closure",
+        "After bone fusion",
+        "In adults only",
+        "After menopause"
+      ],
+      "answer": "A",
+      "rationale": "GH excess before epiphyseal closure causes gigantism; after closure, acromegaly.",
+      "explanations": [
+        "Correct.",
+        "Acromegaly.",
+        "Acromegaly.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Gigantism (PDF p. 359)",
+      "quote": "Epiphyseal plate still open."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client with a GH-secreting pituitary tumor reports headache and diplopia. These are due to:",
+      "options": [
+        "Tumor pressure",
+        "Hypoglycemia",
+        "Low calcium",
+        "Dehydration"
+      ],
+      "answer": "A",
+      "rationale": "Pituitary tumors press on the optic chiasm and raise ICP.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Gigantism (PDF p. 359)",
+      "quote": "Tumor of somatotrophs (signs of increased ICP)"
+    }
+  ]
+}

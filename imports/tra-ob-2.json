@@ -1,0 +1,653 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "A pregnant woman hyperventilates and feels tingling and light-headedness. What should the nurse advise?",
+      "options": [
+        "Rebreathe in a bag",
+        "Breathe faster",
+        "Lie flat",
+        "Hold breath 1 min"
+      ],
+      "answer": "A",
+      "rationale": "Hyperventilation causes respiratory alkalosis; rebreathing through a paper bag or cupped hands helps.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Not helpful.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Respiratory Changes (PDF p. 193)",
+      "quote": "Breathe through a paper bag or through cupped hands."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "A pregnant woman craves and eats clay. What is this?",
+      "options": [
+        "Pica",
+        "Ptyalism",
+        "Epulis",
+        "Pyrosis"
+      ],
+      "answer": "A",
+      "rationale": "Pica is an appetite for non-nutritive substances such as clay, chalk, or soil.",
+      "explanations": [
+        "Correct.",
+        "Excess saliva.",
+        "Gum swelling.",
+        "Heartburn."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, GI Changes (PDF p. 193)",
+      "quote": "Medical disorder characterized by an appetite for substances largely non-nutritive"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "How is gum swelling and bleeding (epulis) in pregnancy managed?",
+      "options": [
+        "Soft-bristled toothbrush",
+        "Strong mouthwash",
+        "Stop brushing",
+        "Hard toothbrush"
+      ],
+      "answer": "A",
+      "rationale": "Epulis is from increased estrogen; use a soft brush and avoid strong mouthwash.",
+      "explanations": [
+        "Correct.",
+        "Avoid.",
+        "Not advised.",
+        "Injures."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, GI Changes (PDF p. 194)",
+      "quote": "Use soft-bristled toothbrush"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which advice helps heartburn in pregnancy?",
+      "options": [
+        "Lie down after meals",
+        "Small, frequent meals",
+        "Large meals at night",
+        "Spicy food"
+      ],
+      "answer": "B",
+      "rationale": "Small frequent meals, avoiding supine position after eating, and gradual ambulation help.",
+      "explanations": [
+        "Worsens.",
+        "Correct.",
+        "Worsens.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, GI Changes (PDF p. 194)",
+      "quote": "Small frequent feeding"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Why are pregnant women prone to UTI?",
+      "options": [
+        "Ureteral stasis",
+        "More fluid intake",
+        "Less estrogen",
+        "Less progesterone"
+      ],
+      "answer": "A",
+      "rationale": "Hormone-induced relaxation of the renal pelvis and ureters causes urine stagnation.",
+      "explanations": [
+        "Correct.",
+        "Not the cause.",
+        "Estrogen rises.",
+        "Progesterone rises."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Renal Changes (PDF p. 194)",
+      "quote": "relaxation of renal pelvis and the ureter leading to urine stagnation"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which hormone loosens the pelvic joints in pregnancy?",
+      "options": [
+        "Relaxin",
+        "Oxytocin",
+        "Prolactin",
+        "Insulin"
+      ],
+      "answer": "A",
+      "rationale": "Relaxin from the placenta relaxes pelvic joints.",
+      "explanations": [
+        "Correct.",
+        "Contractions.",
+        "Milk.",
+        "Glucose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Musculoskeletal Changes (PDF p. 194)",
+      "quote": "Placenta can produce the hormone, relaxin"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which measure relieves back pain from pregnancy lordosis?",
+      "options": [
+        "Pelvic rocking",
+        "Lying supine",
+        "Strong analgesics",
+        "High heels"
+      ],
+      "answer": "A",
+      "rationale": "Pelvic rocking and lumbar pressure help; avoid supine position.",
+      "explanations": [
+        "Correct.",
+        "Avoid.",
+        "Not advised.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Musculoskeletal Changes (PDF p. 194)",
+      "quote": "Do Pelvic Rocking"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Why are NSAIDs such as indomethacin avoided late in pregnancy?",
+      "options": [
+        "Premature ductus closure",
+        "They cause twins",
+        "They raise BP",
+        "They cause jaundice in mother"
+      ],
+      "answer": "A",
+      "rationale": "NSAIDs can close the ductus arteriosus prematurely and reduce fetal urine, causing oligohydramnios.",
+      "explanations": [
+        "Correct.",
+        "No.",
+        "Not main.",
+        "Not main."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Drugs in Pregnancy (PDF p. 194)",
+      "quote": "Causes premature closure of the Ductus Arteriosus"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "What should the woman do before amniocentesis?",
+      "options": [
+        "Void",
+        "Drink 1 L water",
+        "Fast 24 hours",
+        "Take a laxative"
+      ],
+      "answer": "A",
+      "rationale": "Voiding reduces bladder size and prevents accidental puncture; observe 30 minutes after.",
+      "explanations": [
+        "Correct.",
+        "For ultrasound.",
+        "Not needed.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Amniocentesis (PDF p. 195)",
+      "quote": "Void before the procedure"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Amniotic fluid over 1200 mL is called:",
+      "options": [
+        "Polyhydramnios",
+        "Oligohydramnios",
+        "Normal",
+        "Meconium"
+      ],
+      "answer": "A",
+      "rationale": "Normal 800–1200 mL; oligohydramnios under 500 mL; polyhydramnios over 1200 mL.",
+      "explanations": [
+        "Correct.",
+        "Too little.",
+        "Exceeds.",
+        "Color."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Amniocentesis (PDF p. 195)",
+      "quote": "Hydramnios/polyhydramnios - more than 1200mL"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Green-tinged amniotic fluid suggests:",
+      "options": [
+        "Meconium staining",
+        "Blood incompatibility",
+        "Normal fluid",
+        "Infection only"
+      ],
+      "answer": "A",
+      "rationale": "Green suggests meconium; strong yellow suggests blood incompatibility.",
+      "explanations": [
+        "Correct.",
+        "Yellow.",
+        "Clear/pale.",
+        "Not specific."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Amniocentesis (PDF p. 195)",
+      "quote": "Green: meconium staining"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which L:S ratio indicates fetal lung maturity?",
+      "options": [
+        "2:1",
+        "1:1",
+        "1:2",
+        "0.5:1"
+      ],
+      "answer": "A",
+      "rationale": "A lecithin:sphingomyelin ratio of 2:1 indicates lung maturity.",
+      "explanations": [
+        "Correct.",
+        "Immature.",
+        "Immature.",
+        "Immature."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Amniocentesis (PDF p. 195)",
+      "quote": "Normal ratio is 2L:1S"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "How is a woman prepared for a TRANSABDOMINAL ultrasound early in pregnancy?",
+      "options": [
+        "Fill the bladder",
+        "Void first",
+        "Fast overnight",
+        "Take an enema"
+      ],
+      "answer": "A",
+      "rationale": "A full bladder pushes the uterus up for better view; transvaginal needs voiding.",
+      "explanations": [
+        "Correct.",
+        "Transvaginal.",
+        "Not needed.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Ultrasound (PDF p. 196)",
+      "quote": "Ask the client to drink plenty of water 1 hour before procedure."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A 'snowstorm' pattern on first-trimester ultrasound suggests:",
+      "options": [
+        "Hydatidiform mole",
+        "Twins",
+        "Normal pregnancy",
+        "Placenta previa"
+      ],
+      "answer": "A",
+      "rationale": "H-mole shows a snowstorm appearance of fluid-filled vesicles.",
+      "explanations": [
+        "Correct.",
+        "Two sacs.",
+        "Normal sac.",
+        "Later finding."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Ultrasound (PDF p. 196)",
+      "quote": "Snow-storm appearance"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "A biophysical profile score of 8–10 means:",
+      "options": [
+        "The fetus is doing well",
+        "Suspicious",
+        "Fetus in jeopardy",
+        "Test invalid"
+      ],
+      "answer": "A",
+      "rationale": "BPP 8–10 normal; 6 suspicious; 4 jeopardy.",
+      "explanations": [
+        "Correct.",
+        "Score 6.",
+        "Score 4.",
+        "Not so."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Biophysical Score (PDF p. 196)",
+      "quote": "Fetal score of 8-10= fetus is doing well"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which NST result is REACTIVE (normal)?",
+      "options": [
+        "2 accels in 20 min",
+        "No accelerations",
+        "One late decel",
+        "Variable decels"
+      ],
+      "answer": "A",
+      "rationale": "Reactive NST: two or more accelerations of 15 bpm lasting 15 seconds with movement in 20 minutes.",
+      "explanations": [
+        "Correct.",
+        "Non-reactive.",
+        "Abnormal.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Non-Stress Test (PDF p. 197)",
+      "quote": "Two or more accelerations of fetal heart rate of 15 beats/min lasting 15 seconds"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which contraction stress test result is NORMAL?",
+      "options": [
+        "Negative CST",
+        "Positive CST",
+        "Equivocal CST",
+        "Reactive CST"
+      ],
+      "answer": "A",
+      "rationale": "A negative CST has no late decelerations with contractions; positive (late decels) is abnormal.",
+      "explanations": [
+        "Correct.",
+        "Abnormal.",
+        "Unclear.",
+        "NST term."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Contraction Stress Test (PDF p. 197)",
+      "quote": "Negative (Normal): No late decelerations with contractions"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Late decelerations appear during an oxytocin challenge test. What is FIRST?",
+      "options": [
+        "Stop oxytocin, left side",
+        "Increase oxytocin",
+        "Have her push",
+        "Give a sedative"
+      ],
+      "answer": "A",
+      "rationale": "Turn left lateral, stop oxytocin, give O2 8–10 L/min, and hydrate.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Not now.",
+        "Not first."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Contraction Stress Test (PDF p. 197)",
+      "quote": "Stop oxytocin immediately: no contractions wanted."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "An ELEVATED maternal serum AFP suggests:",
+      "options": [
+        "Neural tube defect",
+        "Down syndrome",
+        "Normal pregnancy",
+        "Gestational diabetes"
+      ],
+      "answer": "A",
+      "rationale": "Elevated AFP suggests neural tube defects; decreased suggests chromosomal disorders like Down syndrome.",
+      "explanations": [
+        "Correct.",
+        "Low AFP.",
+        "Not elevated.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Alpha-fetoprotein (PDF p. 197)",
+      "quote": "Elevated: Neural tube defect"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "When is chorionic villi sampling done?",
+      "options": [
+        "8–10 weeks",
+        "16–18 weeks",
+        "28 weeks",
+        "36 weeks"
+      ],
+      "answer": "A",
+      "rationale": "CVS is done at 8–10 weeks; amniocentesis at 14–16 weeks.",
+      "explanations": [
+        "Correct.",
+        "Amniocentesis.",
+        "Too late.",
+        "Too late."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Chorionic Villi Sampling (PDF p. 197)",
+      "quote": "Done at 8 to 10 weeks"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "The main psychological task in the SECOND trimester is:",
+      "options": [
+        "Accepting the baby",
+        "Accepting the pregnancy",
+        "Accepting parenthood",
+        "Preparing for labor"
+      ],
+      "answer": "A",
+      "rationale": "First trimester: accept pregnancy; second: accept the baby; third: accept parenthood.",
+      "explanations": [
+        "Correct.",
+        "First.",
+        "Third.",
+        "Third."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Psychological Tasks (PDF p. 198)",
+      "quote": "Acceptance of the baby is the main task"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Which pelvis type is ideal for childbirth?",
+      "options": [
+        "Gynecoid",
+        "Android",
+        "Anthropoid",
+        "Platypelloid"
+      ],
+      "answer": "A",
+      "rationale": "The gynecoid pelvis is the normal female pelvis with a well-rounded inlet.",
+      "explanations": [
+        "Correct.",
+        "Male, narrow.",
+        "Narrow transverse.",
+        "Flat."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pelvic Dimension (PDF p. 198)",
+      "quote": "Ideal for childbirth."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "The presenting part is at the level of the ischial spines. What is the station?",
+      "options": [
+        "−2",
+        "0",
+        "+2",
+        "+3"
+      ],
+      "answer": "B",
+      "rationale": "Station 0 (engaged) is at the ischial spines; minus is above, plus is below; +3 is crowning.",
+      "explanations": [
+        "Above.",
+        "Correct.",
+        "Below.",
+        "Crowning."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Fetal Station (PDF p. 199)",
+      "quote": "At the ischial spine 0 (engaged)"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "When does the posterior fontanelle close?",
+      "options": [
+        "2–3 months",
+        "12–18 months",
+        "24 months",
+        "At birth"
+      ],
+      "answer": "A",
+      "rationale": "The triangular posterior fontanelle closes at 2–3 months; the anterior at 12–18 months.",
+      "explanations": [
+        "Correct.",
+        "Anterior.",
+        "Too late.",
+        "Not yet."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Fetal Head (PDF p. 199)",
+      "quote": "Closes at 2-3 months of age"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Which finding indicates TRUE labor?",
+      "options": [
+        "Progressive cervical dilation",
+        "Contractions stop with walking",
+        "Pain only in the lower abdomen",
+        "Irregular contractions"
+      ],
+      "answer": "A",
+      "rationale": "True labor has regular, intensifying contractions starting in the back with progressive dilation and effacement.",
+      "explanations": [
+        "Correct.",
+        "False labor.",
+        "False labor.",
+        "False labor."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, True vs False Labor (PDF p. 200)",
+      "quote": "Progressive cervical dilation and effacement"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "In a primigravida, lightening usually occurs:",
+      "options": [
+        "About 2 weeks before labor",
+        "At the time of labor",
+        "At 20 weeks",
+        "After delivery"
+      ],
+      "answer": "A",
+      "rationale": "Lightening occurs about 2 weeks before labor in primigravidas and at labor in multigravidas.",
+      "explanations": [
+        "Correct.",
+        "Multigravida.",
+        "Too early.",
+        "Not possible."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Preliminary Signs of Labor (PDF p. 199)",
+      "quote": "Primigravida= 2 weeks prior to labor"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "During which phase of labor is dilation 8–10 cm with contractions every 2–3 minutes?",
+      "options": [
+        "Latent",
+        "Active",
+        "Transition",
+        "Second stage"
+      ],
+      "answer": "C",
+      "rationale": "Transition: 8–10 cm, strongest contractions lasting 60–90 seconds every 2–3 minutes.",
+      "explanations": [
+        "0–3 cm.",
+        "4–7 cm.",
+        "Correct.",
+        "After full dilation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Stages of Labor (PDF p. 200)",
+      "quote": "Cervical dilation: 8 to 10 cm"
+    }
+  ]
+}

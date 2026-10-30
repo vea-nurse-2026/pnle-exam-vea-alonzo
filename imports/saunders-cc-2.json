@@ -1,0 +1,461 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "Twenty-four hours after a laryngectomy, bright red blood starts draining from the tracheostomy. What is the PRIORITY?",
+      "options": [
+        "Notify the surgeon",
+        "Suction more often",
+        "Add humidity to the oxygen",
+        "Document the drainage"
+      ],
+      "answer": "A",
+      "rationale": "A little bleeding right after surgery is expected and resolves within hours. Later bright red bleeding may mean a vessel is about to rupture, so the surgeon is notified.",
+      "explanations": [
+        "Correct: possible vessel rupture.",
+        "Does not address the cause.",
+        "Does not address the bleeding.",
+        "Not the priority."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q524 (PDF p. 720)",
+      "quote": "bleeding that is bright red may be a sign of impending rupture of a vessel."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A toddler has swallowed a household cleaner. Which action is appropriate?",
+      "options": [
+        "Induce vomiting right away",
+        "Lay the child flat on the back",
+        "Call poison control and check ABCs",
+        "Give milk and wait for symptoms"
+      ],
+      "answer": "C",
+      "rationale": "Poison control is called before other treatment. The nurse checks airway, breathing, and circulation, identifies the substance and amount, and saves any vomitus. Vomiting is not induced for corrosive cleaners.",
+      "explanations": [
+        "Contraindicated for cleaners.",
+        "Risks aspiration.",
+        "Correct: poison control and ABCs.",
+        "Delays treatment."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q529 (PDF p. 727)",
+      "quote": "In the event of accidental poisoning, the poison control center is called before attempting any interventions."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A client with a C6 spinal cord injury in spinal shock is getting up to a chair. What should the nurse do?",
+      "options": [
+        "Apply knee splints for the transfer",
+        "Teach locking the knees while pivoting",
+        "Raise the head gradually before rising",
+        "Stand him up quickly in one move"
+      ],
+      "answer": "C",
+      "rationale": "Spinal shock often brings lower-limb vasodilation and a drop in BP on rising. A gradual increase in head elevation prevents dizziness and fainting.",
+      "explanations": [
+        "Not the main concern.",
+        "Not appropriate.",
+        "Correct: prevents orthostatic hypotension.",
+        "Risks fainting."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q557 (PDF p. 758)",
+      "quote": "The nurse should provide for a gradual progression in head elevation"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Equipment for High-Acuity & Emergency Care",
+      "situation": "",
+      "stem": "During a code, the physician about to defibrillate says loudly, 'CLEAR!' What should the nurse do immediately?",
+      "options": [
+        "Shut off the ventilator",
+        "Stop the IV infusion",
+        "Hold the client's hand",
+        "Step back from the client and bed"
+      ],
+      "answer": "D",
+      "rationale": "For everyone's safety, all personnel stand back and avoid any contact with the client or bed when the shock is delivered.",
+      "explanations": [
+        "Not the required action.",
+        "Not the required action.",
+        "Dangerous.",
+        "Correct: stand clear."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q568 (PDF p. 773)",
+      "quote": "all personnel must stand back and be clear of all contact with the client or the client’s bed."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Equipment for High-Acuity & Emergency Care",
+      "situation": "",
+      "stem": "What starting energy range is usually used for cardioversion with a monophasic defibrillator?",
+      "options": [
+        "50 to 100 joules",
+        "200 to 250 joules",
+        "250 to 300 joules",
+        "350 to 400 joules"
+      ],
+      "answer": "A",
+      "rationale": "Cardioversion, a synchronized countershock, usually starts at 50 to 100 joules, as prescribed. The higher ranges are too high for cardioversion.",
+      "explanations": [
+        "Correct: the usual starting range.",
+        "Too high.",
+        "Too high.",
+        "Too high."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q573 (PDF p. 778)",
+      "quote": "Cardioversion is usually started at 50 to 100 joules."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Equipment for High-Acuity & Emergency Care",
+      "situation": "",
+      "stem": "A spouse manages home IV lipid infusions. What should the spouse do FIRST if an adverse reaction is suspected?",
+      "options": [
+        "Stop the infusion",
+        "Call the home care nurse",
+        "Take the temperature",
+        "Slow the rate by half"
+      ],
+      "answer": "A",
+      "rationale": "Signs of a lipid reaction include chest and back pain, chills, dyspnea, fever, flushing, and nausea. The priority is to stop the infusion to limit the reaction.",
+      "explanations": [
+        "Correct: limits the reaction.",
+        "After stopping the infusion.",
+        "After stopping the infusion.",
+        "Still infuses the substance."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q712 (PDF p. 934)",
+      "quote": "The priority action is to stop the infusion to limit the adverse response."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A client hemorrhaging from a partial uterine inversion asks, 'What's happening? I'm bleeding. Am I dying?' What is she most likely experiencing?",
+      "options": [
+        "Panic",
+        "Anticipatory grieving",
+        "Denial",
+        "Fear"
+      ],
+      "answer": "D",
+      "rationale": "The unknown is the most common cause of fear, and loss of control causes anxiety. Her questions show fear rather than panic.",
+      "explanations": [
+        "Not suggested by the data.",
+        "Requires knowing of an impending loss.",
+        "She acknowledges the bleeding.",
+        "Correct: fear of the unknown."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q901 (PDF p. 1144)",
+      "quote": "the unknown is the most common cause of fear."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "The family of a client in cardiogenic shock is very anxious. Which nursing action BEST supports them?",
+      "options": [
+        "Offer coffee regularly",
+        "Insist they go home to sleep",
+        "Ask the chaplain to stay",
+        "Allow flexible visiting hours"
+      ],
+      "answer": "D",
+      "rationale": "Flexible visiting hours reduce anxiety for both the client and the family. Insisting they leave is nontherapeutic.",
+      "explanations": [
+        "Not real support.",
+        "Nontherapeutic.",
+        "Unrealistic.",
+        "Correct: lowers anxiety for both."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q981 (PDF p. 1230)",
+      "quote": "The use of flexible visiting hours meets the needs of both the client and family for reducing the anxiety levels of both."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Equipment for High-Acuity & Emergency Care",
+      "situation": "",
+      "stem": "A ventilated client with respiratory failure is about to be weaned. Which comfort measure should now be LIMITED?",
+      "options": [
+        "Radio",
+        "Television",
+        "Family visits",
+        "Antianxiety drugs"
+      ],
+      "answer": "D",
+      "rationale": "Antianxiety drugs and opioids can suppress the respiratory drive and interfere with weaning. Distractions such as radio, TV, and family help with anxiety.",
+      "explanations": [
+        "Helpful distraction.",
+        "Helpful distraction.",
+        "Helpful support.",
+        "Correct: suppresses the respiratory drive."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q985 (PDF p. 1234)",
+      "quote": "These medications may interfere with the weaning process by suppressing the respiratory drive."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "Before IV insertion, a tense preoperative client says she does not understand why she needs an IV. What should the nurse say FIRST?",
+      "options": [
+        "'This won't hurt at all.'",
+        "'Don't worry; it's routine.'",
+        "'It gives you fluids and medicine.'",
+        "'Ask your surgeon about it.'"
+      ],
+      "answer": "C",
+      "rationale": "Simple, clear information about the IV's purpose addresses her concern. Promising no pain is false, and dismissing her feelings blocks communication.",
+      "explanations": [
+        "Incorrect and unethical.",
+        "Dismisses her feelings.",
+        "Correct: clear, simple explanation.",
+        "Avoids her question."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q991 (PDF p. 1241)",
+      "quote": "the nurse uses simple terms to clearly inform the client about the IV’s purpose."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A client with a new implanted chemotherapy port says, 'I can't handle a tube coming out of me.' What should the nurse do FIRST?",
+      "options": [
+        "Show him other central lines",
+        "Say his friends will understand",
+        "Explain the port sits under the skin",
+        "Notify the physician"
+      ],
+      "answer": "C",
+      "rationale": "An implanted port is under the skin, not visible, and has no external tubing except when accessed. Correcting this misunderstanding comes first.",
+      "explanations": [
+        "Adds confusion.",
+        "Does not correct the misunderstanding.",
+        "Correct: corrects the misconception.",
+        "Not indicated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q992 (PDF p. 1242)",
+      "quote": "An implanted port is subcutaneous; it is not visible, and it has no external tubing."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with gastroenteritis is watched for hypovolemic shock. Which finding indicates COMPENSATED shock?",
+      "options": [
+        "Bradycardia",
+        "Hypotension",
+        "Profuse diaphoresis",
+        "Tachycardia with normal BP"
+      ],
+      "answer": "D",
+      "rationale": "In compensated shock the child becomes tachycardic to keep up cardiac output while BP stays normal. Capillary refill may exceed 2 seconds, and the child may become irritable.",
+      "explanations": [
+        "Not compensatory.",
+        "A sign of decompensated shock.",
+        "Not typical.",
+        "Correct: compensation keeps BP normal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1140 (PDF p. 1426)",
+      "quote": "In compensated shock, the child becomes tachycardic in an effort to increase the cardiac output. The blood pressure remains normal."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Equipment for High-Acuity & Emergency Care",
+      "situation": "",
+      "stem": "A ventilator's HIGH-pressure alarm sounds. Which is a possible cause?",
+      "options": [
+        "Disconnected tubing",
+        "A leaking ET tube cuff",
+        "Increased airway secretions",
+        "A low tidal volume setting"
+      ],
+      "answer": "C",
+      "rationale": "The high-pressure alarm sounds when peak pressure reaches the limit: kinked tubing, the client fighting the ventilator, secretions or a mucus plug, or the client biting the tube. Disconnection and cuff leaks trigger low-pressure alarms.",
+      "explanations": [
+        "Triggers the low-pressure alarm.",
+        "Triggers the low-pressure alarm.",
+        "Correct: obstruction raises pressure.",
+        "Not a cause of high pressure."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1245 (PDF p. 1538)",
+      "quote": "an increased amount of secretions in the airways or a mucous plug"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Equipment for High-Acuity & Emergency Care",
+      "situation": "",
+      "stem": "Which action helps PREVENT ventilator-associated pneumonia?",
+      "options": [
+        "Meticulous hand hygiene",
+        "Head of bed at 10 degrees",
+        "Oral suction only every 4 hours",
+        "Changing ventilator tubing daily"
+      ],
+      "answer": "A",
+      "rationale": "Intubation bypasses upper airway defenses. Prevention includes careful hand hygiene and keeping the head of the bed raised (30 to 45 degrees) to prevent aspiration.",
+      "explanations": [
+        "Correct: a key prevention measure.",
+        "Too low; aspiration risk.",
+        "Suctioning should be more frequent as needed.",
+        "Not a recommended routine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1268 (PDF p. 1569)",
+      "quote": "Prevention includes effective hand washing before and after suctioning, when touching ventilator equipment"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A client with severe radiating chest pain is restless and dyspneic. Orders include oxygen at 4 L/min, cardiac enzymes, chest x-ray, and a 12-lead ECG. What should the nurse do FIRST?",
+      "options": [
+        "Do the 12-lead ECG",
+        "Draw the cardiac enzymes",
+        "Apply the oxygen",
+        "Send him for chest x-ray"
+      ],
+      "answer": "C",
+      "rationale": "Oxygen comes first to limit damage from possible myocardial ischemia. The ECG and blood work follow shortly.",
+      "explanations": [
+        "Soon after the oxygen.",
+        "After the oxygen.",
+        "Correct: prevents further cardiac damage.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1278 (PDF p. 1579)",
+      "quote": "The first action would be to apply the oxygen because the client can be experiencing myocardial ischemia."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "IV 5% albumin is ordered for a burn client. Which history item should make the nurse call the prescriber first?",
+      "options": [
+        "Diabetes mellitus",
+        "Severe anemia",
+        "Hypertension",
+        "Asthma"
+      ],
+      "answer": "B",
+      "rationale": "Albumin, a blood derivative, is contraindicated in severe anemia, heart failure, renal insufficiency, allergic reaction, and when there is no albumin deficiency.",
+      "explanations": [
+        "Not a contraindication.",
+        "Correct: a contraindication.",
+        "Not listed as a contraindication.",
+        "Not listed as a contraindication."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1295 (PDF p. 1596)",
+      "quote": "is contraindicated in severe anemia, cardiac failure, history of allergic reaction, renal insufficiency"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "Which PVC finding after antidysrhythmic therapy shows the treatment is INEFFECTIVE?",
+      "options": [
+        "PVCs occurring in pairs",
+        "Unifocal PVCs",
+        "Fewer than 6 PVCs per minute",
+        "PVCs falling after the T wave"
+      ],
+      "answer": "A",
+      "rationale": "PVCs are dangerous when frequent (over 6 per minute), in pairs, multifocal, or falling on the T wave. The provider is notified.",
+      "explanations": [
+        "Correct: couplets are dangerous.",
+        "Less dangerous.",
+        "Less dangerous.",
+        "PVCs on the T wave are dangerous; after it is less concerning."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1299 (PDF p. 1600)",
+      "quote": "PVCs are considered dangerous when they are frequent (more than 6 per minute), occur in pairs or couplets, are multifocal (multiform), or fall on the T wave."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "A ventilated client with a fat embolus is visibly anxious. What should the nurse do?",
+      "options": [
+        "Stay and reassure the client",
+        "Ask family to stay at all times",
+        "Encourage sleep until ABGs improve",
+        "Ask for heavy sedation"
+      ],
+      "answer": "A",
+      "rationale": "The nurse speaks calmly and reassures the anxious client. Asking family to stay constantly burdens them, and sleep does not relieve anxiety.",
+      "explanations": [
+        "Correct: calm presence.",
+        "Burdens a stressed family.",
+        "Does not relieve anxiety.",
+        "Not the first approach."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1512 (PDF p. 1822)",
+      "quote": "The nurse always speaks to the client calmly and provides reassurance to the anxious client."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with refractory myasthenia gravis asks why plasmapheresis is ordered. The nurse explains it will most likely:",
+      "options": [
+        "Cure the disease for good",
+        "Relieve weakness for a time",
+        "Replace all of the medicines",
+        "Prevent all future crises"
+      ],
+      "answer": "B",
+      "rationale": "Plasmapheresis removes antibody-containing plasma proteins. In myasthenia gravis it is an adjunct that may give temporary relief, especially with impending respiratory failure. Usually 3 to 5 treatments are needed.",
+      "explanations": [
+        "It is not curative.",
+        "Correct: temporary relief.",
+        "An adjunct, not a replacement.",
+        "Effects are temporary."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1525 (PDF p. 1835)",
+      "quote": "It is used as an adjunct therapy in myasthenia gravis and may give temporary relief to clients with actual or impending respiratory failure."
+    }
+  ]
+}

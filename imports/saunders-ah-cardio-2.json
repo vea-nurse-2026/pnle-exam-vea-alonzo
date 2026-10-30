@@ -1,0 +1,653 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Mang Pedro, 62, is in the coronary care unit recovering from an acute MI.",
+      "stem": "Mang Pedro is very anxious. Which intervention is the PRIORITY?",
+      "options": [
+        "Answer questions with facts",
+        "Explain every procedure in detail",
+        "Have family present for all care",
+        "Avoid talking about his illness"
+      ],
+      "answer": "A",
+      "rationale": "Accurate information reduces fear and builds trust. Detailed explanations can raise anxiety, so information is given simply and clearly.",
+      "explanations": [
+        "Correct: factual, simple answers.",
+        "May increase anxiety.",
+        "Not the priority.",
+        "Increases fear of the unknown."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q911 (PDF p. 1154)",
+      "quote": "Accurate information reduces fear, strengthens the nurse–client relationship"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Mang Pedro, 62, is in the coronary care unit recovering from an acute MI.",
+      "stem": "On day 4, Mang Pedro refuses to dangle his legs: 'Only if my doctor says so.' What behavior is this?",
+      "options": [
+        "Anger",
+        "Denial",
+        "Depression",
+        "Dependency"
+      ],
+      "answer": "D",
+      "rationale": "Dependency shows as refusing any activity unless the provider specifically approves it.",
+      "explanations": [
+        "Not supported.",
+        "Not supported.",
+        "Not supported.",
+        "Correct: relies on the provider's approval."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q934 (PDF p. 1178)",
+      "quote": "Dependency is one response that may be manifested by the client’s refusal to perform any tasks or activities unless specifically approved"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Mang Pedro, 62, is in the coronary care unit recovering from an acute MI.",
+      "stem": "The evening before discharge, which action by Mang Pedro suggests DENIAL?",
+      "options": [
+        "He asks for a sleeping pill",
+        "He hesitates to go home",
+        "He eats only a quarter of supper",
+        "He walks up three flights of stairs alone"
+      ],
+      "answer": "D",
+      "rationale": "Ignoring activity limits and avoiding lifestyle changes are signs of denial. Stair climbing should be supervised at this stage.",
+      "explanations": [
+        "Appropriate.",
+        "May reflect anxiety.",
+        "May reflect depression.",
+        "Correct: ignores activity limits."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q912 (PDF p. 1155)",
+      "quote": "Ignoring activity limitations and avoiding lifestyle changes are signs of the denial stage."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Mang Pedro, 62, is in the coronary care unit recovering from an acute MI.",
+      "stem": "The nurse finds Mang Pedro quietly crying, with no physical cause. What is the BEST response?",
+      "options": [
+        "'Shall I call your daughter?'",
+        "'Can you tell me what's upsetting you?'",
+        "'Crying will strain your heart.'",
+        "'Everything will be fine.'"
+      ],
+      "answer": "B",
+      "rationale": "Clients after MI often feel anxious or afraid. An open question showing genuine interest lets him express his concerns.",
+      "explanations": [
+        "Avoids his feelings.",
+        "Correct: invites expression.",
+        "Blocks communication.",
+        "False reassurance."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q977 (PDF p. 1226)",
+      "quote": "The nurse allows the client to express concerns by showing genuine interest and concern"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client in acute pulmonary edema is severely anxious. Which action meets his needs holistically?",
+      "options": [
+        "Have family stay during treatment",
+        "Give him the call bell",
+        "Check on him every hour",
+        "Stay with him as much as possible"
+      ],
+      "answer": "D",
+      "rationale": "Pulmonary edema brings extreme fear and a sense of impending doom. The nurse stays with the client as much as possible. Family can support him but cannot meet his physiological needs.",
+      "explanations": [
+        "Cannot meet physiological needs.",
+        "Not enough support.",
+        "Not enough support.",
+        "Correct: presence eases fear."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q980 (PDF p. 1229)",
+      "quote": "Because the client typically experiences a sense of impending doom, the nurse should remain with the client as much as possible."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Why is reducing anxiety a key strategy in acute pulmonary edema?",
+      "options": [
+        "It eases the heart's workload",
+        "It increases fluid volume",
+        "It lowers cardiac output",
+        "It improves body image"
+      ],
+      "answer": "A",
+      "rationale": "Falling cardiac output triggers the sympathetic fight-or-flight response, which adds to the heart's workload. Reducing anxiety helps raise cardiac output and lower fluid volume.",
+      "explanations": [
+        "Correct: less sympathetic load on the heart.",
+        "The goal is less fluid.",
+        "The goal is more output.",
+        "Not the issue."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1000 (PDF p. 1251)",
+      "quote": "Reducing anxiety will help the client during treatment to increase cardiac output and decrease fluid volume."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with PVCs says, 'I'm afraid something bad will happen.' Which action gives the MOST immediate help?",
+      "options": [
+        "Call the family",
+        "Turn on the TV",
+        "Have staff stay with the client",
+        "Say nothing will happen"
+      ],
+      "answer": "C",
+      "rationale": "A calm, safe environment, appropriate reassurance, touch, and someone staying with the client ease fear.",
+      "explanations": [
+        "Does not address the fear now.",
+        "Distraction only.",
+        "Correct: presence eases fear.",
+        "False reassurance."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q982 (PDF p. 1231)",
+      "quote": "having someone remain with the client as much as possible."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client with Raynaud's disease has a stressful job and copes poorly. Which change should the nurse suggest?",
+      "options": [
+        "Quit the job at once",
+        "See a psychologist",
+        "Join a stress program",
+        "Avoid all stress"
+      ],
+      "answer": "C",
+      "rationale": "Stress triggers Raynaud's vasospasm, so a stress-management program or biofeedback training can help. Quitting the job is unrealistic.",
+      "explanations": [
+        "Unrealistic.",
+        "Not required now.",
+        "Correct: reduces vasospasm triggers.",
+        "Unrealistic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q983 (PDF p. 1232)",
+      "quote": "Stress can trigger the vasospasm that occurs with Raynaud’s disease"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "During discharge teaching, a client with heart failure says, 'What's the use? I'll die anyway.' What is the likely cause?",
+      "options": [
+        "Confusion",
+        "Poor learning ability",
+        "Denial",
+        "Anxiety and fear"
+      ],
+      "answer": "D",
+      "rationale": "Anxiety and fear often develop after heart failure and can further strain the failing heart.",
+      "explanations": [
+        "No evidence.",
+        "No evidence.",
+        "No evidence.",
+        "Correct: common after heart failure."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q990 (PDF p. 1240)",
+      "quote": "Anxiety and fear often develop after heart failure, and they can further tax the failing heart."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which statement about thrombophlebitis care shows effective learning?",
+      "options": [
+        "'Elevate the affected leg.'",
+        "'Keep the leg flat.'",
+        "'Walk as tolerated at once.'",
+        "'Massage the leg daily.'"
+      ],
+      "answer": "A",
+      "rationale": "Elevation uses gravity to improve venous return, lower venous pressure, and relieve edema and pain.",
+      "explanations": [
+        "Correct: improves venous return.",
+        "Does not help venous return.",
+        "Not initially.",
+        "Can dislodge a clot."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1045 (PDF p. 1319)",
+      "quote": "The nurse plans to elevate the affected extremity because this facilitates venous return"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which statement by a client with a new ICD shows a need for MORE teaching?",
+      "options": [
+        "'I'll avoid rough contact over the site.'",
+        "'Tight belts over the site are fine.'",
+        "'I'll stay away from big transformers.'",
+        "'I'll show my ID card at metal detectors.'"
+      ],
+      "answer": "B",
+      "rationale": "Clients avoid tight clothing or belts over the ICD, rough contact, strong electromagnetic fields, and metal detectors.",
+      "explanations": [
+        "Correct practice.",
+        "Correct answer: tight belts are avoided.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1248 (PDF p. 1544)",
+      "quote": "Postdischarge instructions typically include avoiding the following: tight clothing or belts over the ICD insertion site"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client's ECG shows a PR interval of 0.16 seconds. How should the nurse interpret this?",
+      "options": [
+        "Normal",
+        "Abnormal",
+        "Impending reinfarction",
+        "First-degree block"
+      ],
+      "answer": "A",
+      "rationale": "The normal PR interval is 0.12 to 0.20 seconds, so 0.16 is normal.",
+      "explanations": [
+        "Correct: within 0.12 to 0.20.",
+        "It is normal.",
+        "No evidence.",
+        "It would exceed 0.20."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1263 (PDF p. 1564)",
+      "quote": "The PR interval range is 0.12 to 0.2 seconds."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which finding is an UNRELIABLE sign of antibiotic response in infective endocarditis?",
+      "options": [
+        "Clear breath sounds",
+        "A systolic murmur",
+        "Normal temperature",
+        "Negative blood cultures"
+      ],
+      "answer": "B",
+      "rationale": "Once a murmur develops it does not resolve on its own, so it is the least reliable sign. Negative cultures and a normal temperature show the infection is clearing.",
+      "explanations": [
+        "A useful sign.",
+        "Correct: a murmur persists.",
+        "A useful sign.",
+        "A useful sign."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1297 (PDF p. 1599)",
+      "quote": "A systolic heart murmur, once present in the client, will not resolve spontaneously and is therefore the least reliable indicator."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Equipment for High-Acuity & Emergency Care",
+      "situation": "",
+      "stem": "The ECG complexes on the monitor are very small and hard to read. Which setting should the nurse check?",
+      "options": [
+        "Power button",
+        "Low-rate alarm",
+        "High-rate alarm",
+        "Amplitude (gain)"
+      ],
+      "answer": "D",
+      "rationale": "The amplitude or 'gain' setting controls complex size and can be adjusted up or down.",
+      "explanations": [
+        "Turns the machine on or off.",
+        "A heart-rate limit.",
+        "A heart-rate limit.",
+        "Correct: controls complex size."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1298 (PDF p. 1599)",
+      "quote": "The amplitude, commonly called “gain,” regulates the size of the complex"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which assessment BEST detects the onset of heart failure in a client with valvular disease?",
+      "options": [
+        "Heart rate",
+        "Breath sounds",
+        "Blood pressure",
+        "Activity tolerance"
+      ],
+      "answer": "B",
+      "rationale": "New or increased crackles indicate fluid in the lungs from heart failure. The other findings are less reliable.",
+      "explanations": [
+        "Less reliable.",
+        "Correct: crackles reveal congestion.",
+        "Less reliable.",
+        "Less reliable."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1310 (PDF p. 1612)",
+      "quote": "Breath sounds are the best way to assess for the onset of heart failure."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "After fem-pop bypass, which question BEST detects graft occlusion?",
+      "options": [
+        "'Can you describe the pain?'",
+        "'Rate your pain from 0 to 10.'",
+        "'When did the pain start?'",
+        "'Is it like the pain before surgery?'"
+      ],
+      "answer": "D",
+      "rationale": "The most frequent sign of graft occlusion is the return of pain like the preoperative pain.",
+      "explanations": [
+        "Does not differentiate.",
+        "Does not differentiate.",
+        "Does not differentiate.",
+        "Correct: returning ischemic pain."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1312 (PDF p. 1614)",
+      "quote": "The most frequent indication that a graft is occluding is the return of pain that is similar to that experienced preoperatively."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "After lifestyle changes for hypertension, which BP reading shows the MOST success?",
+      "options": [
+        "164/90 mm Hg",
+        "156/89 mm Hg",
+        "140/94 mm Hg",
+        "128/84 mm Hg"
+      ],
+      "answer": "D",
+      "rationale": "Normal BP is below 120/80. Of the options, 128/84 is closest to normal and shows the most success.",
+      "explanations": [
+        "Hypertensive.",
+        "Hypertensive.",
+        "Hypertensive.",
+        "Correct: the lowest reading."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1313 (PDF p. 1615)",
+      "quote": "Normal blood pressure readings are less than 120/80 mm Hg."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client has a history of intermittent claudication. Which symptom should the nurse ask about?",
+      "options": [
+        "Dull chest pain like heartburn",
+        "Leg pain with exercise, relieved by rest",
+        "Sudden chest pain on exertion",
+        "Leg swelling at night"
+      ],
+      "answer": "B",
+      "rationale": "Intermittent claudication is leg pain that comes on with exercise and is relieved by rest. It is the classic sign of peripheral arterial insufficiency.",
+      "explanations": [
+        "Not claudication.",
+        "Correct: the classic description.",
+        "Not claudication.",
+        "Suggests venous problems."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1315 (PDF p. 1617)",
+      "quote": "Intermittent claudication is a symptom characterized by a sudden onset of leg pain that occurs with exercise and is relieved by rest."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which item should a client with a new permanent pacemaker avoid?",
+      "options": [
+        "Hair dryers",
+        "Electric blankets",
+        "Electric toothbrushes",
+        "Standing in metal detectors"
+      ],
+      "answer": "D",
+      "rationale": "Pacemakers are shielded from most electrical devices. Clients are warned about strong currents or magnetic fields such as store antitheft devices and airport metal detectors.",
+      "explanations": [
+        "Safe.",
+        "Safe.",
+        "Safe.",
+        "Correct: a strong magnetic field."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1336 (PDF p. 1639)",
+      "quote": "A pacemaker is shielded from interference from most electrical devices."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with frequent PVCs feels lightheaded after sitting up. What will the nurse likely hear on apical auscultation?",
+      "options": [
+        "A regular pulse",
+        "An irregular pulse",
+        "A very slow regular pulse",
+        "A very fast regular pulse"
+      ],
+      "answer": "B",
+      "rationale": "PVCs make the rhythm irregular. The apical pulse is the most accurate way to assess rhythm; a radial pulse may miss beats.",
+      "explanations": [
+        "PVCs disrupt the rhythm.",
+        "Correct: irregular rhythm.",
+        "Suggests bradycardia.",
+        "Suggests tachycardia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1405 (PDF p. 1711)",
+      "quote": "When a client has PVCs, the rate is irregular"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which intervention reduces the risk of DVT after a vaginal hysterectomy?",
+      "options": [
+        "Bed rest for 48 hours",
+        "Pneumatic compression boots",
+        "Pillow under the knees",
+        "Crossing the legs"
+      ],
+      "answer": "B",
+      "rationale": "Ambulation, pneumatic compression boots, range-of-motion exercises, and antiembolism stockings prevent DVT after major surgery.",
+      "explanations": [
+        "Increases risk.",
+        "Correct: promotes venous return.",
+        "Impedes venous return.",
+        "Impedes venous return."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1421 (PDF p. 1727)",
+      "quote": "The client is at risk for deep vein thrombosis or thrombophlebitis after this surgery, as for any other major surgery."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which finding does the nurse expect in a client with polycythemia vera?",
+      "options": [
+        "Pallor",
+        "Hypertension",
+        "Low hematocrit",
+        "Pale mucosa"
+      ],
+      "answer": "B",
+      "rationale": "Polycythemia vera raises blood viscosity and volume, causing a ruddy complexion, dusky red mucosa, hypertension, dizziness, headache, and fullness in the head.",
+      "explanations": [
+        "The complexion is ruddy.",
+        "Correct: increased volume.",
+        "The hematocrit is high.",
+        "The mucosa is dusky red."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1442 (PDF p. 1751)",
+      "quote": "Manifestations of polycythemia vera include a ruddy complexion, dusky red mucosa, hypertension, dizziness, headache"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which complication should the nurse monitor for in toxic shock syndrome?",
+      "options": [
+        "Pulmonary embolism",
+        "Vitamin K deficiency",
+        "Factor VIII deficiency",
+        "DIC"
+      ],
+      "answer": "D",
+      "rationale": "TSS, often linked to tampon use, can cause DIC. Signs are reported promptly.",
+      "explanations": [
+        "Not a TSS complication.",
+        "Not a TSS complication.",
+        "Not a TSS complication.",
+        "Correct: DIC complicates TSS."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1444 (PDF p. 1753)",
+      "quote": "DIC is a complication of TSS."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client has pernicious anemia. Disease of which organ affects vitamin B12 absorption?",
+      "options": [
+        "Liver",
+        "Ileum",
+        "Kidney",
+        "Gallbladder"
+      ],
+      "answer": "B",
+      "rationale": "Vitamin B12 is absorbed in the ileum, so small bowel disease is a risk factor for pernicious anemia.",
+      "explanations": [
+        "Not related.",
+        "Correct: the site of B12 absorption.",
+        "Not related.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1454 (PDF p. 1763)",
+      "quote": "Pernicious anemia can occur in a client who has a disease involving the ileum, where vitamin B12 is absorbed."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which finding is typical of pernicious anemia?",
+      "options": [
+        "Constipation",
+        "Dusky lips and gums",
+        "A smooth, sore, red tongue",
+        "Weight gain"
+      ],
+      "answer": "C",
+      "rationale": "Classic signs include weakness, mild diarrhea, and a smooth, sore, red tongue, plus neurologic signs such as paresthesias and balance problems.",
+      "explanations": [
+        "Not common.",
+        "Not typical.",
+        "Correct: a classic sign.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1522 (PDF p. 1832)",
+      "quote": "Classic clinical indicators of pernicious anemia include weakness; mild diarrhea; and a smooth, sore, red tongue."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which laboratory value is elevated in sickle cell anemia?",
+      "options": [
+        "Sodium",
+        "Hemoglobin S",
+        "Hemoglobin A1c",
+        "Prothrombin time"
+      ],
+      "answer": "B",
+      "rationale": "Sickle cell anemia is characterized by sickled hemoglobin (Hgb S). Two abnormal genes are needed for the disease; one gives sickle cell trait.",
+      "explanations": [
+        "Not related.",
+        "Correct: sickled hemoglobin.",
+        "Reflects glucose control.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1458 (PDF p. 1767)",
+      "quote": "The client must have two abnormal genes yielding hemoglobin-S to have sickle cell anemia."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which sign should the nurse monitor MOST in a client in sickle cell crisis?",
+      "options": [
+        "Pain",
+        "Diarrhea",
+        "Bradycardia",
+        "Blurred vision"
+      ],
+      "answer": "A",
+      "rationale": "Sickle cell crisis causes severe bone and joint pain from microvascular occlusion. Treatment includes opioids, oxygen, and IV fluids.",
+      "explanations": [
+        "Correct: the hallmark of crisis.",
+        "Not typical.",
+        "Tachycardia is more likely.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1461 (PDF p. 1770)",
+      "quote": "Sickle cell crisis usually causes severe pain in the bones and joints along with joint swelling."
+    }
+  ]
+}

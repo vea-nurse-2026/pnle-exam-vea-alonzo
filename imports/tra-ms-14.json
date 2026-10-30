@@ -1,0 +1,533 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Urine output below 400 mL/24 h with rising potassium marks which phase of acute renal failure?",
+      "options": [
+        "Oliguric",
+        "Onset",
+        "Diuretic",
+        "Recovery"
+      ],
+      "answer": "A",
+      "rationale": "Oliguric phase: <400 mL/day, hyperkalemia, acidosis, fluid overload.",
+      "explanations": [
+        "Correct.",
+        "Initial insult.",
+        "High output.",
+        "Improving."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Phases of ARF (PDF p. 388)",
+      "quote": "Urine output <400 cc/24 hrs"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "During the diuretic phase of acute renal failure, the nurse watches for:",
+      "options": [
+        "Hypokalemia, dehydration",
+        "Hyperkalemia only",
+        "Fluid overload",
+        "Anuria"
+      ],
+      "answer": "A",
+      "rationale": "Output of 3–5 L/day can cause hypokalemia and volume depletion.",
+      "explanations": [
+        "Correct.",
+        "Oliguric.",
+        "Oliguric.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Phases of ARF (PDF p. 388)",
+      "quote": "Hypokalemia"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Kayexalate is given in renal failure to:",
+      "options": [
+        "Lower potassium",
+        "Raise sodium",
+        "Treat anemia",
+        "Raise calcium"
+      ],
+      "answer": "A",
+      "rationale": "Sodium polystyrene sulfonate exchanges sodium for potassium in the gut.",
+      "explanations": [
+        "Correct.",
+        "Not purpose.",
+        "Erythropoietin.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, ARF Management (PDF p. 389)",
+      "quote": "Kayexalate to reduce potassium"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which diet suits a client in oliguric acute renal failure?",
+      "options": [
+        "High-carb, low-potassium",
+        "High-potassium",
+        "High-protein",
+        "High-sodium"
+      ],
+      "answer": "A",
+      "rationale": "Moderate protein restriction, high carbohydrates, restricted potassium.",
+      "explanations": [
+        "Correct.",
+        "Hyperkalemia.",
+        "Azotemia.",
+        "Retention."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, ARF Nursing (PDF p. 389)",
+      "quote": "High carbohydrates & restricted potassium"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "What is the leading cause of chronic renal failure?",
+      "options": [
+        "Diabetic nephropathy",
+        "Kidney stones",
+        "Cystitis",
+        "Trauma"
+      ],
+      "answer": "A",
+      "rationale": "Diabetes, then hypertension and glomerulonephritis.",
+      "explanations": [
+        "Correct.",
+        "Less common.",
+        "Not usual.",
+        "Not usual."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Chronic Renal Failure (PDF p. 389)",
+      "quote": "DM nephropathy-leading cause"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "End-stage renal disease (CKD stage 5) corresponds to a GFR below:",
+      "options": [
+        "15 mL/min",
+        "60 mL/min",
+        "90 mL/min",
+        "125 mL/min"
+      ],
+      "answer": "A",
+      "rationale": "Stage 5 (ESRD) is GFR <15 mL/min/1.73 m².",
+      "explanations": [
+        "Correct.",
+        "Stage 3.",
+        "Stage 2.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, CKD Stages (PDF p. 389)",
+      "quote": "Kidney failure (end-stage renal disease {ESRD})"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "White crystals on the skin of a client with ESRD are called:",
+      "options": [
+        "Uremic frost",
+        "Petechiae",
+        "Vitiligo",
+        "Ichthyosis"
+      ],
+      "answer": "A",
+      "rationale": "Uremic frost is urea crystallized on the skin.",
+      "explanations": [
+        "Correct.",
+        "Bleeding.",
+        "Pigment loss.",
+        "Scaling."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, CRF Manifestations (PDF p. 390)",
+      "quote": "Uremic frost"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Anemia in chronic renal failure is mainly due to:",
+      "options": [
+        "Low erythropoietin",
+        "Iron overload",
+        "Excess B12",
+        "Hemoconcentration"
+      ],
+      "answer": "A",
+      "rationale": "Damaged kidneys produce less erythropoietin; it is replaced pharmacologically.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, CRF Management (PDF p. 390)",
+      "quote": "Erythropoietin"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Daily fluid allowance in CRF is usually the previous day's urine output plus:",
+      "options": [
+        "500–600 mL",
+        "50 mL",
+        "2 L",
+        "3 L"
+      ],
+      "answer": "A",
+      "rationale": "Allow 500–600 mL more than the previous 24-hour output to cover insensible losses.",
+      "explanations": [
+        "Correct.",
+        "Too little.",
+        "Too much.",
+        "Too much."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, CRF Nutrition (PDF p. 391)",
+      "quote": "Fluid allowance (500-600Ml) more than the previous days 24 hour urine output"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which protein source is preferred for a client with CRF?",
+      "options": [
+        "Eggs",
+        "Beans",
+        "Bread",
+        "Rice"
+      ],
+      "answer": "A",
+      "rationale": "Allow limited protein of high biologic value: eggs, dairy, meat.",
+      "explanations": [
+        "Correct.",
+        "Low HBV.",
+        "Low HBV.",
+        "Low HBV."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, CRF Nutrition (PDF p. 391)",
+      "quote": "Allow only protein with high biologic value"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Aluminum hydroxide (Amphojel) is given in chronic renal failure to:",
+      "options": [
+        "Bind phosphate",
+        "Raise potassium",
+        "Treat infection",
+        "Increase urine"
+      ],
+      "answer": "A",
+      "rationale": "Phosphate binders lower hyperphosphatemia.",
+      "explanations": [
+        "Correct.",
+        "No.",
+        "No.",
+        "No."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, CRF Nursing (PDF p. 391)",
+      "quote": "Administer phosphate – binding agent (Amphojel)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Peritoneal dialysis outflow becomes cloudy. The nurse suspects:",
+      "options": [
+        "Peritonitis",
+        "Normal finding",
+        "Bladder puncture",
+        "Fluid overload"
+      ],
+      "answer": "A",
+      "rationale": "Normal outflow is clear; cloudy means infection; yellow suggests bladder puncture.",
+      "explanations": [
+        "Correct.",
+        "Not normal.",
+        "Yellowish.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Peritoneal Dialysis (PDF p. 391)",
+      "quote": "Cloudy: infection, peritonitis."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Before peritoneal catheter insertion, the client should:",
+      "options": [
+        "Empty the bladder",
+        "Drink 1 L water",
+        "Lie prone",
+        "Fast 48 hours"
+      ],
+      "answer": "A",
+      "rationale": "Empty bladder and bowel to prevent puncture.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Peritoneal Dialysis (PDF p. 391)",
+      "quote": "Empty the bladder and bowel to prevent puncture"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "How does the nurse check patency of an AV fistula?",
+      "options": [
+        "Palpate thrill, hear bruit",
+        "Take BP on that arm",
+        "Check capillary refill",
+        "Measure arm length"
+      ],
+      "answer": "A",
+      "rationale": "A thrill and bruit indicate patency; absence suggests clotting.",
+      "explanations": [
+        "Correct.",
+        "Contraindicated.",
+        "Not specific.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Hemodialysis Access (PDF p. 392)",
+      "quote": "Palpate for thrills, Auscultate for bruits"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Why are antihypertensives often held before hemodialysis?",
+      "options": [
+        "Prevent hypotension",
+        "Prevent clotting",
+        "Avoid hyperkalemia",
+        "Speed dialysis"
+      ],
+      "answer": "A",
+      "rationale": "Dialysis removes fluid; combined with antihypertensives it can cause hypotension.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Hemodialysis Nursing (PDF p. 392)",
+      "quote": "Antihypertensive agents must be withheld before dialysis"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which pruritus measure helps a client on hemodialysis?",
+      "options": [
+        "Bath oil and trimmed nails",
+        "Hot showers",
+        "Scratching gently",
+        "Alcohol rubs"
+      ],
+      "answer": "A",
+      "rationale": "Use bath oils, superfatted soap, lotion, and keep nails short.",
+      "explanations": [
+        "Correct.",
+        "Dries skin.",
+        "Excoriation.",
+        "Dries skin."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Hemodialysis Nursing (PDF p. 392)",
+      "quote": "Keep nails trimmed to avoid scratching and excoriation"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Under RA 7170 (Organ Donation Act of 1991), who may donate body parts by legacy?",
+      "options": [
+        "Anyone 18+ of sound mind",
+        "Only physicians",
+        "Only relatives",
+        "Anyone 12+"
+      ],
+      "answer": "A",
+      "rationale": "Any individual at least 18 years old and of sound mind may donate.",
+      "explanations": [
+        "Correct.",
+        "Not limited.",
+        "Not limited.",
+        "Too young."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Renal Transplant (PDF p. 393)",
+      "quote": "Any individual, at least 18 years of age and of sound mind"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Under RA 7170, the donor's death must be diagnosed by:",
+      "options": [
+        "Two qualified physicians",
+        "The transplant surgeon",
+        "One nurse",
+        "The family"
+      ],
+      "answer": "A",
+      "rationale": "Death is diagnosed separately by two physicians who are not on the removal team.",
+      "explanations": [
+        "Correct.",
+        "Conflict.",
+        "Not qualified.",
+        "Not qualified."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Renal Transplant (PDF p. 393)",
+      "quote": "shall be diagnosed separately by two (2) qualified physicians"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which sign suggests acute kidney transplant rejection?",
+      "options": [
+        "Oliguria and fever",
+        "Polyuria",
+        "Hypotension",
+        "Weight loss"
+      ],
+      "answer": "A",
+      "rationale": "Rejection: decreased output, fever, tenderness, rising creatinine, BP, and weight.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Rising BP.",
+        "Gain."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Transplant Rejection (PDF p. 394)",
+      "quote": "Fever, graft tenderness, swelling"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Hyperacute kidney rejection occurs:",
+      "options": [
+        "Within hours",
+        "After months",
+        "After years",
+        "After 1 week only"
+      ],
+      "answer": "A",
+      "rationale": "Hyperacute rejection occurs within hours; the kidney must be removed.",
+      "explanations": [
+        "Correct.",
+        "Acute/chronic.",
+        "Chronic.",
+        "Acute."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Transplant Rejection (PDF p. 394)",
+      "quote": "Within hours after surgery"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "What is the most reliable test to confirm kidney transplant rejection?",
+      "options": [
+        "Percutaneous biopsy",
+        "Ultrasound",
+        "Urinalysis",
+        "Chest x-ray"
+      ],
+      "answer": "A",
+      "rationale": "Renal biopsy is most reliable.",
+      "explanations": [
+        "Correct.",
+        "Supportive.",
+        "Supportive.",
+        "Unrelated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Detecting Rejection (PDF p. 394)",
+      "quote": "Percutaneous renal biopsy (most reliable)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "The major intracellular electrolyte is:",
+      "options": [
+        "Potassium",
+        "Sodium",
+        "Chloride",
+        "Bicarbonate"
+      ],
+      "answer": "A",
+      "rationale": "ICF: potassium and phosphorus; ECF: sodium and chloride.",
+      "explanations": [
+        "Correct.",
+        "ECF.",
+        "ECF.",
+        "ECF."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Fluids and Electrolytes (PDF p. 394)",
+      "quote": "Potassium and Phosphorus"
+    }
+  ]
+}

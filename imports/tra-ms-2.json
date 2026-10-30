@@ -1,0 +1,509 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which CAD risk factor is non-modifiable?",
+      "options": [
+        "Family history",
+        "Smoking",
+        "Hypertension",
+        "Physical inactivity"
+      ],
+      "answer": "A",
+      "rationale": "Non-modifiable: family history, age, gender; others are modifiable.",
+      "explanations": [
+        "Correct.",
+        "Modifiable.",
+        "Modifiable.",
+        "Modifiable."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, CAD Risk Factors (PDF p. 306)",
+      "quote": "NON-MODIFIABLE RISK FACTORS"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which procedure places a device to keep a coronary artery open and prevent restenosis?",
+      "options": [
+        "Vascular stent",
+        "Atherectomy",
+        "Laser angioplasty",
+        "CABG"
+      ],
+      "answer": "A",
+      "rationale": "Stents prevent closure and restenosis; atherectomy removes plaque; laser vaporizes plaque.",
+      "explanations": [
+        "Correct.",
+        "Removes plaque.",
+        "Vaporizes.",
+        "Bypass."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, CAD Procedures (PDF p. 306)",
+      "quote": "Vascular stent to prevent the artery from closing and to prevent restenosis"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Why is a high HDL level protective against heart disease?",
+      "options": [
+        "It carries lipids to the liver",
+        "It raises triglycerides",
+        "It deposits plaque",
+        "It raises LDL"
+      ],
+      "answer": "A",
+      "rationale": "HDL transports lipoproteins to the liver for degradation and excretion.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "LDL does.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, CAD (PDF p. 306)",
+      "quote": "a high HDL level is a strong protective factor"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which diet is recommended for a client with CAD?",
+      "options": [
+        "Low-fat, high-fiber",
+        "High-fat, low-fiber",
+        "High-sodium, low-fat",
+        "High-cholesterol"
+      ],
+      "answer": "A",
+      "rationale": "Low-calorie, low-sodium, low-cholesterol, low-fat diet with increased fiber.",
+      "explanations": [
+        "Correct.",
+        "Harmful.",
+        "Harmful.",
+        "Harmful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, CAD Diet (PDF p. 306)",
+      "quote": "Increase in dietary fiber"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with heart failure has crackles, orthopnea, and pink frothy sputum. Which side is failing?",
+      "options": [
+        "Left",
+        "Right",
+        "Both equally",
+        "Neither"
+      ],
+      "answer": "A",
+      "rationale": "Left-sided HF causes pulmonary congestion: dyspnea, crackles, orthopnea, pink frothy sputum.",
+      "explanations": [
+        "Correct.",
+        "Systemic signs.",
+        "Not specific.",
+        "Incorrect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Left-Sided HF (PDF p. 307)",
+      "quote": "Frothy, pink (blood-tinged) sputum"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Jugular vein distention, ascites, hepatomegaly, and leg edema indicate:",
+      "options": [
+        "Right-sided heart failure",
+        "Left-sided heart failure",
+        "Pneumonia",
+        "Asthma"
+      ],
+      "answer": "A",
+      "rationale": "Right-sided HF backs blood into systemic veins, causing JVD, edema, hepatomegaly, ascites.",
+      "explanations": [
+        "Correct.",
+        "Lungs.",
+        "Lungs.",
+        "Lungs."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Right-Sided HF (PDF p. 308)",
+      "quote": "Hepatomegaly (enlargement of the liver)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "The most common cause of right ventricular failure is:",
+      "options": [
+        "Left ventricular failure",
+        "Mitral valve prolapse",
+        "Hypotension",
+        "Anemia"
+      ],
+      "answer": "A",
+      "rationale": "Left-sided failure backs up into the lungs and then the right heart.",
+      "explanations": [
+        "Correct.",
+        "Less common.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Right-Sided HF (PDF p. 308)",
+      "quote": "is the most common cause of right ventricular (RV) failure"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which assessment best evaluates fluid status in heart failure?",
+      "options": [
+        "Daily weight",
+        "Pupil size",
+        "Bowel sounds",
+        "Skin color"
+      ],
+      "answer": "A",
+      "rationale": "Daily weight and I&O assess fluid overload and treatment response.",
+      "explanations": [
+        "Correct.",
+        "Neuro.",
+        "GI.",
+        "Nonspecific."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, HF Management (PDF p. 308)",
+      "quote": "weigh daily to assess for fluid overload"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "In heart failure, angiotensin II worsens fluid overload by stimulating release of:",
+      "options": [
+        "Aldosterone",
+        "Insulin",
+        "Glucagon",
+        "Calcitonin"
+      ],
+      "answer": "A",
+      "rationale": "Angiotensin II causes vasoconstriction and aldosterone release, retaining sodium and water.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Renin-Angiotensin System (PDF p. 308)",
+      "quote": "Angiotensin II also stimulates the release of aldosterone"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which ACC/AHA stage describes refractory end-stage heart failure?",
+      "options": [
+        "Stage D",
+        "Stage A",
+        "Stage B",
+        "Stage C"
+      ],
+      "answer": "A",
+      "rationale": "A: at risk; B: structural disease, no symptoms; C: symptoms; D: refractory end-stage.",
+      "explanations": [
+        "Correct.",
+        "At risk.",
+        "No symptoms.",
+        "Symptomatic."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, HF Classification (PDF p. 307)",
+      "quote": "Patients with refractory end-stage heart failure requiring specialized interventions"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with heart failure on furosemide should be monitored for:",
+      "options": [
+        "Hypokalemia",
+        "Hypernatremia",
+        "Hypercalcemia",
+        "Hyperglycemia only"
+      ],
+      "answer": "A",
+      "rationale": "Loop diuretics alter potassium; monitor K+ especially with digoxin.",
+      "explanations": [
+        "Correct.",
+        "Not typical.",
+        "Not typical.",
+        "Not main."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, HF Pharmacology (PDF p. 309)",
+      "quote": "these medications may alter the K+ level"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which drug class reduces afterload in heart failure?",
+      "options": [
+        "ACE inhibitors",
+        "Inotropes",
+        "Loop diuretics",
+        "Antiplatelets"
+      ],
+      "answer": "A",
+      "rationale": "ACE inhibitors (captopril, enalapril) decrease afterload.",
+      "explanations": [
+        "Correct.",
+        "Contractility.",
+        "Volume.",
+        "Clotting."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, HF Pharmacology (PDF p. 309)",
+      "quote": "Administer ACE inhibitors to decrease afterload"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which drug strengthens myocardial contractility in heart failure?",
+      "options": [
+        "Digoxin",
+        "Furosemide",
+        "Captopril",
+        "Nitroprusside"
+      ],
+      "answer": "A",
+      "rationale": "Digoxin is a positive inotrope.",
+      "explanations": [
+        "Correct.",
+        "Diuretic.",
+        "ACE inhibitor.",
+        "Vasodilator."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, HF Pharmacology (PDF p. 309)",
+      "quote": "Administer inotrope to strengthen myocardial contractility"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the usual cause of mitral stenosis?",
+      "options": [
+        "Rheumatic endocarditis",
+        "Hypertension",
+        "Smoking",
+        "Hyperthyroidism"
+      ],
+      "answer": "A",
+      "rationale": "Mitral stenosis is usually from rheumatic heart disease causing fibrosis and calcification.",
+      "explanations": [
+        "Correct.",
+        "Not usual.",
+        "Not usual.",
+        "Not usual."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Mitral Stenosis (PDF p. 309)",
+      "quote": "Usually due to rheumatic endocarditis"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A low-pitched rumbling diastolic murmur at the apex suggests:",
+      "options": [
+        "Mitral stenosis",
+        "Mitral regurgitation",
+        "Aortic stenosis",
+        "Aortic regurgitation"
+      ],
+      "answer": "A",
+      "rationale": "Mitral stenosis has a low-pitched rumbling diastolic murmur at the apex.",
+      "explanations": [
+        "Correct.",
+        "Systolic blowing.",
+        "Systolic rough.",
+        "Diastolic blowing."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Mitral Stenosis (PDF p. 309)",
+      "quote": "A Iow-pitched, rumbling, diastolic murmur is heard at the apex"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Why may anticoagulants be prescribed for mitral stenosis?",
+      "options": [
+        "Prevent atrial thrombi",
+        "Lower cholesterol",
+        "Treat infection",
+        "Increase heart rate"
+      ],
+      "answer": "A",
+      "rationale": "A dilated left atrium and atrial dysrhythmias raise thrombus risk.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Mitral Stenosis Management (PDF p. 310)",
+      "quote": "may benefit from anticoagulants"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A high-pitched blowing systolic murmur at the apex indicates:",
+      "options": [
+        "Mitral regurgitation",
+        "Mitral stenosis",
+        "Aortic regurgitation",
+        "Pericarditis"
+      ],
+      "answer": "A",
+      "rationale": "Mitral regurgitation: high-pitched blowing systolic murmur at the apex.",
+      "explanations": [
+        "Correct.",
+        "Diastolic rumble.",
+        "Diastolic.",
+        "Friction rub."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Mitral Regurgitation (PDF p. 310)",
+      "quote": "Systolic murmur is heard as a high- pitched, blowing sound at the apex"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A water-hammer (Corrigan's) pulse with widened pulse pressure is characteristic of:",
+      "options": [
+        "Aortic regurgitation",
+        "Aortic stenosis",
+        "Mitral stenosis",
+        "Cardiac tamponade"
+      ],
+      "answer": "A",
+      "rationale": "Aortic regurgitation causes bounding pulses and widened pulse pressure.",
+      "explanations": [
+        "Correct.",
+        "Narrow.",
+        "Not this.",
+        "Narrow."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Aortic Regurgitation (PDF p. 311)",
+      "quote": "One characteristic sign of the disease is the water-hammer (Corrigan's) pulse"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with aortic stenosis faints during exertion. This is due to:",
+      "options": [
+        "Low cerebral flow",
+        "Hypertension",
+        "Hypoglycemia",
+        "Seizure activity"
+      ],
+      "answer": "A",
+      "rationale": "Aortic stenosis causes syncope, angina, and exertional dyspnea from limited output.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Aortic Stenosis (PDF p. 311)",
+      "quote": "Syncope and dizziness because decreased circulation to the brain"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Small painful nodules on the finger pads of a client with endocarditis are:",
+      "options": [
+        "Osler's nodes",
+        "Janeway lesions",
+        "Roth spots",
+        "Splinter hemorrhages"
+      ],
+      "answer": "A",
+      "rationale": "Osler's nodes are painful; Janeway lesions are painless macules on palms and soles.",
+      "explanations": [
+        "Correct.",
+        "Painless.",
+        "Eyes.",
+        "Nails."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Infective Endocarditis (PDF p. 311)",
+      "quote": "Small painful nodules (Osiers nodes) may be present in pads of fingers or toes"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Retinal hemorrhages with pale centers in infective endocarditis are called:",
+      "options": [
+        "Roth spots",
+        "Osler's nodes",
+        "Janeway lesions",
+        "Petechiae"
+      ],
+      "answer": "A",
+      "rationale": "Roth spots are emboli-related retinal hemorrhages.",
+      "explanations": [
+        "Correct.",
+        "Fingers.",
+        "Palms.",
+        "Skin."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Infective Endocarditis (PDF p. 311)",
+      "quote": "Hemorrhages with pale centers in the eyes caused by emboli (Roth spots)"
+    }
+  ]
+}

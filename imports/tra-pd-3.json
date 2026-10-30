@@ -1,0 +1,581 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which drug may close a PDA in a premature infant?",
+      "options": [
+        "Indomethacin or ibuprofen",
+        "Prostaglandin E1",
+        "Digoxin",
+        "Morphine"
+      ],
+      "answer": "A",
+      "rationale": "Prostaglandin inhibitors such as indomethacin or ibuprofen may close the ductus; PGE1 keeps it open.",
+      "explanations": [
+        "Correct.",
+        "Keeps open.",
+        "Not closure.",
+        "Not closure."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, PDA (PDF p. 226)",
+      "quote": "Ibuprofen or Indomethacin, prostaglandin inhibitors, may be administered to close a patent ductu"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Bounding radial pulses with absent femoral pulses suggest:",
+      "options": [
+        "Coarctation of aorta",
+        "Patent ductus",
+        "Atrial septal defect",
+        "Tetralogy of Fallot"
+      ],
+      "answer": "A",
+      "rationale": "This is the pathognomonic sign of coarctation; upper-body BP is high.",
+      "explanations": [
+        "Correct.",
+        "Machinery murmur.",
+        "Not this.",
+        "Cyanosis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Coarctation (PDF p. 226)",
+      "quote": "Bounding radial pulse and absent femoral pulse (pathognomonic sign)"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which defects make up tetralogy of Fallot?",
+      "options": [
+        "PS, RVH, overriding aorta, VSD",
+        "ASD, PDA, VSD, PS",
+        "COA, ASD, PDA, AS",
+        "TGA, VSD, ASD, PDA"
+      ],
+      "answer": "A",
+      "rationale": "Tetralogy: pulmonary stenosis, right ventricular hypertrophy, overriding aorta, VSD.",
+      "explanations": [
+        "Correct.",
+        "Wrong.",
+        "Wrong.",
+        "Wrong."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Tetralogy of Fallot (PDF p. 227)",
+      "quote": "Overriding aorta"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with tetralogy of Fallot has a hypercyanotic spell. How is the infant positioned?",
+      "options": [
+        "Knee-chest",
+        "Flat supine",
+        "Trendelenburg",
+        "Prone"
+      ],
+      "answer": "A",
+      "rationale": "Knee-chest (or squatting) increases systemic resistance and pulmonary blood flow.",
+      "explanations": [
+        "Correct.",
+        "Not helpful.",
+        "Not helpful.",
+        "Not helpful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tetralogy of Fallot (PDF p. 228)",
+      "quote": "knee-chest, squatting for preschool or older children"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which finding is typical of cyanotic heart disease?",
+      "options": [
+        "Clubbing of fingers",
+        "Low hematocrit",
+        "Bradycardia",
+        "Weight gain"
+      ],
+      "answer": "A",
+      "rationale": "Cyanotic defects cause central cyanosis, clubbing, squatting, polycythemia (high Hct), and poor growth.",
+      "explanations": [
+        "Correct.",
+        "Hct rises.",
+        "Not typical.",
+        "Poor growth."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cyanotic Defects (PDF p. 227)",
+      "quote": "Clubbing of fingers"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Why is PGE1 infused in an infant with tricuspid atresia?",
+      "options": [
+        "To keep the ductus open",
+        "To close the ductus",
+        "To sedate",
+        "To lower BP"
+      ],
+      "answer": "A",
+      "rationale": "PGE1 keeps the ductus arteriosus open to maintain oxygenation until surgery.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Not.",
+        "Not."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Tricuspid Atresia (PDF p. 228)",
+      "quote": "An IV infusion of PGE1 is begun to ensure that the ductus remains open"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A newborn becomes cyanotic when feeding but pink when crying. Suspect:",
+      "options": [
+        "Choanal atresia",
+        "Tetralogy of Fallot",
+        "Pneumonia",
+        "Normal"
+      ],
+      "answer": "A",
+      "rationale": "Infants breathe through the nose; crying opens the mouth airway, relieving cyanosis.",
+      "explanations": [
+        "Correct.",
+        "Cyanosis with crying.",
+        "Not typical.",
+        "Abnormal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Choanal Atresia (PDF p. 228)",
+      "quote": "Cyanosis during feeding"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "After tonsillectomy, which sign suggests hemorrhage?",
+      "options": [
+        "Frequent swallowing",
+        "Sleeping",
+        "Mild sore throat",
+        "Asking for ice cream"
+      ],
+      "answer": "A",
+      "rationale": "Frequent swallowing may indicate bleeding; turn the child to the side and notify the doctor.",
+      "explanations": [
+        "Correct.",
+        "Normal.",
+        "Expected.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Tonsillectomy (PDF p. 229)",
+      "quote": "frequent swallowing may indicate hemorrhage"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which fluid is best after tonsillectomy?",
+      "options": [
+        "Cool, clear, non-citrus",
+        "Orange juice",
+        "Milk",
+        "Red juice"
+      ],
+      "answer": "A",
+      "rationale": "Give clear, cool, non-citrus, non-carbonated fluids; avoid milk (coats throat) and red liquids (look like blood).",
+      "explanations": [
+        "Correct.",
+        "Citrus.",
+        "Coats throat.",
+        "Mimics blood."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tonsillectomy (PDF p. 229)",
+      "quote": "Provide clear, cool, non-citrus and noncarbonated fluids"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "How is a child positioned after tonsillectomy?",
+      "options": [
+        "Prone or side-lying",
+        "Supine flat",
+        "High Fowler's",
+        "Trendelenburg"
+      ],
+      "answer": "A",
+      "rationale": "Prone or side-lying facilitates drainage of secretions.",
+      "explanations": [
+        "Correct.",
+        "Aspiration.",
+        "Not best.",
+        "Not used."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tonsillectomy (PDF p. 229)",
+      "quote": "Position the child prone or side-lying to facilitate drainage"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with epiglottitis drools and sits in a tripod position. What should the nurse AVOID?",
+      "options": [
+        "Tongue-blade throat exam",
+        "Keeping the child calm",
+        "Humidified oxygen",
+        "Staying at the bedside"
+      ],
+      "answer": "A",
+      "rationale": "Never visualize the epiglottis with a tongue blade or take a throat culture; it may cause complete obstruction.",
+      "explanations": [
+        "Correct answer.",
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Epiglottitis (PDF p. 229)",
+      "quote": "Never attempt to visualize the epiglottis directly with a tongue blade or obtain a throat culture"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Rheumatic fever usually follows a strep throat by:",
+      "options": [
+        "2 to 6 weeks",
+        "1 day",
+        "1 year",
+        "3 months only"
+      ],
+      "answer": "A",
+      "rationale": "Rheumatic fever presents 2–6 weeks after an untreated group A strep infection; glomerulonephritis 5–21 days.",
+      "explanations": [
+        "Correct.",
+        "Too soon.",
+        "Too late.",
+        "Not typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Tonsillitis (PDF p. 229)",
+      "quote": "Rheumatic fever presents 2 to 6 weeks following an untreated or partially treated group"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "During which situation should chest physiotherapy be withheld in asthma?",
+      "options": [
+        "During an acute exacerbation",
+        "Between attacks",
+        "At bedtime",
+        "In the morning"
+      ],
+      "answer": "A",
+      "rationale": "CPT is not recommended during an acute exacerbation.",
+      "explanations": [
+        "Correct.",
+        "May be used.",
+        "May be used.",
+        "May be used."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Asthma (PDF p. 230)",
+      "quote": "Chest physiotherapy is not recommended during an acute exacerbation"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Asthma that persists despite vigorous treatment is called:",
+      "options": [
+        "Status asthmaticus",
+        "Mild intermittent asthma",
+        "Bronchiolitis",
+        "Croup"
+      ],
+      "answer": "A",
+      "rationale": "Status asthmaticus is a medical emergency that can cause respiratory failure.",
+      "explanations": [
+        "Correct.",
+        "Mild.",
+        "Different.",
+        "Different."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Status Asthmaticus (PDF p. 230)",
+      "quote": "Child displays respiratory distress despite vigorous treatment measures"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "How is an infant with cleft lip fed before repair?",
+      "options": [
+        "Upright, to side of mouth",
+        "Flat on the back",
+        "Fast, large feeds",
+        "NG tube only"
+      ],
+      "answer": "A",
+      "rationale": "Hold upright, use an enlarged nipple, direct formula to the side and back of the mouth, and allow rests.",
+      "explanations": [
+        "Correct.",
+        "Aspiration.",
+        "Not appropriate.",
+        "Not required."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Cleft Lip/Palate (PDF p. 230)",
+      "quote": "Direct the formula to the side and back of the mouth"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "After cleft LIP repair, which position is AVOIDED?",
+      "options": [
+        "Prone",
+        "Back",
+        "Side opposite the repair",
+        "Infant seat"
+      ],
+      "answer": "A",
+      "rationale": "Avoid prone after cheiloplasty to prevent rubbing the suture line on the mattress.",
+      "explanations": [
+        "Correct answer.",
+        "Allowed.",
+        "Allowed.",
+        "Allowed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Cheiloplasty (PDF p. 231)",
+      "quote": "avoid prone position"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "After cleft PALATE repair, what should be avoided?",
+      "options": [
+        "Objects in the mouth",
+        "Elbow restraints",
+        "Soft foods",
+        "Cup feeding"
+      ],
+      "answer": "A",
+      "rationale": "Avoid oral suction, straws, and sharp objects near the palate; use elbow restraints.",
+      "explanations": [
+        "Correct.",
+        "Used.",
+        "Allowed.",
+        "Allowed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Palatoplasty (PDF p. 231)",
+      "quote": "Avoid oral suction or placing objects in the mouth"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A 5-week-old has projectile, non-bilious vomiting and an olive-shaped mass. What is suspected?",
+      "options": [
+        "Pyloric stenosis",
+        "Intussusception",
+        "Duodenal atresia",
+        "GERD"
+      ],
+      "answer": "A",
+      "rationale": "Pyloric stenosis: projectile non-bilious vomiting at 4–6 weeks, visible peristalsis, olive mass.",
+      "explanations": [
+        "Correct.",
+        "Currant jelly stool.",
+        "Bilious, early.",
+        "Not projectile."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Pyloric Stenosis (PDF p. 231)",
+      "quote": "Olive shaped mass in the epigastrium just right of the umbilicus"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "An infant on IV fluids only for pyloric stenosis needs:",
+      "options": [
+        "A pacifier",
+        "Oral feedings",
+        "Solid food",
+        "No comfort"
+      ],
+      "answer": "A",
+      "rationale": "Infants receiving only IV fluids need a pacifier to meet sucking needs.",
+      "explanations": [
+        "Correct.",
+        "Withheld.",
+        "Not allowed.",
+        "Needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pyloric Stenosis (PDF p. 231)",
+      "quote": "An infant who is receiving only IV fluid generally needs a pacifier"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which dairy food is usually better tolerated in lactose intolerance?",
+      "options": [
+        "Yogurt or hard cheese",
+        "Whole milk",
+        "Ice cream",
+        "Milkshake"
+      ],
+      "answer": "A",
+      "rationale": "Yogurt and hard cheese contain less lactose; milk is taken with food in small amounts.",
+      "explanations": [
+        "Correct.",
+        "High lactose.",
+        "High lactose.",
+        "High lactose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Lactose Intolerance (PDF p. 232)",
+      "quote": "Encourage consumption of hard cheese, cottage cheese, or yogurt"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which grains are ALLOWED in celiac disease?",
+      "options": [
+        "Rice and corn",
+        "Wheat and rye",
+        "Barley and oats",
+        "Malt"
+      ],
+      "answer": "A",
+      "rationale": "Avoid BROW (barley, rye, oats, wheat); rice, corn, and millet are substitutes.",
+      "explanations": [
+        "Correct.",
+        "Gluten.",
+        "Gluten.",
+        "Barley."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Celiac Disease (PDF p. 232)",
+      "quote": "substituting corn, rice, and millet as grain sources"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A 'double bubble' sign on abdominal x-ray suggests:",
+      "options": [
+        "Duodenal atresia",
+        "Pyloric stenosis",
+        "Hirschsprung's disease",
+        "Celiac disease"
+      ],
+      "answer": "A",
+      "rationale": "Duodenal atresia shows a double bubble with early bilious vomiting.",
+      "explanations": [
+        "Correct.",
+        "Olive mass.",
+        "Ribbon stool.",
+        "Malabsorption."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Duodenal Atresia (PDF p. 232)",
+      "quote": "the so-called “double bubble” sig"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A newborn passes no stool in 48 hours and later has ribbon-like stools. Suspect:",
+      "options": [
+        "Hirschsprung's disease",
+        "Pyloric stenosis",
+        "Celiac disease",
+        "Lactose intolerance"
+      ],
+      "answer": "A",
+      "rationale": "Hirschsprung's (aganglionic megacolon) causes delayed meconium, ribbon stools, and abdominal distention.",
+      "explanations": [
+        "Correct.",
+        "Vomiting.",
+        "Later onset.",
+        "Diarrhea."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hirschsprung's Disease (PDF p. 233)",
+      "quote": "No bowel movement in the first 48 hours of life"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "After Hirschsprung's surgery, what is measured daily?",
+      "options": [
+        "Abdominal girth",
+        "Chest circumference",
+        "Head size",
+        "Arm length"
+      ],
+      "answer": "A",
+      "rationale": "Abdominal girth is measured daily; NPO until bowel sounds or flatus return.",
+      "explanations": [
+        "Correct.",
+        "Not relevant.",
+        "Not relevant.",
+        "Not relevant."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Hirschsprung's Disease (PDF p. 233)",
+      "quote": "Measure abdominal girth daily and PRN"
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "A blood collection under the scalp that does not cross sutures and resolves in weeks is:",
+      "options": [
+        "Cephalhematoma",
+        "Caput succedaneum",
+        "Craniotabes",
+        "Molding"
+      ],
+      "answer": "A",
+      "rationale": "Cephalhematoma is subperiosteal blood that does not cross sutures and is absorbed in 3–6 weeks.",
+      "explanations": [
+        "Correct.",
+        "Crosses sutures.",
+        "Bone softening.",
+        "Shape change."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Newborn Head (PDF p. 219)",
+      "quote": "Absorbed within 3-6 weeks"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Until what age is strabismus considered normal?",
+      "options": [
+        "6 months",
+        "1 month",
+        "2 years",
+        "5 years"
+      ],
+      "answer": "A",
+      "rationale": "Strabismus is normal until about 6 months.",
+      "explanations": [
+        "Correct.",
+        "Too early.",
+        "Too late.",
+        "Too late."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Newborn Eyes (PDF p. 219)",
+      "quote": "Strabismus is normal until 6 mos"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Low-set ears in a newborn may suggest:",
+      "options": [
+        "Chromosomal anomaly",
+        "Always normal",
+        "Hearing loss only",
+        "Jaundice"
+      ],
+      "answer": "A",
+      "rationale": "Low-set ears suggest chromosomal disorders such as trisomy 21 or kidney anomalies.",
+      "explanations": [
+        "Correct.",
+        "Not always.",
+        "Not specific.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Newborn Ears (PDF p. 219)",
+      "quote": "The low set ears indicate Chromosomal disease such as"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "How does the nurse test a newborn for choanal atresia?",
+      "options": [
+        "Occlude each naris",
+        "Shine light in ear",
+        "Check Moro reflex",
+        "Measure the head"
+      ],
+      "answer": "A",
+      "rationale": "Close the mouth and occlude each naris to check for distress; inability to pass a catheter confirms it.",
+      "explanations": [
+        "Correct.",
+        "Not related.",
+        "Not related.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Newborn Nose (PDF p. 220)",
+      "quote": "Test for CHOANAL ATRESIA (blockage at the rear of the nose) by closing the newborn’s mouth"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A newborn's abdomen looks scaphoid (sunken). This suggests:",
+      "options": [
+        "Diaphragmatic hernia",
+        "Normal finding",
+        "Overfeeding",
+        "Constipation"
+      ],
+      "answer": "A",
+      "rationale": "An empty or scaphoid abdomen suggests missing contents, as in diaphragmatic hernia.",
+      "explanations": [
+        "Correct.",
+        "Abnormal.",
+        "Distended.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Newborn Abdomen (PDF p. 220)",
+      "quote": "The abdomen of the child should look slightly protuberant"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "When does the umbilical cord usually fall off?",
+      "options": [
+        "Day 6 to 10",
+        "Day 1",
+        "Day 30",
+        "Day 2"
+      ],
+      "answer": "A",
+      "rationale": "The stump usually separates by day 6 to 10.",
+      "explanations": [
+        "Correct.",
+        "Too early.",
+        "Too late.",
+        "Too early."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Umbilical Cord (PDF p. 220)",
+      "quote": "Umbilical cord should break free by day 6 to 10"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A newborn has not passed meconium in 24 hours. What should be suspected?",
+      "options": [
+        "Imperforate anus",
+        "Normal delay",
+        "Overfeeding",
+        "Dehydration"
+      ],
+      "answer": "A",
+      "rationale": "Failure to pass meconium in 24 hours suggests imperforate anus or meconium ileus.",
+      "explanations": [
+        "Correct.",
+        "Abnormal.",
+        "Not related.",
+        "Not main."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Anogenital Area (PDF p. 220)",
+      "quote": "If a newborn does not do so in the first 24 hours, suspect imperforate anus or meconium ileus"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "A female newborn has a blood-tinged vaginal discharge. This is:",
+      "options": [
+        "Pseudomenstruation",
+        "Infection",
+        "Trauma",
+        "Bleeding disorder"
+      ],
+      "answer": "A",
+      "rationale": "Maternal hormones cause pseudomenstruation and vulvar swelling, which are normal.",
+      "explanations": [
+        "Correct.",
+        "Not.",
+        "Not.",
+        "Not."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Female Genitalia (PDF p. 220)",
+      "quote": "Pseudomenstruation"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A urethral opening on the underside of the penis is:",
+      "options": [
+        "Hypospadias",
+        "Epispadias",
+        "Phimosis",
+        "Cryptorchidism"
+      ],
+      "answer": "A",
+      "rationale": "Hypospadias is a ventral opening; epispadias is dorsal.",
+      "explanations": [
+        "Correct.",
+        "Dorsal.",
+        "Tight foreskin.",
+        "Undescended testis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Male Genitalia (PDF p. 220)",
+      "quote": "on the dorsal surface (epispadias)"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A single transverse palmar crease suggests:",
+      "options": [
+        "Down syndrome",
+        "Normal",
+        "Cerebral palsy",
+        "Rickets"
+      ],
+      "answer": "A",
+      "rationale": "A simian crease could signify Down syndrome.",
+      "explanations": [
+        "Correct.",
+        "Not typical.",
+        "Not related.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Extremities (PDF p. 221)",
+      "quote": "Inspect the palm for a simian crease which could signify down syndrome"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A feeding tube cannot be passed into a newborn's stomach. This confirms:",
+      "options": [
+        "Esophageal atresia",
+        "Choanal atresia",
+        "Pyloric stenosis",
+        "Normal"
+      ],
+      "answer": "A",
+      "rationale": "Failure to pass through the nares indicates choanal atresia; failure to reach the stomach indicates esophageal atresia.",
+      "explanations": [
+        "Correct.",
+        "Nares.",
+        "Later.",
+        "Abnormal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Congenital Anomaly Appraisal (PDF p. 221)",
+      "quote": "Failure to pass it into the stomach confirms presence of esophageal atresia"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Why should parents not prop the baby's bottle?",
+      "options": [
+        "Aspiration, otitis",
+        "Bottles break",
+        "Milk spoils",
+        "Long sleep"
+      ],
+      "answer": "A",
+      "rationale": "Propping increases aspiration and otitis media risk and deprives infants of being held.",
+      "explanations": [
+        "Correct.",
+        "Not main.",
+        "Not main.",
+        "Not the reason."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Breastfeeding Facts (PDF p. 221)",
+      "quote": "Caution parents not to prop bottles, because it increases the risk for aspiration and otitis media"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Why is warming formula in a microwave discouraged?",
+      "options": [
+        "The inner core can get very hot",
+        "It destroys all nutrients",
+        "It is too slow",
+        "It cools too fast"
+      ],
+      "answer": "A",
+      "rationale": "Microwaving heats unevenly; the inner core may grow very hot and burn the infant.",
+      "explanations": [
+        "Correct.",
+        "Not all.",
+        "Not the reason.",
+        "Not the reason."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Breastfeeding Facts (PDF p. 221)",
+      "quote": "the inner core of milk may grow very hot"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which is the most severe form of spina bifida?",
+      "options": [
+        "Myelomeningocele",
+        "Meningocele",
+        "Spina bifida occulta",
+        "Dermal sinus"
+      ],
+      "answer": "A",
+      "rationale": "Myelomeningocele contains meninges, CSF, and spinal cord or nerves.",
+      "explanations": [
+        "Correct.",
+        "Meninges only.",
+        "Mild.",
+        "Minor."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Spina Bifida (PDF p. 221)",
+      "quote": "It is the most severe form"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "How is a newborn with myelomeningocele positioned before surgery?",
+      "options": [
+        "Prone",
+        "Supine",
+        "Sitting",
+        "Side-lying on the sac"
+      ],
+      "answer": "A",
+      "rationale": "Prone positioning minimizes tension and trauma to the sac, which is covered with moist sterile nonadherent dressing.",
+      "explanations": [
+        "Correct.",
+        "Pressure on sac.",
+        "Not appropriate.",
+        "Pressure."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Spina Bifida (PDF p. 222)",
+      "quote": "Place in a prone position to minimize tension on the sac"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which supplement helps prevent neural tube defects?",
+      "options": [
+        "Folic acid",
+        "Vitamin C",
+        "Iron",
+        "Calcium"
+      ],
+      "answer": "A",
+      "rationale": "Folic acid supplementation, especially in the first trimester, helps prevent neural tube defects.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Anemia.",
+        "Bones."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Spina Bifida Prevention (PDF p. 222)",
+      "quote": "Pregnant women are advised to ingest 600 micrograms of folic acid daily"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A 'cracked pot' sound on percussion of an infant's skull suggests:",
+      "options": [
+        "Hydrocephalus",
+        "Meningitis",
+        "A normal skull",
+        "Cephalhematoma"
+      ],
+      "answer": "A",
+      "rationale": "Macewen's sign in hydrocephalus results from widely separated skull bones.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Abnormal.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hydrocephalus (PDF p. 222)",
+      "quote": "(Macewen’s sign) Bones of the head are widely separated that produces a cracked pot sound"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which shunt is most commonly used for hydrocephalus in children?",
+      "options": [
+        "Ventriculoperitoneal",
+        "Ventriculoatrial",
+        "Ventriculoureteral",
+        "Lumboperitoneal"
+      ],
+      "answer": "A",
+      "rationale": "The VP shunt connecting the lateral ventricle to the peritoneum is most common.",
+      "explanations": [
+        "Correct.",
+        "Less common.",
+        "Rare.",
+        "Not main."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hydrocephalus (PDF p. 222)",
+      "quote": "Most commonly used shunt in children"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "After VP shunt insertion, how is the child positioned?",
+      "options": [
+        "On the unoperated side, flat",
+        "On the shunt side",
+        "High Fowler's at once",
+        "Prone"
+      ],
+      "answer": "A",
+      "rationale": "Position on the unoperated side to avoid pressure on the valve, flat to avoid rapid CSF reduction.",
+      "explanations": [
+        "Correct.",
+        "Pressure on valve.",
+        "Rapid drainage.",
+        "Not standard."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Hydrocephalus (PDF p. 223)",
+      "quote": "Position the child on the unoperated side to prevent pressure on the shunt valve"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "What is the FIRST nursing action when an infant is admitted with bacterial meningitis?",
+      "options": [
+        "Isolate the infant",
+        "Feed the infant",
+        "Bathe the infant",
+        "Weigh the infant"
+      ],
+      "answer": "A",
+      "rationale": "Isolation is the first action on admission; contacts may need prophylaxis.",
+      "explanations": [
+        "Correct.",
+        "Later.",
+        "Later.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Bacterial Meningitis (PDF p. 223)",
+      "quote": "Isolate infant: first nursing implementation on admission"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which CSF finding supports bacterial meningitis?",
+      "options": [
+        "Cloudy, high protein, low glucose",
+        "Clear, normal glucose",
+        "Bloody only",
+        "Low protein, high glucose"
+      ],
+      "answer": "A",
+      "rationale": "Bacterial meningitis CSF is cloudy with increased protein and decreased glucose.",
+      "explanations": [
+        "Correct.",
+        "Normal.",
+        "Hemorrhage.",
+        "Opposite."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Bacterial Meningitis (PDF p. 223)",
+      "quote": "Clouding of CSF, Increased Protein and Decreased Glucose"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with CP has a scissor-like gait. Which type is this?",
+      "options": [
+        "Spastic",
+        "Athetoid",
+        "Ataxic",
+        "Mixed"
+      ],
+      "answer": "A",
+      "rationale": "Spastic CP (cortex) is most common, with a scissor gait; athetoid involves basal ganglia; ataxic the cerebellum.",
+      "explanations": [
+        "Correct.",
+        "Involuntary motion.",
+        "Balance.",
+        "Not specific."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cerebral Palsy (PDF p. 224)",
+      "quote": "Spastic (most common): The cortex is affected resulting in the child having a scissor-like gait"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "White specks in the iris of a child with Down syndrome are:",
+      "options": [
+        "Brushfield spots",
+        "Koplik spots",
+        "Bitot spots",
+        "Roth spots"
+      ],
+      "answer": "A",
+      "rationale": "Brushfield spots are white iris specks seen in Down syndrome.",
+      "explanations": [
+        "Correct.",
+        "Measles.",
+        "Vitamin A.",
+        "Endocarditis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Down Syndrome (PDF p. 224)",
+      "quote": "Brushfield’s spots – white specks in the iris of the eye"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Care for a child with Down syndrome is planned according to:",
+      "options": [
+        "Developmental age",
+        "Chronological age",
+        "Weight",
+        "Height"
+      ],
+      "answer": "A",
+      "rationale": "Treatment is based on developmental rather than chronological age.",
+      "explanations": [
+        "Correct.",
+        "Not the basis.",
+        "Not the basis.",
+        "Not the basis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Down Syndrome (PDF p. 225)",
+      "quote": "Treatment is based on the child’s developmental age rather than chronological age"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A continuous 'machinery' murmur suggests:",
+      "options": [
+        "Patent ductus arteriosus",
+        "Ventricular septal defect",
+        "Tetralogy of Fallot",
+        "Coarctation"
+      ],
+      "answer": "A",
+      "rationale": "PDA has a machinery-like murmur; VSD has a loud systolic murmur.",
+      "explanations": [
+        "Correct.",
+        "Systolic.",
+        "Cyanotic.",
+        "BP difference."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Acyanotic Heart Defects (PDF p. 225)",
+      "quote": "Machinery like murmur – PDA"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which is the most common congenital heart defect?",
+      "options": [
+        "Ventricular septal defect",
+        "Atrial septal defect",
+        "Tetralogy of Fallot",
+        "Transposition"
+      ],
+      "answer": "A",
+      "rationale": "VSD is the most common CHD (about 30%), usually a left-to-right shunt.",
+      "explanations": [
+        "Correct.",
+        "Less common.",
+        "Less common.",
+        "Less common."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, VSD (PDF p. 225)",
+      "quote": "Most common CHD: 30%"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "An infant with a heart defect sweats on the scalp during feeding. This indicates:",
+      "options": [
+        "Cardiac fatigue",
+        "Fever",
+        "Normal",
+        "Overheating"
+      ],
+      "answer": "A",
+      "rationale": "Brow or scalp sweating with feeding reflects fatigue and heart failure risk in CHD.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Abnormal.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Acyanotic Defects (PDF p. 225)",
+      "quote": "Easy fatigability shown as brow sweating (during feeding or crying episodes)"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "What is the most common complication of acyanotic heart defects?",
+      "options": [
+        "Congestive heart failure",
+        "Stroke",
+        "Seizures",
+        "Kidney stones"
+      ],
+      "answer": "A",
+      "rationale": "CHF is the most common complication of acyanotic defects.",
+      "explanations": [
+        "Correct.",
+        "Cyanotic risk.",
+        "Not main.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Acyanotic Defects (PDF p. 225)",
+      "quote": "Congestive Heart Failure most common complication"
+    }
+  ]
+}

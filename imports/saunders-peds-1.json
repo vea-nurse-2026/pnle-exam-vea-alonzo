@@ -1,0 +1,797 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Baby Andrea was born with a cleft lip and palate. The lip was repaired at 3 months, and the palate repair is planned later.",
+      "stem": "On the first day after the cleft lip repair, how should the nurse care for the incision?",
+      "options": [
+        "Rinse it with sterile water after feedings",
+        "Clean it only when exudate forms",
+        "Rub it gently to remove crusts",
+        "Remove the Logan bar to clean it"
+      ],
+      "answer": "A",
+      "rationale": "The incision is rinsed with sterile water after every feeding and patted dry, never rubbed. The Logan bar protects the suture line and stays in place.",
+      "explanations": [
+        "Correct: rinse after each feeding.",
+        "Cleaning is routine, not only when exudate forms.",
+        "Rubbing disrupts the suture line.",
+        "Removing it adds tension to the incision."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q144 (PDF p. 294)",
+      "quote": "The incision should be rinsed with sterile water after every feeding."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Baby Andrea was born with a cleft lip and palate. The lip was repaired at 3 months, and the palate repair is planned later.",
+      "stem": "Years later, at a preschool checkup after her palate repair, which question BEST screens for a long-term complication?",
+      "options": [
+        "'Does she play with an imaginary friend?'",
+        "'Was she treated for pneumonia recently?'",
+        "'Does she sometimes not respond when called?'",
+        "'Does she still eat soft food only?'"
+      ],
+      "answer": "C",
+      "rationale": "Children with cleft palate get frequent otitis media, which can lead to hearing loss. Not responding may mean she cannot hear well. Imaginary friends are normal at this age.",
+      "explanations": [
+        "Normal preschool behavior.",
+        "Unrelated to cleft palate after repair.",
+        "Correct: screens for hearing loss.",
+        "Not the key long-term complication."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q44 (PDF p. 183)",
+      "quote": "A child with cleft palate is at risk for developing frequent otitis media, which can result in hearing loss."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "After spinal rod insertion for scoliosis, which assessment is MOST important in the immediate postoperative period?",
+      "options": [
+        "The pain score every hour",
+        "The hourly urine output",
+        "Leg circulation and movement",
+        "Appetite and bowel sounds"
+      ],
+      "answer": "C",
+      "rationale": "Spinal manipulation can impair neurovascular status, so circulation, sensation, and motion are checked at least every 2 hours. Pain and urine output matter but come second.",
+      "explanations": [
+        "Important, but secondary.",
+        "Important, but secondary.",
+        "Correct: neurovascular checks are the priority.",
+        "Not the priority."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q58 (PDF p. 199)",
+      "quote": "neurovascular checks, including circulation, sensation, and motion, should be done at least every 2 hours."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A 2-year-old has just had a hip spica cast applied. Which action BEST protects the child's skin?",
+      "options": [
+        "Change the diaper at least every 2 hours",
+        "Leave the genital area open to air",
+        "Turn the child every 6 hours",
+        "Check the skin only once a day"
+      ],
+      "answer": "A",
+      "rationale": "The spica cast leaves the genital area open. Diapers are changed at least every 2 hours by day (3 to 4 hours at night) so urine and stool do not soil the cast and damage the skin.",
+      "explanations": [
+        "Correct: frequent changes protect skin and cast.",
+        "Exposure does not prevent soiling.",
+        "Too infrequent.",
+        "Skin needs checking more often."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q61 (PDF p. 206)",
+      "quote": "diapers will be in use and will need to be changed at least every 2 hours during the day"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with decorticate posturing suddenly shows decerebrate posturing. How should the nurse interpret this?",
+      "options": [
+        "An insignificant finding",
+        "Improving neurologic status",
+        "Normal fluctuation in posture",
+        "Deteriorating neurologic function"
+      ],
+      "answer": "D",
+      "rationale": "A change from decorticate (flexor) to decerebrate (extensor) posturing usually means neurologic function is deteriorating, and the provider is notified.",
+      "explanations": [
+        "It is significant.",
+        "It signals worsening.",
+        "Not a normal fluctuation.",
+        "Correct: worsening brain function."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q84 (PDF p. 230)",
+      "quote": "The progression from decorticate to decerebrate posturing usually indicates deteriorating neurological function"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A 3-year-old admitted with croup has a respiratory rate of 28. What should the nurse do?",
+      "options": [
+        "Start supplemental oxygen",
+        "Document the finding",
+        "Notify the physician at once",
+        "Prepare for intubation"
+      ],
+      "answer": "B",
+      "rationale": "A normal respiratory rate for a 3-year-old is about 20 to 30 breaths per minute, so the nurse documents it. Nasal flaring, retractions, and stridor would signal distress.",
+      "explanations": [
+        "Not needed for a normal rate.",
+        "Correct: the rate is normal for the age.",
+        "Not needed.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q86 (PDF p. 232)",
+      "quote": "The normal respiratory rate for a 3-year-old child is approximately 20 to 30 breaths per minute."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which food or drink is BEST to offer a child after tonsillectomy?",
+      "options": [
+        "Green gelatin",
+        "Cold soda",
+        "Milk pudding",
+        "Red fruit juice"
+      ],
+      "answer": "A",
+      "rationale": "Clear, cool liquids are best. Citrus, carbonated, and very hot or cold drinks irritate the throat. Milk coats the throat and causes throat clearing, which can cause bleeding. Red liquids look like blood.",
+      "explanations": [
+        "Correct: clear, cool, and not red.",
+        "Carbonation irritates the throat.",
+        "Milk products cause throat clearing.",
+        "Red color can be mistaken for blood."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q106 (PDF p. 255)",
+      "quote": "Red liquids need to be avoided because they give the appearance of blood"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "An infant is HIV-positive. Which home-care action BEST reduces the infant's risk of complications?",
+      "options": [
+        "Check the fontanel daily for bulging",
+        "Feed only in an upright position",
+        "Give meticulous skin care",
+        "Use a special feeding nipple"
+      ],
+      "answer": "C",
+      "rationale": "Meticulous skin care protects an HIV-infected infant from secondary infections. The other actions are unrelated to HIV.",
+      "explanations": [
+        "Not related to HIV pathology.",
+        "Not related to HIV pathology.",
+        "Correct: prevents secondary infection.",
+        "Not related to HIV pathology."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q112 (PDF p. 261)",
+      "quote": "Meticulous skin care helps protect the HIV-infected infant from secondary infections."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "What is the MOST common complication of mumps?",
+      "options": [
+        "Orchitis with a red, swollen testicle",
+        "Permanent hearing loss",
+        "Aseptic meningitis",
+        "Pneumonia"
+      ],
+      "answer": "C",
+      "rationale": "Aseptic meningitis is the most common complication of mumps (nuchal rigidity, lethargy, vomiting). Mumps can cause one-sided deafness, but this is uncommon.",
+      "explanations": [
+        "It occurs, but is not the most common.",
+        "It occurs, but infrequently.",
+        "Correct: the most common complication.",
+        "Not the typical complication."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q115 (PDF p. 265)",
+      "quote": "The most common complication of mumps is aseptic meningitis"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which statement about brain tumors in children younger than 3 years is accurate?",
+      "options": [
+        "Radiation is the treatment of choice",
+        "Headache and vomiting are the classic symptoms",
+        "The head is never shaved before surgery",
+        "Chemotherapy alone is curative"
+      ],
+      "answer": "B",
+      "rationale": "Headache and vomiting are classic. Total surgical removal is the treatment of choice. Radiation is avoided under age 3 because of its toxic effects on the developing brain.",
+      "explanations": [
+        "Radiation is avoided at this age.",
+        "Correct: the classic symptoms.",
+        "Only as much hair as needed is shaved.",
+        "Surgery is the main treatment."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q117 (PDF p. 267)",
+      "quote": "Radiation therapy is avoided in children younger than 3 years because of the toxic side effects on the developing brain"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Parents of a child with viral pneumonia ask about treatment. Which statement shows they need MORE teaching?",
+      "options": [
+        "'Oxygen can catch fire easily.'",
+        "'Antibiotics will cure the virus.'",
+        "'IV fluids keep him hydrated.'",
+        "'Chest physiotherapy loosens mucus.'"
+      ],
+      "answer": "B",
+      "rationale": "Treatment of viral pneumonia is supportive: oxygen, chest physiotherapy, and IV fluids. Antibiotics are not given unless the pneumonia is bacterial.",
+      "explanations": [
+        "Accurate.",
+        "Correct answer: antibiotics do not treat viruses.",
+        "Accurate.",
+        "Accurate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q118 (PDF p. 268)",
+      "quote": "Antibiotics are not given unless the pneumonia is bacterial."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Nurse Bea plans a tepid tub bath for 4-year-old Kiko, who has a temperature of 39.6°C.",
+      "stem": "How should Nurse Bea prepare the bath?",
+      "options": [
+        "Add rubbing alcohol to the water",
+        "Soak Kiko for only 5 minutes",
+        "Start warm and add cool water gradually",
+        "Start with very cold water"
+      ],
+      "answer": "C",
+      "rationale": "Adding cool water to a warm bath lowers the temperature gradually, so the child adjusts without chilling. Alcohol is toxic and causes vasoconstriction. The bath lasts 20 to 30 minutes.",
+      "explanations": [
+        "Alcohol is toxic and contraindicated.",
+        "Too short; 20 to 30 minutes is needed.",
+        "Correct: gradual cooling prevents chilling.",
+        "Cold water causes shivering, which raises heat production."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q143 (PDF p. 293)",
+      "quote": "Adding cool water to an already warm bath allows the water temperature to slowly drop."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Nurse Bea plans a tepid tub bath for 4-year-old Kiko, who has a temperature of 39.6°C.",
+      "stem": "What should Nurse Bea do right after the bath?",
+      "options": [
+        "Leave Kiko uncovered for 15 minutes",
+        "Dress Kiko in a light cotton shirt",
+        "Recheck the temperature in 2 hours",
+        "Cover Kiko with a heavy blanket"
+      ],
+      "answer": "B",
+      "rationale": "Light cotton keeps the child from chilling. Blankets raise body temperature, and the temperature is rechecked about 30 minutes after the bath.",
+      "explanations": [
+        "The child may become chilled.",
+        "Correct: lightweight cotton.",
+        "Recheck after about 30 minutes.",
+        "A blanket raises body temperature."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q345 (PDF p. 513)",
+      "quote": "Cotton is a lightweight material that will protect the child from becoming chilled after the bath."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "After surgical closure of a meningomyelocele, how should the infant be positioned?",
+      "options": [
+        "Supine with a binder over the dressing",
+        "Head-down position",
+        "Prone",
+        "Upright in an infant seat"
+      ],
+      "answer": "C",
+      "rationale": "The prone position keeps pressure off the surgical site on the back. The nurse watches closely for CSF leakage.",
+      "explanations": [
+        "Supine puts pressure on the site.",
+        "Not the recommended position.",
+        "Correct: prone protects the operative site.",
+        "Puts pressure on the site."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q155 (PDF p. 305)",
+      "quote": "The prone position is maintained after surgical closure to decrease the pressure on the surgical site on the back"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child has Reye's syndrome. Which complication should the nurse monitor for MOST closely?",
+      "options": [
+        "Proteinuria",
+        "Hyperglycemia",
+        "Increased intracranial pressure",
+        "Staphylococcal infection"
+      ],
+      "answer": "C",
+      "rationale": "Reye's syndrome is an acute encephalopathy after a viral illness, with cerebral edema and fatty liver changes. Increased ICP is a major problem, and hypoglycemia (not hyperglycemia) occurs.",
+      "explanations": [
+        "Not a feature.",
+        "Hypoglycemia occurs instead.",
+        "Correct: cerebral edema raises ICP.",
+        "It follows viral, not bacterial, illness."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q162 (PDF p. 313)",
+      "quote": "Intracranial pressure and encephalopathy are major problems associated with Reye’s syndrome."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Jun-jun, 8, is admitted with suspected rheumatic fever three weeks after an untreated sore throat.",
+      "stem": "Which laboratory result BEST supports the diagnosis?",
+      "options": [
+        "Elevated WBC count",
+        "Low hemoglobin",
+        "Elevated ASO titer",
+        "Low ESR"
+      ],
+      "answer": "C",
+      "rationale": "An elevated antistreptolysin-O (ASO) titer shows a recent streptococcal infection and is the most reliable test supporting rheumatic fever. A high WBC count is not specific.",
+      "explanations": [
+        "Not specific to rheumatic fever.",
+        "Unrelated.",
+        "Correct: shows streptococcal antibodies.",
+        "ESR is elevated, not low."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q173 (PDF p. 326)",
+      "quote": "The most reliable and best standardized test to confirm the diagnosis is the ASO titer."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Jun-jun, 8, is admitted with suspected rheumatic fever three weeks after an untreated sore throat.",
+      "stem": "Which finding is a MAJOR manifestation of rheumatic fever the nurse should prepare to manage?",
+      "options": [
+        "Cool, pale skin over the joints",
+        "White, painful lesions on the trunk",
+        "Carditis with a new heart murmur",
+        "Bradycardia during sleep"
+      ],
+      "answer": "C",
+      "rationale": "Rheumatic fever is a delayed inflammatory reaction to group A beta-hemolytic streptococcal infection. Major manifestations include carditis (murmur, cardiac enlargement) and subcutaneous nodules over bony prominences.",
+      "explanations": [
+        "Joints are inflamed, not cool.",
+        "Not a feature.",
+        "Correct: carditis is a major manifestation.",
+        "Not a feature."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q289 (PDF p. 448)",
+      "quote": "Major manifestations include carditis manifested as inflammation of the endocardium, including the valves"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A 5-year-old with tetralogy of Fallot has clubbed fingers. What does this finding reflect?",
+      "options": [
+        "Chronic tissue hypoxia",
+        "Chronic hypertension",
+        "Delayed growth",
+        "Bone marrow destruction"
+      ],
+      "answer": "A",
+      "rationale": "Clubbing, a thickening and flattening of the fingertips, results from chronic tissue hypoxia and polycythemia.",
+      "explanations": [
+        "Correct: caused by chronic hypoxia.",
+        "Does not cause clubbing.",
+        "Does not cause clubbing.",
+        "Does not cause clubbing."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q174 (PDF p. 327)",
+      "quote": "Clubbing, a thickening and flattening of the tips of the fingers and toes, is thought to occur because of chronic tissue hypoxia and polycythemia."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which stool characteristic does the nurse expect in a child with celiac disease?",
+      "options": [
+        "Foul-smelling, pale, and bulky",
+        "Dark and tarry",
+        "Small, hard pellets",
+        "Green and watery with mucus"
+      ],
+      "answer": "A",
+      "rationale": "Gluten intolerance causes malabsorption, giving malodorous, pale, bulky, loose stools with excess flatus.",
+      "explanations": [
+        "Correct: typical steatorrhea.",
+        "Suggests GI bleeding.",
+        "Suggests constipation.",
+        "Not typical of celiac disease."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q210 (PDF p. 365)",
+      "quote": "The stools of a child with celiac disease are characteristically malodorous, pale, large (bulky), and soft (loose)."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which finding suggests an inguinal hernia in a child?",
+      "options": [
+        "Difficulty passing stool",
+        "A dribbling urinary stream",
+        "Testes absent from the scrotum",
+        "Painless groin swelling when crying"
+      ],
+      "answer": "D",
+      "rationale": "An inguinal hernia appears as painless groin swelling when the child cries or strains. A dribbling stream suggests phimosis; absent testes suggest cryptorchidism.",
+      "explanations": [
+        "Suggests partial obstruction of a herniated loop.",
+        "A sign of phimosis.",
+        "Describes cryptorchidism.",
+        "Correct: the classic sign."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q214 (PDF p. 369)",
+      "quote": "Inguinal hernia is a common defect that may appear as a painless inguinal (groin) swelling when the child cries or strains."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which finding in a newborn supports a diagnosis of esophageal atresia?",
+      "options": [
+        "Slowed reflexes",
+        "Continuous drooling",
+        "Diaphragmatic breathing",
+        "Large, frothy stools"
+      ],
+      "answer": "B",
+      "rationale": "The esophagus ends in a blind pouch, so swallowed saliva cannot reach the stomach. It collects and flows out of the mouth, causing continuous drooling.",
+      "explanations": [
+        "Not specific.",
+        "Correct: saliva cannot pass into the stomach.",
+        "Normal in infants.",
+        "Not a feature."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q218 (PDF p. 373)",
+      "quote": "This condition prevents the passage of swallowed mucus and saliva into the stomach."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "An infant has diarrhea. Which is an EARLY sign of dehydration?",
+      "options": [
+        "Cool extremities",
+        "Gray, mottled skin",
+        "Capillary refill of 3 seconds",
+        "Apical pulse of 200 beats per minute"
+      ],
+      "answer": "D",
+      "rationale": "As fluid is lost, the pulse rises first to maintain circulation. Peripheral signs (cool, mottled skin and slow capillary refill) come later as circulatory failure develops.",
+      "explanations": [
+        "A later, peripheral sign.",
+        "A later sign of circulatory failure.",
+        "A later, peripheral sign.",
+        "Correct: tachycardia is an early compensatory sign."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q346 (PDF p. 514)",
+      "quote": "The blood pressure will decrease and the pulse rate will increase. This will be followed by peripheral symptoms."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child has a new plaster cast on the arm. Which instruction helps the cast dry properly?",
+      "options": [
+        "Lift the cast with the fingertips",
+        "Keep the cast covered with a blanket",
+        "Point a fan toward the cast",
+        "Keep the arm still in one position"
+      ],
+      "answer": "C",
+      "rationale": "A fan speeds drying. The cast is lifted with the palms (fingertips leave dents), elevated on pillows, left uncovered, and repositioned every 2 to 4 hours. A dry cast sounds hollow.",
+      "explanations": [
+        "Fingertips cause dents and pressure points.",
+        "Covering traps moisture.",
+        "Correct: airflow speeds drying.",
+        "Reposition every 2 to 4 hours."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q365 (PDF p. 533)",
+      "quote": "A fan may be directed toward the cast to facilitate drying."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which group of findings is typical of nephrotic syndrome in a child?",
+      "options": [
+        "Edema, proteinuria, and hypoalbuminemia",
+        "Hypertension, hematuria, and tea-colored urine",
+        "Polyuria, thirst, and weight loss",
+        "Fever, flank pain, and pyuria"
+      ],
+      "answer": "A",
+      "rationale": "Nephrotic syndrome causes edema, proteinuria, and hypoalbuminemia, with weight gain, anorexia, and abdominal pain. Blood pressure is usually normal or slightly low.",
+      "explanations": [
+        "Correct: the classic triad.",
+        "Suggests acute glomerulonephritis.",
+        "Suggests diabetes.",
+        "Suggests pyelonephritis."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q367 (PDF p. 535)",
+      "quote": "Nephrotic syndrome refers to a kidney disorder characterized by edema, proteinuria, and hypoalbuminemia."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with intussusception passes a normal, formed brown stool. What should the nurse do?",
+      "options": [
+        "Continue routine monitoring",
+        "Prepare for hydrostatic reduction",
+        "Prepare the family for surgery",
+        "Report it to the physician at once"
+      ],
+      "answer": "D",
+      "rationale": "A normal brown stool usually means the intussusception has reduced itself. This is reported at once because the plan may change.",
+      "explanations": [
+        "The finding needs to be reported.",
+        "May no longer be needed.",
+        "May no longer be needed.",
+        "Correct: possible spontaneous reduction."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q455 (PDF p. 635)",
+      "quote": "Passage of a normally formed brown stool usually indicates that the intussusception has reduced itself."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child with autism spectrum disorder will attend a day care center. What is the PRIORITY when planning the child's activities?",
+      "options": [
+        "Safety",
+        "Verbal communication",
+        "Social interaction",
+        "Orientation to the center"
+      ],
+      "answer": "A",
+      "rationale": "A child with autism may not anticipate danger, may self-injure, and has sensory-perceptual deficits, so safety comes first.",
+      "explanations": [
+        "Correct: safety is the priority.",
+        "Appropriate, but secondary.",
+        "Appropriate, but secondary.",
+        "Appropriate, but secondary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q495 (PDF p. 688)",
+      "quote": "The child with autism is unable to anticipate danger, has a tendency for self-mutilation, and has sensory perceptual deficits."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Maya, 6, is admitted for tonic-clonic seizures. Nurse Gino is preparing her room and care plan.",
+      "stem": "Which items should Nurse Gino place at the bedside?",
+      "options": [
+        "A tracheostomy set and oxygen",
+        "Suction apparatus and oxygen",
+        "An endotracheal tube and airway",
+        "An emergency cart and laryngoscope"
+      ],
+      "answer": "B",
+      "rationale": "Airway obstruction and increased oral secretions are the main complications during and after a seizure. Suction prevents choking, and oxygen prevents hypoxia.",
+      "explanations": [
+        "Tracheostomy is not performed.",
+        "Correct: suction and oxygen.",
+        "Intubation is not routinely done.",
+        "Not routinely needed at the bedside."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q498 (PDF p. 691)",
+      "quote": "Suction is helpful to prevent choking and oxygen is helpful to prevent cyanosis."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "Maya, 6, is admitted for tonic-clonic seizures. Nurse Gino is preparing her room and care plan.",
+      "stem": "Which planned intervention is UNSAFE for Maya?",
+      "options": [
+        "Keep the bed in the low position",
+        "Restrain her limbs during a seizure",
+        "Pad the side rails of the bed",
+        "Turn her to her side during a seizure"
+      ],
+      "answer": "B",
+      "rationale": "Restraints can injure a child during a seizure. The bed is kept low, side rails are padded, and the child is turned to the side so saliva drains out.",
+      "explanations": [
+        "Appropriate.",
+        "Correct answer: restraints can cause injury.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q496 (PDF p. 689)",
+      "quote": "Restraints (immobilization) are not to be applied to a child with a seizure because they could cause injury to the child."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A child is admitted for removal of a malignant brain tumor. Which action ensures a safe environment?",
+      "options": [
+        "Initiate seizure precautions",
+        "Use a wheelchair for all activity",
+        "Assist with walking at all times",
+        "Keep the room completely dark"
+      ],
+      "answer": "A",
+      "rationale": "Seizure precautions are used before and after surgery for any child with a brain tumor. Mobility aids are needed only if deficits exist.",
+      "explanations": [
+        "Correct: seizure risk exists.",
+        "Only if a deficit exists.",
+        "Only if a deficit exists.",
+        "Not necessary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q507 (PDF p. 702)",
+      "quote": "Seizure precautions should be implemented for any child with a brain tumor, both preoperatively and postoperatively."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "An adolescent with conjunctivitis wears contact lenses. Which instruction is MOST appropriate?",
+      "options": [
+        "Never wear eye makeup again",
+        "Apply hot compresses for pain",
+        "Get a new set of contact lenses",
+        "No isolation is needed"
+      ],
+      "answer": "C",
+      "rationale": "A new set of lenses prevents reinfection. Eye makeup is replaced, not banned. Cool compresses ease pain, and isolation lasts 24 hours after starting antibiotics.",
+      "explanations": [
+        "Makeup is replaced, not avoided forever.",
+        "Cool, not hot, compresses are used.",
+        "Correct: prevents reinfection.",
+        "Isolation is needed for 24 hours on antibiotics."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q522 (PDF p. 717)",
+      "quote": "A new set of contact lenses should be obtained."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which home-care plan by a mother of a child with croup is CORRECT?",
+      "options": [
+        "Give cough syrup every night",
+        "Use a hot steam vaporizer",
+        "Give sips of warm fluids during an attack",
+        "Give cold medicine for congestion"
+      ],
+      "answer": "C",
+      "rationale": "Warm fluids relax the vocal cords and thin mucus. Cough syrups and cold medicines dry and thicken secretions. A cool-mist humidifier is safer than a steam vaporizer.",
+      "explanations": [
+        "Dries and thickens secretions.",
+        "Risk of burns; use cool mist.",
+        "Correct: warm fluids ease the attack.",
+        "Dries secretions."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q635 (PDF p. 853)",
+      "quote": "Sips of warm fluid will relax the vocal cords and thin the mucus."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which discharge instruction is correct after a child's heart surgery?",
+      "options": [
+        "Return to school after 1 week",
+        "Rub lotion and powder on the incision",
+        "Play outside every day after discharge",
+        "Call for a fever above 38°C"
+      ],
+      "answer": "D",
+      "rationale": "A fever above 38°C (100.5°F) is reported. No lotions or powders go on the incision until it heals, outdoor play is restricted for several weeks, and school resumes about 3 weeks after discharge.",
+      "explanations": [
+        "Return is after about 3 weeks.",
+        "Nothing is applied until it is healed.",
+        "Restricted for several weeks.",
+        "Correct: fever may signal infection."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q638 (PDF p. 856)",
+      "quote": "the primary health care provider must be notified if the child develops a fever of more than 100.5° F (38° C)."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which statement by the parent of a 3-year-old with hemophilia shows a need for MORE teaching?",
+      "options": [
+        "'I won't leave my child unattended.'",
+        "'I'll pad the corners of our tables.'",
+        "'My child should skip all immunizations.'",
+        "'I'll keep up regular dental checkups.'"
+      ],
+      "answer": "C",
+      "rationale": "Immunizations, dental hygiene, and routine well-child care are important in hemophilia. Supervision and a safe home environment prevent injury.",
+      "explanations": [
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: immunizations are still needed.",
+        "Correct practice."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q650 (PDF p. 868)",
+      "quote": "The nurse must stress the importance of immunizations, dental hygiene, and routine well-child care."
+    }
+  ]
+}

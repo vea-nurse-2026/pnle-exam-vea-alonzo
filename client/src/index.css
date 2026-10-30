@@ -1,0 +1,235 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* Semantic colors. The palettes below are re-pointed per theme, but these stay fixed in light mode. */
+  --color-surface: #fff;
+  --color-primary: oklch(53% 0.13 247);
+  --color-primary-hover: oklch(47% 0.12 250);
+}
+
+/* Themes (exam site only; the studio never sets data-theme, so it stays light).
+   Components use Tailwind's slate/teal/emerald/red/amber classes, so each theme re-points those
+   palettes: dark inverts the scale (50 = dark tint, 900 = light text), grayscale drops the chroma.
+   Shades 400–600 stay mid-tone so solid bars and dots keep working on any background. */
+/* Accent: a soft baby blue (Cinnamoroll / Hachiware) in place of Tailwind's teal. Components keep
+   their teal-* class names; this palette is what those names now point to. Buttons use the deeper
+   600–700 steps so white text stays readable. */
+:root {
+  --app-bg: oklch(97.6% 0.012 238);
+  --color-teal-50: oklch(97.2% 0.017 236);
+  --color-teal-100: oklch(94% 0.032 236);
+  --color-teal-200: oklch(89% 0.056 237);
+  --color-teal-300: oklch(82% 0.086 238);
+  --color-teal-400: oklch(74% 0.11 240);
+  --color-teal-500: oklch(66% 0.13 243);
+  --color-teal-600: oklch(58% 0.135 246);
+  --color-teal-700: oklch(52% 0.13 249);
+  --color-teal-800: oklch(45% 0.115 251);
+  --color-teal-900: oklch(38% 0.095 253);
+  --glass-highlight: oklch(100% 0 0 / 0.6);
+  --glass-shadow: oklch(30% 0.04 260 / 0.18);
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --app-bg: oklch(14% 0.03 265);
+  --color-surface: oklch(20.5% 0.032 264);
+  --color-primary: oklch(56% 0.13 246);
+  --color-primary-hover: oklch(62% 0.13 244);
+
+  --color-slate-50: oklch(17% 0.032 264);
+  --color-slate-100: oklch(27% 0.034 262);
+  --color-slate-200: oklch(31% 0.034 260);
+  --color-slate-300: oklch(39% 0.034 258);
+  --color-slate-400: oklch(58% 0.03 257);
+  --color-slate-500: oklch(69% 0.028 257);
+  --color-slate-600: oklch(77% 0.024 256);
+  --color-slate-700: oklch(85% 0.018 255);
+  --color-slate-800: oklch(91% 0.012 255);
+  --color-slate-900: oklch(96% 0.006 250);
+  --color-slate-950: oklch(98.5% 0.003 248);
+
+  --color-teal-50: oklch(27% 0.05 248);
+  --color-teal-100: oklch(32% 0.065 247);
+  --color-teal-200: oklch(40% 0.085 246);
+  --color-teal-300: oklch(50% 0.11 245);
+  --color-teal-400: oklch(64% 0.12 243);
+  --color-teal-500: oklch(71% 0.11 241);
+  --color-teal-600: oklch(76% 0.1 240);
+  --color-teal-700: oklch(82% 0.085 238);
+  --color-teal-800: oklch(88% 0.06 236);
+  --color-teal-900: oklch(93% 0.04 235);
+
+  --color-emerald-50: oklch(27% 0.045 160);
+  --color-emerald-100: oklch(32% 0.055 160);
+  --color-emerald-200: oklch(40% 0.07 160);
+  --color-emerald-300: oklch(52% 0.1 159);
+  --color-emerald-400: oklch(64% 0.13 158);
+  --color-emerald-700: oklch(80% 0.12 160);
+  --color-emerald-800: oklch(87% 0.09 162);
+  --color-emerald-900: oklch(92% 0.06 163);
+
+  --color-red-50: oklch(28% 0.065 22);
+  --color-red-100: oklch(33% 0.085 22);
+  --color-red-200: oklch(41% 0.11 22);
+  --color-red-300: oklch(53% 0.14 22);
+  --color-red-700: oklch(78% 0.13 20);
+  --color-red-800: oklch(85% 0.09 18);
+  --color-red-900: oklch(91% 0.05 18);
+
+  --color-amber-50: oklch(29% 0.055 75);
+  --color-amber-100: oklch(34% 0.065 75);
+  --color-amber-200: oklch(42% 0.08 75);
+  --color-amber-800: oklch(87% 0.1 85);
+  --color-amber-900: oklch(92% 0.07 90);
+
+  --glass-highlight: oklch(100% 0 0 / 0.1);
+  --glass-shadow: oklch(0% 0 0 / 0.45);
+}
+
+/* Grayscale: same lightness steps as the light theme, no color. Correct answers get the darkest
+   tones and wrong answers the lightest, so they stay distinguishable (they also carry ✓ / ✗). */
+:root[data-theme="gray"] {
+  --app-bg: oklch(97.5% 0 0);
+  --color-primary: oklch(26% 0 0);
+  --color-primary-hover: oklch(36% 0 0);
+
+  --color-slate-50: oklch(98% 0 0);
+  --color-slate-100: oklch(96% 0 0);
+  --color-slate-200: oklch(91% 0 0);
+  --color-slate-300: oklch(85% 0 0);
+  --color-slate-400: oklch(69% 0 0);
+  --color-slate-500: oklch(54% 0 0);
+  --color-slate-600: oklch(44% 0 0);
+  --color-slate-700: oklch(36% 0 0);
+  --color-slate-800: oklch(27% 0 0);
+  --color-slate-900: oklch(20% 0 0);
+  --color-slate-950: oklch(13% 0 0);
+
+  --color-teal-50: oklch(96% 0 0);
+  --color-teal-100: oklch(92% 0 0);
+  --color-teal-200: oklch(86% 0 0);
+  --color-teal-300: oklch(76% 0 0);
+  --color-teal-400: oklch(62% 0 0);
+  --color-teal-500: oklch(45% 0 0);
+  --color-teal-600: oklch(38% 0 0);
+  --color-teal-700: oklch(30% 0 0);
+  --color-teal-800: oklch(25% 0 0);
+  --color-teal-900: oklch(20% 0 0);
+
+  --color-emerald-50: oklch(91% 0 0);
+  --color-emerald-100: oklch(87% 0 0);
+  --color-emerald-200: oklch(78% 0 0);
+  --color-emerald-300: oklch(50% 0 0);
+  --color-emerald-400: oklch(32% 0 0);
+  --color-emerald-500: oklch(30% 0 0);
+  --color-emerald-600: oklch(28% 0 0);
+  --color-emerald-700: oklch(24% 0 0);
+  --color-emerald-800: oklch(20% 0 0);
+  --color-emerald-900: oklch(16% 0 0);
+
+  --color-red-50: oklch(98% 0 0);
+  --color-red-100: oklch(95% 0 0);
+  --color-red-200: oklch(86% 0 0);
+  --color-red-300: oklch(72% 0 0);
+  --color-red-500: oklch(80% 0 0);
+  --color-red-600: oklch(42% 0 0);
+  --color-red-700: oklch(34% 0 0);
+  --color-red-800: oklch(27% 0 0);
+  --color-red-900: oklch(21% 0 0);
+
+  --color-amber-50: oklch(96% 0 0);
+  --color-amber-200: oklch(86% 0 0);
+  --color-amber-400: oklch(58% 0 0);
+  --color-amber-800: oklch(28% 0 0);
+  --color-amber-900: oklch(22% 0 0);
+
+  --glass-shadow: oklch(20% 0 0 / 0.16);
+}
+
+html,
+body {
+  background: var(--app-bg);
+  color: var(--color-slate-800);
+}
+
+/* Liquid glass: an add-on to any theme. Surfaces turn translucent and blur a soft gradient backdrop. */
+:root[data-glass="on"] {
+  --color-surface: oklch(100% 0 0 / 0.55);
+  --color-slate-50: oklch(100% 0 0 / 0.45);
+  --color-slate-100: oklch(96% 0.008 250 / 0.6);
+  --color-slate-200: oklch(45% 0.03 255 / 0.14);
+  --glass-backdrop:
+    radial-gradient(46rem 34rem at 6% -6%, oklch(84% 0.1 236 / 0.9), transparent 70%),
+    radial-gradient(40rem 32rem at 98% 10%, oklch(88% 0.07 350 / 0.75), transparent 70%),
+    radial-gradient(48rem 36rem at 50% 110%, oklch(84% 0.09 275 / 0.7), transparent 70%),
+    radial-gradient(30rem 24rem at 30% 55%, oklch(92% 0.06 225 / 0.65), transparent 70%);
+}
+:root[data-glass="on"][data-theme="dark"] {
+  --color-surface: oklch(24% 0.035 264 / 0.5);
+  --color-slate-50: oklch(0% 0 0 / 0.2);
+  --color-slate-100: oklch(100% 0 0 / 0.08);
+  --color-slate-200: oklch(100% 0 0 / 0.13);
+  --glass-backdrop:
+    radial-gradient(46rem 34rem at 6% -6%, oklch(46% 0.12 240 / 0.9), transparent 70%),
+    radial-gradient(40rem 32rem at 98% 10%, oklch(40% 0.1 340 / 0.8), transparent 70%),
+    radial-gradient(48rem 36rem at 50% 110%, oklch(40% 0.13 275 / 0.8), transparent 70%),
+    radial-gradient(30rem 24rem at 30% 55%, oklch(32% 0.08 220 / 0.7), transparent 70%);
+}
+:root[data-glass="on"][data-theme="gray"] {
+  --color-slate-100: oklch(95% 0 0 / 0.6);
+  --color-slate-200: oklch(40% 0 0 / 0.14);
+  --glass-backdrop:
+    radial-gradient(46rem 34rem at 6% -6%, oklch(74% 0 0 / 0.8), transparent 70%),
+    radial-gradient(40rem 32rem at 98% 10%, oklch(82% 0 0 / 0.85), transparent 70%),
+    radial-gradient(48rem 36rem at 50% 110%, oklch(70% 0 0 / 0.65), transparent 70%),
+    radial-gradient(30rem 24rem at 30% 55%, oklch(88% 0 0 / 0.6), transparent 70%);
+}
+
+/* The backdrop sits behind body, so body itself must not paint a background in glass mode. */
+:root[data-glass="on"] body {
+  background: transparent;
+}
+:root[data-glass="on"] body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: var(--glass-backdrop);
+  pointer-events: none;
+}
+:root[data-glass="on"] .bg-surface {
+  -webkit-backdrop-filter: blur(22px) saturate(170%);
+  backdrop-filter: blur(22px) saturate(170%);
+}
+:root[data-glass="on"] .glass-panel {
+  border-radius: 1.1rem;
+  box-shadow:
+    inset 0 1px 0 0 var(--glass-highlight),
+    0 12px 40px -18px var(--glass-shadow);
+}
+
+/* Respect "reduce transparency": keep the glass styling but make surfaces nearly opaque. */
+@media (prefers-reduced-transparency: reduce) {
+  :root[data-glass="on"] {
+    --color-surface: oklch(100% 0 0 / 0.94);
+  }
+  :root[data-glass="on"][data-theme="dark"] {
+    --color-surface: oklch(22% 0.033 264 / 0.96);
+  }
+  :root[data-glass="on"] .bg-surface {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: white;
+  }
+}

@@ -1,0 +1,605 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which gland secretes an alkaline fluid that neutralizes vaginal acidity?",
+      "options": [
+        "Bartholin's gland",
+        "Skene's gland",
+        "Thyroid gland",
+        "Sebaceous gland"
+      ],
+      "answer": "A",
+      "rationale": "Bartholin's (paravaginal) glands secrete alkaline fluid; Skene's glands secrete lubricating mucus.",
+      "explanations": [
+        "Correct.",
+        "Lubrication.",
+        "Not genital.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, External Genitalia (PDF p. 186)",
+      "quote": "Secretes alkaline substance responsible for neutralizing the acidity of the vagina"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Which structure is a common site for episiotomy?",
+      "options": [
+        "Fourchette",
+        "Clitoris",
+        "Mons pubis",
+        "Labia majora"
+      ],
+      "answer": "A",
+      "rationale": "The fourchette, the posterior joining of the labia, is a common episiotomy site.",
+      "explanations": [
+        "Correct.",
+        "No.",
+        "No.",
+        "No."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, External Genitalia (PDF p. 186)",
+      "quote": "Common site for episiotomy"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Which part of the uterus is most commonly cut in a cesarean section?",
+      "options": [
+        "Fundus",
+        "Isthmus",
+        "Cervix",
+        "Corpus"
+      ],
+      "answer": "B",
+      "rationale": "The isthmus (lower segment) is most commonly incised for cesarean birth.",
+      "explanations": [
+        "Palpated.",
+        "Correct.",
+        "Not cut.",
+        "Expands."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Uterine Anatomy (PDF p. 187)",
+      "quote": "Portion of the uterus that is most commonly cut when a fetus is born by a Cesarean section"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Where does fertilization usually occur?",
+      "options": [
+        "Tubal ampulla",
+        "Uterine fundus",
+        "Cervix",
+        "Ovary"
+      ],
+      "answer": "A",
+      "rationale": "The ampulla is the longest part of the tube and the common site of fertilization and ectopic pregnancy.",
+      "explanations": [
+        "Correct.",
+        "Implantation.",
+        "No.",
+        "No."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Fallopian Tube (PDF p. 187)",
+      "quote": "Common site for fertilization; common site for ectopic pregnancy"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which ectopic pregnancy site is MOST dangerous?",
+      "options": [
+        "Interstitial",
+        "Ampulla",
+        "Infundibulum",
+        "Isthmus"
+      ],
+      "answer": "A",
+      "rationale": "The interstitial portion is the most dangerous site for ectopic pregnancy (risk of massive hemorrhage).",
+      "explanations": [
+        "Correct.",
+        "Most common.",
+        "Less common.",
+        "Tubal ligation site."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Fallopian Tube (PDF p. 188)",
+      "quote": "Most dangerous site for ectopic pregnancy"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which male structure is the site of sperm maturation?",
+      "options": [
+        "Epididymis",
+        "Prostate",
+        "Seminal vesicle",
+        "Urethra"
+      ],
+      "answer": "A",
+      "rationale": "The epididymis conducts sperm to the vas deferens and is the site of sperm maturation.",
+      "explanations": [
+        "Correct.",
+        "Alkaline fluid.",
+        "Fructose fluid.",
+        "Transport."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Male Internal Genitalia (PDF p. 188)",
+      "quote": "Site of maturation of the sperm"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which hormone surge triggers ovulation?",
+      "options": [
+        "FSH",
+        "LH",
+        "Progesterone",
+        "Prolactin"
+      ],
+      "answer": "B",
+      "rationale": "Peaking estrogen triggers the LH surge, which coincides with ovulation.",
+      "explanations": [
+        "Follicle maturation.",
+        "Correct.",
+        "Luteal.",
+        "Lactation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Menstrual Cycle (PDF p. 189)",
+      "quote": "Coincides with ovulation"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which phase of the menstrual cycle is constant at 14 days?",
+      "options": [
+        "Proliferative",
+        "Luteal (secretory)",
+        "Menstrual",
+        "Ischemic"
+      ],
+      "answer": "B",
+      "rationale": "The luteal phase is always about 14 days; the proliferative phase varies.",
+      "explanations": [
+        "Variable.",
+        "Correct.",
+        "Not this.",
+        "Short."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Menstrual Cycle (PDF p. 189)",
+      "quote": "Remains constant: always 14 days in length"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "A woman has a 32-day cycle. On about which day does she ovulate?",
+      "options": [
+        "Day 14",
+        "Day 16",
+        "Day 18",
+        "Day 20"
+      ],
+      "answer": "C",
+      "rationale": "The luteal phase is 14 days, so ovulation is about 14 days before menses: 32 − 14 = day 18.",
+      "explanations": [
+        "28-day cycle.",
+        "Miscalculated.",
+        "Correct.",
+        "Miscalculated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Menstrual Cycle (PDF p. 189)",
+      "quote": "Remains constant: always 14 days in length"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "The developing baby is called an embryo during which period?",
+      "options": [
+        "Under 2 weeks",
+        "2 to under 8 weeks",
+        "8 weeks to birth",
+        "After birth"
+      ],
+      "answer": "B",
+      "rationale": "Zygote under 2 weeks, embryo 2 to under 8 weeks, fetus 8 weeks to birth.",
+      "explanations": [
+        "Zygote.",
+        "Correct.",
+        "Fetus.",
+        "Newborn."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Terminologies (PDF p. 190)",
+      "quote": "2 to < 8 weeks aog"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which is a PRESUMPTIVE sign of pregnancy?",
+      "options": [
+        "Quickening",
+        "Positive pregnancy test",
+        "Fetal heart tones",
+        "Ballottement"
+      ],
+      "answer": "A",
+      "rationale": "Presumptive signs are subjective: amenorrhea, nausea, breast changes, quickening. Tests and ballottement are probable; FHT is positive.",
+      "explanations": [
+        "Correct.",
+        "Probable.",
+        "Positive.",
+        "Probable."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Signs of Pregnancy (PDF p. 190)",
+      "quote": "Least indicative of pregnancy"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which is a POSITIVE sign of pregnancy?",
+      "options": [
+        "Chadwick's sign",
+        "Hegar's sign",
+        "Fetal heart tones",
+        "Amenorrhea"
+      ],
+      "answer": "C",
+      "rationale": "Positive signs: fetal heart tones, fetal movement felt by examiner, fetus on ultrasound.",
+      "explanations": [
+        "Probable.",
+        "Probable.",
+        "Correct.",
+        "Presumptive."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Signs of Pregnancy (PDF p. 191)",
+      "quote": "Fetal Heart Tone"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Bluish-purple discoloration of the vagina in pregnancy is:",
+      "options": [
+        "Goodell's sign",
+        "Hegar's sign",
+        "Chadwick's sign",
+        "Ballottement"
+      ],
+      "answer": "C",
+      "rationale": "Chadwick's sign is bluish vaginal discoloration; Goodell's is cervical softening; Hegar's is lower uterine softening.",
+      "explanations": [
+        "Cervix.",
+        "Lower segment.",
+        "Correct.",
+        "Fetus rebounds."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Signs of Pregnancy (PDF p. 191)",
+      "quote": "Bluish-purple discoloration of the vagina"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "At 20 weeks, where is the fundus usually found?",
+      "options": [
+        "At the symphysis pubis",
+        "Halfway to the umbilicus",
+        "At the umbilicus",
+        "At the xiphoid"
+      ],
+      "answer": "C",
+      "rationale": "12 weeks: symphysis; 16 weeks: halfway; 20 weeks: umbilicus; 36 weeks: xiphoid.",
+      "explanations": [
+        "12 weeks.",
+        "16 weeks.",
+        "Correct.",
+        "36 weeks."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Landmarks (PDF p. 191)",
+      "quote": "20 weeks Level of umbilicus"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "When does hCG usually peak in pregnancy?",
+      "options": [
+        "About 10 weeks",
+        "20 weeks",
+        "30 weeks",
+        "At term"
+      ],
+      "answer": "A",
+      "rationale": "hCG peaks at about 10 weeks AOG (2 months).",
+      "explanations": [
+        "Correct.",
+        "Declined.",
+        "Low.",
+        "Low."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Probable Signs (PDF p. 191)",
+      "quote": "Peak level of hCG = 10 weeks Age of Gestation or 2 months"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which nursing measure helps morning sickness?",
+      "options": [
+        "Dry, unsalted crackers",
+        "Large fatty meals",
+        "Lying flat after eating",
+        "Skipping breakfast"
+      ],
+      "answer": "A",
+      "rationale": "Dry crackers, small frequent meals, less fatty food, ice chips, and ambulation help.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Worsens.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Presumptive Signs (PDF p. 190)",
+      "quote": "Provide dry, unsalted Crackers"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Why should the woman void before Leopold's maneuvers?",
+      "options": [
+        "Comfort, clearer palpation",
+        "To collect urine",
+        "To check for UTI",
+        "It is not needed"
+      ],
+      "answer": "A",
+      "rationale": "An empty bladder promotes comfort and keeps fetal contour from being obscured.",
+      "explanations": [
+        "Correct.",
+        "Not the reason.",
+        "Not the reason.",
+        "Needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Leopold's Maneuver (PDF p. 192)",
+      "quote": "Let patient void before performing Leopold’s Maneuver"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which Leopold's maneuver locates the fetal back?",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "answer": "B",
+      "rationale": "The second maneuver locates the fetal back, where FHT is best heard.",
+      "explanations": [
+        "Fundus/presentation.",
+        "Correct.",
+        "Engagement.",
+        "Attitude."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Leopold's Maneuver (PDF p. 192)",
+      "quote": "Locates the fetal back"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which Leopold's maneuver determines whether the presenting part is engaged?",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "answer": "C",
+      "rationale": "The third maneuver checks the part at the inlet and engagement.",
+      "explanations": [
+        "Presentation.",
+        "Back.",
+        "Correct.",
+        "Attitude."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Leopold's Maneuver (PDF p. 192)",
+      "quote": "Determines if the presenting part is engaged or not engaged."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "During the fourth Leopold's maneuver, which way does the nurse face?",
+      "options": [
+        "Toward the client's head",
+        "Toward the client's feet",
+        "Sideways",
+        "It doesn't matter"
+      ],
+      "answer": "B",
+      "rationale": "In the first three maneuvers the nurse faces the head; in the fourth, the foot of the bed.",
+      "explanations": [
+        "First three.",
+        "Correct.",
+        "Not standard.",
+        "It matters."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Leopold's Maneuver (PDF p. 192)",
+      "quote": "during the last maneuver, the nurse will be facing the foot part of the bed"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Which fetal attitude presents the smallest head diameter?",
+      "options": [
+        "Full flexion (vertex)",
+        "Military (sinciput)",
+        "Brow",
+        "Face"
+      ],
+      "answer": "A",
+      "rationale": "Full flexion presents the suboccipitobregmatic, the smallest diameter.",
+      "explanations": [
+        "Correct.",
+        "Occipitofrontal.",
+        "Larger.",
+        "Widest."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Types of Attitude (PDF p. 193)",
+      "quote": "Present the suboccipito-bregmatic (smallest) diameter"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "A woman at 30 weeks becomes dizzy lying supine. Which position helps?",
+      "options": [
+        "Left lateral",
+        "Supine with legs up",
+        "Trendelenburg",
+        "Prone"
+      ],
+      "answer": "A",
+      "rationale": "The uterus compresses the vena cava (supine hypotensive syndrome); left lateral relieves it.",
+      "explanations": [
+        "Correct.",
+        "Still compresses.",
+        "Worsens.",
+        "Not feasible."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Physiological Changes (PDF p. 193)",
+      "quote": "Position of Choice: Left lateral/Sim's position"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Why does physiologic anemia occur in pregnancy?",
+      "options": [
+        "Hemodilution",
+        "Blood loss",
+        "Marrow failure",
+        "Infection"
+      ],
+      "answer": "A",
+      "rationale": "Hemodilution from increased plasma volume causes physiologic anemia; iron needs rise.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Hematologic Changes (PDF p. 193)",
+      "quote": "Presence of hemodilution in response to increase in plasma volume during pregnancy"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "In which position is a pregnant woman's BP LOWEST?",
+      "options": [
+        "Sitting",
+        "Supine",
+        "Left lateral",
+        "Standing"
+      ],
+      "answer": "C",
+      "rationale": "BP is highest sitting, intermediate supine, and lowest left lateral; rest 15 minutes first.",
+      "explanations": [
+        "Highest.",
+        "Intermediate.",
+        "Correct.",
+        "Not listed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Prenatal Clinic (PDF p. 192)",
+      "quote": "Left Lateral: Lowest reading among the three positions"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "By how much does cardiac output increase in pregnancy?",
+      "options": [
+        "5%",
+        "25–50%",
+        "100%",
+        "It decreases"
+      ],
+      "answer": "B",
+      "rationale": "Cardiac output increases 25–50% and heart rate about 10 bpm.",
+      "explanations": [
+        "Too little.",
+        "Correct.",
+        "Too much.",
+        "Increases."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Physiological Changes (PDF p. 193)",
+      "quote": "Cardiac output increases significantly by 25% to 50%"
+    }
+  ]
+}

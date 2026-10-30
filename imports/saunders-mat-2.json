@@ -1,0 +1,725 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A client in active labor has a history of genital herpes and active lesions. What should the nurse do?",
+      "options": [
+        "Limit her visitors",
+        "Place her in reverse isolation",
+        "Prepare for a cesarean delivery",
+        "Rupture the membranes early"
+      ],
+      "answer": "C",
+      "rationale": "With active herpetic lesions in labor, a cesarean delivery lowers the risk of neonatal infection. Intact membranes are another barrier. Only standard precautions are needed.",
+      "explanations": [
+        "Not necessary.",
+        "Not necessary.",
+        "Correct: reduces neonatal exposure.",
+        "Intact membranes help protect the baby."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q412 (PDF p. 589)",
+      "quote": "A cesarean delivery can reduce the risk of neonatal infection with a mother in labor who has herpetic genital tract lesions."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "A pregnant client who is hepatitis B positive asks if she can breastfeed. What is the nurse's BEST response?",
+      "options": [
+        "'Wait 6 months after delivery.'",
+        "'Never with hepatitis B.'",
+        "'Only while on antivirals.'",
+        "'Yes, with infant prophylaxis.'"
+      ],
+      "answer": "D",
+      "rationale": "Breastfeeding is not contraindicated in hepatitis B if the infant receives prophylaxis at birth (vaccine and HBIG) and stays on the immunization schedule.",
+      "explanations": [
+        "Not correct.",
+        "Not correct.",
+        "Not the requirement.",
+        "Correct: breastfeeding with infant prophylaxis."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q492 (PDF p. 684)",
+      "quote": "breast-feeding is not contraindicated if the infant receives prophylaxis at birth and remains on the schedule for immunizations."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Which position gives the BEST uteroplacental perfusion during a cesarean delivery?",
+      "options": [
+        "Prone position",
+        "Semi-Fowler's position",
+        "Trendelenburg position",
+        "Supine, right hip wedged"
+      ],
+      "answer": "D",
+      "rationale": "The pregnant uterus compresses the vena cava and aorta when the client lies supine. Surgery requires a supine position, so a wedge under the right hip displaces the uterus off the vessels.",
+      "explanations": [
+        "Not possible for abdominal surgery.",
+        "Does not relieve the compression.",
+        "Does not relieve the compression.",
+        "Correct: displaces the uterus to the left."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q494 (PDF p. 687)",
+      "quote": "Vena cava and descending aorta compression by the pregnant uterus impedes blood return from the lower trunk and extremities"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "A pregnant client with a positive rubella titer asks if her toddler can get the MMR vaccine now. What should the nurse say?",
+      "options": [
+        "'Wait until the toddler is 5 years old.'",
+        "'Wait until after your baby is born.'",
+        "'Vaccines are not given to toddlers.'",
+        "'Yes, children should get vaccines on schedule.'"
+      ],
+      "answer": "D",
+      "rationale": "A positive titer means the mother has antibodies from past exposure. All children of pregnant women should be immunized on schedule, and there is no definitive evidence that the vaccine virus spreads person to person.",
+      "explanations": [
+        "Not the schedule.",
+        "Unnecessary delay.",
+        "Incorrect.",
+        "Correct: vaccinate on schedule."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q509 (PDF p. 704)",
+      "quote": "All children of pregnant women should receive their immunizations according to schedule."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Which statement by a 17-year-old new mother shows she needs MORE teaching on infant safety?",
+      "options": [
+        "'Aluminum pots can stay in low cabinets.'",
+        "'I won't heat formula in the microwave.'",
+        "'I'll keep small objects out of reach.'",
+        "'The car seat goes in the front seat.'"
+      ],
+      "answer": "D",
+      "rationale": "An infant car seat should never be placed in the front seat because of the risk of life-threatening injury on impact. Microwaves heat formula unevenly and can burn the baby.",
+      "explanations": [
+        "Safe, if not glass.",
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: dangerous placement."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q517 (PDF p. 712)",
+      "quote": "A baby car seat should never be placed in the front seat because of the potential for life-threatening injury on impact."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which action provides a safe environment for a client with preeclampsia?",
+      "options": [
+        "Restrict fluids and sodium",
+        "Take vital signs every 8 hours",
+        "Dim the lights and keep the room quiet",
+        "Encourage many visitors"
+      ],
+      "answer": "C",
+      "rationale": "Bright lights and sudden noise can trigger seizures in preeclampsia, so the client is placed in a dim, quiet, private room. Adequate fluids and sodium are needed because plasma volume is decreased.",
+      "explanations": [
+        "Fluids and sodium are needed.",
+        "Too infrequent.",
+        "Correct: reduces seizure triggers.",
+        "Stimulation increases seizure risk."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q553 (PDF p. 754)",
+      "quote": "Bright lights and sudden loud noises may initiate seizures in this client."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "When MUST the nurse check the fetal heart rate during labor?",
+      "options": [
+        "Only every 4 hours",
+        "Only when the mother asks",
+        "After ROM or a vaginal exam",
+        "Only in the second stage"
+      ],
+      "answer": "C",
+      "rationale": "The FHR is checked before ambulation, right after vaginal exams, rupture of membranes, or any invasive procedure, and before oxytocin is given, because these can change the FHR.",
+      "explanations": [
+        "Assessment is more frequent and event-based.",
+        "Assessment follows protocol, not request.",
+        "Correct: events that can alter the FHR.",
+        "Assessment occurs throughout labor."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q601 (PDF p. 810)",
+      "quote": "the FHR needs to be assessed before ambulation; immediately after vaginal examinations, rupture of the membranes, or any other invasive procedure"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Which breastfeeding technique by a new mother shows she needs MORE teaching?",
+      "options": [
+        "Turning the baby on his side to face her",
+        "Tilting her nipple up and pushing it into his mouth",
+        "Bringing the baby to the breast",
+        "Breaking suction with a finger before removing him"
+      ],
+      "answer": "B",
+      "rationale": "Tilting the nipple or squeezing the areola and pushing it into the baby's mouth causes improper latch and poor milk flow. The other techniques are appropriate.",
+      "explanations": [
+        "Appropriate.",
+        "Correct answer: leads to improper latch.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q634 (PDF p. 852)",
+      "quote": "The mother is instructed to avoid tilting up the nipple or squeezing the areola and pushing it into the newborn’s mouth"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which measure relieves heartburn in the third trimester?",
+      "options": [
+        "Frequent sips of milk",
+        "Sodium-containing antacids",
+        "Fatty foods once a day",
+        "Three large meals daily"
+      ],
+      "answer": "A",
+      "rationale": "Heartburn relief includes frequent sips of milk or hot tea, small frequent meals, and avoiding fatty or fried foods, coffee, and cigarettes. Antacids without aspirin or sodium may be used.",
+      "explanations": [
+        "Correct: a relief measure.",
+        "Sodium antacids are avoided.",
+        "Fatty foods worsen heartburn.",
+        "Small, frequent meals are better."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q649 (PDF p. 867)",
+      "quote": "Measures to provide relief of heartburn include frequent sips of milk or hot tea"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which statement shows a pregnant client understands UTI prevention?",
+      "options": [
+        "'I can keep wearing tight jeans.'",
+        "'I'll use scented toilet paper.'",
+        "'I'll wear underwear with a cotton liner.'",
+        "'A bubble bath is relaxing and fine.'"
+      ],
+      "answer": "C",
+      "rationale": "A cotton liner lets air circulate. Tight clothing, scented toilet paper, and bubble baths irritate the genital area and urethra.",
+      "explanations": [
+        "Tight clothes trap moisture and irritate.",
+        "Scented paper can irritate.",
+        "Correct: allows air circulation.",
+        "Bubble baths irritate the urethra."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q691 (PDF p. 912)",
+      "quote": "Wearing items with a cotton panel liner allows for air movement in and around the genital area."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A client with mild preeclampsia is managed at home. Which finding should she report right away?",
+      "options": [
+        "Weight gain of more than 0.5 kg in a week",
+        "Mild ankle swelling at day's end",
+        "Increased fetal movement",
+        "Needing to urinate more often"
+      ],
+      "answer": "A",
+      "rationale": "She reports any rise in blood pressure, 2+ proteinuria, weight gain over 1 pound (about 0.5 kg) per week, edema of the face, hands, or sacrum, and decreased fetal activity.",
+      "explanations": [
+        "Correct: a sign of worsening fluid retention.",
+        "Common in pregnancy.",
+        "Decreased, not increased, movement is reportable.",
+        "Common in pregnancy."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q692 (PDF p. 913)",
+      "quote": "weight gain of more than 1 pound per week; the presence of edema in the face, hands, and sacral area"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "A postpartum mother with a UTI asks which drink makes her urine MORE alkaline. The nurse answers:",
+      "options": [
+        "Prune juice",
+        "Apricot juice",
+        "Cranberry juice",
+        "Carbonated soft drinks"
+      ],
+      "answer": "D",
+      "rationale": "Acidic urine slows bacterial growth. Carbonated drinks make urine more alkaline; prune, apricot, and cranberry juices acidify it.",
+      "explanations": [
+        "Acidifies urine.",
+        "Acidifies urine.",
+        "Acidifies urine.",
+        "Correct: increases alkalinity."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q694 (PDF p. 915)",
+      "quote": "Carbonated drinks should be avoided because they increase urine alkalinity."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Which cord-care instruction should the nurse give a new mother?",
+      "options": [
+        "Cover the cord with the diaper",
+        "Keep the cord clean and dry, diaper folded below it",
+        "Bathe the baby in a tub daily before it falls off",
+        "Expect it to take at least 21 days to fall off"
+      ],
+      "answer": "B",
+      "rationale": "The cord is kept clean and dry to limit bacterial growth, with the diaper folded below it so urine and stool do not soil it. Odor, discharge, or redness is reported.",
+      "explanations": [
+        "A wet diaper contaminates the cord.",
+        "Correct: clean, dry, and uncovered.",
+        "Not appropriate before the cord falls off.",
+        "It usually falls off sooner."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q696 (PDF p. 918)",
+      "quote": "The cord should be kept clean and dry to decrease bacterial growth."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Which statement shows a mother understands care after her baby's circumcision?",
+      "options": [
+        "'I'll clean it hourly with baby wipes.'",
+        "'I'll check for bleeding every hour for 12 hours.'",
+        "'He won't urinate for 2 days.'",
+        "'I'll wash it with soap at each change.'"
+      ],
+      "answer": "B",
+      "rationale": "The site is checked for bleeding hourly for 8 to 12 hours and cleaned with water only. The provider is called if the baby has not voided within 24 hours.",
+      "explanations": [
+        "Wipes irritate the site.",
+        "Correct: hourly bleeding checks.",
+        "He should void within 24 hours.",
+        "Soap irritates the site."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q704 (PDF p. 926)",
+      "quote": "the mother needs to be taught to observe for bleeding and assess the site hourly for 8 to 12 hours."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "When should discharge planning begin for a preterm infant?",
+      "options": [
+        "While the mother is in labor",
+        "Once a discharge date is set",
+        "Early, once he is stabilized",
+        "When the parents feel ready"
+      ],
+      "answer": "C",
+      "rationale": "Discharge planning starts early, after the infant is stabilized, so services, supplies, and equipment can be arranged well before discharge.",
+      "explanations": [
+        "The outcome of delivery is not yet known.",
+        "Too late.",
+        "Correct: early planning.",
+        "Too late."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q724 (PDF p. 946)",
+      "quote": "Discharge planning begins at admission of the preterm infant."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which statement by a pregnant client with diabetes shows she understands the potential complications?",
+      "options": [
+        "'I shouldn't have ultrasounds.'",
+        "'Hypoglycemia won't happen in pregnancy.'",
+        "'I have a higher risk of gestational hypertension.'",
+        "'My baby will be smaller than average.'"
+      ],
+      "answer": "C",
+      "rationale": "Pregnant clients with diabetes have a higher incidence of gestational hypertension. Ultrasounds are done often to check for anomalies and growth, and hypoglycemia is a risk throughout pregnancy.",
+      "explanations": [
+        "Ultrasounds are done frequently.",
+        "Hypoglycemia is a real risk.",
+        "Correct: a known complication.",
+        "Babies of diabetic mothers are often large."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q737 (PDF p. 962)",
+      "quote": "A diabetic pregnant client has a higher incidence of developing gestational hypertension than the nondiabetic pregnant client does."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "What should the nurse teach a mother about feeding her large-for-gestational-age infant?",
+      "options": [
+        "LGA babies wake themselves for feeds",
+        "Feed only when he cries",
+        "He may need waking for feedings",
+        "Feed once every 6 hours"
+      ],
+      "answer": "C",
+      "rationale": "LGA infants look mature but tend to be hard to arouse, so they are woken for feedings about every 2.5 to 3 hours to support nutrition and bonding.",
+      "explanations": [
+        "They are often hard to arouse.",
+        "He may not cry often enough.",
+        "Correct: arouse him for feedings.",
+        "Too infrequent."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q746 (PDF p. 974)",
+      "quote": "LGA infants tend to be more difficult to arouse and therefore must be aroused to facilitate nutritional intake and attachment opportunities."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "In a prenatal class, what is the MOST effective way to promote early intervention for congenital hypothyroidism?",
+      "options": [
+        "Vitamin supplements",
+        "Newborn screening",
+        "Adequate protein intake",
+        "A high-iodine maternal diet"
+      ],
+      "answer": "B",
+      "rationale": "Congenital hypothyroidism is a preventable cause of cognitive impairment. Newborn screening is the only means of early diagnosis, so treatment can begin immediately.",
+      "explanations": [
+        "Does not detect the condition.",
+        "Correct: early detection allows early treatment.",
+        "Does not detect the condition.",
+        "Does not detect the condition."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q756 (PDF p. 985)",
+      "quote": "Neonatal screening is the only means of early diagnosis followed by intervention and the subsequent prevention of cognitive impairment."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "What should the nurse tell a client about precipitous labor?",
+      "options": [
+        "It often needs induction",
+        "Contractions start gradually",
+        "It may last less than 3 hours",
+        "It needs a long pushing period"
+      ],
+      "answer": "C",
+      "rationale": "Precipitous labor lasts 3 hours or less from start to delivery and usually begins abruptly. Oxytocin induction is contraindicated because it overstimulates the uterus.",
+      "explanations": [
+        "Induction is contraindicated.",
+        "Onset is abrupt.",
+        "Correct: 3 hours or less.",
+        "Pushing is usually brief."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q766 (PDF p. 995)",
+      "quote": "Precipitous labor is defined as labor that lasts 3 hours or less for the entire labor and delivery."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A client is taught how to prevent another episode of preterm labor. Which statement needs correction?",
+      "options": [
+        "'I'll report any pelvic pressure.'",
+        "'I'll avoid intercourse for now.'",
+        "'I'll limit my activity as advised.'",
+        "'I'll cut down on fluids.'"
+      ],
+      "answer": "D",
+      "rationale": "Dehydration is a risk factor for preterm labor, so fluids are not restricted (except alcohol and caffeine). Pelvic pressure can signal preterm labor, and intercourse can stimulate contractions.",
+      "explanations": [
+        "Correct practice.",
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: dehydration can trigger preterm labor."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q767 (PDF p. 997)",
+      "quote": "Risks for preterm labor include dehydration."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A pregnant client who just learned she is HIV-positive is crying and very distressed. Which concern does this BEST support?",
+      "options": [
+        "Acute pain",
+        "Nonadherence",
+        "Anticipatory grieving",
+        "Ineffective breastfeeding"
+      ],
+      "answer": "C",
+      "rationale": "A life-threatening diagnosis triggers anticipatory grief for lost future plans and diminished self-esteem.",
+      "explanations": [
+        "Not supported by the data.",
+        "Not supported by the data.",
+        "Correct: grief over the diagnosis.",
+        "Not supported by the data."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q844 (PDF p. 1081)",
+      "quote": "A life-threatening diagnosis such as HIV will stimulate the anticipatory grief response."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A pregnant client with mitral stenosis is anxious and asks about each assessment. What should the nurse do?",
+      "options": [
+        "Tell her not to worry so much",
+        "Refer her to a counselor now",
+        "Postpone the assessment today",
+        "Explain each step honestly"
+      ],
+      "answer": "D",
+      "rationale": "Stress should be reduced as much as possible in a pregnant cardiac client. Honest, informed answers and explanations of nursing actions ease fear and emotional stress.",
+      "explanations": [
+        "Dismissive.",
+        "Premature.",
+        "Delays care without reducing stress.",
+        "Correct: reduces stress on the heart."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q878 (PDF p. 1117)",
+      "quote": "The client should be provided with honest and informed answers to questions to help alleviate unnecessary fears and emotional stress."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "A mother who had gestational diabetes asks, 'Do I still have to worry about diabetes?' Which response is BEST?",
+      "options": [
+        "'No, your sugar is normal now.'",
+        "'Only if you get pregnant again.'",
+        "'Yes, your risk is higher now.'",
+        "'It is never a serious concern.'"
+      ],
+      "answer": "C",
+      "rationale": "She is at risk for gestational diabetes in future pregnancies and at higher risk for diabetes mellitus. She needs follow-up checks and risk reduction such as weight control.",
+      "explanations": [
+        "False reassurance.",
+        "Her risk is lifelong, not only in pregnancy.",
+        "Correct: increased lifetime risk.",
+        "Incorrect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q879 (PDF p. 1118)",
+      "quote": "The client also has an increased risk for developing diabetes mellitus and needs to comply with follow-up assessments."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+      "situation": "",
+      "stem": "A mother is deciding whether to have her son circumcised. Which nursing action BEST supports an informed decision?",
+      "options": [
+        "Tell her to ask the men in her family",
+        "Say the doctor knows best",
+        "Share the nurse's personal opinion",
+        "Give written information and answer her questions"
+      ],
+      "answer": "D",
+      "rationale": "Informed decision-making is the key. The nurse provides educational materials and answers questions, keeping personal views out of it.",
+      "explanations": [
+        "Does not provide information.",
+        "Removes her decision-making.",
+        "Personal views should not influence teaching.",
+        "Correct: supports an informed choice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q910 (PDF p. 1153)",
+      "quote": "The nurse should provide educational materials and answer questions pertaining to the education of the mother."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A pregnant client was just diagnosed with sickle cell anemia. Which psychosocial intervention is MOST important now?",
+      "options": [
+        "Help her identify her concerns",
+        "Avoid discussing the disease",
+        "Leave her alone if she cries",
+        "Give her all the facts at once"
+      ],
+      "answer": "A",
+      "rationale": "Emotional support is a key nursing role during counseling. Avoiding the topic, leaving her alone, or overwhelming her with information is nontherapeutic.",
+      "explanations": [
+        "Correct: supportive and client-centered.",
+        "Nontherapeutic.",
+        "Abandons her unless she asks to be alone.",
+        "Overwhelms her while she is coping."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q919 (PDF p. 1162)",
+      "quote": "One of the most important nursing roles is providing emotional support to the client and family during the counseling process."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "A mother delivered a baby with a cleft lip and palate. Which emotion must she work through FIRST before bonding can occur?",
+      "options": [
+        "Guilt",
+        "Grief",
+        "Anger",
+        "Depression"
+      ],
+      "answer": "B",
+      "rationale": "A mother grieves after the birth of a child with a birth defect. Once she works through grief, she can focus on bonding. Guilt, anger, and depression are parts of grief.",
+      "explanations": [
+        "Only one component of grief.",
+        "Correct: the overall grief process.",
+        "Only one component of grief.",
+        "Only one component of grief."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q932 (PDF p. 1176)",
+      "quote": "After the grief process, the mother can begin to focus on bonding with the infant."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "A mother of an LGA newborn with facial bruising is afraid to touch him and cause pain. What should the nurse say?",
+      "options": [
+        "'Let me show you a gentle touch.'",
+        "'Don't touch his face until healed.'",
+        "'The bruising means something's wrong.'",
+        "'Let the nurses handle him for now.'"
+      ],
+      "answer": "A",
+      "rationale": "Gentle touch with the fingertips is encouraged, and the bruising is temporary. Avoiding contact interferes with bonding.",
+      "explanations": [
+        "Correct: promotes safe interaction.",
+        "Discourages bonding.",
+        "Bruising is temporary.",
+        "Interferes with bonding."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q937 (PDF p. 1181)",
+      "quote": "Touching the infant gently with the fingertips should be encouraged. The bruising is temporary."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which nursing action BEST helps parents develop attachment to their preterm infant in the NICU?",
+      "options": [
+        "Supporting visits from friends",
+        "Encouraging them to touch and talk to the baby",
+        "Reporting only good news",
+        "Providing pamphlets on prematurity"
+      ],
+      "answer": "B",
+      "rationale": "Touch and voice start the bonding process, and active participation builds the parents' confidence in their role.",
+      "explanations": [
+        "Does not build parental attachment.",
+        "Correct: direct parent-infant contact.",
+        "Not related to attachment.",
+        "Informative, but not attachment-building."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q943 (PDF p. 1188)",
+      "quote": "Parents’ involvement through touch and voice establishes and initiates the bonding process in the parent–infant relationship."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A laboring client with HIV says, 'I know I'll have a sick-looking baby.' Which response is MOST therapeutic?",
+      "options": [
+        "'You're sick, but your baby may not be.'",
+        "'All babies are beautiful.'",
+        "'You have concerns about how your baby will look?'",
+        "'Don't think about that now.'"
+      ],
+      "answer": "C",
+      "rationale": "Paraphrasing in an open-ended way invites her to voice her concerns. Babies do not look sick from HIV at birth, though their status may be uncertain for a while.",
+      "explanations": [
+        "Blunt and nontherapeutic.",
+        "False reassurance.",
+        "Correct: paraphrasing her concern.",
+        "Dismissive."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q968 (PDF p. 1216)",
+      "quote": "It addresses the therapeutic communication technique of paraphrasing."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Which goal is appropriate for a mother after an intrauterine fetal death?",
+      "options": [
+        "Her grieving will end within 6 months",
+        "She will not discuss the baby",
+        "She and her family will express their feelings",
+        "She will plan another pregnancy at once"
+      ],
+      "answer": "C",
+      "rationale": "Appropriate goals include the family expressing feelings and discussing going home without the infant. Limiting grief to a short time is not part of normal grieving.",
+      "explanations": [
+        "Grief has no fixed timeline.",
+        "Discussing the loss is healthy.",
+        "Correct: supports normal grieving.",
+        "Not an appropriate goal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q922 (PDF p. 1165)",
+      "quote": "It is important for the nurse to assess whether the client is undergoing the normal grieving process."
+    }
+  ]
+}

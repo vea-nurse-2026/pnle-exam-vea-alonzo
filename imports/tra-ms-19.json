@@ -1,0 +1,605 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Cushing's triad in increased ICP consists of:",
+      "options": [
+        "Bradycardia, hypertension, bradypnea",
+        "Tachycardia, hypotension, tachypnea",
+        "Fever, rash, vomiting",
+        "Hypotension, JVD, muffled sounds"
+      ],
+      "answer": "A",
+      "rationale": "Cushing's triad is a late sign of rising ICP.",
+      "explanations": [
+        "Correct.",
+        "Shock.",
+        "Not this.",
+        "Beck's triad."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Increased ICP (PDF p. 423)",
+      "quote": "Cushing's Triad"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which action helps prevent increased ICP?",
+      "options": [
+        "Avoid Valsalva maneuver",
+        "Lower HOB flat",
+        "Cluster all care",
+        "Encourage coughing"
+      ],
+      "answer": "A",
+      "rationale": "Avoid straining and coughing; keep HOB elevated about 30 degrees.",
+      "explanations": [
+        "Correct.",
+        "Raises ICP.",
+        "Raises ICP.",
+        "Raises ICP."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, ICP Nursing Management (PDF p. 423)",
+      "quote": "Prevent Valsalva Maneuver and the activities that may increase ICP"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which drug is given to reduce cerebral edema?",
+      "options": [
+        "Mannitol",
+        "Morphine",
+        "Heparin",
+        "Insulin"
+      ],
+      "answer": "A",
+      "rationale": "Osmotic diuretic mannitol reduces cerebral edema.",
+      "explanations": [
+        "Correct.",
+        "Masks LOC.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, ICP Nursing Management (PDF p. 423)",
+      "quote": "Mannitol"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A transient ischemic attack typically lasts:",
+      "options": [
+        "Less than 1 hour",
+        "More than 24 hours",
+        "Several days",
+        "Permanently"
+      ],
+      "answer": "A",
+      "rationale": "TIA: neurologic deficit typically under 1 hour, a warning of stroke.",
+      "explanations": [
+        "Correct.",
+        "Stroke.",
+        "Stroke.",
+        "Stroke."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, CVA (PDF p. 423)",
+      "quote": "Neurologic deficit typically lasting less than 1 hour"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Cardiogenic embolic stroke is most often associated with:",
+      "options": [
+        "Atrial fibrillation",
+        "Hypotension",
+        "Hypoglycemia",
+        "Anemia"
+      ],
+      "answer": "A",
+      "rationale": "Atrial fibrillation produces emboli.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Ischemic Stroke (PDF p. 424)",
+      "quote": "Associated with dysrhythmias usually atrial fibrillation"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What is the major risk factor for stroke?",
+      "options": [
+        "Hypertension",
+        "Low cholesterol",
+        "Regular exercise",
+        "Young age"
+      ],
+      "answer": "A",
+      "rationale": "Hypertension is the major risk factor.",
+      "explanations": [
+        "Correct.",
+        "Protective.",
+        "Protective.",
+        "Protective."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, CVA Risk Factors (PDF p. 424)",
+      "quote": "Hypertension (major risk factor)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "The most common cause of subarachnoid hemorrhage is:",
+      "options": [
+        "Leaking aneurysm",
+        "Atrial fibrillation",
+        "Hypoglycemia",
+        "Meningitis"
+      ],
+      "answer": "A",
+      "rationale": "A leaking aneurysm near the Circle of Willis or AVM.",
+      "explanations": [
+        "Correct.",
+        "Embolic.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hemorrhagic Stroke (PDF p. 424)",
+      "quote": "Most common cause is a leaking aneurysm"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client after stroke can understand but cannot form words. This is:",
+      "options": [
+        "Expressive aphasia",
+        "Receptive aphasia",
+        "Global aphasia",
+        "Apraxia"
+      ],
+      "answer": "A",
+      "rationale": "Expressive (Broca's): cannot form words; receptive: cannot understand.",
+      "explanations": [
+        "Correct.",
+        "Comprehension.",
+        "Both.",
+        "Actions."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Communication Loss (PDF p. 425)",
+      "quote": "Unable to form words that are understandable"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which is typical of a right hemispheric stroke?",
+      "options": [
+        "Impulsiveness, poor judgment",
+        "Aphasia",
+        "Right-sided paralysis",
+        "Slow cautious behavior"
+      ],
+      "answer": "A",
+      "rationale": "Right stroke: left weakness, spatial deficits, impulsivity, unawareness of deficits.",
+      "explanations": [
+        "Correct.",
+        "Left stroke.",
+        "Left stroke.",
+        "Left stroke."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hemispheric Strokes (PDF p. 425)",
+      "quote": "Impulsive behavior and poor judgement"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with homonymous hemianopsia should be taught to:",
+      "options": [
+        "Turn head toward the lost field",
+        "Wear an eye patch",
+        "Look straight ahead only",
+        "Avoid reading"
+      ],
+      "answer": "A",
+      "rationale": "Scanning toward the visual loss compensates; approach from the unaffected side.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Misses field.",
+        "Not needed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, CVA Nursing (PDF p. 425)",
+      "quote": "turn head in the direction of visual loss"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "When feeding a client with dysphagia after stroke, the nurse should:",
+      "options": [
+        "Place food on unaffected side",
+        "Feed lying flat",
+        "Give thin liquids fast",
+        "Skip gag reflex check"
+      ],
+      "answer": "A",
+      "rationale": "Check gag reflex, sit upright, give soft foods on the unaffected side.",
+      "explanations": [
+        "Correct.",
+        "Aspiration.",
+        "Aspiration.",
+        "Required."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, CVA Nursing (PDF p. 426)",
+      "quote": "Place food in unaffected side of the mouth"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which positioning prevents a common complication in a hemiplegic client?",
+      "options": [
+        "Prevent shoulder adduction",
+        "Keep arm across chest",
+        "Flex wrist fully",
+        "Leave arm dangling"
+      ],
+      "answer": "A",
+      "rationale": "Place a pillow in the axilla to prevent adduction and contracture.",
+      "explanations": [
+        "Correct.",
+        "Adduction.",
+        "Contracture.",
+        "Subluxation."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, CVA Nursing (PDF p. 425)",
+      "quote": "Prevent shoulder adduction"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A client with meningococcal meningitis is kept on respiratory isolation for:",
+      "options": [
+        "24 h on antibiotics",
+        "One full week",
+        "Until discharge",
+        "No isolation"
+      ],
+      "answer": "A",
+      "rationale": "Droplet precautions until 24 hours of effective antibiotics.",
+      "explanations": [
+        "Correct.",
+        "Too long.",
+        "Not needed.",
+        "Required."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Meningitis (PDF p. 426)",
+      "quote": "Enforce respiratory isolation for 24 hours after initiation of antibiotic medication"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which test confirms bacterial meningitis?",
+      "options": [
+        "CSF culture",
+        "Chest x-ray",
+        "Urinalysis",
+        "ECG"
+      ],
+      "answer": "A",
+      "rationale": "CSF Gram stain and culture via lumbar puncture.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Meningitis (PDF p. 426)",
+      "quote": "Bacterial culture & Gram Staining of CSF & blood through lumbar puncture"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which environment is best for a client with meningitis?",
+      "options": [
+        "Dark and quiet",
+        "Bright and busy",
+        "Noisy ward",
+        "Sunlit window"
+      ],
+      "answer": "A",
+      "rationale": "Photophobia and irritability; keep room dark and quiet.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Worsens.",
+        "Photophobia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Meningitis Nursing (PDF p. 426)",
+      "quote": "keep room dark and quiet"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What is the most common cause of encephalitis?",
+      "options": [
+        "Herpes simplex virus",
+        "Cryptococcus",
+        "Measles",
+        "E. coli"
+      ],
+      "answer": "A",
+      "rationale": "HSV is most common; treated with acyclovir.",
+      "explanations": [
+        "Correct.",
+        "Fungal.",
+        "Less common.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Encephalitis (PDF p. 427)",
+      "quote": "Herpes simplex virus (most common)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A child stares blankly for a few seconds several times a day. This is:",
+      "options": [
+        "Absence seizure",
+        "Tonic-clonic seizure",
+        "Myoclonic seizure",
+        "Complex partial"
+      ],
+      "answer": "A",
+      "rationale": "Absence (petit mal) seizures: brief staring, common in children.",
+      "explanations": [
+        "Correct.",
+        "Rigidity.",
+        "Jerks.",
+        "Automatisms."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Seizures (PDF p. 428)",
+      "quote": "Manifested by a period of staring for several seconds"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client picks at clothing and smacks lips with loss of awareness. This is:",
+      "options": [
+        "Complex partial seizure",
+        "Simple partial seizure",
+        "Absence seizure",
+        "Tonic-clonic"
+      ],
+      "answer": "A",
+      "rationale": "Complex partial (psychomotor): automatisms with loss of consciousness.",
+      "explanations": [
+        "Correct.",
+        "Aware.",
+        "Staring.",
+        "Rigidity."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Partial Seizures (PDF p. 428)",
+      "quote": "Also termed as psychomotor seizure"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "During a tonic-clonic seizure, the nurse should:",
+      "options": [
+        "Protect the head",
+        "Insert a tongue blade",
+        "Restrain limbs",
+        "Give oral fluids"
+      ],
+      "answer": "A",
+      "rationale": "Ease to floor, protect head, loosen clothing; never restrain or insert objects.",
+      "explanations": [
+        "Correct.",
+        "Injury.",
+        "Injury.",
+        "Aspiration."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Seizure Nursing (PDF p. 428)",
+      "quote": "Protect the head of the patient"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After a seizure, the client should be positioned:",
+      "options": [
+        "Side-lying",
+        "Supine flat",
+        "Prone",
+        "Trendelenburg"
+      ],
+      "answer": "A",
+      "rationale": "Side-lying prevents aspiration; keep suction available.",
+      "explanations": [
+        "Correct.",
+        "Aspiration.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Seizure Nursing (PDF p. 428)",
+      "quote": "Side-lying position (prevent aspiration)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What are the earliest signs of myasthenia gravis?",
+      "options": [
+        "Ptosis and diplopia",
+        "Leg paralysis",
+        "Seizures",
+        "Tremors"
+      ],
+      "answer": "A",
+      "rationale": "Ocular weakness (ptosis, diplopia) appears first.",
+      "explanations": [
+        "Correct.",
+        "Later.",
+        "Not this.",
+        "Parkinson's."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Myasthenia Gravis (PDF p. 429)",
+      "quote": "Diplopia & Ptosis (earliest)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Improved muscle strength after edrophonium injection indicates:",
+      "options": [
+        "Myasthenia gravis",
+        "Multiple sclerosis",
+        "Parkinson's disease",
+        "ALS"
+      ],
+      "answer": "A",
+      "rationale": "Positive Tensilon test; atropine is the antidote.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Tensilon Test (PDF p. 429)",
+      "quote": "Positive (+) = resolved facial muscle weakness & ptosis"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "When should pyridostigmine be given to a client with myasthenia gravis?",
+      "options": [
+        "20–30 minutes before meals",
+        "After meals",
+        "At bedtime only",
+        "When weak"
+      ],
+      "answer": "A",
+      "rationale": "Give before meals for chewing and swallowing strength, on schedule.",
+      "explanations": [
+        "Correct.",
+        "Too late.",
+        "Inadequate.",
+        "Late."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, MG Nursing (PDF p. 429)",
+      "quote": "Administer medication 20-30 minutes before meals"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which drug class should be avoided in myasthenia gravis?",
+      "options": [
+        "Muscle relaxants",
+        "Anticholinesterases",
+        "Corticosteroids",
+        "Vitamins"
+      ],
+      "answer": "A",
+      "rationale": "Avoid muscle relaxants, barbiturates, morphine, tranquilizers, neomycin.",
+      "explanations": [
+        "Correct.",
+        "Treatment.",
+        "Used.",
+        "Safe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, MG Medications to Avoid (PDF p. 429)",
+      "quote": "Muscle relaxant"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Cholinergic crisis in myasthenia gravis is caused by:",
+      "options": [
+        "Overmedication",
+        "Undermedication",
+        "Infection only",
+        "Dehydration"
+      ],
+      "answer": "A",
+      "rationale": "Cholinergic crisis: excess anticholinesterase; myasthenic crisis: undermedication.",
+      "explanations": [
+        "Correct.",
+        "Myasthenic.",
+        "Trigger.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Cholinergic Crisis (PDF p. 429)",
+      "quote": "Caused by overmedication"
+    }
+  ]
+}

@@ -1,0 +1,797 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client with known panic disorder arrives saying, 'Help me, I think I'm having a heart attack.' What is the nurse's PRIORITY?",
+      "options": [
+        "Check the vital signs",
+        "Coach relaxation techniques",
+        "Review her panic symptoms",
+        "Reassure her it's only panic"
+      ],
+      "answer": "A",
+      "rationale": "Panic disorder can cause chest pain and palpitations, but a physical cause must be ruled out first. The nurse assesses the physical condition before anything else.",
+      "explanations": [
+        "Correct: rule out a physiological cause first.",
+        "Appropriate later.",
+        "Appropriate later.",
+        "Assumes no cardiac cause."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q56 (PDF p. 197)",
+      "quote": "The priority is to assess the client’s physical condition to rule out a physiological disorder for these signs and symptoms."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which belief does the nurse expect to find in a client with bulimia nervosa?",
+      "options": [
+        "She accepts her body size",
+        "She sees purging as acceptable",
+        "She overeats for enjoyment",
+        "She overeats when she loses control"
+      ],
+      "answer": "B",
+      "rationale": "Bulimia involves cycles of binge eating followed by purging, which the client views as acceptable. Binge eating without purging is seen in obesity.",
+      "explanations": [
+        "Body image is distorted.",
+        "Correct: purging is seen as acceptable.",
+        "More typical of an obese binge eater.",
+        "More typical of an obese binge eater."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q164 (PDF p. 315)",
+      "quote": "Individuals with bulimia nervosa develop cycles of binge eating, followed by purging."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "Jasmine, 16, is admitted with anorexia nervosa. She is very thin and is constantly worried about gaining weight.",
+      "stem": "The nurse finds Jasmine doing vigorous push-ups in her room. What should the nurse do?",
+      "options": [
+        "Let her finish the exercise",
+        "Stop her and weigh her now",
+        "Set limits; offer suitable exercise",
+        "Ignore it to avoid a power struggle"
+      ],
+      "answer": "C",
+      "rationale": "Clients with anorexia often exercise rigorously to burn off calories. The nurse provides appropriate exercise and sets limits on excessive activity. Weighing her would reinforce her altered self-concept.",
+      "explanations": [
+        "Could be harmful.",
+        "Reinforces her focus on weight.",
+        "Correct: limit excess activity and offer appropriate exercise.",
+        "Ignoring allows a harmful behavior."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q167 (PDF p. 320)",
+      "quote": "The nurse must provide for appropriate exercise, as well as place limits on rigorous activities."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "Jasmine, 16, is admitted with anorexia nervosa. She is very thin and is constantly worried about gaining weight.",
+      "stem": "Which statement by Jasmine is the PRIORITY for further assessment?",
+      "options": [
+        "'I check my weight every day.'",
+        "'I exercise 3 to 4 hours a day.'",
+        "'I like to wear baggy clothes.'",
+        "'I count the calories I eat.'"
+      ],
+      "answer": "B",
+      "rationale": "Exercising 3 to 4 hours daily is excessive and unrealistic for a 16-year-old and needs immediate follow-up. Daily weighing is common in anorexia.",
+      "explanations": [
+        "Common, but less urgent.",
+        "Correct: excessive activity is dangerous.",
+        "Less urgent.",
+        "Less urgent."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q880 (PDF p. 1120)",
+      "quote": "Exercising 3 to 4 hours every day is excessive physical activity and unrealistic for a 16-year-old girl."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which finding supports a diagnosis of SEVERE depression?",
+      "options": [
+        "Sleeping much more than usual",
+        "Weight gain since the onset",
+        "Insomnia and weight loss",
+        "Frequent crying spells"
+      ],
+      "answer": "C",
+      "rationale": "Severe depression typically brings weight loss and insomnia, a flat affect, and statements like 'I have no more tears.' Mild depression may bring weight gain and hypersomnia.",
+      "explanations": [
+        "More typical of mild depression.",
+        "More typical of mild depression.",
+        "Correct: typical of severe depression.",
+        "Severely depressed clients may have no tears left."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q309 (PDF p. 473)",
+      "quote": "In the severely depressed client, loss of weight is typical, whereas the mildly depressed client may experience a gain in weight."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Two days after admission for moderate depression, a client suddenly smiles and says the crisis is over. What should the nurse do?",
+      "options": [
+        "Allow off-unit privileges",
+        "Suggest lowering the dose",
+        "Allow more time alone in room",
+        "Institute suicide precautions"
+      ],
+      "answer": "D",
+      "rationale": "Such a quick 'cure' is unlikely. A sudden lift in mood may mean the client has decided on self-harm, so suicide precautions are needed.",
+      "explanations": [
+        "Supports a false 'quick cure'.",
+        "Supports a false 'quick cure'.",
+        "Isolation increases risk.",
+        "Correct: a sudden mood lift may signal a suicide plan."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q414 (PDF p. 591)",
+      "quote": "When a mood suddenly lifts, it is likely that the client may have made the decision to cause self-harm."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "When should the nurse add extra precautions for a client with suicidal ideation?",
+      "options": [
+        "During the day shift",
+        "On weekday evenings",
+        "From 8 to 10 AM",
+        "During shift change"
+      ],
+      "answer": "D",
+      "rationale": "Fewer staff are available at shift change, so precautions increase then. Nights and weekends are also high-risk times.",
+      "explanations": [
+        "Not the highest-risk time.",
+        "Weekends, not weekdays, are higher risk.",
+        "Not a known high-risk time.",
+        "Correct: less staff availability."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q415 (PDF p. 592)",
+      "quote": "At shift change, there is often less availability of staff."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "An older adult is identified as a victim of psychological abuse at home. What is the PRIORITY nursing action?",
+      "options": [
+        "Arrange mental health treatment",
+        "Report the abuse to authorities",
+        "Call a social worker for the family",
+        "Remove her from the abusive setting"
+      ],
+      "answer": "D",
+      "rationale": "The priority is to remove the victim from the abusive environment. Treatment, reporting, and case work also follow.",
+      "explanations": [
+        "Appropriate, but not first.",
+        "Required, but safety comes first.",
+        "Appropriate, but not first.",
+        "Correct: safety first."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q425 (PDF p. 602)",
+      "quote": "The priority nursing intervention is to remove the abused victim from the abusive environment."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client admitted with suicidal ideation is about to go home. Which family statement may justify delaying discharge?",
+      "options": [
+        "'Does he know I've moved out and filed for separation?'",
+        "'I postponed my wedding so he can attend.'",
+        "'His workers' strike might end soon.'",
+        "'We set up his room just like before.'"
+      ],
+      "answer": "A",
+      "rationale": "Separated, divorced, and widowed people have higher suicide rates. Unknown news of a separation is a serious stressor for a client with suicidal ideation.",
+      "explanations": [
+        "Correct: a major new loss raises suicide risk.",
+        "Can make him feel included and valued.",
+        "Stressful, but less acute.",
+        "Supportive."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q591 (PDF p. 799)",
+      "quote": "Single, divorced, and widowed clients have suicide rates that are greater than those who are married."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client with mania comes out of her room topless, making lewd gestures. What should the nurse do FIRST?",
+      "options": [
+        "Quietly escort her to her room to dress",
+        "Confront her about the behavior",
+        "Give her a time-out as a consequence",
+        "Ignore her to avoid reinforcement"
+      ],
+      "answer": "A",
+      "rationale": "Mania impairs insight, judgment, and impulse control. The nurse takes control calmly without adding stress. Confrontation or insisting may cause resistance.",
+      "explanations": [
+        "Correct: calm, protective control.",
+        "May increase agitation.",
+        "May increase resistance.",
+        "Leaves her dignity unprotected."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q803 (PDF p. 1037)",
+      "quote": "The nurse must take control without creating increased stress or anxiety for the client."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "After witnessing a friend's murder, a client has trouble concentrating, angry outbursts, and feels 'keyed up.' What should the nurse suspect?",
+      "options": [
+        "Social phobia",
+        "Panic disorder",
+        "Post-traumatic stress disorder",
+        "Obsessive-compulsive disorder"
+      ],
+      "answer": "C",
+      "rationale": "PTSD follows a markedly distressing event. It causes sustained anxiety, sleep problems, irritability, poor concentration, and angry outbursts.",
+      "explanations": [
+        "Fear of a specific situation.",
+        "Fear of a specific situation.",
+        "Correct: a trauma-related response.",
+        "Repetitive thoughts or behaviors."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q820 (PDF p. 1054)",
+      "quote": "PTSD is a response to an event that would be markedly distressing to almost anyone."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which therapeutic action belongs in the care plan for an 11-year-old who was physically abused?",
+      "options": [
+        "Have the child confront the abuser",
+        "Provide a setting that builds trust",
+        "Teach the child to avoid abuse",
+        "Tell the child it wasn't serious"
+      ],
+      "answer": "B",
+      "rationale": "Abused children need long-term support in an environment that models trust and empathy, where healing can begin.",
+      "explanations": [
+        "Reinforces fear.",
+        "Correct: a trusting, supportive setting.",
+        "Implies the child is responsible.",
+        "Minimizes the trauma."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q830 (PDF p. 1066)",
+      "quote": "The environment provided during the child’s healing must include one in which trust and empathy are modeled and provided for the child."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A 14-year-old with burns and bruises says, 'I'm afraid to go home; my stepfather will be angry I told.' What is the BEST response?",
+      "options": [
+        "'You can never go back there.'",
+        "'Your stepfather won't be angry.'",
+        "'You'll stay here, where you're safe.'",
+        "'Why didn't you tell someone sooner?'"
+      ],
+      "answer": "C",
+      "rationale": "An abused child is admitted for a full evaluation and protection. An empathic statement assures the child of safety and supports them as the victim.",
+      "explanations": [
+        "Absolute and frightening.",
+        "False reassurance.",
+        "Correct: assures protection.",
+        "Blames the child."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q837 (PDF p. 1073)",
+      "quote": "A child who has been physically and sexually abused should be admitted to the hospital."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which question is MOST important when assessing a client's suicide risk?",
+      "options": [
+        "'Why do you want to hurt yourself?'",
+        "'Do you have a plan to hurt yourself?'",
+        "'Has anyone in your family died by suicide?'",
+        "'How are you feeling right now?'"
+      ],
+      "answer": "B",
+      "rationale": "A client with a definite plan is at greater risk. 'Why' questions put the client on the defensive.",
+      "explanations": [
+        "'Why' puts the client on the defensive.",
+        "Correct: a plan indicates higher risk.",
+        "Useful, but less critical.",
+        "Useful, but less critical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q845 (PDF p. 1082)",
+      "quote": "Clients who have a definitive plan pose a greater risk for suicide."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which is an EXPECTED short-term side effect of electroconvulsive therapy (ECT)?",
+      "options": [
+        "Confusion and memory loss",
+        "Hypertension",
+        "Heart palpitations",
+        "Persistent high fever"
+      ],
+      "answer": "A",
+      "rationale": "The main expected side effects of ECT are confusion, disorientation, and memory loss. Hypertension or palpitations are concerning and are reported.",
+      "explanations": [
+        "Correct: expected effects.",
+        "Must be reported.",
+        "Must be reported.",
+        "Not an expected effect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q846 (PDF p. 1083)",
+      "quote": "The major expected side effects of ECT are confusion, disorientation, and memory loss."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "Mang Danilo, 35, is admitted in the manic phase of bipolar disorder. He is restless, talks nonstop, and sleeps very little.",
+      "stem": "Which meal is BEST for Mang Danilo?",
+      "options": [
+        "Beef stew with fruit salad and tea",
+        "Burger, banana, and milk",
+        "Macaroni with a fork and coffee",
+        "Rice, soup, and coffee"
+      ],
+      "answer": "B",
+      "rationale": "A client in mania is too active to sit through meals and often under-eats. Finger foods he can eat 'on the run' are best, and caffeine is avoided.",
+      "explanations": [
+        "Needs utensils, and tea has caffeine.",
+        "Correct: high-calorie finger foods, no caffeine.",
+        "Needs utensils, and coffee has caffeine.",
+        "Needs utensils, and coffee has caffeine."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q853 (PDF p. 1090)",
+      "quote": "Foods that the client can eat “on the run” are best because the client is too active to sit at meals and use utensils."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "Mang Danilo, 35, is admitted in the manic phase of bipolar disorder. He is restless, talks nonstop, and sleeps very little.",
+      "stem": "Mang Danilo starts organizing a dance for the whole unit at suppertime. What should the nurse encourage instead?",
+      "options": [
+        "Asking other staff to help organize",
+        "Recruiting other clients to help",
+        "Holding the dance after supper",
+        "A quiet, solitary activity like writing"
+      ],
+      "answer": "D",
+      "rationale": "A manic client is easily stimulated by the environment, so quiet, solitary activities such as writing are the best outlet for his energy. A newly admitted client is likely to have impaired judgment.",
+      "explanations": [
+        "Still increases stimulation.",
+        "Increases unit stimulation.",
+        "Still overstimulating.",
+        "Correct: reduces stimulation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q857 (PDF p. 1094)",
+      "quote": "Because the client with bipolar disorder is easily stimulated by the environment, sedentary activities are the best outlets for energy release."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "An abused child copes by using repression. Which activity should the nurse include in the plan?",
+      "options": [
+        "Therapeutic play to act out experiences",
+        "Telling the child to forget the past",
+        "Asking for detailed descriptions",
+        "Avoiding any talk of the abuse"
+      ],
+      "answer": "A",
+      "rationale": "Therapeutic play with art, dolls, or puppets is a nonthreatening way for a child to act out frightening experiences. The other options threaten the child or force further repression.",
+      "explanations": [
+        "Correct: a safe outlet for trauma.",
+        "Devalues the child and forces repression.",
+        "Extremely threatening.",
+        "Forces further repression."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q854 (PDF p. 1091)",
+      "quote": "It is a nonthreatening avenue through which the child can use artwork, dolls, or puppets to act out frightening life experiences."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "An older client living with family arrives with poor hygiene, contractures, and multiple pressure ulcers. Which form of victimization is suspected?",
+      "options": [
+        "Sexual abuse",
+        "Physical abuse through neglect",
+        "Emotional abuse",
+        "Financial exploitation"
+      ],
+      "answer": "B",
+      "rationale": "Physical abuse can be battering or the subtler neglect, a failure to meet basic needs. Poor hygiene, contractures, and pressure ulcers point to neglect.",
+      "explanations": [
+        "No data support this.",
+        "Correct: basic needs unmet.",
+        "Not the main finding.",
+        "No data support this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q855 (PDF p. 1092)",
+      "quote": "or it can be more subtle, such as neglect (the failure to meet basic needs)."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client with schizophrenia says, 'I am Elizabeth, the Queen of England.' What is this?",
+      "options": [
+        "Visual illusion",
+        "Loose association",
+        "Grandiose delusion",
+        "Auditory hallucination"
+      ],
+      "answer": "C",
+      "rationale": "A delusion is a firmly held false belief that resists change; claiming to be royalty is grandiose. An illusion misreads real stimuli, and a hallucination is a false perception.",
+      "explanations": [
+        "Misperception of a real stimulus.",
+        "Ideas that shift between unrelated subjects.",
+        "Correct: a grandiose false belief.",
+        "A false sensory perception."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q856 (PDF p. 1093)",
+      "quote": "A delusion is an important personal belief that is almost certainly not true and that resists modification."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Why should the nurse initially allow a client with OCD to continue hand-washing rituals?",
+      "options": [
+        "It relieves the client's anxiety",
+        "It lowers the risk of infection",
+        "It gives the client control",
+        "It builds self-esteem"
+      ],
+      "answer": "A",
+      "rationale": "The compulsive act gives immediate relief from anxiety and is used to cope with stress. Stopping it abruptly would increase anxiety.",
+      "explanations": [
+        "Correct: the ritual relieves anxiety.",
+        "Not its purpose.",
+        "Not the primary effect.",
+        "Not the primary goal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q858 (PDF p. 1095)",
+      "quote": "The compulsive act provides immediate relief from anxiety and is used to cope with stress, conflict, or pain."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "An anxious client is blocking the hallway, taking three steps forward and two back. How should the nurse intervene?",
+      "options": [
+        "Stand beside the client: 'You're very anxious today.'",
+        "Tell the client: 'You're going to have to stop that.'",
+        "Tell other clients to walk around",
+        "Distract the client with a TV show"
+      ],
+      "answer": "A",
+      "rationale": "To ease anxiety, the nurse helps the client recognize the behavior. Demands or ignoring the behavior may escalate it.",
+      "explanations": [
+        "Correct: helps the client recognize the anxiety.",
+        "May escalate the behavior.",
+        "Ignores the client's anxiety.",
+        "Does not address the anxiety."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q861 (PDF p. 1098)",
+      "quote": "An important consideration when alleviating anxiety is to assist the client with recognizing the behavior."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "In which therapy does the client act out situations of emotional significance?",
+      "options": [
+        "Psychodrama",
+        "Reality therapy",
+        "Psychoanalytic therapy",
+        "Short-term dynamic therapy"
+      ],
+      "answer": "A",
+      "rationale": "Psychodrama involves acting out emotionally charged situations. Psychoanalytic and short-term dynamic therapies draw on psychoanalytic techniques.",
+      "explanations": [
+        "Correct: enacting emotional situations.",
+        "Used for cognitive impairment.",
+        "Based on psychoanalysis.",
+        "Based on psychoanalysis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q862 (PDF p. 1099)",
+      "quote": "Psychodrama involves the enactment of emotionally charged situations."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A manic client who assaulted another client is to be secluded. What should the nurse do BEFORE seclusion?",
+      "options": [
+        "Ask if she understands why",
+        "Stay silent to avoid more agitation",
+        "Tell her it's a punishment",
+        "Tell her directly why she is being secluded"
+      ],
+      "answer": "D",
+      "rationale": "Seclusion removes the client to a nonstimulating room for protection and close supervision. The nurse informs the client directly of its purpose; it is never framed as punishment.",
+      "explanations": [
+        "Nontherapeutic questioning.",
+        "Silence implies punishment.",
+        "Seclusion is not punishment.",
+        "Correct: direct, clear explanation."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q863 (PDF p. 1100)",
+      "quote": "It is best to directly inform the client of the purpose of the seclusion."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client with catatonic schizophrenia lies curled in a fetal position. Which approach BEST builds communication?",
+      "options": [
+        "Ask many direct questions",
+        "Leave the client alone all day",
+        "Sit in silence; ask open questions",
+        "Insist the client join group therapy"
+      ],
+      "answer": "C",
+      "rationale": "Withdrawn clients need consistent, repeated contact. Sitting in silence, asking open-ended questions, and pausing for responses build communication.",
+      "explanations": [
+        "Direct questions are not effective here.",
+        "Reinforces withdrawal.",
+        "Correct: patient, consistent contact.",
+        "Too demanding."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q865 (PDF p. 1102)",
+      "quote": "The nurse facilitates communication with the client by sitting in silence, asking open-ended questions, and pausing to provide opportunities for the client to respond."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "After a gastrostomy tube is placed, a client refuses care, avoids eye contact, and will not talk. Which coping mechanism is this?",
+      "options": [
+        "Denial",
+        "Distancing",
+        "Regression",
+        "Suppression"
+      ],
+      "answer": "B",
+      "rationale": "Distancing is an unwillingness or inability to discuss events, shown here by withdrawal and refusal to engage.",
+      "explanations": [
+        "Refusal to acknowledge reality.",
+        "Correct: withdrawing from discussion.",
+        "Returning to earlier behavior.",
+        "Conscious pushing away of thoughts."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q870 (PDF p. 1107)",
+      "quote": "Distancing is an unwillingness or inability to discuss events."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which is a risk factor for adolescent suicide?",
+      "options": [
+        "Strong peer relationships",
+        "Adequate family income",
+        "Good school grades",
+        "Family history of depression"
+      ],
+      "answer": "D",
+      "rationale": "Risk factors include depression, a family history of mental disorders (especially depression and suicide), past attempts, family violence, substance use, poor school performance, and hopelessness.",
+      "explanations": [
+        "Protective.",
+        "Protective.",
+        "Poor, not good, performance is a risk.",
+        "Correct: a known risk factor."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q872 (PDF p. 1109)",
+      "quote": "a family history of mental health disorders, especially depression and suicide"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which intervention is part of suicide precautions for an acutely suicidal client?",
+      "options": [
+        "Checking the client every hour",
+        "Staying within arm's length always",
+        "Allowing private bathroom time",
+        "Using regular silverware at meals"
+      ],
+      "answer": "B",
+      "rationale": "Suicide precautions mean constant observation within arm's length, meal trays without glass or metal silverware, and close watch during all activities.",
+      "explanations": [
+        "Hourly checks are not enough.",
+        "Correct: constant, close observation.",
+        "Observation continues in the bathroom.",
+        "Metal and glass are removed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q875 (PDF p. 1112)",
+      "quote": "Suicide precautions include maintaining arm’s length distance with the client at all times; ensuring that meal trays contain no glass or metal silverware"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "In which situation is seclusion CONTRAINDICATED?",
+      "options": [
+        "A client who asks to be alone",
+        "A client who is very agitated",
+        "A client after a severe drug overdose",
+        "A client threatening others"
+      ],
+      "answer": "C",
+      "rationale": "Seclusion is contraindicated in unstable medical or mental conditions, delirium or dementia, severe suicidal tendencies, and severe drug reactions or overdoses that need close monitoring.",
+      "explanations": [
+        "May be appropriate.",
+        "May be appropriate.",
+        "Correct: needs close medical monitoring.",
+        "May be appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q877 (PDF p. 1115)",
+      "quote": "severe drug reactions or overdoses or the need for close monitoring"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "An 8-year-old who was sexually abused is withdrawn and frightened. What is the BEST plan for the first encounter?",
+      "options": [
+        "Do a full exam right away",
+        "Spend time with her and move slowly",
+        "Ask her to describe the abuse",
+        "Leave her alone until she talks"
+      ],
+      "answer": "B",
+      "rationale": "Child victims fear the abuse could happen again. The nurse shows a willingness to spend time and moves slowly before any activity that may feel threatening.",
+      "explanations": [
+        "Threatening.",
+        "Correct: builds trust gradually.",
+        "Threatening.",
+        "Abandons her."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q883 (PDF p. 1123)",
+      "quote": "it is best to convey a willingness to spend time and move slowly to initiate activities that may be perceived as threatening."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "Two months after a sexual assault, a survivor says it feels 'like it happened yesterday.' Which response is BEST?",
+      "options": [
+        "'It didn't happen yesterday.'",
+        "'What could help you feel better?'",
+        "'You should be moving on by now.'",
+        "'Tell me more about how you're feeling.'"
+      ],
+      "answer": "D",
+      "rationale": "An open, unhurried, nonjudgmental invitation lets her express her feelings fully. Correcting her blocks communication, and the other replies are nontherapeutic.",
+      "explanations": [
+        "Blocks communication.",
+        "Shifts the problem-solving burden to her.",
+        "Judgmental.",
+        "Correct: open and supportive."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q884 (PDF p. 1125)",
+      "quote": "Clients need to be reassured that their feelings are normal and that they may freely express their concerns in a safe care environment."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which instruction should the nurse give staff caring for a client with paranoid personality disorder?",
+      "options": [
+        "Have him sign a release form",
+        "Avoid laughing or whispering near him",
+        "Increase his socializing with peers",
+        "Begin group teaching right away"
+      ],
+      "answer": "B",
+      "rationale": "A paranoid client is distrustful and suspicious, and laughing or whispering nearby feeds the paranoia. The other options demand too much trust too soon.",
+      "explanations": [
+        "Too intrusive.",
+        "Correct: avoids feeding suspicion.",
+        "Too intrusive.",
+        "Too intrusive."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q885 (PDF p. 1126)",
+      "quote": "Laughing or whispering in front of the client would increase the client’s paranoia."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A newly admitted client says, 'You won't have to worry about me much longer.' How should the nurse interpret this?",
+      "options": [
+        "Suicidal intent",
+        "An expression of depression",
+        "Intent to self-mutilate",
+        "An expression of hopelessness"
+      ],
+      "answer": "A",
+      "rationale": "This is a direct comment about not being around, which expresses suicidal intent. All suicidal statements are taken seriously.",
+      "explanations": [
+        "Correct: a covert statement of suicide.",
+        "Related, but less specific.",
+        "Not what the statement implies.",
+        "Related, but less specific."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q886 (PDF p. 1128)",
+      "quote": "the statement that he or she will not be around is a direct comment about the act of suicide."
+    }
+  ]
+}

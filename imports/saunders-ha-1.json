@@ -1,0 +1,749 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "An infant monitored for increased ICP has an anterior fontanel that bulges only when crying. What should the nurse conclude?",
+      "options": [
+        "No action is needed",
+        "Lower the head of the bed",
+        "Call the doctor now",
+        "Give an antipyretic"
+      ],
+      "answer": "A",
+      "rationale": "The anterior fontanel is normally soft and flat. A bulging fontanel may come from crying or from increased ICP, so bulging only with crying is normal.",
+      "explanations": [
+        "Correct: normal with crying.",
+        "Not indicated.",
+        "Not indicated.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q85 (PDF p. 231)",
+      "quote": "Remember that a bulging or tense fontanel may result from crying; therefore, it is a normal finding."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "How does the nurse test a child's pharyngeal (gag) reflex?",
+      "options": [
+        "Ask the child to swallow",
+        "Pull down the lower lid",
+        "Shine light at the nose",
+        "Touch the back of the throat"
+      ],
+      "answer": "D",
+      "rationale": "The gag reflex is tested by touching the back of the throat with a tongue depressor. Asking the child to swallow tests the swallowing reflex.",
+      "explanations": [
+        "Tests swallowing.",
+        "Checks the conjunctiva.",
+        "Not a reflex test.",
+        "Correct: elicits the gag."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q114 (PDF p. 263)",
+      "quote": "The pharyngeal (gag) reflex is tested by touching the back of the throat with an object, such as a tongue depressor."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Where does the nurse palpate the apical pulse?",
+      "options": [
+        "Left MCL, 5th ICS",
+        "Left MCL, 3rd ICS",
+        "Right of left MCL, 5th ICS",
+        "Right sternal border, 2nd ICS"
+      ],
+      "answer": "A",
+      "rationale": "The point of maximal impulse is normally at the fourth or fifth intercostal space at the left midclavicular line.",
+      "explanations": [
+        "Correct: the PMI.",
+        "Too high.",
+        "Too medial.",
+        "Aortic area."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q179 (PDF p. 332)",
+      "quote": "The point of maximal impulse (PMI), where the apical pulse is palpated, is normally located in the fourth or fifth intercostal space, at the left midclavicular line."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How are normal bowel sounds described?",
+      "options": [
+        "Loud gurgles in all quadrants",
+        "Soft clicks, 5 to 35 per minute",
+        "A swishing sound",
+        "No sound for 5 minutes"
+      ],
+      "answer": "B",
+      "rationale": "Normal bowel sounds are soft gurgles or clicks occurring irregularly 5 to 35 times a minute. Loud gurgles (borborygmi) mean hyperperistalsis; a swishing sound is a bruit.",
+      "explanations": [
+        "Hyperperistalsis.",
+        "Correct: normal.",
+        "A bruit.",
+        "Absent sounds."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q182 (PDF p. 335)",
+      "quote": "normal bowel sounds are relatively soft gurgling or clicking sounds that occur irregularly 5 to 35 times per minute."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which breath sounds does the nurse expect over the right lower lobe in a client with pneumonia there?",
+      "options": [
+        "Absent",
+        "Vesicular",
+        "Bronchial",
+        "Bronchovesicular"
+      ],
+      "answer": "C",
+      "rationale": "Consolidated tissue carries bronchial sounds to the periphery, so bronchial sounds are heard over consolidation. Crackles may also be heard.",
+      "explanations": [
+        "Not expected.",
+        "Normal peripheral sound.",
+        "Correct: over consolidation.",
+        "Normal near the bronchi."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q225 (PDF p. 380)",
+      "quote": "The client with pneumonia will have bronchial breath sounds over area(s) of consolidation"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client has smoked three-fourths of a pack a day for 10 years. What is his smoking history?",
+      "options": [
+        "5.0 pack-years",
+        "7.5 pack-years",
+        "10.0 pack-years",
+        "13.3 pack-years"
+      ],
+      "answer": "B",
+      "rationale": "Pack-years equal packs per day times years smoked: 0.75 × 10 = 7.5.",
+      "explanations": [
+        "Miscalculated.",
+        "Correct: 0.75 × 10.",
+        "Ignores the fraction.",
+        "Divided instead."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q258 (PDF p. 415)",
+      "quote": "The standard method for quantifying smoking history is to multiply the number of packs smoked per day by the number of years of smoking."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Which finding should the school nurse look for when screening for scoliosis?",
+      "options": [
+        "Equal waist angles",
+        "Equal shoulder heights",
+        "Unequal rib heights",
+        "Equal rib prominences"
+      ],
+      "answer": "C",
+      "rationale": "Signs include chest asymmetry, unequal rib heights, and lateral deviation and rotation of the vertebrae. Children 9 to 15 are screened; girls are at highest risk.",
+      "explanations": [
+        "Normal.",
+        "Normal.",
+        "Correct: a sign of scoliosis.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q618 (PDF p. 833)",
+      "quote": "Scoliosis is a lateral curvature of the spine."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "How should a child stand for scoliosis screening?",
+      "options": [
+        "Lie flat, lift legs",
+        "Roll side to side",
+        "Walk with arms overhead",
+        "Stand straight, arms hanging"
+      ],
+      "answer": "D",
+      "rationale": "The child stands in underpants with weight on both feet, legs straight, and arms hanging loosely so the chest, back, and hips are seen clearly.",
+      "explanations": [
+        "Not used.",
+        "Not used.",
+        "Not used.",
+        "Correct: screening position."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1168 (PDF p. 1455)",
+      "quote": "The child is asked to stand with weight equally on both feet with the legs straight and the arms hanging loosely at both sides."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which woman is at GREATEST risk for osteoporosis?",
+      "options": [
+        "Large-boned, dark-skinned woman",
+        "Asian woman, early menopause",
+        "Woman who walks daily",
+        "Woman with high calcium intake"
+      ],
+      "answer": "B",
+      "rationale": "Asian, white, small-boned, and fair-skinned women are at highest risk. Early menopause and a family history add to the risk.",
+      "explanations": [
+        "Lower risk.",
+        "Correct: two risk factors.",
+        "Protective.",
+        "Protective."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q630 (PDF p. 847)",
+      "quote": "Asian, white, small-boned, and fair-skinned women are at greatest risk for osteoporosis."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which statement about breast self-examination needs correction?",
+      "options": [
+        "'I do it monthly.'",
+        "'I can use soapy hands in the shower.'",
+        "'I check in front of a mirror.'",
+        "'I do it on the first day of my period.'"
+      ],
+      "answer": "D",
+      "rationale": "BSE is done 2 or 3 days after menstruation ends, when breasts are least tender. Lumps, including in the armpit, and nipple discharge are reported.",
+      "explanations": [
+        "Correct practice.",
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: wrong timing."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q654 (PDF p. 872)",
+      "quote": "The examination is performed 2 or 3 days after menstruation ends, when the breasts are least likely to be tender and swollen."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Two months after a right mastectomy, a client says she has not done BSE on her left breast. Which coping mechanism is she likely using?",
+      "options": [
+        "Denial",
+        "Projection",
+        "Sublimation",
+        "Displacement"
+      ],
+      "answer": "A",
+      "rationale": "Denying or minimizing a health problem can lead to avoiding self-care such as BSE, which can be life-threatening.",
+      "explanations": [
+        "Correct: avoids self-care.",
+        "Not shown.",
+        "Not shown.",
+        "Not shown."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q947 (PDF p. 1192)",
+      "quote": "Denial can lead to an avoidance of self-care measures, such as taking medications or performing a BSE."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which statement about testicular self-examination needs MORE teaching?",
+      "options": [
+        "'I'll report small lumps.'",
+        "'I'll check every 2 months.'",
+        "'I'll do it after a warm shower.'",
+        "'A cord-like part in back is normal.'"
+      ],
+      "answer": "B",
+      "rationale": "TSE is done monthly. After a warm shower the scrotum is relaxed, and the spermatic cord is a normal finding.",
+      "explanations": [
+        "Correct practice.",
+        "Correct answer: it is monthly.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1078 (PDF p. 1360)",
+      "quote": "TSE should be performed every month."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which instruction belongs in a high school class on testicular self-examination?",
+      "options": [
+        "Do it every other month",
+        "Do it after a cold shower",
+        "Expect it to be painful",
+        "Roll each testicle gently"
+      ],
+      "answer": "D",
+      "rationale": "TSE screens for testicular cancer, common in late teens and twenties. It is done monthly after a warm shower, rolling each testicle between thumb and fingers.",
+      "explanations": [
+        "It is monthly.",
+        "Use a warm shower.",
+        "It should not hurt.",
+        "Correct: the technique."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1369 (PDF p. 1672)",
+      "quote": "TSE is a self-screening examination for testicular cancer, which predominantly affects men in their late teens and twenties."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How should the nurse test for asterixis in hepatic encephalopathy?",
+      "options": [
+        "Check his handwriting",
+        "Check his stool color",
+        "Extend wrists, fingers",
+        "Check his bilirubin"
+      ],
+      "answer": "C",
+      "rationale": "Asterixis (liver flap) is a rapid, nonrhythmic tremor of the wrists and fingers, seen when the client extends the arm, wrist, and fingers.",
+      "explanations": [
+        "Nonspecific.",
+        "Not a test for it.",
+        "Correct: elicits the flap.",
+        "Not a test for it."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q684 (PDF p. 905)",
+      "quote": "Asterixis is a rapid, nonrhythmic, abnormal muscle tremor of the wrists and fingers that is commonly associated with hepatic encephalopathy"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "To test cranial nerve XII after a stroke, what does the nurse ask the client to do?",
+      "options": [
+        "Extend the arms",
+        "Stick out the tongue",
+        "Turn the head",
+        "Follow an object"
+      ],
+      "answer": "B",
+      "rationale": "Cranial nerve XII (hypoglossal) controls the tongue, so the nurse checks the ability to extend the tongue.",
+      "explanations": [
+        "Not CN XII.",
+        "Correct: hypoglossal.",
+        "CN XI.",
+        "CN III, IV, VI."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q685 (PDF p. 906)",
+      "quote": "To assess the function of cranial nerve XII (hypoglossal), the nurse should assess the client’s ability to extend the tongue."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which finding is related to cranial nerve III (oculomotor) dysfunction?",
+      "options": [
+        "Mild drowsiness",
+        "Unilateral ptosis",
+        "Less mental acuity",
+        "Less speech"
+      ],
+      "answer": "B",
+      "rationale": "CN III controls pupil constriction and upper eyelid elevation; pressure on it causes ptosis. The others are early signs of a falling level of consciousness.",
+      "explanations": [
+        "Early LOC change.",
+        "Correct: CN III.",
+        "Early LOC change.",
+        "Early LOC change."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1122 (PDF p. 1406)",
+      "quote": "Ptosis of the eyelid is caused by pressure on and the dysfunction of cranial nerve III, the oculomotor nerve."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "To assess the limbic system in a client with dementia, what should the nurse assess?",
+      "options": [
+        "Judgment",
+        "Emotions",
+        "Consciousness",
+        "Eye movements"
+      ],
+      "answer": "B",
+      "rationale": "The limbic system governs feelings and emotions. Judgment is frontal lobe, consciousness is the reticular activating system, and eye movements are CN III, IV, and VI.",
+      "explanations": [
+        "Frontal lobe.",
+        "Correct: limbic system.",
+        "Reticular activating system.",
+        "Cranial nerves."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1003 (PDF p. 1254)",
+      "quote": "Feelings and emotions are part of the role of the limbic system."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After shoulder arthroplasty, how does the nurse check the ULNAR nerve?",
+      "options": [
+        "Raise the forearm overhead",
+        "Spread fingers against resistance",
+        "Move thumb to palm",
+        "Grasp the nurse's hand"
+      ],
+      "answer": "B",
+      "rationale": "Spreading the fingers wide against pressure tests the ulnar nerve. A grasp that tests the first and second fingers checks the median nerve.",
+      "explanations": [
+        "Musculocutaneous nerve.",
+        "Correct: ulnar nerve.",
+        "Not ulnar.",
+        "Median nerve."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q735 (PDF p. 960)",
+      "quote": "the client is asked to spread all of the fingers wide and resist pressure. Weakness against pressure may indicate compromise of the ulnar nerve."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After shoulder arthroplasty, how does the nurse check the MEDIAN nerve?",
+      "options": [
+        "Spread fingers against resistance",
+        "Flex the biceps",
+        "Raise the arm overhead",
+        "Grasp the nurse's hand"
+      ],
+      "answer": "D",
+      "rationale": "The client grasps the nurse's hand while the nurse notes the strength of the first and second fingers. A weak grip may mean median nerve compromise.",
+      "explanations": [
+        "Ulnar nerve.",
+        "Musculocutaneous nerve.",
+        "Not median.",
+        "Correct: median nerve."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1520 (PDF p. 1830)",
+      "quote": "To assess the median nerve status, the client should be instructed to grasp the nurse’s hand."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A woman with a family history of hypertension is screened. Which finding needs teaching on stroke prevention?",
+      "options": [
+        "Eats high-fiber cereal",
+        "BP of 118/76",
+        "Walks daily",
+        "Takes oral contraceptives"
+      ],
+      "answer": "D",
+      "rationale": "Oral contraceptives promote clot formation. They, along with obesity, hypertension, high cholesterol, and smoking, are modifiable stroke risk factors.",
+      "explanations": [
+        "Healthy.",
+        "Normal.",
+        "Healthy.",
+        "Correct: increases clot risk."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q688 (PDF p. 909)",
+      "quote": "The use of oral contraceptives, obesity, hypertension, hypercholesterolemia, and smoking are all modifiable risk factors for stroke."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which lab finding is MOST important to modify to lower the risk of coronary artery disease?",
+      "options": [
+        "High triglycerides",
+        "High lipase",
+        "High testosterone",
+        "High LDL"
+      ],
+      "answer": "D",
+      "rationale": "LDL is more directly linked with CAD than other lipoproteins and predicts it better than triglycerides. Lipase is a digestive enzyme.",
+      "explanations": [
+        "Less predictive.",
+        "Not related.",
+        "Not the key factor.",
+        "Correct: most predictive."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q689 (PDF p. 910)",
+      "quote": "LDLs are more directly associated with CAD than are other lipoproteins."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A 39-year-old Filipino man has BP 152/92 at rest, cholesterol 180 mg/dL, and fasting glucose 90 mg/dL. Which CAD risk factor is the priority?",
+      "options": [
+        "Age",
+        "Hypertension",
+        "Cholesterol",
+        "Glucose"
+      ],
+      "answer": "B",
+      "rationale": "Hypertension is a major modifiable risk factor. His cholesterol and glucose are normal, and age over 40 is nonmodifiable.",
+      "explanations": [
+        "Not yet over 40.",
+        "Correct: modifiable and elevated.",
+        "Normal.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1133 (PDF p. 1418)",
+      "quote": "Hypertension, cigarette smoking, and hyperlipidemia are major risk modifiable factors for coronary artery disease."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which assessment gives the BEST information about left-sided heart function?",
+      "options": [
+        "Breath sounds",
+        "Peripheral edema",
+        "Hepatojugular reflux",
+        "Jugular vein distention"
+      ],
+      "answer": "A",
+      "rationale": "Left-sided failure backs fluid into the lungs, so breath sounds reflect it. Edema, hepatojugular reflux, and JVD are right-sided signs.",
+      "explanations": [
+        "Correct: left-sided.",
+        "Right-sided.",
+        "Right-sided.",
+        "Right-sided."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1098 (PDF p. 1382)",
+      "quote": "The assessment of breath sounds provides information about left-sided heart function."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "In a pregnant client with heart disease, where is venous congestion MOST commonly seen?",
+      "options": [
+        "Vulva",
+        "Around the eyes",
+        "Fingers",
+        "Abdomen"
+      ],
+      "answer": "A",
+      "rationale": "Venous congestion that can become varicosities is most often seen in the legs, vulva, or rectum. Edema of the fingers or eyes is not directly venous congestion.",
+      "explanations": [
+        "Correct: common site.",
+        "Edema, not congestion.",
+        "Edema, not congestion.",
+        "Not typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1106 (PDF p. 1390)",
+      "quote": "Venous congestion is most commonly noted in the legs, the vulva, or the rectum."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which finding is a positive Kernig's sign in a child?",
+      "options": [
+        "Calf pain on dorsiflexion",
+        "Pain with chin to chest",
+        "Cannot fully extend the legs supine",
+        "Hips flex when the neck flexes"
+      ],
+      "answer": "C",
+      "rationale": "Kernig's sign is the inability to extend the legs fully while supine. Brudzinski's sign is hip flexion when the neck is flexed. Both suggest bacterial meningitis.",
+      "explanations": [
+        "Homans' sign.",
+        "Nuchal rigidity.",
+        "Correct: Kernig's sign.",
+        "Brudzinski's sign."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1111 (PDF p. 1395)",
+      "quote": "Kernig’s sign is the inability of the child to extend the legs fully when lying supine."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "Which factor should the nurse consider when teaching a child about his illness?",
+      "options": [
+        "Children rarely form misconceptions",
+        "Older children have shorter attention spans",
+        "Imagination may cause more fear than truth",
+        "Children never regress"
+      ],
+      "answer": "C",
+      "rationale": "Teaching is adjusted to the child's age and cognition. A child's imagination may create more fear than the truth, and a child may regress when ill.",
+      "explanations": [
+        "They often do.",
+        "It lengthens with age.",
+        "Correct: honest teaching helps.",
+        "They may regress."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q740 (PDF p. 966)",
+      "quote": "the nurse needs to adjust the complexity and volume of information based on the child’s age and cognitive level."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "Which is a cause of ORGANIC erectile dysfunction?",
+      "options": [
+        "Stress",
+        "Depression",
+        "Diabetes mellitus",
+        "Performance anxiety"
+      ],
+      "answer": "C",
+      "rationale": "Organic causes include hypertension, vascular disease, diabetes, and alcohol. Stress, depression, and anxiety are psychogenic causes.",
+      "explanations": [
+        "Psychogenic.",
+        "Psychogenic.",
+        "Correct: organic.",
+        "Psychogenic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q785 (PDF p. 1015)",
+      "quote": "Organic erectile dysfunction is a gradual deterioration of function"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which finding can percussion identify?",
+      "options": [
+        "Mobility of organs",
+        "Skin temperature",
+        "Fluid in a body cavity",
+        "Tissue resilience"
+      ],
+      "answer": "C",
+      "rationale": "Percussion assesses the size, borders, and consistency of organs and detects fluid in body cavities. Palpation assesses mobility, temperature, and resilience.",
+      "explanations": [
+        "Palpation.",
+        "Palpation.",
+        "Correct: percussion.",
+        "Palpation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q797 (PDF p. 1027)",
+      "quote": "Percussion involves tapping the body with the fingertips to evaluate the size, borders, and consistency of body organs and assess for fluid in body cavities."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Families (Normal & At Risk)",
+      "situation": "",
+      "stem": "Which factor places an older adult MOST at risk for abuse?",
+      "options": [
+        "Lives in a low-income area",
+        "Shows signs of depression",
+        "Fully dependent on family",
+        "Lives alone"
+      ],
+      "answer": "C",
+      "rationale": "Elder abuse may come from frustrated adult children caring for dependent parents. Growing demands can cause resentment. Abuse is not tied to income level.",
+      "explanations": [
+        "Not bound to income.",
+        "Not the main risk.",
+        "Correct: caregiver strain.",
+        "Not the main risk."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q831 (PDF p. 1067)",
+      "quote": "Elder abuse is sometimes the result of frustrated adult children who find themselves caring for dependent parents."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which action by a new nurse auscultating breath sounds needs correction?",
+      "options": [
+        "Using the bell",
+        "Having the client sit up",
+        "Placing it on bare skin",
+        "Asking for deep breaths"
+      ],
+      "answer": "A",
+      "rationale": "Breath sounds are heard with the warmed diaphragm on bare skin while the client sits up and breathes slowly and deeply through the mouth.",
+      "explanations": [
+        "Correct answer: use the diaphragm.",
+        "Correct practice.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1280 (PDF p. 1581)",
+      "quote": "The bell of the stethoscope is not used to auscultate breath sounds."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "After suctioning a tracheostomy, which finding BEST shows the procedure worked?",
+      "options": [
+        "Breath sounds",
+        "Capillary refill",
+        "Respiratory rate",
+        "SpO2"
+      ],
+      "answer": "A",
+      "rationale": "Breath sounds show how well the airways were cleared of secretions. The other parameters are less precise for this purpose.",
+      "explanations": [
+        "Correct: most precise.",
+        "Less precise.",
+        "Less precise.",
+        "Less precise."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1319 (PDF p. 1621)",
+      "quote": "the breath sounds are auscultated to determine the extent to which the airways have been cleared of respiratory secretions."
+    }
+  ]
+}

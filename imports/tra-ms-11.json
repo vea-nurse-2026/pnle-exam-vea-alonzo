@@ -1,0 +1,581 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which measure helps prevent renal calculi in hyperparathyroidism?",
+      "options": [
+        "Fluids ≥2000 mL daily",
+        "Thiazide diuretics",
+        "Bed rest",
+        "Fluid restriction"
+      ],
+      "answer": "A",
+      "rationale": "Hydrate well, include cranberry juice, ambulate; thiazides are avoided (raise calcium).",
+      "explanations": [
+        "Correct.",
+        "Raise Ca.",
+        "Bone loss.",
+        "Stones."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Hyperparathyroidism Nursing (PDF p. 367)",
+      "quote": "Daily fluid intake of 2000 mL or more"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Tapping the facial nerve causes twitching of the lip after thyroidectomy. This is:",
+      "options": [
+        "Chvostek's sign",
+        "Trousseau's sign",
+        "Homan's sign",
+        "Kernig's sign"
+      ],
+      "answer": "A",
+      "rationale": "Chvostek's sign indicates hypocalcemia; Trousseau's is carpopedal spasm with a BP cuff.",
+      "explanations": [
+        "Correct.",
+        "Cuff spasm.",
+        "DVT.",
+        "Meningitis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hypoparathyroidism (PDF p. 367)",
+      "quote": "Positive Chvostek’s sign"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which drug should be at the bedside after thyroidectomy?",
+      "options": [
+        "Calcium gluconate",
+        "Potassium chloride",
+        "Insulin",
+        "Heparin"
+      ],
+      "answer": "A",
+      "rationale": "IV calcium gluconate treats tetany from hypocalcemia; keep a tracheostomy set too.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Hypoparathyroidism (PDF p. 368)",
+      "quote": "Calcium gluconate at bedside."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Hypoparathyroidism produces which electrolyte pattern?",
+      "options": [
+        "Low calcium, high phosphate",
+        "High calcium, low phosphate",
+        "Low sodium, high potassium",
+        "High sodium"
+      ],
+      "answer": "A",
+      "rationale": "PTH deficiency lowers calcium and raises phosphate.",
+      "explanations": [
+        "Correct.",
+        "Hyperpara.",
+        "Addison's.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Hypoparathyroidism (PDF p. 367)",
+      "quote": "Increased blood phosphate (hyperphosphatemia)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Aluminum hydroxide gel is given in hypoparathyroidism to:",
+      "options": [
+        "Bind phosphate",
+        "Raise PTH",
+        "Lower calcium",
+        "Treat ulcers only"
+      ],
+      "answer": "A",
+      "rationale": "Aluminum compounds bind phosphate for GI excretion.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Opposite.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Hypoparathyroidism (PDF p. 367)",
+      "quote": "after meals to bind with phosphate and promote its excretion"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Paroxysmal hypertension, headache, sweating, and palpitations suggest:",
+      "options": [
+        "Pheochromocytoma",
+        "Addison's disease",
+        "Hypothyroidism",
+        "DI"
+      ],
+      "answer": "A",
+      "rationale": "Pheochromocytoma secretes catecholamines: the 5 H's.",
+      "explanations": [
+        "Correct.",
+        "Hypotension.",
+        "Slow.",
+        "Polyuria."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Pheochromocytoma (PDF p. 368)",
+      "quote": "Five H’s"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Before a 24-hour urine VMA test, the client should avoid:",
+      "options": [
+        "Bananas, coffee",
+        "Plain rice",
+        "Water",
+        "Plain bread"
+      ],
+      "answer": "A",
+      "rationale": "Coffee, tea, bananas, chocolate, vanilla, and aspirin alter VMA results.",
+      "explanations": [
+        "Correct.",
+        "Fine.",
+        "Fine.",
+        "Fine."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, VMA Test (PDF p. 368)",
+      "quote": "bananas, chocolate, vanilla, and aspirin, may alter the results of this test"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "After adrenalectomy for pheochromocytoma, the nurse watches for:",
+      "options": [
+        "Hypotension, hypoglycemia",
+        "Hypertension only",
+        "Hypercalcemia",
+        "Polycythemia"
+      ],
+      "answer": "A",
+      "rationale": "Sudden catecholamine withdrawal can cause hypotension and hypoglycemia.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Adrenalectomy (PDF p. 369)",
+      "quote": "Hypotension and hypoglycemia may occur in the postoperative period"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Bronze skin, hypotension, hyponatremia, and hyperkalemia suggest:",
+      "options": [
+        "Addison's disease",
+        "Cushing's",
+        "Pheochromocytoma",
+        "Hyperthyroidism"
+      ],
+      "answer": "A",
+      "rationale": "Adrenocortical insufficiency: hyperpigmentation, low Na, high K, low glucose.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Hypertension.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Addison's Disease (PDF p. 369)",
+      "quote": "Dark pigmentation"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "What is the immediate treatment for Addisonian crisis?",
+      "options": [
+        "IV hydrocortisone",
+        "IV insulin",
+        "Oral potassium",
+        "Fluid restriction"
+      ],
+      "answer": "A",
+      "rationale": "IV hydrocortisone followed by D5NS; vasopressors if hypotension persists.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Worsens.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Addison's Management (PDF p. 369)",
+      "quote": "Hydrocortisone (Solu- Cortef) is administered by IV"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client with Addison's disease has influenza. The steroid dose should be:",
+      "options": [
+        "Increased",
+        "Stopped",
+        "Halved",
+        "Unchanged"
+      ],
+      "answer": "A",
+      "rationale": "Increase glucocorticoids during illness or stress to prevent crisis.",
+      "explanations": [
+        "Correct.",
+        "Crisis.",
+        "Crisis.",
+        "Insufficient."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Addison's Nursing Management (PDF p. 369)",
+      "quote": "Modify the dosage during illness and other stressful situations."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Moon face, buffalo hump, and thin extremities suggest:",
+      "options": [
+        "Cushing's syndrome",
+        "Addison's disease",
+        "Acromegaly",
+        "Myxedema"
+      ],
+      "answer": "A",
+      "rationale": "Excess cortisol: central obesity, moon face, buffalo hump, fragile skin.",
+      "explanations": [
+        "Correct.",
+        "Deficit.",
+        "GH.",
+        "Thyroid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cushing's Disease (PDF p. 370)",
+      "quote": "Buffalo Hump"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which lab finding is expected in Cushing's syndrome?",
+      "options": [
+        "Hyperglycemia, hypokalemia",
+        "Hypoglycemia",
+        "Hyperkalemia",
+        "Hyponatremia"
+      ],
+      "answer": "A",
+      "rationale": "Cortisol excess raises glucose and sodium and lowers potassium.",
+      "explanations": [
+        "Correct.",
+        "Addison's.",
+        "Addison's.",
+        "Addison's."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cushing's Diagnostics (PDF p. 370)",
+      "quote": "Decrease in serum potassium"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which diet is recommended for Cushing's syndrome?",
+      "options": [
+        "High-protein, low-sodium",
+        "High-sodium",
+        "High-carbohydrate",
+        "Low-calcium"
+      ],
+      "answer": "A",
+      "rationale": "High protein, calcium, vitamin D; low carbohydrate and sodium.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Worsens.",
+        "Bone loss."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Cushing's Nursing (PDF p. 371)",
+      "quote": "Low carbohydrate, low sodium diet"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which fasting plasma glucose meets the criterion for diabetes?",
+      "options": [
+        "≥126 mg/dL",
+        "≥100 mg/dL",
+        "≥90 mg/dL",
+        "≥80 mg/dL"
+      ],
+      "answer": "A",
+      "rationale": "FPG ≥126 mg/dL (7.0 mmol/L) after 8 hours fasting.",
+      "explanations": [
+        "Correct.",
+        "Prediabetes.",
+        "Normal.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Diabetes Criteria (PDF p. 371)",
+      "quote": "Fasting plasma glucose greater than or equal to 126 mg/dl"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Type 1 diabetes results from:",
+      "options": [
+        "Beta-cell destruction",
+        "Insulin resistance",
+        "Excess glucagon",
+        "Obesity alone"
+      ],
+      "answer": "A",
+      "rationale": "Autoimmune destruction of beta cells causes insulin deficiency and DKA risk.",
+      "explanations": [
+        "Correct.",
+        "Type 2.",
+        "Not this.",
+        "Type 2."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Type 1 DM (PDF p. 371)",
+      "quote": "Characterized by destruction of the pancreatic beta cells."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Polyuria in uncontrolled diabetes is caused by:",
+      "options": [
+        "Osmotic diuresis",
+        "ADH excess",
+        "Low sodium",
+        "High calcium"
+      ],
+      "answer": "A",
+      "rationale": "Glucose above the renal threshold draws water into urine.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Type 1 DM (PDF p. 372)",
+      "quote": "This is called osmotic diuresis."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Why is DKA uncommon in type 2 diabetes?",
+      "options": [
+        "Residual insulin",
+        "No glucose rise",
+        "Ketones normal",
+        "No glucagon"
+      ],
+      "answer": "A",
+      "rationale": "Residual insulin prevents lipolysis and ketone formation.",
+      "explanations": [
+        "Correct.",
+        "Glucose rises.",
+        "Not normal.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Type 2 DM (PDF p. 372)",
+      "quote": "there is enough insulin to prevent the breakdown of fat"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Before moderate exercise, a client on insulin should:",
+      "options": [
+        "Eat a 15-g carb snack",
+        "Take extra insulin",
+        "Skip a meal",
+        "Exercise in heat"
+      ],
+      "answer": "A",
+      "rationale": "A 15-g carbohydrate snack prevents exercise hypoglycemia.",
+      "explanations": [
+        "Correct.",
+        "Hypoglycemia.",
+        "Hypoglycemia.",
+        "Avoid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, DM Exercise (PDF p. 372)",
+      "quote": "Eat 15-g carbohydrate snack before engaging in moderate exercise"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "HbA1c reflects average blood glucose over about:",
+      "options": [
+        "2–3 months",
+        "1 day",
+        "1 week",
+        "1 year"
+      ],
+      "answer": "A",
+      "rationale": "Glycated hemoglobin reflects 2–3 months of glucose control.",
+      "explanations": [
+        "Correct.",
+        "Too short.",
+        "Too short.",
+        "Too long."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Glycated Hemoglobin (PDF p. 372)",
+      "quote": "reflects average blood glucose levels over a period of approximately 2 to 3 months"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which insulin is the only one approved for IV use?",
+      "options": [
+        "Regular",
+        "NPH",
+        "Glargine",
+        "Detemir"
+      ],
+      "answer": "A",
+      "rationale": "Regular (short-acting, clear) insulin is the only IV insulin.",
+      "explanations": [
+        "Correct.",
+        "Cloudy, SC.",
+        "SC only.",
+        "SC only."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Insulin Therapy (PDF p. 373)",
+      "quote": "Regular insulin is the only insulin approved for IV use."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which insulin has no peak and is used as a basal dose?",
+      "options": [
+        "Glargine",
+        "Regular",
+        "Lispro",
+        "NPH"
+      ],
+      "answer": "A",
+      "rationale": "Glargine is long-acting and peakless, lasting about 24 hours.",
+      "explanations": [
+        "Correct.",
+        "Peaks 2–3 h.",
+        "Peaks 1 h.",
+        "Peaks 4–12 h."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Insulin Therapy (PDF p. 373)",
+      "quote": "Used for basal dose"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client gives regular insulin at 0700. Hypoglycemia is most likely around:",
+      "options": [
+        "0900–1000",
+        "0730",
+        "1500",
+        "2300"
+      ],
+      "answer": "A",
+      "rationale": "Regular insulin peaks 2–3 hours after injection.",
+      "explanations": [
+        "Correct.",
+        "Onset.",
+        "After duration.",
+        "Too late."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Insulin Therapy (PDF p. 373)",
+      "quote": "½-1 h 2-3 h 4-6 h"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How can insulin lipodystrophy be prevented?",
+      "options": [
+        "Rotate injection sites",
+        "Use one site",
+        "Massage hard",
+        "Inject cold insulin"
+      ],
+      "answer": "A",
+      "rationale": "Rotating sites prevents lipoatrophy and lipohypertrophy.",
+      "explanations": [
+        "Correct.",
+        "Causes it.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Insulin Lipodystrophy (PDF p. 373)",
+      "quote": "occurring at the site of insulin injections"
+    }
+  ]
+}

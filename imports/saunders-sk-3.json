@@ -1,0 +1,869 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client is confused from long bed rest and may now walk as tolerated. What is BEST?",
+      "options": [
+        "Keep him in the room",
+        "Ambulate him in the hall",
+        "Give a sedative",
+        "Use a restraint"
+      ],
+      "answer": "B",
+      "rationale": "The confusion comes from bed rest and low stimulation; walking in the hall increases sensory input.",
+      "explanations": [
+        "Low stimulation.",
+        "Correct.",
+        "Worsens confusion.",
+        "Worsens confusion."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q881 (PDF p. 1121)",
+      "quote": "The cause of the client’s confusion is bed rest and decreased sensory stimulation from a prolonged length of stay"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "A client with paralytic ileus is upset about needing an NG tube. Which response shows empathy?",
+      "options": [
+        "'It's a minor thing.'",
+        "'Everyone needs one.'",
+        "'This must be hard.'",
+        "'Just cooperate.'"
+      ],
+      "answer": "C",
+      "rationale": "Empathy shares the client's frame of reference and helps express feelings.",
+      "explanations": [
+        "Minimizes.",
+        "Cliché.",
+        "Correct.",
+        "Authoritarian."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q903 (PDF p. 1146)",
+      "quote": "In option 3, the nurse uses empathy."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A new diabetic is anxious about self-injecting insulin. What is a good FIRST step?",
+      "options": [
+        "Family injects always",
+        "Client pushes plunger",
+        "Switch to pills",
+        "Delay the teaching"
+      ],
+      "answer": "B",
+      "rationale": "The nurse may select the site and insert the needle, with the client pushing the plunger as a first step to self-injection.",
+      "explanations": [
+        "Avoids learning.",
+        "Correct.",
+        "Not appropriate.",
+        "Delays."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q967 (PDF p. 1215)",
+      "quote": "Some clients find it difficult to insert a needle into their own skin."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "When should crutch walking be taught for knee surgery?",
+      "options": [
+        "Before surgery",
+        "Day of discharge",
+        "Two weeks post-op",
+        "Only if asked"
+      ],
+      "answer": "A",
+      "rationale": "Crutch walking is taught before surgery because learning is hard when in pain and not fully alert.",
+      "explanations": [
+        "Correct.",
+        "Too late.",
+        "Too late.",
+        "Should be routine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1074 (PDF p. 1356)",
+      "quote": "It is best to assess crutch-walking ability and instruct the client with regard to the use of the crutches before surgery"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What is the focus when assessing an older client's functional status?",
+      "options": [
+        "Daily routines",
+        "ADL performance",
+        "Hobbies",
+        "Social life"
+      ],
+      "answer": "B",
+      "rationale": "Functional status is the ability to perform ADLs: bathing, toileting, ambulating, dressing, and feeding.",
+      "explanations": [
+        "Too general.",
+        "Correct.",
+        "Not the focus.",
+        "Not the focus."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1112 (PDF p. 1396)",
+      "quote": "the nurse assesses the client’s ability to perform self-care or ADLs"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What is the PRIORITY problem for a client in Buck's traction?",
+      "options": [
+        "Immobility",
+        "Risk of infection",
+        "Altered independence",
+        "Body image"
+      ],
+      "answer": "A",
+      "rationale": "Immobility poses the greatest risk of complications. Buck's is skin traction, so infection risk is low.",
+      "explanations": [
+        "Correct.",
+        "Skin traction.",
+        "Less priority.",
+        "Less priority."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1124 (PDF p. 1408)",
+      "quote": "The priority client problem in Buck’s traction is immobility."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How is infection risk reduced for TPN via a central line?",
+      "options": [
+        "Clean dressing technique",
+        "Sterile technique for dressing changes",
+        "Change tubing monthly",
+        "Use the line for blood draws"
+      ],
+      "answer": "B",
+      "rationale": "CVCs are a direct entry to the heart and circulation, so sterile technique is vital for dressing changes.",
+      "explanations": [
+        "Not enough.",
+        "Correct.",
+        "Too seldom.",
+        "Infection risk."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1143 (PDF p. 1429)",
+      "quote": "Sterile technique is vital during dressing changes of a central venous catheter (CVC)."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "How does a client in a lower-extremity spica cast use the bedpan?",
+      "options": [
+        "Bedside commode",
+        "Walk to the toilet",
+        "Regular bedpan",
+        "Fracture (low-profile) pan"
+      ],
+      "answer": "D",
+      "rationale": "The client cannot bend at the hips, so a low-profile fracture pan is used.",
+      "explanations": [
+        "Cannot sit.",
+        "Cannot walk.",
+        "Too high.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1144 (PDF p. 1431)",
+      "quote": "A low-profile bedpan or fracture pan is designed for use by clients with body or leg casts"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which intervention limits complications of prolonged bed rest?",
+      "options": [
+        "Keep supine always",
+        "Limit milk products",
+        "Restrict fluids",
+        "Avoid turning"
+      ],
+      "answer": "B",
+      "rationale": "Immobility promotes calcium stones; limiting milk products helps prevent them. Supine positioning raises risks.",
+      "explanations": [
+        "Increases risk.",
+        "Correct.",
+        "Increases stones.",
+        "Pressure ulcers."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1149 (PDF p. 1436)",
+      "quote": "Limiting milk and milk products is the best measure to prevent the formation of calcium stones."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A stroke client has ROM ordered for the right side. What should the home nurse plan?",
+      "options": [
+        "Passive ROM only",
+        "Client assists in ROM",
+        "Avoid the left side",
+        "Stop at first fatigue"
+      ],
+      "answer": "B",
+      "rationale": "All forms of ROM are considered; the client can assist in his own care, promoting independence.",
+      "explanations": [
+        "Too limited.",
+        "Correct.",
+        "Use both sides.",
+        "Not the rule."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1175 (PDF p. 1464)",
+      "quote": "the client can assist with some of his or her own rehabilitative care."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What is the PRIORITY before giving an NG tube feeding?",
+      "options": [
+        "Verify tube placement",
+        "Warm the formula",
+        "Check bowel sounds",
+        "Weigh the client"
+      ],
+      "answer": "A",
+      "rationale": "NG tubes can migrate; placement is verified before anything is instilled.",
+      "explanations": [
+        "Correct.",
+        "Less priority.",
+        "Less priority.",
+        "Less priority."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1182 (PDF p. 1472)",
+      "quote": "The nurse avoids injecting any substance into a client’s NGT before verifying tube placement"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Give 7.5 mg IM; the label reads 10 mg/mL. How many mL?",
+      "options": [
+        "0.5 mL",
+        "0.75 mL",
+        "1.3 mL",
+        "7.5 mL"
+      ],
+      "answer": "B",
+      "rationale": "7.5 ÷ 10 × 1 mL = 0.75 mL.",
+      "explanations": [
+        "Miscalculated.",
+        "Correct.",
+        "Inverted.",
+        "Miscalculated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1184 (PDF p. 1475)",
+      "quote": "After performing a medication calculation problem, ensure that the answer or the amount of medication to be admin"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After hip fixation, a client's left heel is red. Which equipment helps?",
+      "options": [
+        "Overhead trapeze",
+        "Bed cradle",
+        "Draw sheet",
+        "Pressure mattress"
+      ],
+      "answer": "D",
+      "rationale": "The redness comes from pressure against the mattress; an alternating pressure mattress minimizes pressure points.",
+      "explanations": [
+        "Mobility.",
+        "Keeps linen off.",
+        "Moving.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1186 (PDF p. 1477)",
+      "quote": "An alternating pressure mattress is effective at minimizing pressure points."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which suction pressure is used for an infant's tracheostomy?",
+      "options": [
+        "60 mm Hg",
+        "90 mm Hg",
+        "120 mm Hg",
+        "150 mm Hg"
+      ],
+      "answer": "B",
+      "rationale": "Infants and children need smaller catheters and lower suction settings than adults; about 90 mm Hg for an infant.",
+      "explanations": [
+        "Too low.",
+        "Correct.",
+        "Adult range.",
+        "Too high."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1196 (PDF p. 1488)",
+      "quote": "Suctioning in infants and children requires the use of a smaller suction catheter and lower suction settings"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client starts seizing in bed. How is aspiration prevented?",
+      "options": [
+        "Raise the head of bed",
+        "Loosen clothing only",
+        "Insert a tongue blade",
+        "Turn on side, head flexed forward"
+      ],
+      "answer": "D",
+      "rationale": "Side-lying with the head flexed lets the tongue fall forward and secretions drain.",
+      "explanations": [
+        "Not enough.",
+        "Not for aspiration.",
+        "Never.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1197 (PDF p. 1489)",
+      "quote": "Positioning the client on one side with the head flexed forward allows the tongue to fall forward"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which item is essential for moving a client in leg traction?",
+      "options": [
+        "Footboard",
+        "Extra pillows",
+        "Overhead trapeze",
+        "Bed cradle"
+      ],
+      "answer": "C",
+      "rationale": "A trapeze lets the client lift straight up without altering the traction pull.",
+      "explanations": [
+        "Not for moving.",
+        "Not for moving.",
+        "Correct.",
+        "Not for moving."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1203 (PDF p. 1495)",
+      "quote": "A trapeze is essential to allow the client to lift straight up while being moved"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which lab result is MOST important to report for a client on TPN?",
+      "options": [
+        "WBC count",
+        "Serum electrolytes",
+        "Hemoglobin",
+        "Platelets"
+      ],
+      "answer": "B",
+      "rationale": "The provider uses electrolyte values to formulate the TPN solution.",
+      "explanations": [
+        "Less important.",
+        "Correct.",
+        "Less important.",
+        "Less important."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1207 (PDF p. 1499)",
+      "quote": "Total parenteral nutrition solutions contain amino acids and dextrose in solution with electrolytes"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which is the BEST indicator of nutritional status during enteral feeding?",
+      "options": [
+        "Daily weight",
+        "Calorie count",
+        "Intake and output",
+        "Serum prealbumin"
+      ],
+      "answer": "D",
+      "rationale": "Prealbumin is the most important parameter for nutritional effectiveness; it reflects recent changes.",
+      "explanations": [
+        "Affected by fluid.",
+        "Intake only.",
+        "Fluid only.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1235 (PDF p. 1528)",
+      "quote": "A serum prealbumin level is the most important parameter for determining the effectiveness"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which finding MOST reliably shows a post-op NG tube to suction is working?",
+      "options": [
+        "Client denies nausea",
+        "Bowel sounds present",
+        "Tube taped well",
+        "Drainage flowing, abdomen soft"
+      ],
+      "answer": "D",
+      "rationale": "The tube decompresses the bowel; flowing drainage with no abdominal distention shows function.",
+      "explanations": [
+        "Supportive only.",
+        "GI is inactive.",
+        "Not function.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1237 (PDF p. 1530)",
+      "quote": "An NG tube connected to suction is used postoperatively to decompress and rest the bowel."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "An antibiotic vial makes 2 g in 5 mL after mixing. How many mL for 650 mg?",
+      "options": [
+        "1.2 mL",
+        "1.6 mL",
+        "2.5 mL",
+        "3.1 mL"
+      ],
+      "answer": "B",
+      "rationale": "2 g = 2000 mg in 5 mL: 650 ÷ 2000 × 5 = 1.6 mL.",
+      "explanations": [
+        "Miscalculated.",
+        "Correct.",
+        "Miscalculated.",
+        "Miscalculated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1254 (PDF p. 1554)",
+      "quote": "Convert 2 g to mg and then use the formula for calculating medication doses."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Equipment for High-Acuity & Emergency Care",
+      "situation": "",
+      "stem": "How is an oropharyngeal airway inserted in an adult?",
+      "options": [
+        "Neck flexed",
+        "Dentures left in",
+        "Tip down, push straight in",
+        "Tip up, then rotate down"
+      ],
+      "answer": "D",
+      "rationale": "The airway is inserted tip up and rotated down once the flange reaches the teeth, with the neck hyperextended.",
+      "explanations": [
+        "Hyperextend.",
+        "Remove.",
+        "Pushes tongue back.",
+        "Correct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1287 (PDF p. 1587)",
+      "quote": "The airway is inserted with the tip pointed upward and is then rotated downward"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which statement after a stress management seminar needs MORE teaching?",
+      "options": [
+        "'I'll use guided imagery.'",
+        "'I'll try muscle relaxation.'",
+        "'Confrontation will reduce my stress.'",
+        "'Biofeedback can help me.'"
+      ],
+      "answer": "C",
+      "rationale": "Confrontation is a communication technique and may increase stress; the others are stress management techniques.",
+      "explanations": [
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: not a technique.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1293 (PDF p. 1594)",
+      "quote": "Confrontation is a communication technique, not a stress management technique."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which finding shows the lung has fully re-expanded with a chest tube?",
+      "options": [
+        "Continuous bubbling",
+        "Drainage increased",
+        "No fluctuation in water seal",
+        "Tidaling with breaths"
+      ],
+      "answer": "C",
+      "rationale": "With full expansion, no air remains to cause fluctuation (tidaling) in the water-seal chamber.",
+      "explanations": [
+        "Air leak.",
+        "Not expansion.",
+        "Correct.",
+        "Still open space."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1301 (PDF p. 1602)",
+      "quote": "When the lung has completely expanded, there is no longer air in the pleural space"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which method effectively prevents STIs?",
+      "options": [
+        "Birth control pills",
+        "Douching after sex",
+        "Correct condom use",
+        "Urinating after sex"
+      ],
+      "answer": "C",
+      "rationale": "Effective measures are abstinence, correct condom use, and avoiding multiple partners.",
+      "explanations": [
+        "No STI protection.",
+        "Not effective.",
+        "Correct.",
+        "Not effective."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1335 (PDF p. 1637)",
+      "quote": "Effective measures to avoid STIs include abstinence, using condoms properly, and avoiding multiple partners"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which exercise BEST strengthens the lower back?",
+      "options": [
+        "Weight lifting with twists",
+        "Rowing",
+        "Golf",
+        "Swimming"
+      ],
+      "answer": "D",
+      "rationale": "Walking and swimming strengthen back muscles; twisting and pulling activities do not help.",
+      "explanations": [
+        "Twisting.",
+        "Pulling.",
+        "Twisting.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1337 (PDF p. 1640)",
+      "quote": "Walking and swimming are very beneficial in strengthening back muscles"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "How does a woman prepare for a midstream urine culture?",
+      "options": [
+        "Bathe first",
+        "Wipe front to back",
+        "Catch first stream",
+        "Use any cup"
+      ],
+      "answer": "B",
+      "rationale": "The perineum is cleansed front to back with antiseptic swabs; the midstream portion is collected in a sterile cup.",
+      "explanations": [
+        "Unnecessary.",
+        "Correct.",
+        "Midstream.",
+        "Sterile cup."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1397 (PDF p. 1701)",
+      "quote": "the client cleanses the perineum from front to back using antiseptic swabs."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which statement shows parents understand home colostomy care for Hirschsprung's disease?",
+      "options": [
+        "'Ribbon stools are normal.'",
+        "'We'll report ribbonlike stools.'",
+        "'No flatus is fine.'",
+        "'Skin redness is expected.'"
+      ],
+      "answer": "B",
+      "rationale": "Parents report skin breakdown or stomal problems, such as ribbonlike stools or failure to pass flatus or stool.",
+      "explanations": [
+        "Report it.",
+        "Correct.",
+        "Report it.",
+        "Report it."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1407 (PDF p. 1713)",
+      "quote": "stomal complications, such as ribbonlike stools or failure to pass flatus or stools"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which is routine chest tube care?",
+      "options": [
+        "Encourage coughing and deep breathing",
+        "Clamp the tube daily",
+        "Strip the tubing hourly",
+        "Keep the unit above the chest"
+      ],
+      "answer": "A",
+      "rationale": "Coughing and deep breathing aid lung expansion; water is added to the suction chamber as needed.",
+      "explanations": [
+        "Correct.",
+        "Not routine.",
+        "Not routine.",
+        "Backflow."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1426 (PDF p. 1735)",
+      "quote": "The client is encouraged to cough and deep breathe to assist in lung expansion."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which items are gathered for tracheostomy care?",
+      "options": [
+        "Clean gloves only",
+        "Trach and suction kits",
+        "Cotton and alcohol",
+        "Tape and scissors"
+      ],
+      "answer": "B",
+      "rationale": "Equipment includes a trach care kit, sterile water and saline, and a suction kit.",
+      "explanations": [
+        "Incomplete.",
+        "Correct.",
+        "Not used.",
+        "Incomplete."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1434 (PDF p. 1743)",
+      "quote": "Equipment needed to perform tracheostomy care includes a tracheostomy care kit, sterile water and saline solutions"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the safe wall suction range for an adult tracheostomy?",
+      "options": [
+        "40–60 mm Hg",
+        "60–80 mm Hg",
+        "80–120 mm Hg",
+        "150–200 mm Hg"
+      ],
+      "answer": "C",
+      "rationale": "The safe adult range is 80 to 120 mm Hg, with hyperoxygenation before and after.",
+      "explanations": [
+        "Too low.",
+        "Low end.",
+        "Correct.",
+        "Too high."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1447 (PDF p. 1756)",
+      "quote": "The safe wall suction range for an adult is 80 to 120 mm Hg"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How is an iron injection given?",
+      "options": [
+        "Deltoid with air lock",
+        "Gluteal, Z-track",
+        "Thigh, 5/8-inch needle",
+        "Abdomen, SC"
+      ],
+      "answer": "B",
+      "rationale": "Parenteral iron is given deep in the gluteal muscle by Z-track to prevent staining and irritation.",
+      "explanations": [
+        "Too small.",
+        "Correct.",
+        "Too shallow.",
+        "Wrong route."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1453 (PDF p. 1762)",
+      "quote": "The correct technique for administering parenteral iron is deep in the gluteal muscle using Z-track technique"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client on inhaled albuterol cannot cough up secretions. What helps MOST?",
+      "options": [
+        "More exercise",
+        "A dehumidifier",
+        "Fewer fluids",
+        "More fluids, 2–3 L/day"
+      ],
+      "answer": "D",
+      "rationale": "Increased fluids (2000–3000 mL/day unless contraindicated) thin secretions.",
+      "explanations": [
+        "Not specific.",
+        "Dries airways.",
+        "Thickens.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1471 (PDF p. 1780)",
+      "quote": "The client should take in increased fluids (2000 to 3000 mL/day unless contraindicated)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which crutch statement needs MORE teaching?",
+      "options": [
+        "'I'll keep spare tips.'",
+        "'I'll check the tips often.'",
+        "'I'll lean on the handgrips.'",
+        "'I can use my cousin's crutches.'"
+      ],
+      "answer": "D",
+      "rationale": "Only crutches measured for the client are used unless adjusted to fit.",
+      "explanations": [
+        "Correct practice.",
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1486 (PDF p. 1795)",
+      "quote": "Crutches belonging to another person should not be used unless they have been adjusted to fit the client."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How is a new trach tube holder checked for proper tightness?",
+      "options": [
+        "No gap at all",
+        "Two fingers fit under it",
+        "Client can turn freely",
+        "Holder is loose"
+      ],
+      "answer": "B",
+      "rationale": "Two fingers should slide comfortably under the holder: secure but not too tight.",
+      "explanations": [
+        "Too tight.",
+        "Correct.",
+        "Not a measure.",
+        "Dislodgment."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1506 (PDF p. 1815)",
+      "quote": "There should be enough room for two fingers to slide comfortably under the tracheostomy holder."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Ibuprofen 0.4 g is ordered; tablets are 200 mg. How many tablets?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "rationale": "0.4 g = 400 mg; 400 ÷ 200 = 2 tablets.",
+      "explanations": [
+        "Miscalculated.",
+        "Correct.",
+        "Miscalculated.",
+        "Miscalculated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1530 (PDF p. 1840)",
+      "quote": "Convert 0.4 g to mg."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "What should the nurse do before giving a Mantoux test?",
+      "options": [
+        "Use a 3-mL syringe",
+        "Inject deep IM",
+        "Ask about prior PPD reactions",
+        "Massage the site"
+      ],
+      "answer": "C",
+      "rationale": "The nurse explains the test and asks about prior positive reactions; it is not given if there was one. It is given intradermally with a tuberculin syringe.",
+      "explanations": [
+        "Tuberculin syringe.",
+        "Intradermal.",
+        "Correct.",
+        "Not done."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1550 (PDF p. 1863)",
+      "quote": "The test should not be administered if the client has such a history."
+    }
+  ]
+}

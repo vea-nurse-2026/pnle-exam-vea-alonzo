@@ -1,0 +1,557 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Straight lines appearing wavy to an older adult suggests:",
+      "options": [
+        "Wet macular degeneration",
+        "Senile cataract",
+        "Chronic glaucoma",
+        "Age presbyopia"
+      ],
+      "answer": "A",
+      "rationale": "Wet AMD: abnormal vessels leak under the retina, distorting central vision.",
+      "explanations": [
+        "Correct.",
+        "Blur, glare.",
+        "Peripheral.",
+        "Near vision."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Macular Degeneration (PDF p. 479)",
+      "quote": "Patients report that straight lines appear crooked and distorted"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client with macular degeneration is given an Amsler grid. The nurse instructs to:",
+      "options": [
+        "Check one eye at a time weekly",
+        "Use only once a year",
+        "Look with both eyes together",
+        "Use without glasses"
+      ],
+      "answer": "A",
+      "rationale": "Check each eye several times weekly with glasses; report changes.",
+      "explanations": [
+        "Correct.",
+        "Too seldom.",
+        "One eye.",
+        "With glasses."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, AMD Nursing (PDF p. 479)",
+      "quote": "look at these grids, one eye at a time, several times each week"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client has a metal fragment protruding from the eye. The nurse should:",
+      "options": [
+        "Shield the eye, do not remove",
+        "Pull out the object",
+        "Apply a pressure patch",
+        "Irrigate forcefully"
+      ],
+      "answer": "A",
+      "rationale": "Never remove; protect with a metal shield or cup; no pressure.",
+      "explanations": [
+        "Correct.",
+        "Damage.",
+        "Pressure.",
+        "Damage."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Penetrating Injuries (PDF p. 480)",
+      "quote": "No attempt should be made to remove the foreign object"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A chemical splashes into a worker's eye. The first action is:",
+      "options": [
+        "Irrigate now",
+        "Apply a patch",
+        "Wait for doctor",
+        "Rub the eye"
+      ],
+      "answer": "A",
+      "rationale": "Immediately irrigate with tap water or normal saline.",
+      "explanations": [
+        "Correct.",
+        "Delay.",
+        "Delay.",
+        "Damage."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Splash Injury (PDF p. 480)",
+      "quote": "Eye should be immediately irrigated with tap water or normal saline"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Blood in the anterior chamber of the eye after trauma is called:",
+      "options": [
+        "Hyphema",
+        "Chemosis",
+        "Papilledema",
+        "Ptosis"
+      ],
+      "answer": "A",
+      "rationale": "Hyphema is hemorrhage within the chamber.",
+      "explanations": [
+        "Correct.",
+        "Conjunctival edema.",
+        "Disc swelling.",
+        "Lid droop."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Contusion of the Eyeball (PDF p. 480)",
+      "quote": "Hyphema (hemorrhage within the chamber)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Enucleation of an irreparable injured eye is done within 2 weeks to prevent:",
+      "options": [
+        "Sympathetic ophthalmia",
+        "Glaucoma",
+        "Cataract",
+        "Conjunctivitis"
+      ],
+      "answer": "A",
+      "rationale": "Sympathetic ophthalmia can blind the uninjured eye.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Eye Trauma (PDF p. 480)",
+      "quote": "to prevent the risk of sympathetic ophthalmia"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A normal tympanic membrane appears:",
+      "options": [
+        "Pearly gray, translucent",
+        "Red, bulging",
+        "Yellow, opaque",
+        "White, scarred"
+      ],
+      "answer": "A",
+      "rationale": "Normal TM is pearly gray and translucent.",
+      "explanations": [
+        "Correct.",
+        "Otitis media.",
+        "Fluid.",
+        "Old perforation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Ear Anatomy (PDF p. 480)",
+      "quote": "Normally pearly gray and translucent"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Pain when the auricle is pulled suggests:",
+      "options": [
+        "Otitis externa",
+        "Mastoiditis",
+        "Meniere's disease",
+        "Otosclerosis"
+      ],
+      "answer": "A",
+      "rationale": "External otitis causes pain on auricle manipulation; mastoid tenderness suggests mastoiditis.",
+      "explanations": [
+        "Correct.",
+        "Mastoid.",
+        "Vertigo.",
+        "Hearing."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Auditory Assessment (PDF p. 481)",
+      "quote": "External otitis is suspected if there is pain upon manipulation of the auricle"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "In conductive hearing loss, the Weber test lateralizes to the:",
+      "options": [
+        "Affected ear",
+        "Better ear",
+        "Neither ear",
+        "Both equally"
+      ],
+      "answer": "A",
+      "rationale": "Conductive: Weber to affected ear, bone > air on Rinne; sensorineural: Weber to better ear.",
+      "explanations": [
+        "Correct.",
+        "Sensorineural.",
+        "Not this.",
+        "Normal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Tuning Fork Tests (PDF p. 482)",
+      "quote": "hears the sound better in the affected ear"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A normal Rinne test shows:",
+      "options": [
+        "Air > bone",
+        "Bone > air",
+        "Air = bone",
+        "No sound"
+      ],
+      "answer": "A",
+      "rationale": "Normally air conduction is longer than bone conduction.",
+      "explanations": [
+        "Correct.",
+        "Conductive loss.",
+        "Not normal.",
+        "Not normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Tuning Fork Tests (PDF p. 482)",
+      "quote": "air-conducted sound is louder than bone-conducted sound"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which teaching prevents otitis externa (swimmer's ear)?",
+      "options": [
+        "Keep ear canal dry",
+        "Clean ears with cotton swabs",
+        "Swim with water in ears",
+        "Insert pins to scratch"
+      ],
+      "answer": "A",
+      "rationale": "Avoid wetting and trauma; do not use cotton-tipped applicators.",
+      "explanations": [
+        "Correct.",
+        "Trauma.",
+        "Causes.",
+        "Trauma."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Otitis Externa (PDF p. 482)",
+      "quote": "Instruct patients not to clean the external auditory canal with cotton-tipped applicators"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Meniere's triad consists of vertigo, tinnitus, and:",
+      "options": [
+        "Sensorineural hearing loss",
+        "Facial paralysis",
+        "Ear discharge",
+        "Fever"
+      ],
+      "answer": "A",
+      "rationale": "Abnormal endolymph causes vertigo, tinnitus, and fluctuating sensorineural loss.",
+      "explanations": [
+        "Correct.",
+        "Bell's.",
+        "Otitis.",
+        "Infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Meniere's Disease (PDF p. 483)",
+      "quote": "Meniere’s Triad"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "During a vertigo attack from Meniere's disease, the client should:",
+      "options": [
+        "Lie still in a safe place",
+        "Walk it off",
+        "Turn head rapidly",
+        "Read a book"
+      ],
+      "answer": "A",
+      "rationale": "Lie down and stay still; recognize aura to prepare.",
+      "explanations": [
+        "Correct.",
+        "Falls.",
+        "Worsens.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Meniere's Nursing (PDF p. 484)",
+      "quote": "Encourage patient to lie down during attack, in safe place, and lie still"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which diet modification helps Meniere's disease?",
+      "options": [
+        "Limit salt",
+        "High sodium",
+        "Unlimited alcohol",
+        "High sugar"
+      ],
+      "answer": "A",
+      "rationale": "Limit salt, sugar, and alcohol to stabilize inner ear fluid.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Worsens.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Meniere's Nursing (PDF p. 484)",
+      "quote": "Limit foods high in salt or sugar."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which drug is commonly used to control vertigo?",
+      "options": [
+        "Meclizine",
+        "Aspirin",
+        "Furosemide",
+        "Atenolol"
+      ],
+      "answer": "A",
+      "rationale": "Vestibular suppressants such as meclizine control vertigo.",
+      "explanations": [
+        "Correct.",
+        "Avoid.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Meniere's Management (PDF p. 483)",
+      "quote": "Meclizine (Antivert, Bonine) up to 25 mg qid"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "An insect is lodged in a child's ear. The nurse should first:",
+      "options": [
+        "Instill mineral oil",
+        "Irrigate with water",
+        "Use cotton swab",
+        "Apply heat"
+      ],
+      "answer": "A",
+      "rationale": "Irrigation is contraindicated for insects; mineral oil kills and dislodges it.",
+      "explanations": [
+        "Correct.",
+        "Contraindicated.",
+        "Pushes deeper.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Foreign Bodies (PDF p. 484)",
+      "quote": "Insect can be dislodged by instilling mineral oil"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Ear irrigation to remove cerumen is contraindicated with:",
+      "options": [
+        "Perforated eardrum",
+        "Dry cerumen",
+        "Older age",
+        "Hearing aids"
+      ],
+      "answer": "A",
+      "rationale": "Do not irrigate with a perforated drum or inflamed canal.",
+      "explanations": [
+        "Correct.",
+        "Soften first.",
+        "Common.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Impacted Cerumen (PDF p. 484)",
+      "quote": "unless the patient has a perforated eardrum"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "The intraoperative phase begins when:",
+      "options": [
+        "Client is transferred to OR table",
+        "Decision for surgery is made",
+        "Client reaches PACU",
+        "Client is discharged"
+      ],
+      "answer": "A",
+      "rationale": "Intraoperative: OR table transfer until PACU admission.",
+      "explanations": [
+        "Correct.",
+        "Preoperative.",
+        "Postoperative.",
+        "Postoperative end."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Perioperative Nursing (PDF p. 485)",
+      "quote": "Intraoperative phase begins when the patient is transferred onto the OR table"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Surgery for intestinal obstruction is classified as:",
+      "options": [
+        "Emergency",
+        "Elective",
+        "Optional",
+        "Required"
+      ],
+      "answer": "A",
+      "rationale": "Emergency surgery requires immediate attention.",
+      "explanations": [
+        "Correct.",
+        "Convenience.",
+        "Preference.",
+        "Weeks."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Surgical Classifications (PDF p. 485)",
+      "quote": "Emergency – The situation requires immediate surgical attention without delay"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "A gastrostomy tube for a client unable to swallow is which type of surgery?",
+      "options": [
+        "Palliative",
+        "Curative",
+        "Reconstructive",
+        "Diagnostic"
+      ],
+      "answer": "A",
+      "rationale": "Palliative surgery relieves symptoms without curing.",
+      "explanations": [
+        "Correct.",
+        "Removes disease.",
+        "Cosmetic.",
+        "Biopsy."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Surgical Classifications (PDF p. 485)",
+      "quote": "Palliative (eg, to relieve pain or correct a problem"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Who is responsible for obtaining informed surgical consent?",
+      "options": [
+        "Surgeon",
+        "Circulating nurse",
+        "Scrub nurse",
+        "Anesthesiologist only"
+      ],
+      "answer": "A",
+      "rationale": "The surgeon explains and obtains consent; the nurse may witness.",
+      "explanations": [
+        "Correct.",
+        "Verifies.",
+        "Not this.",
+        "Anesthesia only."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Informed Consent (PDF p. 485)",
+      "quote": "Consent is obtained by the surgeon."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which is a responsibility of the circulating nurse?",
+      "options": [
+        "Verifying consent",
+        "Handing instruments",
+        "Performing incision",
+        "Giving anesthesia"
+      ],
+      "answer": "A",
+      "rationale": "Circulator verifies consent, coordinates team, monitors asepsis, and does counts with the scrub nurse.",
+      "explanations": [
+        "Correct.",
+        "Scrub nurse.",
+        "Surgeon.",
+        "Anesthesiologist."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Surgical Team (PDF p. 485)",
+      "quote": "Verifying consent"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "In which OR zone are masks required at all times?",
+      "options": [
+        "Restricted",
+        "Semi-restricted",
+        "Unrestricted",
+        "Holding area"
+      ],
+      "answer": "A",
+      "rationale": "Restricted zone requires scrubs, caps, shoe covers, and masks.",
+      "explanations": [
+        "Correct.",
+        "Scrubs, caps.",
+        "Street clothes.",
+        "Unrestricted."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Surgical Environment (PDF p. 486)",
+      "quote": "Restricted zone: scrub clothes, shoe cover caps, and masks are worn"
+    }
+  ]
+}

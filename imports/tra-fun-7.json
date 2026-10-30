@@ -1,0 +1,581 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "When should an ostomy pouch be emptied?",
+      "options": [
+        "When one-third full",
+        "When completely full",
+        "Once a week",
+        "Only at night"
+      ],
+      "answer": "A",
+      "rationale": "Empty the pouch when one-third full; an overly full bag can loosen the skin barrier.",
+      "explanations": [
+        "Correct.",
+        "Loosens barrier.",
+        "Too seldom.",
+        "Not the rule."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Ostomy Care (PDF p. 48)",
+      "quote": "Empty if ostomy bag is 1/3 full."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which product should be avoided when cleaning peristomal skin?",
+      "options": [
+        "Warm water",
+        "Moisturizing soap",
+        "Soft washcloth",
+        "Patting dry"
+      ],
+      "answer": "B",
+      "rationale": "Deodorant or moisturizing soaps interfere with skin barrier adhesives.",
+      "explanations": [
+        "Fine.",
+        "Correct answer.",
+        "Fine.",
+        "Fine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Ostomy Care (PDF p. 48)",
+      "quote": "Do not use deodorant or moisturizing soaps"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "When is the best time to change an ostomy appliance?",
+      "options": [
+        "Right after meals",
+        "Close to visiting hours",
+        "Away from meals and medications",
+        "After giving laxatives"
+      ],
+      "answer": "C",
+      "rationale": "Avoid times near meals, visiting hours, or after medications, which may stimulate evacuation.",
+      "explanations": [
+        "Stimulates output.",
+        "Embarrassing.",
+        "Correct.",
+        "Stimulates output."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Ostomy Care (PDF p. 48)",
+      "quote": "Avoid times immediately after meals or the administration of any medications"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which urine specific gravity is normal?",
+      "options": [
+        "1.002",
+        "1.015",
+        "1.035",
+        "1.050"
+      ],
+      "answer": "B",
+      "rationale": "Normal specific gravity is 1.010–1.025.",
+      "explanations": [
+        "Too dilute.",
+        "Correct.",
+        "Concentrated.",
+        "Concentrated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Urine Characteristics (PDF p. 48)",
+      "quote": "Normal: 1.010-1.025"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "An adult's normal 24-hour urine output is about:",
+      "options": [
+        "400–600 mL",
+        "1200–1500 mL",
+        "3000–4000 mL",
+        "200 mL"
+      ],
+      "answer": "B",
+      "rationale": "Normal adult output is 1200–1500 mL per 24 hours.",
+      "explanations": [
+        "Oliguria.",
+        "Correct.",
+        "Polyuria.",
+        "Anuria range."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Urine Characteristics (PDF p. 48)",
+      "quote": "Normal: 1200-1500 ml"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Urine output under 500 mL a day in an adult is called:",
+      "options": [
+        "Polyuria",
+        "Oliguria",
+        "Anuria",
+        "Nocturia"
+      ],
+      "answer": "B",
+      "rationale": "Oliguria is low output, usually under 500 mL/day; anuria is under 100 mL/day.",
+      "explanations": [
+        "Large amounts.",
+        "Correct.",
+        "Under 100 mL.",
+        "Night voiding."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Urinary Problems (PDF p. 49)",
+      "quote": "Oliguria- low urine output usually less than 500 ml/day"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "A woman leaks a little urine when she sneezes. Which incontinence is this?",
+      "options": [
+        "Urge",
+        "Stress",
+        "Reflex",
+        "Total"
+      ],
+      "answer": "B",
+      "rationale": "Stress incontinence is leakage (under 50 mL) with increased abdominal pressure from sneezing or coughing.",
+      "explanations": [
+        "Strong urge.",
+        "Correct.",
+        "Bladder volume.",
+        "Continuous."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Urinary Incontinence (PDF p. 49)",
+      "quote": "Stress incontinence – leakage of less than 50 ml of urine as a result of sudden increase in intra-abdominal pressure"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Involuntary urination in children beyond what age is called enuresis?",
+      "options": [
+        "2 years",
+        "4–5 years",
+        "8 years",
+        "12 years"
+      ],
+      "answer": "B",
+      "rationale": "Enuresis is involuntary urination in children beyond 4–5 years old.",
+      "explanations": [
+        "Too young.",
+        "Correct.",
+        "Not the cutoff.",
+        "Not the cutoff."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Urinary Problems (PDF p. 49)",
+      "quote": "Enuresis- involuntary urination in children beyond 4-5 years old"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which catheter is used for continuous bladder irrigation?",
+      "options": [
+        "Straight catheter",
+        "Two-way Foley",
+        "Three-way Foley",
+        "Condom catheter"
+      ],
+      "answer": "C",
+      "rationale": "The three-way Foley has a third lumen for irrigating fluid.",
+      "explanations": [
+        "Single use.",
+        "No irrigation lumen.",
+        "Correct.",
+        "External."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Urinary Catheterization (PDF p. 49)",
+      "quote": "Three-way Foley catheter is used for clients who requires continuous or intermittent bladder irrigation"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which catheter size is usually used for an adult female?",
+      "options": [
+        "Fr 8",
+        "Fr 12–14",
+        "Fr 16–18",
+        "Fr 22"
+      ],
+      "answer": "B",
+      "rationale": "Female Fr 12–14; male Fr 16–18.",
+      "explanations": [
+        "Too small.",
+        "Correct.",
+        "Male.",
+        "Too large."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Urinary Catheter (PDF p. 50)",
+      "quote": "Female: Fr. 12-14"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "During female catheterization, the catheter slips into the vagina. What should the nurse do?",
+      "options": [
+        "Pull it out and reinsert it",
+        "Leave it and insert a new sterile catheter",
+        "Advance it further",
+        "Use the same catheter after wiping"
+      ],
+      "answer": "B",
+      "rationale": "Leave it in the vagina as a landmark and insert a new sterile catheter into the meatus.",
+      "explanations": [
+        "Contaminated.",
+        "Correct.",
+        "Wrong place.",
+        "Contaminated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Urinary Catheter (PDF p. 50)",
+      "quote": "If the catheter accidentally slips into vagina, leave it there until new catheter is inserted in the meatus"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "How is the penis held during male catheter insertion?",
+      "options": [
+        "Parallel to the legs",
+        "At 90° to the body",
+        "Pointed down",
+        "Not held"
+      ],
+      "answer": "B",
+      "rationale": "Holding the penis perpendicular (90°) straightens the urethra.",
+      "explanations": [
+        "Wrong.",
+        "Correct.",
+        "Wrong.",
+        "Wrong."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Urinary Catheter (PDF p. 50)",
+      "quote": "hold the penis at 90 degree angle or perpendicular to the body"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "How much urine is drained at a time when relieving a distended bladder?",
+      "options": [
+        "All of it",
+        "750–1000 mL",
+        "200 mL",
+        "2000 mL"
+      ],
+      "answer": "B",
+      "rationale": "Gradual decompression of 750–1000 mL at a time prevents shock.",
+      "explanations": [
+        "Shock risk.",
+        "Correct.",
+        "Too little.",
+        "Too much."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Urinary Catheter (PDF p. 50)",
+      "quote": "Only 750-1000ml of urine are to be drained at a time"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Where is a male's indwelling catheter anchored?",
+      "options": [
+        "On the inner thigh",
+        "On lower abdomen",
+        "Around the knee",
+        "Not anchored"
+      ],
+      "answer": "B",
+      "rationale": "Anchoring on the lower abdomen prevents penoscrotal pressure; females are anchored on the inner thigh.",
+      "explanations": [
+        "Female.",
+        "Correct.",
+        "Not done.",
+        "Needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Urinary Catheter (PDF p. 50)",
+      "quote": "Male: laterally or upward over the lower abdomen to prevent penoscrotal pressure"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "After Foley removal, within how many hours should the client void?",
+      "options": [
+        "1–2 hours",
+        "6–8 hours",
+        "24 hours",
+        "48 hours"
+      ],
+      "answer": "B",
+      "rationale": "Voiding is expected within 6–8 hours; if not by 8 hours, assess for retention.",
+      "explanations": [
+        "Too early.",
+        "Correct.",
+        "Too long.",
+        "Too long."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Removal of Catheter (PDF p. 50)",
+      "quote": "Voiding should be expected within 6-8 hours from the time of removal of the catheter"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "From which end is a stretcher pushed?",
+      "options": [
+        "The foot end",
+        "The head end",
+        "Either end",
+        "From the side"
+      ],
+      "answer": "B",
+      "rationale": "Push from the head end to protect the client's head in a collision.",
+      "explanations": [
+        "Unsafe.",
+        "Correct.",
+        "Not safe.",
+        "Not standard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Safe Use of Stretcher (PDF p. 50)",
+      "quote": "Always push a stretcher from the end where the client’s head in the positioned."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "How is the wheelchair placed for a client who has difficulty walking?",
+      "options": [
+        "At a 45° angle to the bed",
+        "Far from the bed",
+        "Facing away",
+        "Perpendicular, wheels unlocked"
+      ],
+      "answer": "A",
+      "rationale": "A 45° angle lets the client pivot into the chair with less rotation; wheels are locked.",
+      "explanations": [
+        "Correct.",
+        "Unsafe.",
+        "Unsafe.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Bed to Wheelchair Transfer (PDF p. 51)",
+      "quote": "place the wheelchair at a 45-degree angle to the bed"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "A wife grieves for months before her ailing husband dies. This is:",
+      "options": [
+        "Abbreviated grief",
+        "Anticipatory grief",
+        "Disenfranchised grief",
+        "Delayed grief"
+      ],
+      "answer": "B",
+      "rationale": "Anticipatory grief is experienced before the loss occurs.",
+      "explanations": [
+        "Brief.",
+        "Correct.",
+        "Unspoken loss.",
+        "Suppressed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Types of Grief (PDF p. 52)",
+      "quote": "Anticipatory grief — experienced in advance of the event"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "A woman cannot openly grieve a loss society disapproves of. This is:",
+      "options": [
+        "Disenfranchised grief",
+        "Anticipatory grief",
+        "Exaggerated grief",
+        "Abbreviated grief"
+      ],
+      "answer": "A",
+      "rationale": "Disenfranchised grief occurs when the loss cannot be disclosed, often a socially unacceptable loss.",
+      "explanations": [
+        "Correct.",
+        "Before loss.",
+        "Dangerous behavior.",
+        "Brief."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Types of Grief (PDF p. 52)",
+      "quote": "Disenfranchised grief — occurs when a person is unable to disclose the loss to other persons"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Grief suppressed for a long time and expressed much later is:",
+      "options": [
+        "Inhibited",
+        "Delayed",
+        "Chronic",
+        "Exaggerated"
+      ],
+      "answer": "B",
+      "rationale": "Delayed grief occurs when feelings are suppressed until a much later time.",
+      "explanations": [
+        "Somatic.",
+        "Correct.",
+        "Prolonged.",
+        "Dangerous."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Complicated Grief (PDF p. 52)",
+      "quote": "Delayed grief - occurs when feelings are purposely or subconsciously suppressed until a much later time"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "A client in the denial stage acts falsely cheerful. What should the nurse do?",
+      "options": [
+        "Force reality on him",
+        "Support, don't reinforce",
+        "Agree he is fine",
+        "Avoid him"
+      ],
+      "answer": "B",
+      "rationale": "In denial, the nurse supports the client verbally but does not reinforce denial.",
+      "explanations": [
+        "Harsh.",
+        "Correct.",
+        "Reinforces.",
+        "Abandons."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Kubler-Ross Stages (PDF p. 52)",
+      "quote": "Verbally support client but do not reinforce denial"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "A dying client is angry at the nurse over small matters. What is BEST?",
+      "options": [
+        "Retaliate calmly",
+        "Withdraw from him",
+        "Accept it as normal",
+        "Ignore him"
+      ],
+      "answer": "C",
+      "rationale": "Help the client see anger as a normal response to loss; avoid withdrawal or retaliation.",
+      "explanations": [
+        "Unprofessional.",
+        "Abandons.",
+        "Correct.",
+        "Abandons."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Kubler-Ross Stages (PDF p. 52)",
+      "quote": "Avoid withdrawal or retaliation"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "In the depression stage of grief, what helps MOST?",
+      "options": [
+        "Cheer him up",
+        "Sit quietly and convey caring",
+        "Discuss funeral plans",
+        "Leave him alone"
+      ],
+      "answer": "B",
+      "rationale": "Allow sadness, communicate nonverbally by sitting quietly, and convey caring by touch.",
+      "explanations": [
+        "Dismisses.",
+        "Correct.",
+        "Not now.",
+        "Abandons."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Kubler-Ross Stages (PDF p. 53)",
+      "quote": "Communicate nonverbally by sitting quietly without expecting conversation"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which is a sign of impending death from loss of muscle tone?",
+      "options": [
+        "Jaw sagging",
+        "Increased appetite",
+        "Hypertension",
+        "Warm extremities"
+      ],
+      "answer": "A",
+      "rationale": "Loss of muscle tone includes facial relaxation (sagging jaw), difficulty swallowing, and incontinence.",
+      "explanations": [
+        "Correct.",
+        "Not typical.",
+        "Not typical.",
+        "Cool instead."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Signs of Impending Death (PDF p. 53)",
+      "quote": "Relaxation of the facial muscles (e.g., the jaw may sag)"
+    }
+  ]
+}

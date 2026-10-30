@@ -1,0 +1,533 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which side effect is expected with aluminum hydroxide antacids?",
+      "options": [
+        "Constipation",
+        "Diarrhea",
+        "Hypertension",
+        "Hair loss"
+      ],
+      "answer": "A",
+      "rationale": "Aluminum compounds cause constipation; magnesium compounds cause diarrhea.",
+      "explanations": [
+        "Correct.",
+        "Magnesium.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Antacids (PDF p. 118)",
+      "quote": "Aluminum compounds = constipation, intestinal obstruction"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Magnesium hydroxide (milk of magnesia) as an antacid may cause:",
+      "options": [
+        "Diarrhea",
+        "Constipation",
+        "Bradycardia",
+        "Rash"
+      ],
+      "answer": "A",
+      "rationale": "Magnesium compounds cause diarrhea; aluminum compounds cause constipation.",
+      "explanations": [
+        "Correct.",
+        "Aluminum.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Antacids (PDF p. 118)",
+      "quote": "Magnesium compounds = diarrhea"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How should antacids be timed with sucralfate?",
+      "options": [
+        "Give them together",
+        "Space 30 minutes apart",
+        "Only at bedtime",
+        "Never use antacids"
+      ],
+      "answer": "B",
+      "rationale": "Avoid antacids within 30 minutes of sucralfate; give sucralfate on an empty stomach.",
+      "explanations": [
+        "Interferes.",
+        "Correct.",
+        "Not the rule.",
+        "Allowed if spaced."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anti-PUD Drugs (PDF p. 119)",
+      "quote": "Avoid antacids within 30 minutes of sucralfate"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Omeprazole belongs to which drug class?",
+      "options": [
+        "Proton pump inhibitor",
+        "H2 blocker",
+        "Cytoprotective agent",
+        "Antacid"
+      ],
+      "answer": "A",
+      "rationale": "Omeprazole and lansoprazole are PPIs; cimetidine, ranitidine, and famotidine are H2 blockers.",
+      "explanations": [
+        "Correct.",
+        "Famotidine.",
+        "Sucralfate.",
+        "Aluminum hydroxide."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Anti-PUD Drugs (PDF p. 118)",
+      "quote": "Omeprazole (Prilosec)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Antidiarrheals are contraindicated in which condition?",
+      "options": [
+        "Ulcerative colitis",
+        "Traveler's mild diarrhea",
+        "After antibiotics",
+        "Food intolerance"
+      ],
+      "answer": "A",
+      "rationale": "Antidiarrheals are contraindicated in ulcerative colitis (risk of toxic megacolon).",
+      "explanations": [
+        "Correct.",
+        "May be used.",
+        "May be used.",
+        "May be used."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Antidiarrheals (PDF p. 120)",
+      "quote": "Ulcerative colitis"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Long-term mineral oil use can reduce absorption of:",
+      "options": [
+        "Fat-soluble vitamins",
+        "Water-soluble vitamins",
+        "Protein",
+        "Sodium"
+      ],
+      "answer": "A",
+      "rationale": "Intestinal lubricants such as mineral oil inhibit absorption of vitamins A, D, E, and K.",
+      "explanations": [
+        "Correct.",
+        "Not affected.",
+        "Not affected.",
+        "Not affected."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Laxatives (PDF p. 120)",
+      "quote": "Intestinal lubricants inhibit absorption of fat-soluble vitamins"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Laxatives are contraindicated with which symptom?",
+      "options": [
+        "Unexplained abdominal pain",
+        "Mild constipation",
+        "Post-op hard stools",
+        "Hard, dry stool"
+      ],
+      "answer": "A",
+      "rationale": "Laxatives are contraindicated with GI obstruction, suspected appendicitis, and undiagnosed abdominal pain.",
+      "explanations": [
+        "Correct.",
+        "Indication.",
+        "May be used.",
+        "Indication."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Laxatives (PDF p. 120)",
+      "quote": "Suspected appendicitis"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Digoxin is described as having which effects?",
+      "options": [
+        "+ inotropic, − chronotropic",
+        "− inotropic, + chronotropic",
+        "+ inotropic, + chronotropic",
+        "− inotropic, − chronotropic"
+      ],
+      "answer": "A",
+      "rationale": "Digoxin strengthens contraction (+ inotropic) and slows the heart rate (− chronotropic).",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Rate slows.",
+        "Contraction rises."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Cardiac Glycosides (PDF p. 120)",
+      "quote": "(+) inotropic (Increased heart contractility)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client on digoxin sees yellow-green halos. What does this suggest?",
+      "options": [
+        "Digoxin toxicity",
+        "Normal effect",
+        "Cataract only",
+        "Low potassium only"
+      ],
+      "answer": "A",
+      "rationale": "Visual changes with yellow-green halos (xanthopsia) suggest digoxin toxicity.",
+      "explanations": [
+        "Correct.",
+        "Abnormal.",
+        "Not this.",
+        "Contributes, not the sign."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cardiac Glycosides (PDF p. 121)",
+      "quote": "Vision changes: yellow-green halos"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the antidote for digoxin toxicity?",
+      "options": [
+        "Digoxin immune Fab",
+        "Protamine sulfate",
+        "Vitamin K",
+        "Naloxone"
+      ],
+      "answer": "A",
+      "rationale": "Digoxin immune Fab (Digibind) is the antidote.",
+      "explanations": [
+        "Correct.",
+        "Heparin.",
+        "Warfarin.",
+        "Opioids."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cardiac Glycosides (PDF p. 121)",
+      "quote": "Antidote: DIGOXIN IMMUNE FAB (Digibind)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client on digoxin should report which weight change?",
+      "options": [
+        "Gain of about 1 kg (2 lb)",
+        "Loss of 5 kg",
+        "No change",
+        "Gain of 0.1 kg"
+      ],
+      "answer": "A",
+      "rationale": "Daily weights; report a 2-lb (about 1 kg) increase, which may indicate fluid retention.",
+      "explanations": [
+        "Correct.",
+        "Different issue.",
+        "Normal.",
+        "Trivial."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Cardiac Glycosides (PDF p. 121)",
+      "quote": "Daily weights: Report two-pound increase"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Losartan belongs to which antihypertensive class?",
+      "options": [
+        "ACE inhibitor",
+        "Angiotensin II receptor blocker",
+        "Calcium channel blocker",
+        "Beta blocker"
+      ],
+      "answer": "B",
+      "rationale": "Losartan, telmisartan, and irbesartan are ARBs; captopril and enalapril are ACE inhibitors.",
+      "explanations": [
+        "Captopril.",
+        "Correct.",
+        "Nifedipine.",
+        "Metoprolol."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Antihypertensives (PDF p. 121)",
+      "quote": "Losartan"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which teaching prevents orthostatic hypotension with antihypertensives?",
+      "options": [
+        "Change positions slowly",
+        "Stand up quickly",
+        "Take a hot shower",
+        "Skip doses"
+      ],
+      "answer": "A",
+      "rationale": "Clients are taught to change positions slowly and follow a low-sodium diet.",
+      "explanations": [
+        "Correct.",
+        "Causes falls.",
+        "Vasodilates.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Antihypertensives (PDF p. 122)",
+      "quote": "Change positions slowly"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which is a contraindication to streptokinase?",
+      "options": [
+        "Active bleeding",
+        "Recent MI",
+        "Pulmonary embolism",
+        "DVT"
+      ],
+      "answer": "A",
+      "rationale": "Thrombolytics are contraindicated with active bleeding, cerebral hemorrhage, recent surgery, and severe hypertension.",
+      "explanations": [
+        "Correct.",
+        "Indication.",
+        "Indication.",
+        "Indication."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Thrombolytics (PDF p. 122)",
+      "quote": "Active bleeding"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which is the antidote for thrombolytic-induced bleeding?",
+      "options": [
+        "Aminocaproic acid",
+        "Vitamin K",
+        "Protamine",
+        "Atropine"
+      ],
+      "answer": "A",
+      "rationale": "Aminocaproic acid, a fibrinolysis inhibitor, is the antidote for thrombolytics.",
+      "explanations": [
+        "Correct.",
+        "Warfarin.",
+        "Heparin.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Thrombolytics (PDF p. 122)",
+      "quote": "Antidote: Aminocaproic acid (Fibrinolysis Inhibitors)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client on atorvastatin should report which symptom?",
+      "options": [
+        "Muscle pain",
+        "Mild thirst",
+        "Better sleep",
+        "More appetite"
+      ],
+      "answer": "A",
+      "rationale": "Statins can cause muscle tenderness or weakness and liver dysfunction; LFTs are monitored.",
+      "explanations": [
+        "Correct.",
+        "Not related.",
+        "Not related.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Antilipemics (PDF p. 123)",
+      "quote": "Muscle tenderness or weakness"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How is a nitroglycerin patch used to prevent tolerance?",
+      "options": [
+        "Wear it all day",
+        "Remove after 12–14 h",
+        "Cut it in half",
+        "Put on hairy skin"
+      ],
+      "answer": "B",
+      "rationale": "Remove after 12–14 hours to allow a 10–12 hour patch-free interval; apply to hairless areas and rotate sites.",
+      "explanations": [
+        "Tolerance.",
+        "Correct.",
+        "Not done.",
+        "Hairless."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Antianginals (PDF p. 123)",
+      "quote": "remove the patch after 12-14 hours, allowing 10-12 \"patch-free\" hour"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Chest pain persists after 3 sublingual nitroglycerin tablets over 15 minutes. What next?",
+      "options": [
+        "Give a fourth tablet",
+        "Notify the physician immediately",
+        "Wait another hour",
+        "Give aspirin only"
+      ],
+      "answer": "B",
+      "rationale": "Give one tablet every 5 minutes up to three; if no relief after 15 minutes, notify the physician immediately.",
+      "explanations": [
+        "Exceeds limit.",
+        "Correct.",
+        "Dangerous delay.",
+        "Not enough."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Antianginals (PDF p. 124)",
+      "quote": "If pain is not relieved after 15 minutes and three tablets, notify physician immediately"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How often should sublingual nitroglycerin be replaced?",
+      "options": [
+        "About every 6 months",
+        "Every 5 years",
+        "Never",
+        "Every week"
+      ],
+      "answer": "A",
+      "rationale": "Replace approximately every six months and protect from heat and light.",
+      "explanations": [
+        "Correct.",
+        "Too long.",
+        "Loses potency.",
+        "Too often."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Antianginals (PDF p. 124)",
+      "quote": "Replace drug approximately every six months"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which teaching is given for beta blockers?",
+      "options": [
+        "Stop abruptly if dizzy",
+        "Do not stop abruptly",
+        "Take at different times daily",
+        "Skip pulse checks"
+      ],
+      "answer": "B",
+      "rationale": "Beta blockers are not discontinued abruptly; take the pulse first and take at the same time daily.",
+      "explanations": [
+        "Rebound.",
+        "Correct.",
+        "Same time.",
+        "Check pulse."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Beta Blockers (PDF p. 124)",
+      "quote": "Not to discontinue the drug abrupt"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client on a calcium channel blocker becomes constipated. What should the nurse advise?",
+      "options": [
+        "Increase fluids",
+        "Stop the drug",
+        "Eat less fiber",
+        "Take more caffeine"
+      ],
+      "answer": "A",
+      "rationale": "Increase fluids to counteract constipation; limit caffeine and avoid alcohol.",
+      "explanations": [
+        "Correct.",
+        "Not without order.",
+        "Worsens.",
+        "Limit caffeine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Calcium-Channel Blockers (PDF p. 125)",
+      "quote": "Increase fluids to counteract constipation"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "Which drug is used for anaphylactic shock?",
+      "options": [
+        "Epinephrine",
+        "Dobutamine",
+        "Digoxin",
+        "Propranolol"
+      ],
+      "answer": "A",
+      "rationale": "Epinephrine treats anaphylactic shock; dopamine and dobutamine treat hypovolemic and cardiogenic shock.",
+      "explanations": [
+        "Correct.",
+        "Cardiogenic.",
+        "Not shock.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hypotension and Shock (PDF p. 125)",
+      "quote": "Epinephrine: anaphylactic shock"
+    }
+  ]
+}

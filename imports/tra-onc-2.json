@@ -1,0 +1,725 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "The Whipple procedure for pancreatic cancer removes the head of the pancreas plus:",
+      "options": [
+        "Gallbladder and duodenum",
+        "Stomach and spleen",
+        "Both kidneys",
+        "Entire colon"
+      ],
+      "answer": "A",
+      "rationale": "Pancreaticoduodenectomy removes the pancreatic head, gallbladder, common bile duct, and part of the duodenum.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pancreatic Cancer Surgery (PDF p. 292)",
+      "quote": "Removal of the gallbladder, common bile duct, part of the duodenum and head of the pancreas"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which is a major risk factor for hepatocellular cancer in the Philippines?",
+      "options": [
+        "Chronic hepatitis B",
+        "Hepatitis A",
+        "Low-fat diet",
+        "Regular exercise"
+      ],
+      "answer": "A",
+      "rationale": "Risks include hepatitis B, cirrhosis, aflatoxin (moldy peanuts or corn), and alcohol.",
+      "explanations": [
+        "Correct.",
+        "Acute, self-limited.",
+        "Not a risk.",
+        "Protective."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hepatocellular Cancer (PDF p. 292)",
+      "quote": "Hepatitis B infection"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Aflatoxin, a liver carcinogen, is commonly found in:",
+      "options": [
+        "Moldy peanuts and corn",
+        "Fresh fish",
+        "Boiled eggs",
+        "Bottled water"
+      ],
+      "answer": "A",
+      "rationale": "Aflatoxin is produced by Aspergillus molds on improperly stored peanuts and grains.",
+      "explanations": [
+        "Correct.",
+        "Not source.",
+        "Not source.",
+        "Not source."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hepatocellular Cancer (PDF p. 292)",
+      "quote": "Aflatoxin"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "After cholecystectomy, which position promotes comfort and breathing?",
+      "options": [
+        "Low-Fowler's",
+        "Prone",
+        "Trendelenburg",
+        "Left lateral flat"
+      ],
+      "answer": "A",
+      "rationale": "Low-Fowler's position, with splinting, deep breathing, and coughing.",
+      "explanations": [
+        "Correct.",
+        "Incision.",
+        "Not indicated.",
+        "Less effective."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Gallbladder Surgery (PDF p. 293)",
+      "quote": "Position: low- fowler’s position"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "A client has a T-tube after common bile duct exploration. Which finding should be reported?",
+      "options": [
+        "Sudden increase in drainage",
+        "Bile-colored drainage",
+        "Brown stools returning",
+        "Decreasing drainage"
+      ],
+      "answer": "A",
+      "rationale": "Report sudden increases in drainage, jaundice, clay stools, or dark urine.",
+      "explanations": [
+        "Correct.",
+        "Expected.",
+        "Expected.",
+        "Expected."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, T-tube Care (PDF p. 293)",
+      "quote": "Report sudden increase of drainage"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "When the T-tube is clamped before meals, the client develops nausea. The nurse should:",
+      "options": [
+        "Unclamp the tube",
+        "Keep it clamped",
+        "Remove the tube",
+        "Give a fatty meal"
+      ],
+      "answer": "A",
+      "rationale": "Clamp before meals as ordered; unclamp if nausea or vomiting develops.",
+      "explanations": [
+        "Correct.",
+        "Obstruction.",
+        "Not nurse role.",
+        "Worsens."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, T-tube Care (PDF p. 293)",
+      "quote": "Unclamp if N/V develops"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "What is the most common presenting symptom of colorectal cancer?",
+      "options": [
+        "Change in bowel habits",
+        "Weight gain",
+        "Fever",
+        "Jaundice"
+      ],
+      "answer": "A",
+      "rationale": "Change in bowel habits is most common; blood in stools is second.",
+      "explanations": [
+        "Correct.",
+        "Weight loss.",
+        "Not typical.",
+        "Liver."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Colorectal Cancer (PDF p. 293)",
+      "quote": "Changes in bowel habits (most common presenting symptom)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which diet increases colorectal cancer risk?",
+      "options": [
+        "High-fat, low-fiber",
+        "High-fiber",
+        "Vegetable-rich",
+        "Low-fat"
+      ],
+      "answer": "A",
+      "rationale": "High-fat, high-protein, low-fiber diets are risk factors.",
+      "explanations": [
+        "Correct.",
+        "Protective.",
+        "Protective.",
+        "Protective."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Colorectal Cancer (PDF p. 293)",
+      "quote": "Diet (high-fat, high-protein, low-fiber diet)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which tumor marker monitors colorectal cancer recurrence?",
+      "options": [
+        "CEA",
+        "PSA",
+        "AFP",
+        "CA-125"
+      ],
+      "answer": "A",
+      "rationale": "Carcinoembryonic antigen is used for colorectal cancer.",
+      "explanations": [
+        "Correct.",
+        "Prostate.",
+        "Liver.",
+        "Ovary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Colorectal Diagnosis (PDF p. 294)",
+      "quote": "Carcinoembryonic antigen (CEA)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Why is neomycin given before bowel surgery?",
+      "options": [
+        "Reduce intestinal bacteria",
+        "Relieve pain",
+        "Stop diarrhea",
+        "Increase appetite"
+      ],
+      "answer": "A",
+      "rationale": "Oral neomycin, plus bowel cleansing and low-residue diet, reduces infection risk.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Pre-operative Interventions (PDF p. 294)",
+      "quote": "Pre-op antibiotic: Neomycin tablet"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Removal of the tumor, sigmoid, rectum, and anal sphincter (Miles procedure) results in:",
+      "options": [
+        "Permanent colostomy",
+        "Temporary ileostomy",
+        "Normal defecation",
+        "Urinary diversion"
+      ],
+      "answer": "A",
+      "rationale": "Abdominoperineal resection removes the rectum and sphincter, requiring a permanent colostomy.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Sphincter removed.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Colorectal Surgery (PDF p. 294)",
+      "quote": "Removal of the tumor and a portion of the sigmoid and all of the rectum and anal sphincter"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "A new colostomy stoma appears dark and dusky. This indicates:",
+      "options": [
+        "Necrosis; report at once",
+        "Normal healing",
+        "Need for irrigation",
+        "Expected edema"
+      ],
+      "answer": "A",
+      "rationale": "A normal stoma is red and moist; dusky, brown, or black suggests necrosis.",
+      "explanations": [
+        "Correct.",
+        "Red is normal.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Stoma Care (PDF p. 294)",
+      "quote": "Abnormal: Dark, dusky brown — black; these suggest"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "When should a colostomy pouch be emptied?",
+      "options": [
+        "When 1/3 to 1/2 full",
+        "Only when full",
+        "Once a week",
+        "Every 15 minutes"
+      ],
+      "answer": "A",
+      "rationale": "Empty at 1/3 to 1/2 full to prevent leakage and pouch separation.",
+      "explanations": [
+        "Correct.",
+        "Leakage.",
+        "Too seldom.",
+        "Too often."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Stoma Care (PDF p. 294)",
+      "quote": "Empty pouch 1/3 to"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "The client feels cramping during colostomy irrigation. The nurse should:",
+      "options": [
+        "Stop briefly, then continue slowly",
+        "Increase the flow rate",
+        "Raise the bag higher",
+        "Remove the catheter permanently"
+      ],
+      "answer": "A",
+      "rationale": "Stop momentarily when cramps occur, then continue slowly; the bag hangs 12–18 inches above the stoma.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Worsens.",
+        "Not needed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Colostomy Irrigation (PDF p. 294)",
+      "quote": "Stop irrigation momentarily when cramps are felt; continue the irrigation slowly"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "How high should the colostomy irrigation bag be hung above the stoma?",
+      "options": [
+        "12–18 inches",
+        "36 inches",
+        "2 inches",
+        "At stoma level"
+      ],
+      "answer": "A",
+      "rationale": "Hang 12–18 inches above the stoma and insert the lubricated catheter 2–4 inches.",
+      "explanations": [
+        "Correct.",
+        "Too high.",
+        "Too low.",
+        "No flow."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Colostomy Irrigation (PDF p. 294)",
+      "quote": "Hang solution 12-18 inches above the stoma"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which food should a client with a colostomy limit to reduce gas?",
+      "options": [
+        "Cabbage",
+        "Rice",
+        "Banana",
+        "Yogurt"
+      ],
+      "answer": "A",
+      "rationale": "Avoid gas-forming foods: cabbage, cauliflower, nuts, carbonated drinks, gum.",
+      "explanations": [
+        "Correct.",
+        "Low gas.",
+        "Low gas.",
+        "Reduces odor."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Colostomy Diet (PDF p. 295)",
+      "quote": "Avoid gas-forming foods"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "What is the earliest and most common sign of bladder cancer?",
+      "options": [
+        "Painless hematuria",
+        "Severe dysuria",
+        "Fever",
+        "Flank mass"
+      ],
+      "answer": "A",
+      "rationale": "Painless hematuria is the earliest and most common sign.",
+      "explanations": [
+        "Correct.",
+        "Later.",
+        "Not typical.",
+        "Late."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Bladder Cancer (PDF p. 295)",
+      "quote": "Painless hematuria (earliest and most common sign)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which is the strongest risk factor for bladder cancer?",
+      "options": [
+        "Cigarette smoking",
+        "High-fiber diet",
+        "Female sex",
+        "Frequent voiding"
+      ],
+      "answer": "A",
+      "rationale": "Smoking and industrial carcinogen exposure are leading risks; men are affected more.",
+      "explanations": [
+        "Correct.",
+        "Not a risk.",
+        "Men more.",
+        "Not a risk."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Bladder Cancer (PDF p. 295)",
+      "quote": "Cigarette Smoking"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "In an ileal conduit, urine drains through a stoma made from:",
+      "options": [
+        "Ileum",
+        "Sigmoid colon",
+        "Appendix",
+        "Bladder"
+      ],
+      "answer": "A",
+      "rationale": "An ileal conduit uses a segment of ileum as the stoma for urine.",
+      "explanations": [
+        "Correct.",
+        "Ureterosigmoidostomy.",
+        "Mitrofanoff.",
+        "Vesicostomy."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Bladder Cancer Surgery (PDF p. 295)",
+      "quote": "Ileal Conduit Ileum used as stoma"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which skin cancer is most common and rarely metastasizes?",
+      "options": [
+        "Basal cell carcinoma",
+        "Malignant melanoma",
+        "Squamous cell carcinoma",
+        "Kaposi sarcoma"
+      ],
+      "answer": "A",
+      "rationale": "Basal cell carcinoma is most common with good prognosis; melanoma is deadliest.",
+      "explanations": [
+        "Correct.",
+        "Deadliest.",
+        "Can metastasize.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Skin Cancer (PDF p. 295)",
+      "quote": "Most common type; rarely metastasize"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which mole feature should prompt evaluation for melanoma?",
+      "options": [
+        "Irregular border",
+        "Symmetrical shape",
+        "Uniform color",
+        "Diameter 2 mm"
+      ],
+      "answer": "A",
+      "rationale": "ABCDE: asymmetry, border irregularity, color variation, diameter > 6 mm, elevation or evolution.",
+      "explanations": [
+        "Correct.",
+        "Benign.",
+        "Benign.",
+        "Small."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Skin Cancer Parameters (PDF p. 296)",
+      "quote": "Border, Color"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which person has the highest risk for skin cancer?",
+      "options": [
+        "Fair-skinned outdoor worker",
+        "Dark-skinned office worker",
+        "Child who uses sunscreen",
+        "Night-shift worker"
+      ],
+      "answer": "A",
+      "rationale": "Fair skin, sunburns, and chronic sun exposure are major risks.",
+      "explanations": [
+        "Correct.",
+        "Lower risk.",
+        "Protected.",
+        "Less sun."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Skin Cancer Risk Factors (PDF p. 296)",
+      "quote": "Chronic sun exposure"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the hallmark sign of iron deficiency anemia?",
+      "options": [
+        "Easy fatigability",
+        "Red beefy tongue",
+        "Jaundice",
+        "Splenomegaly"
+      ],
+      "answer": "A",
+      "rationale": "Fatigue is the hallmark; also spoon nails, pallor, pica, and angular cheilosis.",
+      "explanations": [
+        "Correct.",
+        "Pernicious.",
+        "Hemolytic.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Iron Deficiency Anemia (PDF p. 297)",
+      "quote": "Fatigue/Easy fatigability – hallmark sign"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Spoon-shaped nails seen in iron deficiency anemia are called:",
+      "options": [
+        "Koilonychia",
+        "Clubbing",
+        "Onycholysis",
+        "Paronychia"
+      ],
+      "answer": "A",
+      "rationale": "Koilonychia is spoon-shaped nails from iron deficiency.",
+      "explanations": [
+        "Correct.",
+        "Hypoxia.",
+        "Separation.",
+        "Infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Iron Deficiency Anemia (PDF p. 297)",
+      "quote": "spoon-shaped nails (koilonychia)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How should a client take ferrous sulfate tablets for best absorption?",
+      "options": [
+        "With orange juice",
+        "With milk",
+        "With antacids",
+        "With tea"
+      ],
+      "answer": "A",
+      "rationale": "Vitamin C increases iron absorption; dairy and antacids decrease it.",
+      "explanations": [
+        "Correct.",
+        "Decreases.",
+        "Decreases.",
+        "Decreases."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Iron Therapy (PDF p. 298)",
+      "quote": "Taken with Vit C to increase absorption"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client on oral iron reports black stools. The nurse explains:",
+      "options": [
+        "This is an expected effect",
+        "Stop the iron now",
+        "This means GI bleeding",
+        "Go to the ER now"
+      ],
+      "answer": "A",
+      "rationale": "Black stools are a common, expected effect of oral iron.",
+      "explanations": [
+        "Correct.",
+        "Not needed.",
+        "Not necessarily.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Iron Therapy (PDF p. 298)",
+      "quote": "black stools"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which technique is used for IM iron dextran injection?",
+      "options": [
+        "Z-track",
+        "Massage the site",
+        "Subcutaneous route",
+        "Deltoid injection"
+      ],
+      "answer": "A",
+      "rationale": "Z-track prevents leakage and skin staining; do not massage the site.",
+      "explanations": [
+        "Correct.",
+        "Avoid.",
+        "IM.",
+        "Large muscle."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Parenteral Iron (PDF p. 298)",
+      "quote": "Administer using Z-tract method to prevent discoloration and leakage to tissues"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which is the pathognomonic sign of pernicious anemia?",
+      "options": [
+        "Red beefy tongue",
+        "Spoon nails",
+        "Pica",
+        "Angular cheilosis"
+      ],
+      "answer": "A",
+      "rationale": "Red beefy tongue (glossitis) with paresthesias and loss of proprioception.",
+      "explanations": [
+        "Correct.",
+        "IDA.",
+        "IDA.",
+        "IDA."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pernicious Anemia (PDF p. 298)",
+      "quote": "Red-beefy tongue/ Glossitis - pathognomonic sign"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which test diagnoses vitamin B12 malabsorption in pernicious anemia?",
+      "options": [
+        "Schilling test",
+        "Coombs test",
+        "Sweat test",
+        "Tourniquet test"
+      ],
+      "answer": "A",
+      "rationale": "Schilling test: radioactive B12 is given and a 24-hour urine is collected.",
+      "explanations": [
+        "Correct.",
+        "Hemolysis.",
+        "Cystic fibrosis.",
+        "Dengue."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pernicious Anemia (PDF p. 298)",
+      "quote": "Schilling's test for absorption of vitamin B12"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client with pernicious anemia asks how long B12 injections are needed. The nurse says:",
+      "options": [
+        "For life",
+        "Until the tongue heals",
+        "For 2 weeks",
+        "Until hemoglobin is normal"
+      ],
+      "answer": "A",
+      "rationale": "Without intrinsic factor, B12 injections are given monthly for life.",
+      "explanations": [
+        "Correct.",
+        "Lifelong.",
+        "Lifelong.",
+        "Lifelong."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pernicious Anemia (PDF p. 298)",
+      "quote": "Administer Vit. B12 injections at monthly intervals for lifetime as ordered."
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+ "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+ "questions": [
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "How does hypomania differ from mania?",
+   "options": [
+    "No marked impairment or psychosis",
+    "Lasts longer than mania",
+    "Always has hallucinations",
+    "Requires hospitalization"
+   ],
+   "answer": "A",
+   "rationale": "Hypomania (about 4 days) is less severe; it does not impair functioning and has no psychotic features.",
+   "explanations": [
+    "Correct.",
+    "Shorter.",
+    "No psychosis.",
+    "Not required."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "TRA Nursing Module, Hypomania (PDF p. 270)",
+   "quote": "Hypomanic episodes do not impairthe person's ability to function"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Major depressive episodes plus one or more hypomanic episodes, with no history of mania, indicate:",
+   "options": [
+    "Bipolar II disorder",
+    "Bipolar I disorder",
+    "Cyclothymic disorder",
+    "Dysthymic disorder"
+   ],
+   "answer": "A",
+   "rationale": "Bipolar II: depression plus hypomania, never full mania; Bipolar I includes mania.",
+   "explanations": [
+    "Correct.",
+    "Has mania.",
+    "Milder cycling.",
+    "Chronic low mood."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Bipolar Disorders (PDF p. 270)",
+   "quote": "One or more major depressive episode accompanied by at least one hypomanic episode"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Chronic, milder depressed mood lasting 2 years or more is:",
+   "options": [
+    "Dysthymic disorder",
+    "Major depression",
+    "Cyclothymic disorder",
+    "Postpartum blues"
+   ],
+   "answer": "A",
+   "rationale": "Dysthymia: at least 2 years of depressed mood less severe than major depression.",
+   "explanations": [
+    "Correct.",
+    "2 weeks, severe.",
+    "Hypomania cycles.",
+    "Days."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Dysthymic Disorder (PDF p. 270)",
+   "quote": "Characterized by at least 2 years of depressed mood"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Fall-onset seasonal affective disorder typically presents with:",
+   "options": [
+    "Hypersomnia, carb craving",
+    "Insomnia, weight loss",
+    "Winter mania episodes",
+    "Poor appetite, thinness"
+   ],
+   "answer": "A",
+   "rationale": "Winter SAD: hypersomnia, carbohydrate craving, weight gain; spring-onset has insomnia and weight loss.",
+   "explanations": [
+    "Correct.",
+    "Spring-onset.",
+    "Not typical.",
+    "Spring-onset."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Seasonal Affective Disorder (PDF p. 270)",
+   "quote": "People experience increased sleep"
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of Mother Following Birth",
+   "situation": "",
+   "stem": "A mother on day 4 postpartum is tearful and anxious but caring for her baby. This most likely is:",
+   "options": [
+    "Postpartum blues",
+    "Postpartum psychosis",
+    "Postpartum depression",
+    "Bipolar mania"
+   ],
+   "answer": "A",
+   "rationale": "Postpartum blues are common, peak at 3–7 days, and resolve without medical treatment.",
+   "explanations": [
+    "Correct.",
+    "Hallucinations.",
+    "Longer, severe.",
+    "Elevated mood."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Postpartum Blues (PDF p. 271)",
+   "quote": "Peak in 3 to 7 days"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "A client starting lithium asks when it will work. The nurse says it usually takes about:",
+   "options": [
+    "10–14 days",
+    "1 hour",
+    "1 day",
+    "6 months"
+   ],
+   "answer": "A",
+   "rationale": "Lithium's therapeutic effect becomes evident after about 10–14 days.",
+   "explanations": [
+    "Correct.",
+    "Too fast.",
+    "Too fast.",
+    "Too long."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Lithium Therapy (PDF p. 271)",
+   "quote": "Take 10 -14 days before therapeutic effect becomes evident"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Which teaching helps prevent lithium toxicity?",
+   "options": [
+    "Drink 2–3 L of fluid daily",
+    "Restrict fluids",
+    "Avoid all salt",
+    "Take on empty stomach"
+   ],
+   "answer": "A",
+   "rationale": "Adequate fluids and normal sodium intake; dehydration, sweating, or vomiting raise lithium levels.",
+   "explanations": [
+    "Correct.",
+    "Raises level.",
+    "Raises level.",
+    "Take after meals."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Lithium Therapy (PDF p. 271)",
+   "quote": "Adequate amount of fluid (2-3 L/day)"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "A client on lithium has severe vomiting, diarrhea, and coarse tremors. The nurse should first:",
+   "options": [
+    "Hold the dose and report",
+    "Give the next dose",
+    "Encourage more salt",
+    "Give an antiemetic only"
+   ],
+   "answer": "A",
+   "rationale": "These are toxicity signs; hold lithium and report for serum level.",
+   "explanations": [
+    "Correct.",
+    "Worsens.",
+    "Not first.",
+    "Masks."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Lithium Therapy (PDF p. 271)",
+   "quote": "Severe nausea, vomiting diarrhea, muscle weakness & tremors"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "A manic client cannot sit long enough to eat. The nurse should provide:",
+   "options": [
+    "High-calorie finger foods",
+    "Three large meals",
+    "Liquid diet only",
+    "Meals in the dining room"
+   ],
+   "answer": "A",
+   "rationale": "Provide frequent high-calorie, high-protein finger foods the client can eat while moving.",
+   "explanations": [
+    "Correct.",
+    "Won't sit.",
+    "Insufficient.",
+    "Overstimulating."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Mania Interventions (PDF p. 271)",
+   "quote": "Frequently provide finger foods that are high in calories and protein"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Which measure promotes sleep in a manic client?",
+   "options": [
+    "Decrease environmental stimuli",
+    "Group games at night",
+    "Bright lights",
+    "Late-night TV"
+   ],
+   "answer": "A",
+   "rationale": "Reduce stimulation and establish a bedtime routine.",
+   "explanations": [
+    "Correct.",
+    "Stimulating.",
+    "Stimulating.",
+    "Stimulating."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Mania Interventions (PDF p. 271)",
+   "quote": "Promoterestandsleepby decreasing environmental stimulation"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Sudden blindness after a stressful event, with the client showing little concern, suggests:",
+   "options": [
+    "Conversion disorder",
+    "Malingering",
+    "Hypochondriasis",
+    "Body dysmorphic disorder"
+   ],
+   "answer": "A",
+   "rationale": "Conversion disorder shows sudden sensory or motor loss with 'la belle indifference.'",
+   "explanations": [
+    "Correct.",
+    "Intentional.",
+    "Fear of illness.",
+    "Appearance."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Conversion Disorder (PDF p. 272)",
+   "quote": "La belle in difference, a seeming lack of concernor distress, is a key feature."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Preoccupation with an imagined defect, such as crooked teeth, is:",
+   "options": [
+    "Body dysmorphic disorder",
+    "Hypochondriasis",
+    "Conversion disorder",
+    "Pain disorder"
+   ],
+   "answer": "A",
+   "rationale": "Body dysmorphic disorder: preoccupation with an imagined or exaggerated physical defect.",
+   "explanations": [
+    "Correct.",
+    "Disease fear.",
+    "Deficit.",
+    "Pain."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Body Dysmorphic Disorder (PDF p. 272)",
+   "quote": "It is preoccupation with an imagined or exaggerated defect in physical appearance"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "A prisoner fakes back pain to avoid a court hearing. This is:",
+   "options": [
+    "Malingering",
+    "Conversion disorder",
+    "Somatization disorder",
+    "Factitious disorder"
+   ],
+   "answer": "A",
+   "rationale": "Malingering is intentional symptom production for external incentives like avoiding prosecution.",
+   "explanations": [
+    "Correct.",
+    "Unconscious.",
+    "Unconscious.",
+    "Attention only."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Malingering (PDF p. 272)",
+   "quote": "evading criminal prosecution"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "A mother repeatedly makes her child ill to gain medical attention. This is:",
+   "options": [
+    "Munchausen syndrome by proxy",
+    "Munchausen syndrome",
+    "Malingering",
+    "Conversion disorder"
+   ],
+   "answer": "A",
+   "rationale": "Munchausen by proxy: inflicting illness on another to gain attention; also child abuse.",
+   "explanations": [
+    "Correct.",
+    "Self.",
+    "External gain.",
+    "Unconscious."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Factitious Disorder (PDF p. 273)",
+   "quote": "Occurs when a person inflicts illness or injury on someone else"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Concepts of Mental Health & Therapeutic Models",
+   "situation": "",
+   "stem": "A client's family gives extra attention whenever he complains of pain. This illustrates:",
+   "options": [
+    "Secondary gain",
+    "Primary gain",
+    "Sublimation",
+    "Malingering"
+   ],
+   "answer": "A",
+   "rationale": "Secondary gain is an external benefit (attention); primary gain is relief of anxiety.",
+   "explanations": [
+    "Correct.",
+    "Anxiety relief.",
+    "Not this.",
+    "Intentional."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Psychosocial Theories (PDF p. 273)",
+   "quote": "attention from family members"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Which approach is best for a client with somatization disorder?",
+   "options": [
+    "Empathy and one consistent provider",
+    "Confront the symptom origin early",
+    "Give narcotics freely",
+    "Refer to many doctors"
+   ],
+   "answer": "A",
+   "rationale": "Show empathy, keep one provider to avoid doctor shopping, and avoid early confrontation and narcotics.",
+   "explanations": [
+    "Correct.",
+    "Premature.",
+    "Dependence.",
+    "Doctor shopping."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Somatoform Management (PDF p. 273)",
+   "quote": "The health care provider must show empathy and sensitivity to the clients physical complaints"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Which is an emotion-focused coping strategy?",
+   "options": [
+    "Guided imagery",
+    "Problem-solving method",
+    "Role-playing",
+    "Action planning"
+   ],
+   "answer": "A",
+   "rationale": "Emotion-focused: relaxation, deep breathing, guided imagery, distraction; the rest are problem-focused.",
+   "explanations": [
+    "Correct.",
+    "Problem-focused.",
+    "Problem-focused.",
+    "Problem-focused."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Coping Strategies (PDF p. 274)",
+   "quote": "Guided imagery"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "A client needs more alcohol to get the same effect. This is:",
+   "options": [
+    "Tolerance",
+    "Withdrawal",
+    "Blackout",
+    "Detoxification"
+   ],
+   "answer": "A",
+   "rationale": "Tolerance means needing more of a substance for the same effect.",
+   "explanations": [
+    "Correct.",
+    "Stopping.",
+    "No memory.",
+    "Withdrawing safely."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Substance Abuse Terms (PDF p. 274)",
+   "quote": "the patient needs more of the substance (alcohol) to produce same effect."
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "A client functions while drinking but later has no memory of it. This is a:",
+   "options": [
+    "Blackout",
+    "Tolerance break",
+    "Delirium",
+    "Withdrawal"
+   ],
+   "answer": "A",
+   "rationale": "A blackout is functioning without conscious awareness or memory of behavior.",
+   "explanations": [
+    "Correct.",
+    "Low-dose intoxication.",
+    "Confusion.",
+    "Stopping."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Substance Abuse Terms (PDF p. 274)",
+   "quote": "person continues to function but has no consciousawarenessof his or her behavior"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Alcohol withdrawal symptoms usually begin how long after the last drink?",
+   "options": [
+    "4–12 hours",
+    "1 week",
+    "1 month",
+    "5 minutes"
+   ],
+   "answer": "A",
+   "rationale": "Withdrawal begins 4–12 hours after stopping and may last 1–2 weeks.",
+   "explanations": [
+    "Correct.",
+    "Too late.",
+    "Too late.",
+    "Too early."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Alcohol Withdrawal (PDF p. 275)",
+   "quote": "to 12 hours after cessation or marked reduction of alcohol intake"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Which drug class manages alcohol withdrawal?",
+   "options": [
+    "Benzodiazepines",
+    "CNS stimulants",
+    "Opioids",
+    "Antihistamines"
+   ],
+   "answer": "A",
+   "rationale": "Benzodiazepines (lorazepam, chlordiazepoxide, diazepam) prevent seizures and DTs.",
+   "explanations": [
+    "Correct.",
+    "Contraindicated.",
+    "Not used.",
+    "Not used."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Alcohol Withdrawal (PDF p. 275)",
+   "quote": "Administration of benzodiazepines"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "A client on disulfiram drinks beer. Which reaction should the nurse expect?",
+   "options": [
+    "Flushing and vomiting",
+    "Euphoria and sedation",
+    "Bradycardia only",
+    "No reaction at all"
+   ],
+   "answer": "A",
+   "rationale": "Alcohol with disulfiram causes flushing, throbbing headache, sweating, vomiting, and severe hypotension.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Hypotension, tachycardia.",
+    "Severe reaction."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Nursing Alert: Alcohol (PDF p. 280)",
+   "quote": "Throbbing headache"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+   "situation": "",
+   "stem": "Chronic alcohol use with thiamine deficiency can cause:",
+   "options": [
+    "Wernicke's encephalopathy",
+    "Parkinson's disease",
+    "Myasthenia gravis",
+    "Bell's palsy"
+   ],
+   "answer": "A",
+   "rationale": "Long-term alcohol use causes Wernicke's encephalopathy, Korsakoff's psychosis, cirrhosis, and pancreatitis.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Long-Term Alcohol Effects (PDF p. 275)",
+   "quote": "Wernicke's encephalopathy"
+  },
+  {
+   "subject": "NP V",
+   "topic": "Acute Biologic Crisis & Emergency Care",
+   "situation": "",
+   "stem": "Which sedative overdose is more likely to be fatal?",
+   "options": [
+    "Barbiturates",
+    "Benzodiazepines",
+    "Both equally",
+    "Neither"
+   ],
+   "answer": "A",
+   "rationale": "Barbiturate overdose can cause coma, respiratory arrest, and death; benzodiazepine overdose alone is rarely fatal.",
+   "explanations": [
+    "Correct.",
+    "Rarely fatal.",
+    "Not equal.",
+    "Incorrect."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "TRA Nursing Module, Sedatives (PDF p. 276)",
+   "quote": "Can be lethal"
+  }
+ ]
+}

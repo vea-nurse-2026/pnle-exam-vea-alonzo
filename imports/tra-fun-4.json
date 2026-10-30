@@ -1,0 +1,797 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How should the client be positioned for an abdominal exam?",
+      "options": [
+        "Supine with knees flexed",
+        "Prone",
+        "Sitting upright",
+        "Sims' position"
+      ],
+      "answer": "A",
+      "rationale": "Flexing the knees relaxes the abdominal muscles during the exam.",
+      "explanations": [
+        "Correct.",
+        "Not for abdomen.",
+        "Not for abdomen.",
+        "Rectal exam."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Physical Exam (PDF p. 23)",
+      "quote": "During abdominal examination, it is important to flex the knees to relax the abdominal muscles"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Where does the nurse stand to palpate the thyroid?",
+      "options": [
+        "In front of the client",
+        "Behind the client",
+        "At the client's side",
+        "At the foot of the bed"
+      ],
+      "answer": "B",
+      "rationale": "The nurse stands behind the client to palpate the neck for lymph nodes or thyroid enlargement.",
+      "explanations": [
+        "Not standard.",
+        "Correct.",
+        "Not standard.",
+        "Not standard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Physical Exam (PDF p. 23)",
+      "quote": "the nurse stands behind the client"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A male nurse examines a female client. What ethical safeguard is needed?",
+      "options": [
+        "None",
+        "A female staff in attendance",
+        "The client's spouse only",
+        "Lights dimmed"
+      ],
+      "answer": "B",
+      "rationale": "A female nurse must be present when a male examines a female client.",
+      "explanations": [
+        "Needed.",
+        "Correct.",
+        "Not the rule.",
+        "Not the safeguard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Physical Exam (PDF p. 23)",
+      "quote": "female nurse must be in attendance to ensure that the procedure is done in ethical manner"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Foul-smelling perspiration is called:",
+      "options": [
+        "Hyperhidrosis",
+        "Bromhidrosis",
+        "Anhidrosis",
+        "Vitiligo"
+      ],
+      "answer": "B",
+      "rationale": "Bromhidrosis is foul-smelling sweat; hyperhidrosis is excessive sweating.",
+      "explanations": [
+        "Excessive.",
+        "Correct.",
+        "Absent sweat.",
+        "Depigmentation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Skin Care (PDF p. 23)",
+      "quote": "Bromhidrosis isfoul-smelling perspiration"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A flat, colored spot smaller than 1 cm, like a freckle, is a:",
+      "options": [
+        "Macule",
+        "Papule",
+        "Vesicle",
+        "Nodule"
+      ],
+      "answer": "A",
+      "rationale": "A macule is flat, circumscribed, under 1 cm; a patch is larger.",
+      "explanations": [
+        "Correct.",
+        "Raised.",
+        "Fluid-filled.",
+        "Solid, deep."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Skin Lesions (PDF p. 23)",
+      "quote": "Macule — flat, circumscribed area of color with no elevation; <1cm (Freckles)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A raised, fluid-filled lesion under 1 cm, as in chickenpox, is a:",
+      "options": [
+        "Bulla",
+        "Vesicle",
+        "Pustule",
+        "Wheal"
+      ],
+      "answer": "B",
+      "rationale": "A vesicle is a small serous blister; a bulla is larger; a pustule has pus.",
+      "explanations": [
+        "Large.",
+        "Correct.",
+        "Pus.",
+        "Edema."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Skin Lesions (PDF p. 24)",
+      "quote": "Vesicle — circumscribed elevation serous fluid or blood <1cm blister. chicken pox)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A linear scratch mark exposing the dermis is a(n):",
+      "options": [
+        "Erosion",
+        "Excoriation",
+        "Ulcer",
+        "Crust"
+      ],
+      "answer": "B",
+      "rationale": "An excoriation is a superficial linear or hollowed-out area exposing the dermis, such as a scratch.",
+      "explanations": [
+        "Epidermis only.",
+        "Correct.",
+        "Deeper.",
+        "Dried exudate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Skin Lesions (PDF p. 24)",
+      "quote": "Excoriation – superficial linear or hallowed out rust area exposing dermis."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "During a bed bath, how are the eyes cleaned?",
+      "options": [
+        "Soap, outer to inner",
+        "Water, inner to outer",
+        "Alcohol swab",
+        "Skip the eyes"
+      ],
+      "answer": "B",
+      "rationale": "Eyes are cleaned with water only, inner to outer canthus, using a separate mitt corner for each eye.",
+      "explanations": [
+        "Irritates.",
+        "Correct.",
+        "Irritates.",
+        "Included."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Bed Bath (PDF p. 25)",
+      "quote": "Cleanse eyes with water only, wiping from inner to outer cantus."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "How are the arms and legs washed during a bed bath?",
+      "options": [
+        "Short strokes, proximal to distal",
+        "Long firm strokes, distal to proximal",
+        "Circular strokes only",
+        "Pat dry without washing"
+      ],
+      "answer": "B",
+      "rationale": "Long, firm strokes from distal to proximal promote venous return.",
+      "explanations": [
+        "Wrong direction.",
+        "Correct.",
+        "Not specified.",
+        "Incomplete."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Bed Bath (PDF p. 25)",
+      "quote": "using long, firm strokes from distal to proximal areas"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Non-blanchable redness of intact skin over the sacrum is which pressure injury stage?",
+      "options": [
+        "Stage I",
+        "Stage II",
+        "Stage III",
+        "Stage IV"
+      ],
+      "answer": "A",
+      "rationale": "Stage I is non-blanchable erythema of intact skin.",
+      "explanations": [
+        "Correct.",
+        "Partial thickness.",
+        "Full thickness.",
+        "Bone/muscle."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Pressure Ulcer (PDF p. 25)",
+      "quote": "Stage I — non-blanchable erythema of intact skin"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A pressure ulcer with exposed muscle and bone is stage:",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "answer": "D",
+      "rationale": "Stage IV involves full-thickness loss with damage to muscle, bone, or supporting structures.",
+      "explanations": [
+        "Intact skin.",
+        "Partial.",
+        "To fascia.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Pressure Ulcer (PDF p. 25)",
+      "quote": "Stage IV — full-thickness skin loss with extensive destruction"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which measure helps prevent pressure ulcers?",
+      "options": [
+        "Massage bony prominences",
+        "Use cornstarch for friction",
+        "Keep head of bed at 30° or less",
+        "Turn every 4 hours"
+      ],
+      "answer": "C",
+      "rationale": "Keeping the HOB at 30° or less reduces shear. Avoid massaging bony areas and powders; turn every 2 hours or more often.",
+      "explanations": [
+        "Avoid.",
+        "Avoid.",
+        "Correct.",
+        "Too seldom."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Prevention of Pressure Ulcers (PDF p. 25)",
+      "quote": "Reduce shearing force by elevating the bed not more than 30 degrees"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which solution is AVOIDED when cleaning a pressure ulcer?",
+      "options": [
+        "Alcohol-free cleanser",
+        "Normal saline",
+        "Hydrogen peroxide",
+        "Sterile water"
+      ],
+      "answer": "C",
+      "rationale": "Ulcers are cleansed gently with alcohol-free cleanser; hydrogen peroxide damages tissue.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Correct answer: avoid.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Treatment of Pressure Ulcers (PDF p. 25)",
+      "quote": "Do not use hydrogen peroxide"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which debridement uses enzyme agents such as collagenase?",
+      "options": [
+        "Sharp",
+        "Mechanical",
+        "Chemical",
+        "Autolytic"
+      ],
+      "answer": "C",
+      "rationale": "Chemical debridement uses collagenase; sharp uses a scalpel; autolytic uses moisture-retaining dressings.",
+      "explanations": [
+        "Scalpel.",
+        "Dressings.",
+        "Correct.",
+        "Moisture."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Treatment of Pressure Ulcers (PDF p. 25)",
+      "quote": "Chemical debridement uses collagenase enzyme agents"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client disagrees with the dose of a medicine. What should the nurse do?",
+      "options": [
+        "Give it anyway",
+        "Recheck the order",
+        "Skip it silently",
+        "Halve the dose"
+      ],
+      "answer": "B",
+      "rationale": "The nurse rechecks the medication order if the client disagrees with the dose.",
+      "explanations": [
+        "Unsafe.",
+        "Correct.",
+        "Must document.",
+        "Not allowed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Medication Administration (PDF p. 26)",
+      "quote": "re-check the medication order if the client disagrees with the dose."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which is one of the Ten Rights of medication administration?",
+      "options": [
+        "Right price",
+        "Right to refuse",
+        "Right brand",
+        "Right color"
+      ],
+      "answer": "B",
+      "rationale": "The Ten Rights include right drug, dose, client, route, time, documentation, approach, right to know, right to refuse, and drug history.",
+      "explanations": [
+        "Not a right.",
+        "Correct.",
+        "Not a right.",
+        "Not a right."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Ten Rights (PDF p. 26)",
+      "quote": "Right to refuse"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "An unexpected drug response unique to one client is a(n):",
+      "options": [
+        "Side effect",
+        "Toxic effect",
+        "Idiosyncratic effect",
+        "Therapeutic effect"
+      ],
+      "answer": "C",
+      "rationale": "Idiosyncratic effects are unexpected and individual; toxic effects come from overdose or buildup.",
+      "explanations": [
+        "Predictable.",
+        "Overdose.",
+        "Correct.",
+        "Intended."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Medication Action (PDF p. 26)",
+      "quote": "Idiosyncratic effects — unexpected and maybe individual to a client"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "An order to give a drug 'immediately, once' is a:",
+      "options": [
+        "PRN order",
+        "Standing order",
+        "Stat order",
+        "Single order"
+      ],
+      "answer": "C",
+      "rationale": "A stat order is a single dose given immediately.",
+      "explanations": [
+        "As needed.",
+        "Ongoing.",
+        "Correct.",
+        "Specified time."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Types of Order (PDF p. 26)",
+      "quote": "Stat - An order for a single dose of medication to be given immediately"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which tablet must NEVER be crushed?",
+      "options": [
+        "Plain paracetamol",
+        "Enteric-coated tablet",
+        "Chewable vitamin",
+        "Scored tablet"
+      ],
+      "answer": "B",
+      "rationale": "Enteric-coated and sustained-release tablets are never crushed.",
+      "explanations": [
+        "May crush.",
+        "Correct.",
+        "Meant to chew.",
+        "May split."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Oral Route (PDF p. 27)",
+      "quote": "Never crush enteric coated or sustained release tablets"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "What should the nurse do before pouring a suspension?",
+      "options": [
+        "Heat it",
+        "Shake the bottle",
+        "Dilute with water",
+        "Refrigerate it"
+      ],
+      "answer": "B",
+      "rationale": "A suspension is water-based with settled particles; the bottle is shaken before use.",
+      "explanations": [
+        "Not needed.",
+        "Correct.",
+        "Alters dose.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Oral Drug Forms (PDF p. 27)",
+      "quote": "Suspension – water-based liquid medication, shake the bottle before use"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Why should a sublingual tablet not be swallowed?",
+      "options": [
+        "It tastes bad",
+        "Stomach acid inactivates it",
+        "It causes choking",
+        "It stains teeth"
+      ],
+      "answer": "B",
+      "rationale": "Sublingual drugs dissolve and absorb rapidly under the tongue; if swallowed, gastric juice may inactivate them.",
+      "explanations": [
+        "Not the reason.",
+        "Correct.",
+        "Not the reason.",
+        "Not the reason."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Sublingual Route (PDF p. 27)",
+      "quote": "If swallowed, may be inactivated by the gastric juice"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "At what angle is an intradermal injection given?",
+      "options": [
+        "10–15°",
+        "45°",
+        "90°",
+        "Any angle"
+      ],
+      "answer": "A",
+      "rationale": "Intradermal injections use a 25–27 gauge needle at 10–15° bevel up to form a wheal, without massage.",
+      "explanations": [
+        "Correct.",
+        "Subcutaneous.",
+        "IM.",
+        "Incorrect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Intradermal Injection (PDF p. 27)",
+      "quote": "Needle at 10 to 15 degree angle level up"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Why does the nurse avoid massaging the site after insulin injection?",
+      "options": [
+        "To prevent rapid absorption",
+        "To prevent infection",
+        "To reduce pain",
+        "It is not required"
+      ],
+      "answer": "A",
+      "rationale": "Massaging an insulin site speeds absorption; sites are rotated to prevent tissue damage.",
+      "explanations": [
+        "Correct.",
+        "Not the reason.",
+        "Not the reason.",
+        "Specific reason exists."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Subcutaneous Injection (PDF p. 27)",
+      "quote": "For insulin injection, do not massage to prevent rapid absorption"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Which is the IM site of choice for infants 1 year and younger?",
+      "options": [
+        "Deltoid",
+        "Dorsogluteal",
+        "Vastus lateralis",
+        "Ventrogluteal"
+      ],
+      "answer": "C",
+      "rationale": "The vastus lateralis is the IM site of choice for infants 1 year and younger.",
+      "explanations": [
+        "Too small.",
+        "Sciatic risk.",
+        "Correct.",
+        "Older children."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, IM Injection (PDF p. 28)",
+      "quote": "Vastus lateralis is the site of choice for IM injections for infants 1 year and younger"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Using Clark's rule, what is the dose for a 30-lb child if the adult dose is 500 mg?",
+      "options": [
+        "50 mg",
+        "100 mg",
+        "150 mg",
+        "250 mg"
+      ],
+      "answer": "B",
+      "rationale": "Clark's rule: weight in lb ÷ 150 × adult dose = 30/150 × 500 = 100 mg.",
+      "explanations": [
+        "Miscalculated.",
+        "Correct.",
+        "Miscalculated.",
+        "Miscalculated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Calculating Dosages (PDF p. 28)",
+      "quote": "(Clark’s rule)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How is a glass ampule opened safely?",
+      "options": [
+        "Gauze, snap toward you",
+        "Bare fingers, away",
+        "Cut with scissors",
+        "Use your teeth"
+      ],
+      "answer": "A",
+      "rationale": "Using gauze or an opener, the top is snapped by bending it toward you so it breaks away from yourself and others.",
+      "explanations": [
+        "Correct.",
+        "Injury risk.",
+        "Not used.",
+        "Unsafe."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Preparing from Ampules (PDF p. 28)",
+      "quote": "break off the top by bending it toward you to ensure the ampule is broken away from yourself"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which needle is used to draw medicine from a glass ampule?",
+      "options": [
+        "Filter needle",
+        "Large-bore needle only",
+        "Safety needle only",
+        "No needle"
+      ],
+      "answer": "A",
+      "rationale": "A filter needle removes glass particles and is replaced with a regular needle before injecting.",
+      "explanations": [
+        "Correct.",
+        "Not the reason.",
+        "After drawing.",
+        "Needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Preparing from Ampules (PDF p. 28)",
+      "quote": "Replace the filter needle with a regular needle"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How should a vial of reconstituted medicine be mixed?",
+      "options": [
+        "Shake it hard",
+        "Roll it between the palms",
+        "Heat it",
+        "Tap it upside down"
+      ],
+      "answer": "B",
+      "rationale": "Mix by rotating the vial between the palms, not by shaking.",
+      "explanations": [
+        "Causes foam.",
+        "Correct.",
+        "Not done.",
+        "Not done."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Preparing from Vials (PDF p. 29)",
+      "quote": "Mix the solution if necessary by rotating the vial between palms of the hands, not by shaking"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "When mixing regular and NPH insulin, which is drawn up FIRST?",
+      "options": [
+        "NPH",
+        "Regular (clear)",
+        "Either",
+        "Both at once"
+      ],
+      "answer": "B",
+      "rationale": "Air is injected into NPH, then regular, and regular insulin is always withdrawn first to avoid contaminating it.",
+      "explanations": [
+        "Second.",
+        "Correct.",
+        "Order matters.",
+        "Not possible."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Mixing Insulins (PDF p. 29)",
+      "quote": "always withdraw regular insulin first"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which IV solution is hypotonic?",
+      "options": [
+        "0.9% NaCl",
+        "Lactated Ringer's",
+        "0.45% NaCl",
+        "D5NS"
+      ],
+      "answer": "C",
+      "rationale": "0.45% and 0.33% NaCl are hypotonic; NS and LR are isotonic; D5NS is hypertonic.",
+      "explanations": [
+        "Isotonic.",
+        "Isotonic.",
+        "Correct.",
+        "Hypertonic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, IV Solutions (PDF p. 30)",
+      "quote": "0.45% NaCl (half normal saline)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which IV solution can help treat metabolic acidosis?",
+      "options": [
+        "Lactated Ringer's",
+        "D5W",
+        "0.45% NaCl",
+        "Dextran"
+      ],
+      "answer": "A",
+      "rationale": "Lactate is metabolized in the liver to bicarbonate, so LR is alkalinizing.",
+      "explanations": [
+        "Correct.",
+        "No buffer.",
+        "No buffer.",
+        "Volume expander."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, IV Solutions (PDF p. 30)",
+      "quote": "Lactated ringer’s is an alkalinizing solution that maybe given to treat metabolic acidosis"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which vein should be chosen FIRST for a peripheral IV?",
+      "options": [
+        "A distal vein of the non-dominant arm",
+        "A vein over the elbow joint",
+        "A highly visible rolling vein",
+        "A vein in an injured arm"
+      ],
+      "answer": "A",
+      "rationale": "Use distal veins first, on the non-dominant arm, that are soft, full, and splinted by bone; avoid flexion areas and injured limbs.",
+      "explanations": [
+        "Correct.",
+        "Flexion area.",
+        "Rolls.",
+        "Avoid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Vein Selection (PDF p. 30)",
+      "quote": "Use distal veins of the arms first"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "An IV solution looks cloudy. What does this mean?",
+      "options": [
+        "It is normal",
+        "It is contaminated",
+        "It is concentrated",
+        "It needs warming"
+      ],
+      "answer": "B",
+      "rationale": "Solutions must be clear; cloudiness is evidence of contamination.",
+      "explanations": [
+        "Not normal.",
+        "Correct.",
+        "Not the meaning.",
+        "Not the meaning."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, IV Equipment (PDF p. 30)",
+      "quote": "Cloudiness is evidence that the solution is already contaminated"
+    }
+  ]
+}

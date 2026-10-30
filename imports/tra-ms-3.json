@@ -1,0 +1,533 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client with a prosthetic heart valve is scheduled for tooth extraction. The nurse anticipates:",
+      "options": [
+        "Prophylactic antibiotics",
+        "Withholding all fluids",
+        "Postponing for 1 year",
+        "Anticoagulant bolus"
+      ],
+      "answer": "A",
+      "rationale": "High-risk clients receive antibiotic prophylaxis before dental procedures to prevent endocarditis.",
+      "explanations": [
+        "Correct.",
+        "Not needed.",
+        "Not needed.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Endocarditis Prevention (PDF p. 312)",
+      "quote": "Antibiotic prophylaxis is recommended for high-risk patients"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A client going home on IV antibiotics for endocarditis should be taught to:",
+      "options": [
+        "Record temperature daily",
+        "Stop if fever occurs",
+        "Skip doses when well",
+        "Avoid all oral care"
+      ],
+      "answer": "A",
+      "rationale": "Record temperature daily for up to 6 weeks, keep aseptic IV technique, and report fever.",
+      "explanations": [
+        "Correct.",
+        "Report it.",
+        "Complete course.",
+        "Do oral care."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Endocarditis Home Care (PDF p. 312)",
+      "quote": "Instruct the client to record the temperature daily for up to 6 weeks and report fever."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which is the most common type of myocarditis?",
+      "options": [
+        "Viral",
+        "Fungal",
+        "Parasitic",
+        "Protozoal"
+      ],
+      "answer": "A",
+      "rationale": "Viral myocarditis is most common.",
+      "explanations": [
+        "Correct.",
+        "Less common.",
+        "Less common.",
+        "Less common."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Myocarditis (PDF p. 312)",
+      "quote": "Viral myocarditis is the most common type"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Clients with myocarditis require close monitoring when given digoxin because they:",
+      "options": [
+        "Prone to toxicity",
+        "Cannot absorb it",
+        "Need double doses",
+        "Get hypertension"
+      ],
+      "answer": "A",
+      "rationale": "Myocarditis increases sensitivity to digitalis; watch for dysrhythmias, nausea, vomiting.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Myocarditis Nursing Alert (PDF p. 312)",
+      "quote": "Patients with myocarditis are sensitive to digitalis."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Pericarditis chest pain is typically relieved by:",
+      "options": [
+        "Sitting up and leaning forward",
+        "Lying flat",
+        "Deep breathing",
+        "Lying on the left side"
+      ],
+      "answer": "A",
+      "rationale": "Pain worsens with breathing or lying flat and is relieved by sitting and leaning forward.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Worsens.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pericarditis (PDF p. 313)",
+      "quote": "relieved with a forward leaning or sitting position"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which is the most characteristic sign of pericarditis?",
+      "options": [
+        "Pericardial friction rub",
+        "S3 gallop",
+        "Water-hammer pulse",
+        "Rumbling murmur"
+      ],
+      "answer": "A",
+      "rationale": "A creaky, scratchy friction rub at the left sternal border is diagnostic.",
+      "explanations": [
+        "Correct.",
+        "HF.",
+        "AR.",
+        "MS."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pericarditis (PDF p. 313)",
+      "quote": "A pericardial friction rub is diagnostic feature of pericarditis."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Before pericardiocentesis, the head of the bed is elevated to:",
+      "options": [
+        "45–60 degrees",
+        "Flat",
+        "Trendelenburg",
+        "90 degrees with legs up"
+      ],
+      "answer": "A",
+      "rationale": "HOB at 45–60 degrees brings the heart close to the chest wall for needle insertion.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pericardiocentesis (PDF p. 313)",
+      "quote": "The head of the bed is elevated to 45 to 60 degrees"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which finding indicates successful pericardiocentesis?",
+      "options": [
+        "Rising BP, falling CVP",
+        "Falling BP",
+        "Rising CVP",
+        "More distended neck veins"
+      ],
+      "answer": "A",
+      "rationale": "Expected: decreased CVP, increased BP, loss of pulsus paradoxus, flatter neck veins.",
+      "explanations": [
+        "Correct.",
+        "Worse.",
+        "Worse.",
+        "Worse."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "TRA Nursing Module, Pericardiocentesis (PDF p. 313)",
+      "quote": "Decrease in central venous pressure"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Beck's triad of cardiac tamponade includes:",
+      "options": [
+        "JVD, hypotension, muffled heart sounds",
+        "Bradycardia, hypertension, fever",
+        "Crackles, wheezes, cough",
+        "Chest pain, ST elevation, Q waves"
+      ],
+      "answer": "A",
+      "rationale": "Beck's triad: jugular vein distention, hypotension, distant heart sounds.",
+      "explanations": [
+        "Correct.",
+        "Cushing-like.",
+        "Respiratory.",
+        "MI."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cardiac Tamponade (PDF p. 314)",
+      "quote": "BECK's Triad"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Pulsus paradoxus is a systolic BP drop during inspiration of more than:",
+      "options": [
+        "10 mm Hg",
+        "2 mm Hg",
+        "5 mm Hg",
+        "40 mm Hg"
+      ],
+      "answer": "A",
+      "rationale": "Pulsus paradoxus: >10 mm Hg drop during inspiration, seen in tamponade.",
+      "explanations": [
+        "Correct.",
+        "Normal.",
+        "Normal.",
+        "Too high."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cardiac Tamponade (PDF p. 314)",
+      "quote": ">10 mm Hg drop in blood pressure during inspiration"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Chest pain on exertion, relieved by rest and nitroglycerin in a predictable pattern, is:",
+      "options": [
+        "Stable angina",
+        "Unstable angina",
+        "Variant angina",
+        "Myocardial infarction"
+      ],
+      "answer": "A",
+      "rationale": "Stable angina is predictable, exertional, and relieved by rest or nitroglycerin.",
+      "explanations": [
+        "Correct.",
+        "Increasing.",
+        "At rest.",
+        "Not relieved."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Types of Angina (PDF p. 314)",
+      "quote": "Stable angina: predictable and consistent pain that occurs on exertion"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Chest pain at rest with transient ST elevation from coronary vasospasm is:",
+      "options": [
+        "Prinzmetal's angina",
+        "Stable angina",
+        "Silent ischemia",
+        "Intractable angina"
+      ],
+      "answer": "A",
+      "rationale": "Variant (Prinzmetal's) angina is caused by vasospasm; calcium channel blockers are used.",
+      "explanations": [
+        "Correct.",
+        "Exertion.",
+        "No pain.",
+        "Severe."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Types of Angina (PDF p. 314)",
+      "quote": "caused by coronary artery vasospasm"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which activity may trigger angina and should be avoided?",
+      "options": [
+        "Eating a heavy meal",
+        "Light walking after rest",
+        "Drinking water",
+        "Napping"
+      ],
+      "answer": "A",
+      "rationale": "Heavy meals, cold, exertion, and stress trigger angina.",
+      "explanations": [
+        "Correct.",
+        "Safe.",
+        "Safe.",
+        "Safe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Angina Triggers (PDF p. 315)",
+      "quote": "Eating a heavy meal"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Nitroglycerin relieves angina mainly by:",
+      "options": [
+        "Venous dilation reducing preload",
+        "Increasing heart rate",
+        "Increasing contractility",
+        "Raising blood pressure"
+      ],
+      "answer": "A",
+      "rationale": "Venous pooling decreases blood returning to the heart, reducing workload.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Lowers."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Nitroglycerin (PDF p. 315)",
+      "quote": "Nitroglycerine causes dilation of the veins"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which calcium channel blocker is used primarily for coronary vasospasm?",
+      "options": [
+        "Diltiazem",
+        "Metoprolol",
+        "Clopidogrel",
+        "Enoxaparin"
+      ],
+      "answer": "A",
+      "rationale": "Diltiazem is used for vasospasm; metoprolol is a beta-blocker.",
+      "explanations": [
+        "Correct.",
+        "Beta-blocker.",
+        "Antiplatelet.",
+        "Anticoagulant."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Angina Medications (PDF p. 316)",
+      "quote": "Diltiazem (Cardizem, Tiazac) used primary treatment for vasospasm"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which feature distinguishes MI pain from angina?",
+      "options": [
+        "Lasts over 30 minutes",
+        "Relieved by rest",
+        "Lasts 3 minutes",
+        "Eased by nitrates"
+      ],
+      "answer": "A",
+      "rationale": "MI pain lasts longer than 30 minutes and is relieved only by opioids.",
+      "explanations": [
+        "Correct.",
+        "Angina.",
+        "Angina.",
+        "Angina."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, MI Assessment (PDF p. 316)",
+      "quote": "The pain associated with an MI usually lasts longer than 30 minutes"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which cardiac marker rises first after myocardial infarction?",
+      "options": [
+        "Myoglobin",
+        "LDH",
+        "AST",
+        "CK-MB"
+      ],
+      "answer": "A",
+      "rationale": "Myoglobin rises within 1–3 hours, earliest but not cardiac-specific.",
+      "explanations": [
+        "Correct.",
+        "Late.",
+        "Later.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cardiac Enzymes (PDF p. 317)",
+      "quote": "First enzyme to elevate due to decreased oxygenation"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which ECG change indicates acute myocardial injury?",
+      "options": [
+        "ST-segment elevation",
+        "Normal PR interval",
+        "U wave",
+        "Narrow QRS"
+      ],
+      "answer": "A",
+      "rationale": "MI ECG: ST elevation, T-wave inversion, abnormal Q waves.",
+      "explanations": [
+        "Correct.",
+        "Normal.",
+        "Hypokalemia.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, MI ECG (PDF p. 316)",
+      "quote": "ST-segment elevation"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Thrombolytic therapy in acute MI aims to:",
+      "options": [
+        "Dissolve the coronary thrombus",
+        "Lower cholesterol",
+        "Slow heart rate",
+        "Treat infection"
+      ],
+      "answer": "A",
+      "rationale": "Thrombolytics lyse the thrombus, restoring flow and limiting damage.",
+      "explanations": [
+        "Correct.",
+        "Statins.",
+        "Beta-blockers.",
+        "Antibiotics."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, MI Pharmacologic Therapy (PDF p. 317)",
+      "quote": "Thrombolytics dissolve (ie, lyse) the thrombus in a coronary artery"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which cardiomyopathy causes a stiff, hypertrophied left ventricle and risk of sudden death in young athletes?",
+      "options": [
+        "Hypertrophic",
+        "Dilated",
+        "Restrictive",
+        "Takotsubo"
+      ],
+      "answer": "A",
+      "rationale": "Hypertrophic cardiomyopathy: asymmetric LVH, outflow obstruction, sudden death; about half inherited.",
+      "explanations": [
+        "Correct.",
+        "Dilated chambers.",
+        "Rigid walls.",
+        "Not discussed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hypertrophic Cardiomyopathy (PDF p. 318)",
+      "quote": "Sudden death common"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Dilated cardiomyopathy is commonly associated with:",
+      "options": [
+        "Alcohol abuse",
+        "Low-salt diet",
+        "Regular exercise",
+        "Hypothyroid treatment"
+      ],
+      "answer": "A",
+      "rationale": "Causes include alcohol abuse and chemotherapy.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Dilated Cardiomyopathy (PDF p. 318)",
+      "quote": "Alcohol abuse"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Septic, anaphylactic, and neurogenic shock are all types of:",
+      "options": [
+        "Distributive shock",
+        "Hypovolemic shock",
+        "Cardiogenic shock",
+        "Obstructive shock"
+      ],
+      "answer": "A",
+      "rationale": "Distributive shock results from systemic vasodilation.",
+      "explanations": [
+        "Correct.",
+        "Volume loss.",
+        "Pump failure.",
+        "Not listed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Shock (PDF p. 318)",
+      "quote": "Distributive – systemic vasodilation"
+    }
+  ]
+}

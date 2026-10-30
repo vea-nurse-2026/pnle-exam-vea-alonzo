@@ -1,0 +1,509 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Which community measure reduces the snail population to control schistosomiasis?",
+      "options": [
+        "Fogging for mosquitoes",
+        "Clearing stream vegetation",
+        "Setting rat traps",
+        "Boiling drinking water"
+      ],
+      "answer": "B",
+      "rationale": "Snail density is reduced with molluscicides and stream cleaning, which exposes snails to sunlight. Footbridges over infested streams also help.",
+      "explanations": [
+        "For mosquitoes.",
+        "Correct: snail control.",
+        "For leptospirosis.",
+        "Not for snails."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Schistosomiasis Prevention (PDF p. 172)",
+      "quote": "Stream Cleaning Vegetation (expose the snails to sunlight)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which lesion is typical of PRIMARY syphilis?",
+      "options": [
+        "Painful vesicles",
+        "Painless chancre",
+        "Rash on the palms",
+        "Gumma"
+      ],
+      "answer": "B",
+      "rationale": "Primary syphilis presents a painless chancre at the site of entry with swollen glands. It disappears in 3 to 6 weeks even without treatment. Rash on the palms and soles is secondary.",
+      "explanations": [
+        "Herpes.",
+        "Correct: primary syphilis.",
+        "Secondary stage.",
+        "Late stage."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Syphilis (PDF p. 172)",
+      "quote": "Painless chancre (sore) at site of entry of germs, swollen glands"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "What is the drug of choice for syphilis?",
+      "options": [
+        "IM benzathine penicillin G",
+        "Oral metronidazole",
+        "Nystatin",
+        "Acyclovir"
+      ],
+      "answer": "A",
+      "rationale": "Syphilis is treated with IM penicillin G benzathine; tetracycline or doxycycline are alternatives. The client completes treatment even after symptoms subside.",
+      "explanations": [
+        "Correct: drug of choice.",
+        "Trichomoniasis.",
+        "Candidiasis.",
+        "Herpes."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Syphilis (PDF p. 173)",
+      "quote": "IM Penicillin G benzathine"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A woman is prescribed metronidazole for trichomoniasis. What must the nurse teach?",
+      "options": [
+        "Take it with alcohol",
+        "No alcohol until 48 h after",
+        "Stop when symptoms go",
+        "Only she needs it"
+      ],
+      "answer": "B",
+      "rationale": "Alcohol is avoided while taking metronidazole and for 48 hours after, as the combination causes severe nausea, vomiting, abdominal pain, headache, and flushing.",
+      "explanations": [
+        "Dangerous.",
+        "Correct: disulfiram-like reaction.",
+        "Complete the course.",
+        "Partners need treatment."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Trichomoniasis (PDF p. 174)",
+      "quote": "avoid ingesting alcohol while taking metronidazole (and for 48 hours after completing the prescription)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which vaginal discharge is typical of trichomoniasis?",
+      "options": [
+        "Thick, white, curd-like",
+        "Greenish-yellow, foul-smelling",
+        "Clear and odorless",
+        "Bloody only"
+      ],
+      "answer": "B",
+      "rationale": "Trichomoniasis causes a white or greenish-yellow odorous discharge with itching, soreness, and painful urination.",
+      "explanations": [
+        "Candidiasis.",
+        "Correct: trichomoniasis.",
+        "Normal.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Trichomoniasis (PDF p. 173)",
+      "quote": "White or greenish – yellow odorous discharge"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A mother with untreated chlamydia delivers vaginally. Which newborn problem should the nurse watch for?",
+      "options": [
+        "Eye infection",
+        "Hip dysplasia",
+        "Cleft palate",
+        "Jaundice only"
+      ],
+      "answer": "A",
+      "rationale": "Complications of chlamydia include infant eye infections and pneumonia, prematurity, and stillbirth. The newborn is assessed for chlamydial infection.",
+      "explanations": [
+        "Correct: conjunctivitis.",
+        "Not related.",
+        "Not related.",
+        "Not the specific risk."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Chlamydia (PDF p. 174)",
+      "quote": "Eye Infections (infants)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Why is gonorrhea often missed in women?",
+      "options": [
+        "It is always painless",
+        "Most women lack symptoms",
+        "It affects only men",
+        "It cures itself"
+      ],
+      "answer": "B",
+      "rationale": "About 80% of women with gonorrhea are asymptomatic, so case finding and partner treatment matter. Untreated infection can cause sterility and pelvic infection.",
+      "explanations": [
+        "Some have symptoms.",
+        "Correct: mostly asymptomatic.",
+        "It affects both.",
+        "It needs treatment."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Gonorrhea (PDF p. 175)",
+      "quote": "80% are aysmptomatic"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "An infant has white curd-like patches on the tongue that bleed when scraped. What is this?",
+      "options": [
+        "Milk curds",
+        "Oral thrush (candidiasis)",
+        "Koplik spots",
+        "Herpangina"
+      ],
+      "answer": "B",
+      "rationale": "Oral candidiasis (thrush) shows cream or bluish-white curd-like patches that reveal bloody engorgement when scraped. Milk curds wipe off easily.",
+      "explanations": [
+        "Wipe off without bleeding.",
+        "Correct: thrush.",
+        "Measles.",
+        "Vesicles."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Candidiasis (PDF p. 176)",
+      "quote": "curd-like patches of exudates on the tongue, mouth, or pharynx that reveal bloody engorgement when scraped"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "In the classic HIV testing sequence, which test is confirmatory?",
+      "options": [
+        "ELISA",
+        "Western blot",
+        "Widal",
+        "VDRL"
+      ],
+      "answer": "B",
+      "rationale": "ELISA is the presumptive (screening) test and Western blot is the confirmatory test.",
+      "explanations": [
+        "Presumptive.",
+        "Correct: confirmatory.",
+        "Typhoid.",
+        "Syphilis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, HIV/AIDS (PDF p. 176)",
+      "quote": "Western Blot – confirmatory test"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Kaye, 8, has had a high fever for 3 days. The barangay has many dengue cases.",
+      "stem": "Which vector transmits dengue?",
+      "options": [
+        "Anopheles",
+        "Aedes aegypti",
+        "Culex",
+        "Sandfly"
+      ],
+      "answer": "B",
+      "rationale": "Dengue is transmitted by the bite of an infected female Aedes aegypti mosquito.",
+      "explanations": [
+        "Malaria.",
+        "Correct: dengue.",
+        "Not the main vector.",
+        "Leishmaniasis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Dengue Fever (PDF p. 177)",
+      "quote": "Bite of female infected mosquito"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Kaye, 8, has had a high fever for 3 days. The barangay has many dengue cases.",
+      "stem": "Which medicine should Kaye's mother AVOID for her fever?",
+      "options": [
+        "Paracetamol",
+        "Aspirin",
+        "ORS",
+        "Tepid sponge"
+      ],
+      "answer": "B",
+      "rationale": "Aspirin is not given in dengue because it increases bleeding risk. An analgesic such as paracetamol and fluid replacement are used.",
+      "explanations": [
+        "Appropriate.",
+        "Correct: bleeding risk.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Dengue Fever (PDF p. 178)",
+      "quote": "Give analgesic (Don’t give Aspirin)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Kaye, 8, has had a high fever for 3 days. The barangay has many dengue cases.",
+      "stem": "Kaye develops a nosebleed. What should the nurse do?",
+      "options": [
+        "Tilt her head back",
+        "Ice bag on nose bridge",
+        "Give her aspirin",
+        "Have her blow it"
+      ],
+      "answer": "B",
+      "rationale": "For nosebleed in dengue, an ice bag is applied on the forehead and the bridge of the nose. The nurse also watches for shock.",
+      "explanations": [
+        "Blood may be swallowed.",
+        "Correct: vasoconstriction.",
+        "Contraindicated.",
+        "Worsens bleeding."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Dengue Fever (PDF p. 178)",
+      "quote": "Nose bleeding (apply ice bag on the forehead and at the bridge of the nose)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Kaye, 8, has had a high fever for 3 days. The barangay has many dengue cases.",
+      "stem": "Which lab finding suggests plasma leakage in Kaye?",
+      "options": [
+        "Hematocrit rise of at least 20%",
+        "High platelet count",
+        "Low hematocrit",
+        "Normal hemoglobin"
+      ],
+      "answer": "A",
+      "rationale": "Hemoconcentration, an increase of at least 20% in hematocrit, together with a falling platelet count, indicates plasma leakage.",
+      "explanations": [
+        "Correct: hemoconcentration.",
+        "Platelets fall.",
+        "The opposite.",
+        "Not the sign."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Dengue Fever (PDF p. 177)",
+      "quote": "Hemoconcentration (increased of at least 20%)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which mosquito transmits malaria?",
+      "options": [
+        "Female Anopheles",
+        "Aedes aegypti",
+        "Aedes poecilius",
+        "Culex"
+      ],
+      "answer": "A",
+      "rationale": "Malaria is transmitted by the bite of an infected female Anopheles mosquito, and also by blood transfusion and across the placenta.",
+      "explanations": [
+        "Correct: malaria vector.",
+        "Dengue.",
+        "Filariasis.",
+        "Not in PH malaria."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Malaria (PDF p. 178)",
+      "quote": "Transmitted mechanically through bite of an infected female Anopheles mosquito"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A worker will go to a malaria-endemic area in Palawan. When should chloroquine prophylaxis start?",
+      "options": [
+        "The day he arrives",
+        "1 to 2 weeks before entering",
+        "After symptoms appear",
+        "Only if bitten"
+      ],
+      "answer": "B",
+      "rationale": "Chloroquine is taken weekly, starting 1 to 2 weeks before entering the endemic area.",
+      "explanations": [
+        "Too late.",
+        "Correct: before entry.",
+        "That is treatment.",
+        "Too late."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Malaria Chemoprophylaxis (PDF p. 179)",
+      "quote": "This must be taken at weekly intervals, starting from 1-2 weeks before entering endemic areas."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which teaching helps prevent malaria?",
+      "options": [
+        "Stay indoors 9 PM–3 AM",
+        "Wear shorts at night",
+        "Keep stagnant water",
+        "Sleep outdoors"
+      ],
+      "answer": "A",
+      "rationale": "Prevention includes insecticide-treated nets, house spraying, stream seeding and clearing, covering arms and legs in the evening, and avoiding outdoor night activity from 9 PM to 3 AM.",
+      "explanations": [
+        "Correct: peak biting time.",
+        "Increases bites.",
+        "Breeds mosquitoes.",
+        "Increases bites."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Malaria Prevention (PDF p. 179)",
+      "quote": "Avoiding outdoor night activities (9PM to 3AM)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "When is blood collected for the nocturnal blood examination (NBE) for filariasis?",
+      "options": [
+        "Early morning",
+        "Noon",
+        "At night, from 8 PM",
+        "Any time of day"
+      ],
+      "answer": "C",
+      "rationale": "Microfilariae circulate at night, so NBE blood is taken at the client's residence from 8 PM. The ICT antigen test can be done in the daytime.",
+      "explanations": [
+        "Too early.",
+        "Wrong time.",
+        "Correct: at night.",
+        "Only for ICT."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Filariasis (PDF p. 179)",
+      "quote": "Blood are taken from the patient’s residence (8pm)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which drug is used to treat filariasis?",
+      "options": [
+        "Diethylcarbamazine citrate",
+        "Praziquantel",
+        "Chloroquine",
+        "Mebendazole only"
+      ],
+      "answer": "A",
+      "rationale": "Filariasis is treated with diethylcarbamazine citrate (Hetrazan), given as a yearly dose in mass treatment.",
+      "explanations": [
+        "Correct: DEC.",
+        "Schistosomiasis.",
+        "Malaria.",
+        "Not the main drug."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Filariasis (PDF p. 180)",
+      "quote": "Diethylcarbamazine citrate (Hetrazan)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "After wading through floodwater with leg wounds, a man has fever, myalgia, and calf pain. What is suspected?",
+      "options": [
+        "Leptospirosis",
+        "Dengue",
+        "Typhoid",
+        "Tetanus"
+      ],
+      "answer": "A",
+      "rationale": "Leptospirosis is a zoonosis spread when animal urine (mostly rats) contaminates water and enters through open skin. It is also called flood fever.",
+      "explanations": [
+        "Correct: flood fever.",
+        "Mosquito-borne.",
+        "Fecal-oral.",
+        "Muscle spasms."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Leptospirosis (PDF p. 180)",
+      "quote": "Direct contact on the skin through open wounds"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which drug is given as prophylaxis to people exposed to floodwater against leptospirosis?",
+      "options": [
+        "Doxycycline",
+        "Chloroquine",
+        "Isoniazid",
+        "Metronidazole"
+      ],
+      "answer": "A",
+      "rationale": "Doxycycline is used as prophylaxis for leptospirosis. Penicillin and tetracycline are used for treatment.",
+      "explanations": [
+        "Correct: prophylaxis.",
+        "Malaria.",
+        "TB.",
+        "Protozoa."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Leptospirosis (PDF p. 181)",
+      "quote": "Doxycycline (Prophylactic)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "What is the usual incubation period of rabies?",
+      "options": [
+        "1 to 3 days",
+        "3 to 8 weeks",
+        "6 months exactly",
+        "10 years"
+      ],
+      "answer": "B",
+      "rationale": "Rabies usually incubates 3 to 8 weeks but ranges from 9 days to 7 years, depending on the virus dose, wound severity, and closeness to the brain.",
+      "explanations": [
+        "Too short.",
+        "Correct: usual range.",
+        "Not fixed.",
+        "Too long."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Rabies (PDF p. 181)",
+      "quote": "3 to 8 weeks, but may be as short as 9 days or as long as 7 years"
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How is the inner cannula reinserted after cleaning?",
+      "options": [
+        "Against its curve",
+        "Following its curve",
+        "Straight in",
+        "Twisted first"
+      ],
+      "answer": "B",
+      "rationale": "The inner cannula is inserted in the direction of its curvature and locked to the outer cannula flange.",
+      "explanations": [
+        "Injury risk.",
+        "Correct.",
+        "Not standard.",
+        "Not the method."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tracheostomy Care (PDF p. 40)",
+      "quote": "Insert the inner cannula in the direction of its curvature"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which dressing is used under a tracheostomy flange?",
+      "options": [
+        "Cut 4x4 gauze",
+        "Cotton-filled gauze",
+        "Non-raveling trach dressing",
+        "Paper towel"
+      ],
+      "answer": "C",
+      "rationale": "Use a commercial non-raveling dressing or a folded 4x4; never cut gauze or use cotton-filled squares (fibers can be aspirated).",
+      "explanations": [
+        "Frays.",
+        "Fibers.",
+        "Correct.",
+        "Not sterile."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tracheostomy Care (PDF p. 40)",
+      "quote": "Avoid using cotton-filled gauze square or cutting the 4in x 4in gauze"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which suction catheter size is used for an adult?",
+      "options": [
+        "Fr 5–8",
+        "Fr 8–10",
+        "Fr 12–18",
+        "Fr 22–28"
+      ],
+      "answer": "C",
+      "rationale": "Adults Fr 12–18; children Fr 8–10; infants Fr 5–8.",
+      "explanations": [
+        "Infant.",
+        "Child.",
+        "Correct.",
+        "Too large."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Suctioning (PDF p. 40)",
+      "quote": "Adults: Fr 12-18"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which catheter is used for oropharyngeal suctioning?",
+      "options": [
+        "Yankauer",
+        "Whistle-tip",
+        "Foley",
+        "Levin"
+      ],
+      "answer": "A",
+      "rationale": "A Yankauer catheter is used for oropharyngeal suctioning.",
+      "explanations": [
+        "Correct.",
+        "Airway suction.",
+        "Urinary.",
+        "NG tube."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Suctioning (PDF p. 40)",
+      "quote": "Yankauer suction catheter is used for oropharyngeal"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How long should one suction pass last?",
+      "options": [
+        "5 seconds total",
+        "10–15 seconds total",
+        "30 seconds",
+        "1 minute"
+      ],
+      "answer": "B",
+      "rationale": "Apply suction 5–10 seconds; the whole attempt lasts 10–15 seconds, and total suctioning is limited to 5 minutes.",
+      "explanations": [
+        "Short.",
+        "Correct.",
+        "Hypoxia.",
+        "Hypoxia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Suctioning (PDF p. 41)",
+      "quote": "The whole suction attempt should last only 10-15 secs"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "When is suction applied during catheter insertion?",
+      "options": [
+        "During insertion",
+        "Only during withdrawal",
+        "Continuously",
+        "Before insertion only"
+      ],
+      "answer": "B",
+      "rationale": "No suction during insertion; apply intermittent suction while rotating and withdrawing.",
+      "explanations": [
+        "Trauma.",
+        "Correct.",
+        "Trauma.",
+        "Wrong."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Suctioning (PDF p. 41)",
+      "quote": "Do not apply suction during insertion"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How is an unconscious client positioned for oral suctioning?",
+      "options": [
+        "Supine, flat",
+        "Lateral, facing nurse",
+        "Prone",
+        "High Fowler's"
+      ],
+      "answer": "B",
+      "rationale": "Unconscious clients are placed lateral facing the nurse to drain secretions; conscious clients semi-Fowler's.",
+      "explanations": [
+        "Aspiration.",
+        "Correct.",
+        "Not used.",
+        "For conscious."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Suctioning (PDF p. 41)",
+      "quote": "Position unconscious client in lateral position facing you"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How far is the catheter inserted for nasopharyngeal suction in an adult?",
+      "options": [
+        "About 13 cm",
+        "About 30 cm",
+        "About 5 cm",
+        "Until it resists"
+      ],
+      "answer": "A",
+      "rationale": "Measure from nose tip to earlobe, about 13 cm (5 in) in adults.",
+      "explanations": [
+        "Correct.",
+        "Too far.",
+        "Too short.",
+        "Not the rule."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Nasopharyngeal Suctioning (PDF p. 41)",
+      "quote": "Measure the distance between the tip of the nose and earlobe or about 13cm. (5in.) for an adult"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How long should the nurse wait between tracheal suction passes?",
+      "options": [
+        "No wait",
+        "2–3 minutes with oxygen",
+        "10 minutes",
+        "Until next shift"
+      ],
+      "answer": "B",
+      "rationale": "Allow 2–3 minutes with oxygen between suctions when possible.",
+      "explanations": [
+        "Hypoxia.",
+        "Correct.",
+        "Too long.",
+        "Too long."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tracheal Suctioning (PDF p. 42)",
+      "quote": "Allow 2-3 mins with 02. as appropriate between suctions when possible"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which tube is used to control bleeding esophageal varices?",
+      "options": [
+        "Levin",
+        "Salem sump",
+        "Sengstaken-Blakemore",
+        "Miller-Abbott"
+      ],
+      "answer": "C",
+      "rationale": "The triple-lumen Sengstaken-Blakemore tube treats bleeding varices; Miller-Abbott decompresses the intestine.",
+      "explanations": [
+        "Single lumen.",
+        "Double lumen.",
+        "Correct.",
+        "Intestinal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Enteral Tubes (PDF p. 42)",
+      "quote": "Sengstaken-Blakemore tube – triple-lumen tube used to treat bleeding esophageal varices"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How is NG tube length measured?",
+      "options": [
+        "Nose to chin",
+        "Nose to earlobe to xiphoid",
+        "Mouth to navel",
+        "Ear to shoulder"
+      ],
+      "answer": "B",
+      "rationale": "Measure from the tip of the nose to the earlobe to the xiphoid process.",
+      "explanations": [
+        "Too short.",
+        "Correct.",
+        "Not standard.",
+        "Not standard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Inserting an NG Tube (PDF p. 43)",
+      "quote": "tip of the client’s nose to tip of the earlobe up to the xyphoid process."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Why is a water-soluble lubricant used for NG insertion?",
+      "options": [
+        "It numbs the nose",
+        "It dissolves in lungs",
+        "It tastes better",
+        "It is cheaper"
+      ],
+      "answer": "B",
+      "rationale": "Water-soluble lubricant dissolves if it enters the lungs; oil-based lubricant can cause lipid pneumonia.",
+      "explanations": [
+        "Not the purpose.",
+        "Correct.",
+        "Not relevant.",
+        "Not relevant."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Inserting an NG Tube (PDF p. 43)",
+      "quote": "A water-soluble lubricant dissolves if the tube accidentally, enters the lungs."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Once the NG tube reaches the oropharynx, how should the client position the head?",
+      "options": [
+        "Hyperextend it",
+        "Tilt it forward and swallow",
+        "Turn it fully aside",
+        "Lie flat"
+      ],
+      "answer": "B",
+      "rationale": "Tilting the head forward helps the tube pass into the esophagus rather than the trachea.",
+      "explanations": [
+        "Opens trachea.",
+        "Correct.",
+        "Not standard.",
+        "Not standard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Inserting an NG Tube (PDF p. 43)",
+      "quote": "Tilting the head forward facilitates passage of the tube into the posterior pharynx and esophagus"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which aspirate pH suggests gastric placement of a feeding tube?",
+      "options": [
+        "pH 1–5",
+        "pH 7",
+        "pH 8",
+        "pH 10"
+      ],
+      "answer": "A",
+      "rationale": "Gastric contents are usually pH 1 to 5.",
+      "explanations": [
+        "Correct.",
+        "Neutral.",
+        "Intestinal.",
+        "Too high."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Tube Feeding (PDF p. 44)",
+      "quote": "Gastric contents are commonly pH1 to 5"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "After a gastrostomy feeding, how long should the client stay upright?",
+      "options": [
+        "5 minutes",
+        "30 minutes",
+        "3 hours",
+        "Not needed"
+      ],
+      "answer": "B",
+      "rationale": "The client remains sitting or slightly elevated right lateral for 30 minutes to reduce aspiration.",
+      "explanations": [
+        "Too short.",
+        "Correct.",
+        "Longer than needed.",
+        "Needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Gastrostomy (PDF p. 44)",
+      "quote": "ask the client to remain in the sitting position or slightly elevated right lateral position for 30 minutes"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How often are enteral feeding bag and tubing replaced?",
+      "options": [
+        "Every 4 hours",
+        "Every 24 hours",
+        "Weekly",
+        "Monthly"
+      ],
+      "answer": "B",
+      "rationale": "The bag and tubing are replaced every 24 hours.",
+      "explanations": [
+        "Too often.",
+        "Correct.",
+        "Too seldom.",
+        "Too seldom."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Enteral Feeding (PDF p. 43)",
+      "quote": "The bag and tubing should be replaced every 24 hours"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How should TPN be discontinued?",
+      "options": [
+        "Stop abruptly",
+        "Taper the rate slowly",
+        "Double the rate first",
+        "Switch to D5W at once"
+      ],
+      "answer": "B",
+      "rationale": "TPN is tapered slowly to prevent hyperinsulinemia and rebound hypoglycemia.",
+      "explanations": [
+        "Hypoglycemia.",
+        "Correct.",
+        "Hyperglycemia.",
+        "Not enough."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Parenteral Nutrition (PDF p. 44)",
+      "quote": "the TPN infusion rates are decreased slowly to prevent hyperinsulinemia and rebound hypoglycemia"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which stool finding suggests upper GI bleeding?",
+      "options": [
+        "Brown, formed",
+        "Black, tarry",
+        "Yellow in an infant",
+        "Soft, cylindrical"
+      ],
+      "answer": "B",
+      "rationale": "Black, tarry stool suggests upper GI bleeding; normal adult stool is brown and formed.",
+      "explanations": [
+        "Normal.",
+        "Correct.",
+        "Normal infant.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Characteristics of Feces (PDF p. 44)",
+      "quote": "Tarry"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How high is a HIGH cleansing enema container held?",
+      "options": [
+        "12–18 inches",
+        "Over 36 inches",
+        "At bed level",
+        "3 inches"
+      ],
+      "answer": "A",
+      "rationale": "High enema: 12–18 inches with position changes; low enema: no higher than 12 inches.",
+      "explanations": [
+        "Correct.",
+        "Too high.",
+        "Too low.",
+        "Too low."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Types of Enema (PDF p. 45)",
+      "quote": "Container is held 12-18 inches above the rectum"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which enema is given mainly to expel flatus?",
+      "options": [
+        "Retention",
+        "Carminative",
+        "Soapsuds",
+        "Oil"
+      ],
+      "answer": "B",
+      "rationale": "Carminative enemas (60–80 mL in adults) expel flatus; return-flow enemas also do.",
+      "explanations": [
+        "Softens.",
+        "Correct.",
+        "Cleansing.",
+        "Lubricates."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Types of Enema (PDF p. 45)",
+      "quote": "Given primarily to expel flatus"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "How far is a rectal tube inserted in an adult for an enema?",
+      "options": [
+        "1 inch",
+        "3–4 inches",
+        "8 inches",
+        "12 inches"
+      ],
+      "answer": "B",
+      "rationale": "Adults: Fr 22–32 inserted 3–4 inches; children 2–3 inches; infants 1–1.5 inches.",
+      "explanations": [
+        "Infant.",
+        "Correct.",
+        "Too far.",
+        "Too far."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Rectal Tube (PDF p. 46)",
+      "quote": "Adult — Fr. 22-32 inserted 3-4 inches in the anal canal"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which ostomy has liquid output with enzymes that damage skin and cannot be regulated?",
+      "options": [
+        "Sigmoidostomy",
+        "Descending colostomy",
+        "Ileostomy",
+        "Transverse colostomy"
+      ],
+      "answer": "C",
+      "rationale": "Ileostomy drainage is liquid, unregulated, enzyme-rich, and needs continuous appliance wear.",
+      "explanations": [
+        "Formed, regulated.",
+        "More formed.",
+        "Correct.",
+        "Mushy."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Bowel Ostomies (PDF p. 46)",
+      "quote": "Ileostomy"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Colostomy irrigation is appropriate for which ostomy?",
+      "options": [
+        "Ileostomy",
+        "Ascending colostomy",
+        "Transverse colostomy",
+        "Sigmoid or descending colostomy"
+      ],
+      "answer": "D",
+      "rationale": "Irrigation is used only for sigmoid or descending colostomies, which produce formed stool and can be regulated.",
+      "explanations": [
+        "Liquid.",
+        "Liquid.",
+        "Mushy.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Colostomy Irrigation (PDF p. 47)",
+      "quote": "used only for client who have a sigmoid or descending colostomy"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A new stoma looks dusky purple. What should the nurse do?",
+      "options": [
+        "Document as normal",
+        "Notify the surgeon immediately",
+        "Apply ice",
+        "Change the pouch only"
+      ],
+      "answer": "B",
+      "rationale": "A healthy stoma is red and moist; pale or dusky bluish-purple indicates impaired circulation.",
+      "explanations": [
+        "Abnormal.",
+        "Correct.",
+        "Not indicated.",
+        "Not enough."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Stoma Assessment (PDF p. 48)",
+      "quote": "Very pale or darker-colored stomas with a dusky bluish or purplish hue indicate impaired blood circulation"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which advice helps a client with flatulence?",
+      "options": [
+        "Drink with a straw",
+        "Chew gum often",
+        "Limit carbonated drinks",
+        "Eat more beans"
+      ],
+      "answer": "C",
+      "rationale": "Limit carbonated drinks, straws, and gum (swallowed air) and gas-forming foods.",
+      "explanations": [
+        "Increases air.",
+        "Increases air.",
+        "Correct.",
+        "Gas-forming."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Promoting Defecation (PDF p. 47)",
+      "quote": "Limit carbonated beverages. the use of drinking straws and chewing gum"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "During an enema the client reports cramps. What should the nurse do?",
+      "options": [
+        "Raise the container",
+        "Pause, then go slower",
+        "Remove the tube",
+        "Speed it up"
+      ],
+      "answer": "B",
+      "rationale": "Lower the container or clamp the tube for 30 seconds, then restart slowly.",
+      "explanations": [
+        "Worsens.",
+        "Correct.",
+        "Not needed.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Administering Enema (PDF p. 46)",
+      "quote": "lower the container or clamp the tube to stop the flow for 30 sec. then restart the flow at a slow rate"
+    }
+  ]
+}

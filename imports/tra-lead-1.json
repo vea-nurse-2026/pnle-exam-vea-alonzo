@@ -1,0 +1,677 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A nurse tells a patient, 'I'll restrain you if you don't take your medicine.' This is:",
+      "options": [
+        "Assault",
+        "Battery",
+        "Defamation",
+        "False imprisonment"
+      ],
+      "answer": "A",
+      "rationale": "Assault is a threat of harmful contact; battery is actual unconsented touching.",
+      "explanations": [
+        "Correct.",
+        "Touching.",
+        "Reputation.",
+        "Detention."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Assault (PDF p. 503)",
+      "quote": "A nurse threatens to restrain patient if he will not take his medicine."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A nurse gives an injection after the patient refused it. The nurse may be charged with:",
+      "options": [
+        "Battery",
+        "Assault",
+        "Libel",
+        "Slander"
+      ],
+      "answer": "A",
+      "rationale": "Battery is intentional unconsented physical touching.",
+      "explanations": [
+        "Correct.",
+        "Threat only.",
+        "Written.",
+        "Spoken."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Battery (PDF p. 503)",
+      "quote": "When a patient refuses an injection and the nurse gives it anyway"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A competent patient insists on leaving against advice. The nurse should:",
+      "options": [
+        "Explain risks; allow AMA",
+        "Lock the door",
+        "Restrain him",
+        "Hide his clothes"
+      ],
+      "answer": "A",
+      "rationale": "Detaining him is false imprisonment; explain consequences and allow discharge against advice.",
+      "explanations": [
+        "Correct.",
+        "Illegal detention.",
+        "Illegal detention.",
+        "Illegal detention."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, False Imprisonment (PDF p. 503)",
+      "quote": "he is allowed to go home against advice"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Closing the curtains during a physical examination protects the patient's:",
+      "options": [
+        "Privacy",
+        "Confidentiality",
+        "Autonomy",
+        "Veracity"
+      ],
+      "answer": "A",
+      "rationale": "Privacy relates to the person; confidentiality relates to information.",
+      "explanations": [
+        "Correct.",
+        "Information.",
+        "Choice.",
+        "Truth."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Right to Privacy (PDF p. 503)",
+      "quote": "Curtains are closed during physical examination"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A nurse posts false, damaging written statements about a colleague. This is:",
+      "options": [
+        "Libel",
+        "Slander",
+        "Assault",
+        "Battery"
+      ],
+      "answer": "A",
+      "rationale": "Libel is written defamation; slander is spoken; a third party must receive it.",
+      "explanations": [
+        "Correct.",
+        "Spoken.",
+        "Threat.",
+        "Touch."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Defamation (PDF p. 503)",
+      "quote": "Libel (written defamation)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Under the Revised Penal Code, a felony is frustrated when the offender:",
+      "options": [
+        "All acts done, failed",
+        "Only begins act",
+        "Completes crime",
+        "Has no intent"
+      ],
+      "answer": "A",
+      "rationale": "Frustrated: all acts performed but not produced for reasons independent of the offender.",
+      "explanations": [
+        "Correct.",
+        "Attempted.",
+        "Consummated.",
+        "No crime."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Felony Degrees (PDF p. 503)",
+      "quote": "Did not produce felony by reason of causes independent of the will of the perpetrator"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A person who knows of a crime and later helps the offender escape is an:",
+      "options": [
+        "Accessory",
+        "Accomplice",
+        "Principal",
+        "Witness"
+      ],
+      "answer": "A",
+      "rationale": "Accessories act after the crime; accomplices cooperate before or during.",
+      "explanations": [
+        "Correct.",
+        "During.",
+        "Executes.",
+        "Not liable."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Conspiracy (PDF p. 503)",
+      "quote": "Provides the exit strategy"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Self-defense with all its elements present is a:",
+      "options": [
+        "Justifying circumstance",
+        "Mitigating circumstance",
+        "Aggravating circumstance",
+        "Exempting circumstance"
+      ],
+      "answer": "A",
+      "rationale": "Justifying: no liability; incomplete self-defense becomes mitigating.",
+      "explanations": [
+        "Correct.",
+        "Incomplete.",
+        "Increases.",
+        "Person exempted."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Justifying Circumstance (PDF p. 504)",
+      "quote": "Self-defense"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Voluntary surrender to authorities is which type of circumstance?",
+      "options": [
+        "Mitigating",
+        "Aggravating",
+        "Justifying",
+        "Exempting"
+      ],
+      "answer": "A",
+      "rationale": "Mitigating circumstances reduce liability (voluntary surrender, confession).",
+      "explanations": [
+        "Correct.",
+        "Increases.",
+        "No liability.",
+        "Person exempted."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Mitigating Circumstance (PDF p. 504)",
+      "quote": "Voluntary surrender"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Looting during a calamity is which type of circumstance?",
+      "options": [
+        "Aggravating",
+        "Mitigating",
+        "Justifying",
+        "Alternative"
+      ],
+      "answer": "A",
+      "rationale": "Crimes in times of calamity, cruelty, treachery, and premeditation increase liability.",
+      "explanations": [
+        "Correct.",
+        "Decreases.",
+        "No liability.",
+        "Depends."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Aggravating Circumstance (PDF p. 504)",
+      "quote": "Crimes in times of calamity (Looting, profiteering)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which law is the Magna Carta for Public Health Workers?",
+      "options": [
+        "RA 7305",
+        "RA 7160",
+        "RA 6173",
+        "RA 7875"
+      ],
+      "answer": "A",
+      "rationale": "RA 7305; RA 7160 is Local Government Code; RA 6713 ethics of officials; RA 7875 PhilHealth.",
+      "explanations": [
+        "Correct.",
+        "LGC.",
+        "Not this.",
+        "PhilHealth."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Laws Related to Nursing (PDF p. 505)",
+      "quote": "Magna Carta for Public Health Workers"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which law mandates rooming-in and breastfeeding in health facilities?",
+      "options": [
+        "RA 7600",
+        "RA 9288",
+        "RA 6675",
+        "RA 4226"
+      ],
+      "answer": "A",
+      "rationale": "RA 7600 (Rooming-In and Breastfeeding Act, amended by RA 10028).",
+      "explanations": [
+        "Correct.",
+        "Newborn screening.",
+        "Generics.",
+        "Hospital licensure."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Laws Related to Nursing (PDF p. 505)",
+      "quote": "Rooming-In and Breastfeeding"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "The Generics Act of the Philippines is:",
+      "options": [
+        "RA 6675",
+        "RA 7719",
+        "RA 9262",
+        "RA 8749"
+      ],
+      "answer": "A",
+      "rationale": "RA 6675 Generics Act; RA 7719 Blood Services; RA 9262 VAWC; RA 8749 Clean Air Act.",
+      "explanations": [
+        "Correct.",
+        "Blood.",
+        "VAWC.",
+        "Air."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Laws Related to Nursing (PDF p. 505)",
+      "quote": "Generics Act"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which law governs the National Blood Services program?",
+      "options": [
+        "RA 7719",
+        "RA 7875",
+        "RA 7432",
+        "RA 3573"
+      ],
+      "answer": "A",
+      "rationale": "RA 7719 promotes voluntary blood donation and safe blood supply.",
+      "explanations": [
+        "Correct.",
+        "PhilHealth.",
+        "Seniors.",
+        "Disease reporting."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Laws Related to Nursing (PDF p. 505)",
+      "quote": "National Blood Service"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Which theory holds that leaders are born, not made?",
+      "options": [
+        "Great Man (trait) theory",
+        "Situational theory",
+        "Transformational theory",
+        "Path-goal theory"
+      ],
+      "answer": "A",
+      "rationale": "Great man/trait theory: inborn characteristics make leaders.",
+      "explanations": [
+        "Correct.",
+        "Varies.",
+        "Inspires.",
+        "Removes obstacles."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Leadership Theories (PDF p. 506)",
+      "quote": "Great leaders are born and not made."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "A head nurse inspires staff, promotes their development, and encourages creativity. This is:",
+      "options": [
+        "Transformational leadership",
+        "Transactional leadership",
+        "Laissez-faire",
+        "Authoritarian"
+      ],
+      "answer": "A",
+      "rationale": "Transformational leaders inspire and develop followers; transactional uses rewards and punishment.",
+      "explanations": [
+        "Correct.",
+        "Trade-offs.",
+        "No control.",
+        "Commands."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Transformational Theory (PDF p. 506)",
+      "quote": "Encourages follower creativity"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Fiedler's contingency theory considers leader-member relations, task structure, and:",
+      "options": [
+        "Position power",
+        "Charisma",
+        "Salary",
+        "Age"
+      ],
+      "answer": "A",
+      "rationale": "Fiedler: leader-member relations, task structure, position power.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Contingency Theory (PDF p. 506)",
+      "quote": "Position power"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "During a code, which leadership style is most appropriate?",
+      "options": [
+        "Authoritarian",
+        "Laissez-faire",
+        "Democratic",
+        "Participative"
+      ],
+      "answer": "A",
+      "rationale": "Emergencies need quick decisions and strong control.",
+      "explanations": [
+        "Correct.",
+        "Too loose.",
+        "Too slow.",
+        "Too slow."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Leadership Styles (PDF p. 507)",
+      "quote": "Strong control through commands"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Laissez-faire leadership works best with staff who are:",
+      "options": [
+        "Self-directed and skilled",
+        "New graduates",
+        "In a crisis",
+        "Unmotivated"
+      ],
+      "answer": "A",
+      "rationale": "Little control requires self-directed, skilled members.",
+      "explanations": [
+        "Correct.",
+        "Need guidance.",
+        "Need direction.",
+        "Need direction."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Leadership Styles (PDF p. 507)",
+      "quote": "Requirement: Self-directed and skilled members"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Who is the Father of Scientific Management?",
+      "options": [
+        "Frederick Taylor",
+        "Henri Fayol",
+        "Max Weber",
+        "Peter Drucker"
+      ],
+      "answer": "A",
+      "rationale": "Taylor used stopwatch studies; Fayol: management process; Weber: organization/bureaucracy.",
+      "explanations": [
+        "Correct.",
+        "Process.",
+        "Organization.",
+        "Results."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Management Theories (PDF p. 507)",
+      "quote": "Father of Scientific Management"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "According to Herzberg, which is a motivator rather than a hygiene factor?",
+      "options": [
+        "Recognition",
+        "Salary",
+        "Working conditions",
+        "Company policy"
+      ],
+      "answer": "A",
+      "rationale": "Motivators: achievement, recognition, responsibility, growth; hygiene: policy, supervision, conditions.",
+      "explanations": [
+        "Correct.",
+        "Hygiene.",
+        "Hygiene.",
+        "Hygiene."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Herzberg (PDF p. 508)",
+      "quote": "Motivators or satisfiers identified were achievement, recognition"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "A manager believing staff dislike work and must be threatened follows:",
+      "options": [
+        "Theory X",
+        "Theory Y",
+        "Theory Z",
+        "Path-goal"
+      ],
+      "answer": "A",
+      "rationale": "McGregor's Theory X assumes people avoid work; Theory Y assumes self-direction.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Not discussed.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, McGregor (PDF p. 508)",
+      "quote": "Motivation by fear and threats"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Staff follow a senior nurse because they admire her and want to be like her. This is:",
+      "options": [
+        "Referent power",
+        "Coercive power",
+        "Legitimate power",
+        "Reward power"
+      ],
+      "answer": "A",
+      "rationale": "Referent power comes from admiration and identification.",
+      "explanations": [
+        "Correct.",
+        "Fear.",
+        "Position.",
+        "Incentives."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Sources of Power (PDF p. 508)",
+      "quote": "Leader is admired and exerts influence because the followers desire to be like the leader"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Influence based on being the mayor's daughter reflects which power?",
+      "options": [
+        "Connection",
+        "Expert",
+        "Information",
+        "Legitimate"
+      ],
+      "answer": "A",
+      "rationale": "Connection power comes from links to influential people.",
+      "explanations": [
+        "Correct.",
+        "Skills.",
+        "Knowledge.",
+        "Position."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Sources of Power (PDF p. 509)",
+      "quote": "Eg. Son/Daughter of the Mayor"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "The Pareto principle states that:",
+      "options": [
+        "80/20 rule",
+        "Equal causes",
+        "Least effort",
+        "Time expands"
+      ],
+      "answer": "A",
+      "rationale": "The 80-20 rule: focus on the vital few causes.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Different principle.",
+        "Parkinson's law."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Principles of Management (PDF p. 509)",
+      "quote": "Roughly 80% of the effects comes from 20% of the causes"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "A head nurse is an example of which management level?",
+      "options": [
+        "First-level",
+        "Middle-level",
+        "Top-level",
+        "Executive"
+      ],
+      "answer": "A",
+      "rationale": "Head nurse: first level; supervisor: middle; chief nurse: top.",
+      "explanations": [
+        "Correct.",
+        "Supervisor.",
+        "Chief nurse.",
+        "Top."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Management Levels (PDF p. 510)",
+      "quote": "E.g. Head nurse"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Strategic planning typically covers:",
+      "options": [
+        "3–5 years",
+        "1 day",
+        "1 week",
+        "1 month"
+      ],
+      "answer": "A",
+      "rationale": "Strategic planning sets overall goals for 3–5 years by top managers.",
+      "explanations": [
+        "Correct.",
+        "Operational.",
+        "Operational.",
+        "Short."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Planning (PDF p. 510)",
+      "quote": "3-5 years in the future"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "A brief statement of why an organization exists is its:",
+      "options": [
+        "Mission",
+        "Vision",
+        "Philosophy",
+        "Goal"
+      ],
+      "answer": "A",
+      "rationale": "Mission: reason for existence; vision: future; philosophy: values.",
+      "explanations": [
+        "Correct.",
+        "Future.",
+        "Values.",
+        "Actions."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Planning (PDF p. 510)",
+      "quote": "It is a brief statement identifying the reason why an organization exists."
+    }
+  ]
+}

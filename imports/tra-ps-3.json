@@ -1,0 +1,485 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client on haloperidol develops torticollis and oculogyric crisis. What is given?",
+      "options": [
+        "IM benztropine",
+        "More haloperidol",
+        "Lithium",
+        "Fluoxetine"
+      ],
+      "answer": "A",
+      "rationale": "Acute dystonia is treated with IM benztropine or IM/IV diphenhydramine.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Acute Dystonia (PDF p. 245)",
+      "quote": "Intramuscular Benztropine mesylate (Cogentin)"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Shuffling gait, mask-like face, and pill-rolling tremor on antipsychotics indicate:",
+      "options": [
+        "Pseudoparkinsonism",
+        "Akathisia",
+        "Tardive dyskinesia",
+        "NMS"
+      ],
+      "answer": "A",
+      "rationale": "Pseudoparkinsonism mimics Parkinson's; treated with anticholinergics or amantadine.",
+      "explanations": [
+        "Correct.",
+        "Restlessness.",
+        "Oral movements.",
+        "Fever, rigidity."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Pseudoparkinsonism (PDF p. 245)",
+      "quote": "Coarse pill-rolling movements of the thumbs and fingers while at rest."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client on antipsychotics cannot sit still and paces anxiously. This is:",
+      "options": [
+        "Akathisia",
+        "Dystonia",
+        "Catatonia",
+        "Mania"
+      ],
+      "answer": "A",
+      "rationale": "Akathisia is inability to sit still with restlessness; beta-blockers or benzodiazepines may help.",
+      "explanations": [
+        "Correct.",
+        "Spasms.",
+        "Immobility.",
+        "Mood."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Akathisia (PDF p. 245)",
+      "quote": "Inability to sit still"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which statement about tardive dyskinesia is correct?",
+      "options": [
+        "It may be permanent",
+        "It appears in the first day",
+        "It is cured by more drug",
+        "It only affects the legs"
+      ],
+      "answer": "A",
+      "rationale": "TD is often permanent, appears after months of therapy, and involves oral-facial movements.",
+      "explanations": [
+        "Correct.",
+        "Late.",
+        "Worsens.",
+        "Face and body."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Tardive Dyskinesia (PDF p. 246)",
+      "quote": "Permanent, irreversible"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client on antipsychotics has high fever, rigidity, and unstable BP. What is FIRST?",
+      "options": [
+        "Stop the antipsychotic",
+        "Give another antipsychotic",
+        "Increase the dose",
+        "Send home"
+      ],
+      "answer": "A",
+      "rationale": "Neuroleptic malignant syndrome requires immediate discontinuation and treatment of hyperthermia and dehydration.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Worsens.",
+        "Emergency."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, NMS (PDF p. 246)",
+      "quote": "Immediate discontinuance of all antipsychotic medications"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which lab is monitored weekly on clozapine?",
+      "options": [
+        "WBC count",
+        "Serum sodium",
+        "Blood glucose only",
+        "Serum lithium"
+      ],
+      "answer": "A",
+      "rationale": "Clozapine can cause agranulocytosis; WBC is checked at baseline and weekly.",
+      "explanations": [
+        "Correct.",
+        "Not main.",
+        "Not main.",
+        "Not this drug."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Clozapine (PDF p. 247)",
+      "quote": "WBC count everyweek throughout treatment"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client forgets an antipsychotic dose and remembers 6 hours late. What should he do?",
+      "options": [
+        "Omit the missed dose",
+        "Double the next dose",
+        "Take two now",
+        "Stop the drug"
+      ],
+      "answer": "A",
+      "rationale": "If more than about 4 hours late or near the next dose, omit the forgotten dose.",
+      "explanations": [
+        "Correct.",
+        "Unsafe.",
+        "Unsafe.",
+        "Not advised."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Antipsychotic Responsibilities (PDF p. 247)",
+      "quote": "If the missed dose is more than 4 hours late or the next dose is due"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Why are TCA prescriptions given in small amounts to depressed clients?",
+      "options": [
+        "They are lethal in overdose",
+        "They are expensive",
+        "They expire fast",
+        "They are addictive"
+      ],
+      "answer": "A",
+      "rationale": "TCAs are potentially lethal in overdose, so limited amounts reduce suicide risk.",
+      "explanations": [
+        "Correct.",
+        "Not the reason.",
+        "Not the reason.",
+        "Not the reason."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, TCAs (PDF p. 247)",
+      "quote": "Potentially lethal if taken in an overdose."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which antidepressant class is also effective for OCD?",
+      "options": [
+        "SSRIs",
+        "MAOIs",
+        "Benzodiazepines",
+        "Stimulants"
+      ],
+      "answer": "A",
+      "rationale": "SSRIs are effective for OCD and have fewer side effects than TCAs.",
+      "explanations": [
+        "Correct.",
+        "Not first-line.",
+        "Not antidepressant.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, SSRIs (PDF p. 248)",
+      "quote": "Effective in the treatment of obsessive-compulsive disorder"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which drug is dangerous to combine with an MAOI?",
+      "options": [
+        "Meperidine",
+        "Acetaminophen",
+        "Vitamin C",
+        "Antacids"
+      ],
+      "answer": "A",
+      "rationale": "MAOIs are not given with other MAOIs, TCAs, meperidine, or CNS depressants.",
+      "explanations": [
+        "Correct.",
+        "Not listed.",
+        "Not listed.",
+        "Not listed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, MAOIs (PDF p. 248)",
+      "quote": "Meperidine (Demerol)"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which cheese is allowed on an MAOI diet?",
+      "options": [
+        "Cottage cheese",
+        "Aged cheddar",
+        "Blue cheese",
+        "Parmesan"
+      ],
+      "answer": "A",
+      "rationale": "Avoid aged cheeses; cottage, cream, ricotta, and processed cheese slices are allowed.",
+      "explanations": [
+        "Correct.",
+        "Aged.",
+        "Aged.",
+        "Aged."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, MAOIs (PDF p. 248)",
+      "quote": "exceptcottage chee"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which antidepressant has a higher risk of seizures?",
+      "options": [
+        "Bupropion",
+        "Sertraline",
+        "Fluoxetine",
+        "Imipramine"
+      ],
+      "answer": "A",
+      "rationale": "Bupropion causes seizures at about 4 times the rate of other antidepressants.",
+      "explanations": [
+        "Correct.",
+        "Lower.",
+        "Lower.",
+        "Lower."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Bupropion (PDF p. 249)",
+      "quote": "Can cause seizures at rate 4 times that of other antidepressants"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which antidepressant can cause priapism?",
+      "options": [
+        "Trazodone",
+        "Bupropion",
+        "Fluoxetine",
+        "Phenelzine"
+      ],
+      "answer": "A",
+      "rationale": "Trazodone can cause priapism.",
+      "explanations": [
+        "Correct.",
+        "Seizures.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Other Antidepressants (PDF p. 248)",
+      "quote": "priapism Trazodone"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "What is the THERAPEUTIC lithium level?",
+      "options": [
+        "0.6–1.2 mEq/L",
+        "2.0–3.0 mEq/L",
+        "0.1–0.3 mEq/L",
+        "3.5–4.0 mEq/L"
+      ],
+      "answer": "A",
+      "rationale": "Therapeutic lithium is 0.6–1.2 mEq/L; above 3.0 may require dialysis.",
+      "explanations": [
+        "Correct.",
+        "Toxic.",
+        "Too low.",
+        "Toxic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Lithium (PDF p. 249)",
+      "quote": "Therapeutic level: 0.6 – 1.2 mEq/L"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Why should a client on lithium avoid heavy sweating?",
+      "options": [
+        "It raises serum lithium",
+        "It lowers lithium",
+        "It causes rash",
+        "It causes weight gain"
+      ],
+      "answer": "A",
+      "rationale": "Fluid and sodium loss from sweating increases lithium levels rapidly.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Mood Stabilizers (PDF p. 250)",
+      "quote": "avoid heavy sweating"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which mood stabilizer can cause Stevens-Johnson syndrome?",
+      "options": [
+        "Lamotrigine",
+        "Lithium",
+        "Valproic acid",
+        "Carbamazepine"
+      ],
+      "answer": "A",
+      "rationale": "Lamotrigine: SJS; valproic acid: hepatic failure; carbamazepine: aplastic anemia.",
+      "explanations": [
+        "Correct.",
+        "Toxicity.",
+        "Liver.",
+        "Blood."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Mood Stabilizers (PDF p. 250)",
+      "quote": "Lamotrigine can cause Steven-Johnsons Syndrome"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which mood stabilizer can cause hepatic failure?",
+      "options": [
+        "Valproic acid",
+        "Lamotrigine",
+        "Gabapentin",
+        "Lithium"
+      ],
+      "answer": "A",
+      "rationale": "Valproic acid can cause fatal hepatic failure.",
+      "explanations": [
+        "Correct.",
+        "SJS.",
+        "Not main.",
+        "Renal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Mood Stabilizers (PDF p. 249)",
+      "quote": "Valproic acid can cause hepatic failurein fatality"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Why is alcohol dangerous with benzodiazepines?",
+      "options": [
+        "One drink may act like three",
+        "It reduces drowsiness",
+        "It cures anxiety",
+        "No interaction"
+      ],
+      "answer": "A",
+      "rationale": "Benzodiazepines strongly potentiate alcohol.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Not true.",
+        "Interacts."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Anxiolytics (PDF p. 250)",
+      "quote": "One drink may have the effect of three drinks"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Why must benzodiazepines not be stopped abruptly?",
+      "options": [
+        "Withdrawal can be fatal",
+        "They lose effect",
+        "They cause diarrhea",
+        "No reason"
+      ],
+      "answer": "A",
+      "rationale": "Benzodiazepine withdrawal can be fatal; stop only under supervision.",
+      "explanations": [
+        "Correct.",
+        "Not the reason.",
+        "Not the reason.",
+        "Has reason."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Anxiolytics (PDF p. 250)",
+      "quote": "Benzodiazepine withdrawal can be fatal"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A child on methylphenidate for ADHD should be monitored for:",
+      "options": [
+        "Weight loss",
+        "Weight gain",
+        "Low BP",
+        "Excess sleep"
+      ],
+      "answer": "A",
+      "rationale": "Stimulants cause anorexia, weight loss, irritability, and insomnia.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Not typical.",
+        "Opposite."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Stimulants (PDF p. 250)",
+      "quote": "Weight loss"
+    }
+  ]
+}

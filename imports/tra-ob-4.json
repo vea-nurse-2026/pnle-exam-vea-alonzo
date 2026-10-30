@@ -1,0 +1,557 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A pregnancy beyond how many weeks is post-term?",
+      "options": [
+        "42 weeks",
+        "38 weeks",
+        "40 weeks",
+        "36 weeks"
+      ],
+      "answer": "A",
+      "rationale": "Post-term pregnancy exceeds 42 weeks, with risks of meconium aspiration and macrosomia.",
+      "explanations": [
+        "Correct.",
+        "Term.",
+        "Term.",
+        "Preterm."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Post Term Pregnancy (PDF p. 207)",
+      "quote": "Pregnancy that exceeds 42 weeks long"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Labor lasting less than 3 hours is called:",
+      "options": [
+        "Precipitate labor",
+        "Prolonged labor",
+        "False labor",
+        "Arrested labor"
+      ],
+      "answer": "A",
+      "rationale": "Precipitate labor lasts under 3 hours and risks lacerations and fetal intracranial hemorrhage.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "No dilation.",
+        "Stopped."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Precipitate Labor (PDF p. 207)",
+      "quote": "Labor that lasts for less than 3 hours"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Hips flexed with knees extended and buttocks presenting is a:",
+      "options": [
+        "Frank breech",
+        "Complete breech",
+        "Footling breech",
+        "Transverse lie"
+      ],
+      "answer": "A",
+      "rationale": "Frank breech: hips flexed, knees extended, buttocks present. Complete: sitting position. Footling: feet present.",
+      "explanations": [
+        "Correct.",
+        "Knees flexed.",
+        "Feet first.",
+        "Not breech."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Breech Delivery (PDF p. 207)",
+      "quote": "the hips are flexed but the knees are extended"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Meconium-stained fluid in a breech delivery is:",
+      "options": [
+        "Expected in breech",
+        "Always distress",
+        "A sign of infection",
+        "Placenta previa"
+      ],
+      "answer": "A",
+      "rationale": "In breech delivery, meconium staining is expected from pressure on the fetal abdomen.",
+      "explanations": [
+        "Correct.",
+        "Not always.",
+        "Not indicated.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Breech Delivery (PDF p. 207)",
+      "quote": "In Breech delivery, it is normal to see Meconium Staining"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Identical (monozygotic) twins come from:",
+      "options": [
+        "One ovum and one sperm",
+        "Two ova and two sperm",
+        "One ovum and two sperm",
+        "Two ova and one sperm"
+      ],
+      "answer": "A",
+      "rationale": "Monozygotic twins come from one ovum and one sperm and are always the same sex.",
+      "explanations": [
+        "Correct.",
+        "Dizygotic.",
+        "Not possible.",
+        "Not possible."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Multiple Pregnancies (PDF p. 208)",
+      "quote": "1 ovum and 1 sperm"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which is a complication of multiple pregnancy?",
+      "options": [
+        "Preterm labor",
+        "Post-term pregnancy",
+        "Small uterus",
+        "Low AFP"
+      ],
+      "answer": "A",
+      "rationale": "Twin pregnancy raises risks of PIH, hydramnios, previa, preterm labor, anemia, and hemorrhage.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Larger.",
+        "Elevated AFP."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Multiple Pregnancies (PDF p. 208)",
+      "quote": "Preterm labor"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which finding defines gestational hypertension?",
+      "options": [
+        "High BP, no proteinuria",
+        "High BP, 3+ protein",
+        "Seizures",
+        "Normal BP"
+      ],
+      "answer": "A",
+      "rationale": "Gestational hypertension is elevated BP without proteinuria, returning to normal after birth.",
+      "explanations": [
+        "Correct.",
+        "Pre-eclampsia.",
+        "Eclampsia.",
+        "Not hypertension."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Pregnancy Induced Hypertension (PDF p. 208)",
+      "quote": "No proteinuria"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "For a woman with mild pre-eclampsia, what salt intake is advised?",
+      "options": [
+        "Normal salt intake",
+        "Severe salt restriction",
+        "No salt at all",
+        "High salt"
+      ],
+      "answer": "A",
+      "rationale": "Salt is not restricted, because restriction activates the renin-angiotensin system and raises BP.",
+      "explanations": [
+        "Correct.",
+        "Not advised.",
+        "Not advised.",
+        "Not advised."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Mild Pre-eclampsia (PDF p. 209)",
+      "quote": "Normal salt intake (2-3 grams/day)"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which assessment is essential during magnesium sulfate therapy?",
+      "options": [
+        "Deep tendon reflexes",
+        "Pupil size",
+        "Hair growth",
+        "Skin color only"
+      ],
+      "answer": "A",
+      "rationale": "Check DTRs, respiratory rate, and urine output; magnesium can cause respiratory depression.",
+      "explanations": [
+        "Correct.",
+        "Not main.",
+        "Not related.",
+        "Not enough."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Severe Pre-eclampsia (PDF p. 209)",
+      "quote": "Check deep tendon reflex"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "What is the antidote for magnesium sulfate toxicity?",
+      "options": [
+        "Calcium gluconate",
+        "Vitamin K",
+        "Naloxone",
+        "Protamine"
+      ],
+      "answer": "A",
+      "rationale": "Calcium gluconate is the antidote for magnesium sulfate.",
+      "explanations": [
+        "Correct.",
+        "Warfarin.",
+        "Opioids.",
+        "Heparin."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Severe Pre-eclampsia (PDF p. 209)",
+      "quote": "Antidote: Calcium gluconate"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which room environment suits a client with severe pre-eclampsia?",
+      "options": [
+        "Dim, quiet, few visitors",
+        "Bright with TV",
+        "Many visitors",
+        "Near the nurses' station noise"
+      ],
+      "answer": "A",
+      "rationale": "Dim lights, limited visitors, side rails up, and suction at bedside reduce seizure risk.",
+      "explanations": [
+        "Correct.",
+        "Stimulating.",
+        "Stimulating.",
+        "Stimulating."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Eclampsia (PDF p. 209)",
+      "quote": "Provide dim light room"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "HELLP syndrome stands for:",
+      "options": [
+        "Hemolysis, ↑liver enzymes, ↓platelets",
+        "High BP, edema, ↓protein",
+        "Hyperglycemia, ↑lipids, ↓pH",
+        "Hemorrhage, liver failure, ↓plasma"
+      ],
+      "answer": "A",
+      "rationale": "HELLP: hemolysis, elevated liver enzymes, low platelets; RUQ pain from liver inflammation.",
+      "explanations": [
+        "Correct.",
+        "Wrong.",
+        "Wrong.",
+        "Wrong."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, HELLP Syndrome (PDF p. 210)",
+      "quote": "Hemolysis, Elevated Liver enzymes, Low Platelet (HELLP)"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "When is the 50-g glucose challenge done for gestational diabetes?",
+      "options": [
+        "24–28 weeks",
+        "8–10 weeks",
+        "36–40 weeks",
+        "Postpartum only"
+      ],
+      "answer": "A",
+      "rationale": "Screening is done at 24–28 weeks; a 1-hour value above 140 mg/dL leads to a 3-hour test.",
+      "explanations": [
+        "Correct.",
+        "Too early.",
+        "Too late.",
+        "Too late."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Gestational Diabetes (PDF p. 210)",
+      "quote": "Done at week 24 to 28 of pregnancy"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which drug is used for gestational diabetes not controlled by diet?",
+      "options": [
+        "Insulin",
+        "Oral hypoglycemics per handout",
+        "Metformin only",
+        "No drug"
+      ],
+      "answer": "A",
+      "rationale": "Insulin is the therapy of choice; the handout notes oral hypoglycemics may be teratogenic.",
+      "explanations": [
+        "Correct.",
+        "Avoided.",
+        "Not per handout.",
+        "Needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Gestational Diabetes (PDF p. 210)",
+      "quote": "Insulin Therapy"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A pregnant woman with heart disease has fatigue and dyspnea with ordinary activity. Which class is she?",
+      "options": [
+        "Class I",
+        "Class II",
+        "Class III",
+        "Class IV"
+      ],
+      "answer": "B",
+      "rationale": "Class II: slightly compromised; ordinary activity causes fatigue, palpitations, dyspnea.",
+      "explanations": [
+        "No symptoms.",
+        "Correct.",
+        "Less than ordinary.",
+        "At rest."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Gravidocardia (PDF p. 211)",
+      "quote": "Ordinary physical activity causes excessive fatigue, palpitation, and dyspnea"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Decelerations mirror contractions, starting and ending with them. What causes these?",
+      "options": [
+        "Head compression",
+        "Uteroplacental insufficiency",
+        "Cord compression",
+        "Fetal sleep"
+      ],
+      "answer": "A",
+      "rationale": "Early decelerations are from head compression; late from uteroplacental insufficiency; variable from cord compression.",
+      "explanations": [
+        "Correct.",
+        "Late decels.",
+        "Variable decels.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Variability (PDF p. 211)",
+      "quote": "Due to fetal head compression"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Variable decelerations appear. What is the FIRST action?",
+      "options": [
+        "Change the mother's position",
+        "Increase oxytocin",
+        "Prepare for delivery at once",
+        "Ignore them"
+      ],
+      "answer": "A",
+      "rationale": "Variable decelerations are from cord compression; reposition (lateral or Trendelenburg); amnioinfusion may be used.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Not first.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Variability (PDF p. 211)",
+      "quote": "Change the woman’s position from supine to lateral or trendelenburg"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "A day-1 postpartum mother wants to be cared for and talks about her birth. Which Rubin phase is this?",
+      "options": [
+        "Taking-in",
+        "Taking-hold",
+        "Letting-go",
+        "Bonding"
+      ],
+      "answer": "A",
+      "rationale": "Taking-in: passive, dependent, reviews the birth experience.",
+      "explanations": [
+        "Correct.",
+        "Independent.",
+        "Role redefinition.",
+        "Not Rubin phase."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Puerperium (PDF p. 212)",
+      "quote": "Woman is largely passive, prefers to be taken care of"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Lochia that is pinkish-brown on days 3 to 10 is:",
+      "options": [
+        "Lochia serosa",
+        "Lochia rubra",
+        "Lochia alba",
+        "Abnormal"
+      ],
+      "answer": "A",
+      "rationale": "Rubra days 1–3 (red); serosa days 3–10 (pinkish/brown); alba day 10 to 3–6 weeks (white).",
+      "explanations": [
+        "Correct.",
+        "Days 1–3.",
+        "After day 10.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Lochia (PDF p. 212)",
+      "quote": "Pinkish or brownish in color"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Lochia changes from serosa back to rubra. What does this suggest?",
+      "options": [
+        "Retained fragments",
+        "Normal healing",
+        "Lactation",
+        "Dehydration"
+      ],
+      "answer": "A",
+      "rationale": "Lochia should never reverse; reversal suggests retained fragments. Foul odor suggests infection.",
+      "explanations": [
+        "Correct.",
+        "Abnormal.",
+        "Not related.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Lochia (PDF p. 212)",
+      "quote": "Reversal in appearance indicates retained placental fragments"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "How fast does the uterus normally involute after birth?",
+      "options": [
+        "1 cm per day",
+        "5 cm per day",
+        "None for 2 weeks",
+        "1 cm per week"
+      ],
+      "answer": "A",
+      "rationale": "Involution proceeds about 1 cm (one fingerbreadth) per day.",
+      "explanations": [
+        "Correct.",
+        "Too fast.",
+        "Wrong.",
+        "Too slow."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Puerperium (PDF p. 212)",
+      "quote": "Normal: 1cm/fingerbreadth"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "What is the most common cause of early postpartum hemorrhage?",
+      "options": [
+        "Uterine atony",
+        "Retained fragments",
+        "Hematoma",
+        "Infection"
+      ],
+      "answer": "A",
+      "rationale": "Uterine atony is most common; lacerations are second. Late hemorrhage is often from retained fragments.",
+      "explanations": [
+        "Correct.",
+        "Late.",
+        "Late.",
+        "Not main."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Postpartum Problems (PDF p. 213)",
+      "quote": "Most common cause: Uterine atony"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "A non-breastfeeding mother can expect menses to return in about:",
+      "options": [
+        "6–10 weeks",
+        "6 months",
+        "1 year",
+        "2 weeks"
+      ],
+      "answer": "A",
+      "rationale": "Non-breastfeeding: 6–10 weeks; breastfeeding: about 6 months.",
+      "explanations": [
+        "Correct.",
+        "Breastfeeding.",
+        "Too long.",
+        "Too short."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Lactation Amenorrhea (PDF p. 213)",
+      "quote": "If the mother is not breastfeeding, expect menstruation to return after 6 to 10 weeks"
+    }
+  ]
+}

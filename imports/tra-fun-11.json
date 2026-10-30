@@ -1,0 +1,269 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "What is the normal serum creatinine range?",
+      "options": [
+        "0.6–1.2 mg/dL",
+        "2.0–3.0 mg/dL",
+        "7–18 mg/dL",
+        "0.1–0.3 mg/dL"
+      ],
+      "answer": "A",
+      "rationale": "Normal creatinine is 0.6–1.2 mg/dL; BUN is 7–18 mg/dL.",
+      "explanations": [
+        "Correct.",
+        "High.",
+        "BUN range.",
+        "Low."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Serum Tests (PDF p. 74)",
+      "quote": "Creatinine level 0.6 - 1.2 mg/dL"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which preparation is ordered before a KUB x-ray?",
+      "options": [
+        "Bowel preparation",
+        "NPO for 24 hours",
+        "Contrast allergy test",
+        "Full bladder"
+      ],
+      "answer": "A",
+      "rationale": "A laxative in the evening and an enema in the morning may be ordered; little or no pain is expected.",
+      "explanations": [
+        "Correct.",
+        "Not needed.",
+        "No contrast.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, KUB (PDF p. 74)",
+      "quote": "Bowel preparation (laxative in the evening and enema in the morning as ordered)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "In what position is cystoscopy done?",
+      "options": [
+        "Lithotomy",
+        "Prone",
+        "Sims'",
+        "Trendelenburg"
+      ],
+      "answer": "A",
+      "rationale": "Cystoscopy is performed in the lithotomy position after voiding.",
+      "explanations": [
+        "Correct.",
+        "Not used.",
+        "Not used.",
+        "Not used."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Cystoscopy (PDF p. 74)",
+      "quote": "Position: lithotomy"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "After cystoscopy, which finding is expected?",
+      "options": [
+        "Pink first voidings",
+        "Fever and chills",
+        "Severe flank pain",
+        "No urine for a day"
+      ],
+      "answer": "A",
+      "rationale": "Blood-tinged urine, dysuria, and frequency are expected early; fever, chills, or persistent pain are reported.",
+      "explanations": [
+        "Correct.",
+        "Report.",
+        "Report.",
+        "Report."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "TRA Nursing Module, Cystoscopy (PDF p. 74)",
+      "quote": "Urine may be blood-tinged for the first and second voiding after the procedure"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which comfort measure helps after cystoscopy?",
+      "options": [
+        "Warm sitz bath",
+        "Ice to the abdomen",
+        "Restricting fluids",
+        "Bed rest for a week"
+      ],
+      "answer": "A",
+      "rationale": "Warm sitz baths relieve discomfort; fluids are increased.",
+      "explanations": [
+        "Correct.",
+        "Not standard.",
+        "Opposite.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Cystoscopy (PDF p. 74)",
+      "quote": "Warm sitz bath"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "After ERCP, when may the client eat?",
+      "options": [
+        "When the gag reflex returns",
+        "Immediately",
+        "After 3 days",
+        "Only by NG tube"
+      ],
+      "answer": "A",
+      "rationale": "No food or drink until the gag reflex returns, then light meals for 12–24 hours.",
+      "explanations": [
+        "Correct.",
+        "Aspiration.",
+        "Too long.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, ERCP (PDF p. 76)",
+      "quote": "Do not allow the patient to eat or drink until the gag reflex returns"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which ERCP aftereffect should be reported immediately?",
+      "options": [
+        "Mild sore throat",
+        "Belching",
+        "Severe pain or fever",
+        "Bloating"
+      ],
+      "answer": "C",
+      "rationale": "Severe pain, fever, difficulty breathing, or blood expectoration are reported; sore throat and belching are expected.",
+      "explanations": [
+        "Expected.",
+        "Expected.",
+        "Correct.",
+        "Expected."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, ERCP (PDF p. 76)",
+      "quote": "Emphasize that any severe pain, fever, difficulty breathing, or expectoration of blood must be report"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which hemoglobin value is normal for an adult female?",
+      "options": [
+        "9 g/dL",
+        "12–16 g/dL",
+        "18–20 g/dL",
+        "6 g/dL"
+      ],
+      "answer": "B",
+      "rationale": "Normal Hgb: female 12–16 g/dL; male 13–18 g/dL.",
+      "explanations": [
+        "Low.",
+        "Correct.",
+        "High.",
+        "Low."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, CBC (PDF p. 76)",
+      "quote": "F: 12 -16 g/dL"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "What is the normal adult WBC count?",
+      "options": [
+        "1,000–3,000/mm³",
+        "4,500–11,000/mm³",
+        "15,000–20,000/mm³",
+        "50,000/mm³"
+      ],
+      "answer": "B",
+      "rationale": "Normal WBC is 4,500–11,000/mm³.",
+      "explanations": [
+        "Low.",
+        "Correct.",
+        "High.",
+        "High."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, CBC (PDF p. 76)",
+      "quote": "White Blood Cell 4,500 -11,000/mm3"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Which factor can alter bone marrow biopsy results?",
+      "options": [
+        "Recent blood transfusion",
+        "A light breakfast",
+        "Walking",
+        "Wearing glasses"
+      ],
+      "answer": "A",
+      "rationale": "Recent transfusions, iron therapy, or cytotoxic agents may alter results; it is contraindicated with bleeding disorders.",
+      "explanations": [
+        "Correct.",
+        "Not.",
+        "Not.",
+        "Not."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Bone Marrow Biopsy (PDF p. 77)",
+      "quote": "Recent blood transfusions, iron therapy, or administration of cytotoxic agents may alter test results"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Which client is at risk with retrograde ureteropyelography?",
+      "options": [
+        "Client with multiple myeloma",
+        "Healthy young adult",
+        "Client with a cold",
+        "Client with myopia"
+      ],
+      "answer": "A",
+      "rationale": "Contraindications include dye allergy, dehydration, renal failure, and multiple myeloma (reduced kidney function).",
+      "explanations": [
+        "Correct.",
+        "Fine.",
+        "Fine.",
+        "Fine."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Retrograde Ureteropyelography (PDF p. 75)",
+      "quote": "Multiple myeloma who may experience decreased kidney function"
+    }
+  ]
+}

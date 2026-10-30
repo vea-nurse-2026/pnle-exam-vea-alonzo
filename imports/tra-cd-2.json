@@ -1,0 +1,461 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Mang Isko, 45, a farmer, has a pale skin patch on his forearm that he cannot feel.",
+      "stem": "Which EARLY sign of leprosy does Mang Isko show?",
+      "options": [
+        "Madarosis",
+        "Numb skin patch",
+        "Clawed fingers",
+        "Sunken nose bridge"
+      ],
+      "answer": "B",
+      "rationale": "Early signs include skin color change, loss of sensation, less sweating and hair over the lesion, and thickened, painful nerves. Madarosis, clawing, and a sunken nose bridge are late signs.",
+      "explanations": [
+        "Late sign.",
+        "Correct: early sign.",
+        "Late sign.",
+        "Late sign."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Leprosy (PDF p. 148)",
+      "quote": "Loss of sensation on the skin/Anesthesia"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Mang Isko, 45, a farmer, has a pale skin patch on his forearm that he cannot feel.",
+      "stem": "Mang Isko is classified as multibacillary. Which MDT regimen will he receive?",
+      "options": [
+        "RIF + DDS, 6 months",
+        "RIF + CLO + DDS, 12 months",
+        "INH alone, 9 months",
+        "DDS alone, 2 years"
+      ],
+      "answer": "B",
+      "rationale": "Multibacillary (infectious) leprosy is treated with rifampicin, clofazimine, and dapsone for 12 months. Paucibacillary leprosy uses rifampicin and dapsone for 6–9 months.",
+      "explanations": [
+        "Paucibacillary.",
+        "Correct: MB regimen.",
+        "TB drug.",
+        "Not MDT."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Leprosy (PDF p. 148)",
+      "quote": "Multibacillary (Rifampicin, Clofazimine, Dapsone)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "Mang Isko, 45, a farmer, has a pale skin patch on his forearm that he cannot feel.",
+      "stem": "Mang Isko has an anesthetic foot. What should the nurse teach him?",
+      "options": [
+        "Walk barefoot to toughen skin",
+        "Test bath water before stepping in",
+        "Soak feet in hot water daily",
+        "Put full weight on the foot"
+      ],
+      "answer": "B",
+      "rationale": "With an anesthetized limb, the client avoids injury by not overloading it, testing water before entering to prevent scalds, and wearing proper footwear.",
+      "explanations": [
+        "Risks injury.",
+        "Correct: prevents scalds.",
+        "Risks burns.",
+        "Risks injury."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Leprosy (PDF p. 148)",
+      "quote": "testing water before entering to prevent scalding, and wearing appropriate footwear."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A client with leprosy cannot close his eyelids completely. What is this called?",
+      "options": [
+        "Madarosis",
+        "Lagophthalmos",
+        "Ptosis",
+        "Gynecomastia"
+      ],
+      "answer": "B",
+      "rationale": "Lagophthalmos, the inability to close the eyelids, is a late sign. The client uses a tear substitute and protects the eyes to prevent corneal ulceration.",
+      "explanations": [
+        "Loss of brows and lashes.",
+        "Correct: lagophthalmos.",
+        "Drooping lid.",
+        "Breast enlargement."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Leprosy (PDF p. 148)",
+      "quote": "Lagopthalmos (inability to close eyelids)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "A school child has intense itching that is worse at night and lesions between his fingers.",
+      "stem": "Which condition does the nurse suspect?",
+      "options": [
+        "Pediculosis",
+        "Scabies",
+        "Chickenpox",
+        "Impetigo"
+      ],
+      "answer": "B",
+      "rationale": "Scabies causes intense itching that worsens at night, with burrows in the finger webs, wrists, and elbows.",
+      "explanations": [
+        "Lice in hair or seams.",
+        "Correct: scabies.",
+        "Vesicular rash with fever.",
+        "Honey-crusted lesions."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Scabies (PDF p. 149)",
+      "quote": "Intense itching that becomes more severe at night"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "A school child has intense itching that is worse at night and lesions between his fingers.",
+      "stem": "Who should be treated for scabies in this case?",
+      "options": [
+        "The child only",
+        "Itchy siblings only",
+        "Whole household",
+        "The mother only"
+      ],
+      "answer": "C",
+      "rationale": "All household members, including close contacts, should be treated to prevent reinfestation.",
+      "explanations": [
+        "Leads to reinfestation.",
+        "Incomplete.",
+        "Correct: all contacts.",
+        "Incomplete."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Scabies (PDF p. 149)",
+      "quote": "All members of the household, including close contact should be treated"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "A school child has intense itching that is worse at night and lesions between his fingers.",
+      "stem": "Permethrin cream is prescribed. How long should it stay on the skin?",
+      "options": [
+        "5 minutes",
+        "1 hour",
+        "8 to 12 hours",
+        "3 days"
+      ],
+      "answer": "C",
+      "rationale": "Permethrin cream is left on the skin for 8 to 12 hours. Fingernails are cut short and contaminated linens are boiled or dry-cleaned.",
+      "explanations": [
+        "Too short.",
+        "Too short.",
+        "Correct: 8–12 hours.",
+        "Too long."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Scabies (PDF p. 149)",
+      "quote": "Permethrin derma cream left on the skin for 8-12 hours"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A child has a mild rash, low fever, and postauricular lymph nodes. The nurse sees pinkish spots on the soft palate. What are these?",
+      "options": [
+        "Koplik spots",
+        "Forchheimer spots",
+        "Stimson's line",
+        "Petechiae"
+      ],
+      "answer": "B",
+      "rationale": "Forchheimer spots, a pinkish rash on the soft palate, appear in rubella (German measles), along with postauricular and suboccipital lymphadenopathy.",
+      "explanations": [
+        "Measles.",
+        "Correct: rubella.",
+        "Measles.",
+        "Not specific."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, German Measles (PDF p. 150)",
+      "quote": "Forchheimer’s spot (pinkish rash on the soft palate)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Why is rubella especially dangerous for pregnant women?",
+      "options": [
+        "It causes maternal hepatitis",
+        "It is teratogenic to the fetus",
+        "It causes preterm labor only",
+        "It causes gestational diabetes"
+      ],
+      "answer": "B",
+      "rationale": "Rubella is teratogenic. Congenital rubella can cause cataracts, deafness, heart defects such as PDA, microcephaly, and intellectual disability.",
+      "explanations": [
+        "Not the effect.",
+        "Correct: teratogenic.",
+        "Incomplete.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, German Measles (PDF p. 150)",
+      "quote": "It has a teratogenic effect on the fetus."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which classic finding of congenital rubella syndrome affects the skin?",
+      "options": [
+        "Blueberry muffin skin",
+        "Cafe-au-lait spots",
+        "Mongolian spots",
+        "Port-wine stain"
+      ],
+      "answer": "A",
+      "rationale": "Classic congenital rubella syndrome includes growth retardation, low birth weight, and thrombocytopenic purpura known as 'blueberry muffin' skin.",
+      "explanations": [
+        "Correct: CRS sign.",
+        "Neurofibromatosis.",
+        "Normal variant.",
+        "Vascular birthmark."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, German Measles (PDF p. 150)",
+      "quote": "Thrombocytopenic purpura known as “blueberry muffin” skin"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Where are head lice and nits MOST commonly found?",
+      "options": [
+        "Crown of the head",
+        "Behind the ears",
+        "Eyebrows only",
+        "The forehead"
+      ],
+      "answer": "B",
+      "rationale": "Head lice and nits are most commonly found behind the ears and on the hair of the neck and occiput.",
+      "explanations": [
+        "Less common.",
+        "Correct: common sites.",
+        "Rare.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pediculosis (PDF p. 151)",
+      "quote": "Head lice and their nits are most commonly found behind the ears and on the hairs of the neck and occiput."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How should a family prevent head lice reinfestation?",
+      "options": [
+        "Wash linens in hot water",
+        "Shave all family members",
+        "Burn all clothing",
+        "Use cold water only"
+      ],
+      "answer": "A",
+      "rationale": "Clothes and bed linens are washed in hot water, ironed, or dry-cleaned to prevent reinfestation.",
+      "explanations": [
+        "Correct: kills lice.",
+        "Not needed.",
+        "Not needed.",
+        "Does not kill lice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pediculosis (PDF p. 152)",
+      "quote": "Clothes and bed linens must be washed in hot water, ironed or dry cleaned."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which finding is typical of herpes zoster (shingles)?",
+      "options": [
+        "Bilateral, generalized",
+        "Unilateral, dermatomal",
+        "Palms and soles only",
+        "Painless, flat rash"
+      ],
+      "answer": "B",
+      "rationale": "Herpes zoster is reactivated varicella in the dorsal root ganglia. It causes unilateral, segmental, painful lesions, usually on the trunk.",
+      "explanations": [
+        "That is chickenpox.",
+        "Correct: unilateral, dermatomal.",
+        "Not typical.",
+        "It is painful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Herpes Zoster (PDF p. 152)",
+      "quote": "It is acute unilateral and segmented inflammation of the dorsal root ganglia"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Dodong, 4, unvaccinated, has a sore throat, low fever, and a swollen neck.",
+      "stem": "The nurse sees a grayish membrane on Dodong's tonsils. What does this suggest?",
+      "options": [
+        "Strep throat",
+        "Diphtheria",
+        "Mumps",
+        "Measles"
+      ],
+      "answer": "B",
+      "rationale": "Diphtheria forms a grayish pseudomembrane and may cause bull neck, a swelling of the soft tissues of the neck.",
+      "explanations": [
+        "Exudate, not a membrane.",
+        "Correct: pseudomembrane.",
+        "Parotid swelling.",
+        "Rash and Koplik spots."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Diphtheria (PDF p. 154)",
+      "quote": "Exudates forming the membrane are grayish in appearance (Pseudomembrane)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Dodong, 4, unvaccinated, has a sore throat, low fever, and a swollen neck.",
+      "stem": "Which type of diphtheria is MOST fatal in children aged 2 to 5?",
+      "options": [
+        "Nasal",
+        "Tonsillar",
+        "Laryngeal",
+        "Cutaneous"
+      ],
+      "answer": "C",
+      "rationale": "Laryngeal diphtheria is most common in ages 2 to 5 and the most fatal because of airway anatomy. The voice becomes hoarse and is finally lost.",
+      "explanations": [
+        "Less severe.",
+        "Low fatality.",
+        "Correct: most fatal.",
+        "Skin form."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Diphtheria (PDF p. 154)",
+      "quote": "It is considered as most severe and more fatal type due to anatomical reason"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A child's Schick test shows induration at the injection site. What does this mean?",
+      "options": [
+        "Immune to diphtheria",
+        "Susceptible to diphtheria",
+        "Has active TB",
+        "Allergic to penicillin"
+      ],
+      "answer": "B",
+      "rationale": "A positive Schick test (inflammation or induration) means the person lacks antibodies to diphtheria and is susceptible.",
+      "explanations": [
+        "Opposite.",
+        "Correct: lacks antibodies.",
+        "Mantoux test.",
+        "Not this test."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Diphtheria (PDF p. 154)",
+      "quote": "This indicates that the client lacks antibodies to diphtheria."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which nursing care is appropriate for a child with diphtheria?",
+      "options": [
+        "Early ambulation",
+        "Strict bed rest",
+        "Hard, high-fiber food",
+        "Hot neck compress"
+      ],
+      "answer": "B",
+      "rationale": "Care includes absolute bed rest for at least two weeks (to protect the heart from myocarditis), a soft diet with small frequent feedings, and an ice collar to the neck.",
+      "explanations": [
+        "Risky for the heart.",
+        "Correct: bed rest.",
+        "Soft diet.",
+        "Ice collar."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Diphtheria (PDF p. 154)",
+      "quote": "Absolute bed rest for at least two weeks"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "What is the MOST dangerous complication of pertussis?",
+      "options": [
+        "Umbilical hernia",
+        "Bronchopneumonia",
+        "Nosebleed",
+        "Periorbital edema"
+      ],
+      "answer": "B",
+      "rationale": "Bronchopneumonia is the most dangerous complication of pertussis. Others include convulsions, otitis media, hernia, and malnutrition.",
+      "explanations": [
+        "Less dangerous.",
+        "Correct: most dangerous.",
+        "A manifestation.",
+        "A manifestation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pertussis (PDF p. 155)",
+      "quote": "Most dangerous: bronchopneumonia"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which equipment must be at the bedside of an infant with pertussis?",
+      "options": [
+        "Suction equipment",
+        "Traction set",
+        "Cooling blanket",
+        "Wheelchair"
+      ],
+      "answer": "A",
+      "rationale": "Suction equipment should be at the bedside to clear thick secretions during paroxysms.",
+      "explanations": [
+        "Correct: clears secretions.",
+        "Not needed.",
+        "Not routine.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pertussis (PDF p. 155)",
+      "quote": "Suction Equipment should be present at bedside"
+    }
+  ]
+}

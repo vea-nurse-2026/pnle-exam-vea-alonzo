@@ -1,0 +1,533 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Which record is the fundamental building block of the Field Health Services Information System (FHSIS)?",
+      "options": [
+        "Target Client List",
+        "Family Treatment Record",
+        "Monthly reporting form",
+        "Output report"
+      ],
+      "answer": "B",
+      "rationale": "The Family Treatment Record is the fundamental building block of FHSIS. The Target Client List is the second building block. Reporting forms are the only routine way data move between facilities.",
+      "explanations": [
+        "Second building block.",
+        "Correct: first building block.",
+        "Transmits data.",
+        "Used for monitoring."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, FHSIS (PDF p. 88)",
+      "quote": "Fundamental building block of FHSIS"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "In FHSIS, what is the ONLY mechanism by which data are routinely sent from one facility to another?",
+      "options": [
+        "Family Treatment Record",
+        "Target Client List",
+        "Reporting forms",
+        "Output reports"
+      ],
+      "answer": "C",
+      "rationale": "Reporting forms, prepared monthly or quarterly, are the only mechanism through which FHSIS data are routinely transmitted between facilities.",
+      "explanations": [
+        "Stays at the facility.",
+        "Stays at the facility.",
+        "Correct: transmits data.",
+        "Summaries for management."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, FHSIS (PDF p. 88)",
+      "quote": "Only mechanism through which data are routinely transmitted from one facility to another"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Aling Rosa, 24, G2P1, comes to the barangay health station at 16 weeks. She had 2 tetanus toxoid doses in her first pregnancy 2 years ago.",
+      "stem": "Aling Rosa gets her third tetanus toxoid dose today. How long does TT3 protect her?",
+      "options": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "Lifetime"
+      ],
+      "answer": "C",
+      "rationale": "TT2 (4 weeks after TT1) gives 80% protection for 3 years. TT3 (6 months after TT2) gives 95% protection for 5 years. TT4 gives 10 years and TT5 lifetime.",
+      "explanations": [
+        "Not a TT interval.",
+        "TT2.",
+        "Correct: TT3.",
+        "TT5."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Maternal Health Program (PDF p. 88)",
+      "quote": "TT 3 After 6 months 95% 5 years"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Aling Rosa, 24, G2P1, comes to the barangay health station at 16 weeks. She had 2 tetanus toxoid doses in her first pregnancy 2 years ago.",
+      "stem": "Which tetanus toxoid dose gives Aling Rosa LIFETIME protection?",
+      "options": [
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT5"
+      ],
+      "answer": "D",
+      "rationale": "TT5, given 1 year after TT4, gives 99% protection for life.",
+      "explanations": [
+        "3 years.",
+        "5 years.",
+        "10 years.",
+        "Correct: lifetime."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Maternal Health Program (PDF p. 88)",
+      "quote": "TT 5 After 1 year 99% Lifetime"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Aling Rosa, 24, G2P1, comes to the barangay health station at 16 weeks. She had 2 tetanus toxoid doses in her first pregnancy 2 years ago.",
+      "stem": "Which iron/folic acid supplement does the nurse give Aling Rosa?",
+      "options": [
+        "60 mg/400 mcg daily",
+        "60 mg/400 mcg weekly",
+        "300 mg/1 mg daily",
+        "30 mg/100 mcg monthly"
+      ],
+      "answer": "A",
+      "rationale": "Pregnant women receive a 60 mg iron/400 mcg folic acid tablet daily, continued up to 2 months postpartum.",
+      "explanations": [
+        "Correct: daily dose.",
+        "Daily, not weekly.",
+        "Not the dose.",
+        "Not the dose."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Micronutrient Supplementation (PDF p. 88)",
+      "quote": "Iron/Folic acid 60mg/400ug tablet Daily"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "During FP counseling, what birth spacing interval does the nurse recommend?",
+      "options": [
+        "1 year",
+        "18 months",
+        "3 to 5 years",
+        "7 years"
+      ],
+      "answer": "C",
+      "rationale": "Family planning counseling in the maternal health program promotes proper spacing of births at 3- to 5-year intervals.",
+      "explanations": [
+        "Too short.",
+        "Too short.",
+        "Correct: recommended spacing.",
+        "Not the recommendation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Maternal Health Program (PDF p. 88)",
+      "quote": "Proper spacing of birth (3 to 5 years interval)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A man had a vasectomy last week. What should the nurse tell him about its effectiveness?",
+      "options": [
+        "It works at once",
+        "Fully effective in 3 months",
+        "It lasts 5 years",
+        "It stops ejaculation"
+      ],
+      "answer": "B",
+      "rationale": "Vasectomy is very effective 3 months after the procedure, so another method is used until then. He keeps sexual ability and ejaculation.",
+      "explanations": [
+        "Sperm remain at first.",
+        "Correct: 3 months.",
+        "It is permanent.",
+        "Ejaculation continues."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Family Planning (PDF p. 89)",
+      "quote": "Very effective in 3 months after the procedure"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A breastfeeding mother wants to use the Lactational Amenorrhea Method. For how long is LAM effective at most?",
+      "options": [
+        "6 weeks",
+        "3 months",
+        "6 months",
+        "1 year"
+      ],
+      "answer": "C",
+      "rationale": "LAM is a temporary postpartum method effective for a maximum of 6 months. It depends on full or nearly full breastfeeding.",
+      "explanations": [
+        "Too short.",
+        "Too short.",
+        "Correct: maximum 6 months.",
+        "Too long."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Family Planning (PDF p. 90)",
+      "quote": "Short term FP method which is effective only for a maximum of 6 months"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which FP method encourages male participation and protects against sexually transmitted infections?",
+      "options": [
+        "Pill",
+        "Male condom",
+        "Injectable",
+        "LAM"
+      ],
+      "answer": "B",
+      "rationale": "The male condom has no hormonal effect, protects against microorganisms during intercourse, and encourages male participation in family planning.",
+      "explanations": [
+        "No STI protection.",
+        "Correct: both benefits.",
+        "No STI protection.",
+        "No STI protection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Family Planning (PDF p. 90)",
+      "quote": "Encourages male participation in family planning"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which family planning method uses color-coded cycle beads?",
+      "options": [
+        "Two Day Method",
+        "Billings method",
+        "Standard Days Method",
+        "Sympto-thermal method"
+      ],
+      "answer": "C",
+      "rationale": "In the Standard Days Method, couples use color-coded cycle beads to mark fertile and infertile days. It suits women whose cycles are usually 26 to 32 days long.",
+      "explanations": [
+        "Checks secretions daily.",
+        "Observes mucus.",
+        "Correct: cycle beads.",
+        "Combines signs."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Family Planning (PDF p. 91)",
+      "quote": "Couples use color coded cycle beads to mark the fertile and infertile days of the menstrual cycle"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which method identifies fertile days by combining cervical mucus, basal body temperature, and other signs of ovulation?",
+      "options": [
+        "Sympto-thermal method",
+        "Standard Days Method",
+        "LAM",
+        "Two Day Method"
+      ],
+      "answer": "A",
+      "rationale": "The sympto-thermal method combines observations of cervical mucus, basal body temperature, and other ovulation signs.",
+      "explanations": [
+        "Correct: combined signs.",
+        "Uses beads.",
+        "Uses breastfeeding.",
+        "Uses secretions only."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Family Planning (PDF p. 90)",
+      "quote": "combination of observations made on the cervical mucus, basal body temperature recording and other signs of ovulation"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A woman says family planning will make her sterile. How should the nurse view this belief?",
+      "options": [
+        "A known side effect",
+        "A common misconception",
+        "True for pills only",
+        "True for injectables only"
+      ],
+      "answer": "B",
+      "rationale": "Common FP misconceptions include that FP causes abortion, makes couples sterile, or causes loss of sexual desire. The nurse corrects these through counseling.",
+      "explanations": [
+        "Not a side effect.",
+        "Correct: a misconception.",
+        "Not true.",
+        "Not true."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Family Planning (PDF p. 91)",
+      "quote": "Will render couples sterile"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "Which is a key IYCF message the nurse teaches a new mother?",
+      "options": [
+        "Breastfeed within 1 hour",
+        "Give water at 2 months",
+        "Start solids at 4 months",
+        "Stop breastfeeding at 1 year"
+      ],
+      "answer": "A",
+      "rationale": "Key IYCF messages: initiate breastfeeding within 1 hour after birth, breastfeed exclusively for 6 months, add complementary food at 6 months, and continue to 2 years and beyond.",
+      "explanations": [
+        "Correct: early initiation.",
+        "No water in exclusive BF.",
+        "Solids at 6 months.",
+        "Continue to 2 years and beyond."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Infant & Young Child Feeding (PDF p. 91)",
+      "quote": "Initiate breastfeeding within 1hour after birth"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "A mother gives her 3-month-old breast milk plus a little water on hot days. Is this exclusive breastfeeding?",
+      "options": [
+        "Yes, water is allowed",
+        "No, only breast milk is given",
+        "Yes, if under 30 mL a day",
+        "Yes, until 4 months"
+      ],
+      "answer": "B",
+      "rationale": "Exclusive breastfeeding means giving only breast milk, with no other liquids or solids, not even water.",
+      "explanations": [
+        "Water is not allowed.",
+        "Correct: only breast milk.",
+        "Not allowed.",
+        "Not allowed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Infant & Young Child Feeding (PDF p. 91)",
+      "quote": "Exclusive breastfeeding means giving a baby only breast milk, and no other liquids or solids, not even water."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which law promotes rooming-in and protects and supports breastfeeding in health facilities?",
+      "options": [
+        "RA 7600",
+        "RA 8976",
+        "EO 51",
+        "RA 10152"
+      ],
+      "answer": "A",
+      "rationale": "The Rooming-In and Breastfeeding Act of 1992 (RA 7600) promotes rooming-in and protects and supports breastfeeding. Mother and baby stay together 24 hours.",
+      "explanations": [
+        "Correct: Rooming-In Act.",
+        "Food Fortification Law.",
+        "Milk Code.",
+        "Mandatory immunization."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Laws that Protect IYCF (PDF p. 92)",
+      "quote": "Rooming-In and Breastfeeding Act of 1992 (RA 7600)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "The Food Fortification Law (RA 8976) requires mandatory fortification of which staple foods?",
+      "options": [
+        "Rice, flour, edible oil, sugar",
+        "Salt and milk only",
+        "Bread and noodles",
+        "Canned goods"
+      ],
+      "answer": "A",
+      "rationale": "RA 8976 mandates fortification of rice, flour, edible oil, and sugar, with voluntary fortification of processed foods.",
+      "explanations": [
+        "Correct: mandated staples.",
+        "Not the list.",
+        "Not the list.",
+        "Voluntary only."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Laws that Protect IYCF (PDF p. 92)",
+      "quote": "mandatory food fortification of staple foods – rice, flour, edible oil and sugar"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "A child missed his second pentavalent dose by 2 months. What should the nurse do?",
+      "options": [
+        "Restart the series",
+        "Give the next dose",
+        "Give two doses today",
+        "Skip that dose"
+      ],
+      "answer": "B",
+      "rationale": "The vaccine schedule is not restarted, and no extra dose is given to a child who missed a dose. The nurse continues with the next dose.",
+      "explanations": [
+        "Never restarted.",
+        "Correct: continue the series.",
+        "No extra doses.",
+        "Not skipped."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, EPI Principles (PDF p. 92)",
+      "quote": "No extra must be given to children/ mother who missed a dose"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "Which statement about giving several EPI vaccines on one day is correct?",
+      "options": [
+        "Give only one per visit",
+        "Give them all at one site",
+        "Give them at different sites",
+        "Space them 1 week apart"
+      ],
+      "answer": "C",
+      "rationale": "It is safe and effective to give all EPI vaccines on the same day at different sites.",
+      "explanations": [
+        "Unnecessary delay.",
+        "Different sites are used.",
+        "Correct: different sites.",
+        "Not required."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, EPI Principles (PDF p. 92)",
+      "quote": "It is safe and immunologically effective to administer all EPI vaccines on the same day at different sites of the body"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "A child due for vaccines has a mild cough and low-grade fever. What should the nurse do?",
+      "options": [
+        "Defer until well",
+        "Give the vaccines",
+        "Give half doses",
+        "Refer to a hospital"
+      ],
+      "answer": "B",
+      "rationale": "Malnutrition, low-grade fever, mild respiratory infection, cough, diarrhea, and vomiting are false contraindications.",
+      "explanations": [
+        "Missed opportunity.",
+        "Correct: not true contraindications.",
+        "Never given.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, False Contraindications (PDF p. 92)",
+      "quote": "False Contraindications"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "Which is an ABSOLUTE contraindication to the next DPT-containing dose?",
+      "options": [
+        "Diarrhea today",
+        "Malnutrition",
+        "Seizure after last dose",
+        "Low-grade fever"
+      ],
+      "answer": "C",
+      "rationale": "DPT2 or DPT3 is not given to a child who had convulsions or shock within 3 days of the previous dose.",
+      "explanations": [
+        "False contraindication.",
+        "False contraindication.",
+        "Correct: absolute.",
+        "False contraindication."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Absolute Contraindications (PDF p. 92)",
+      "quote": "DPT 2 or DPT 3 to a child who has had convulsions or shock within 3 days the previous dose."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "For which child is BCG contraindicated?",
+      "options": [
+        "Child with a cold",
+        "Child with mild diarrhea",
+        "Child immunosuppressed by leukemia",
+        "Underweight child"
+      ],
+      "answer": "C",
+      "rationale": "Live vaccines such as BCG must not be given to people immunosuppressed by malignant disease. The others are false contraindications.",
+      "explanations": [
+        "False contraindication.",
+        "False contraindication.",
+        "Correct: live vaccine risk.",
+        "False contraindication."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Absolute Contraindications (PDF p. 92)",
+      "quote": "Live vaccines like BCG vaccine must not be given to individuals who are immunosuppressed due to a malignant disease."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "How should the nurse reconstitute freeze-dried vaccines?",
+      "options": [
+        "Sterile water from any source",
+        "Normal saline",
+        "Only the diluent supplied with it",
+        "Distilled water"
+      ],
+      "answer": "C",
+      "rationale": "EPI strictly follows the principle of never reconstituting freeze-dried vaccines with anything other than the diluent supplied.",
+      "explanations": [
+        "Not allowed.",
+        "Not allowed.",
+        "Correct: supplied diluent.",
+        "Not allowed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, EPI Principles (PDF p. 92)",
+      "quote": "never, ever reconstituting the freeze dried vaccines other than the diluents supplied"
+    }
+  ]
+}

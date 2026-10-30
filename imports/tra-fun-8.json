@@ -1,0 +1,533 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A dying client's feet are cold and mottled. Which change does this reflect?",
+      "options": [
+        "Loss of muscle tone",
+        "Slowing of circulation",
+        "Sensory impairment",
+        "Respiratory change"
+      ],
+      "answer": "B",
+      "rationale": "Slowing circulation causes mottling, cyanosis, and cold skin starting at the feet, with a weaker pulse and lower BP.",
+      "explanations": [
+        "Jaw sag, incontinence.",
+        "Correct.",
+        "Blurred vision.",
+        "Death rattle."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Signs of Impending Death (PDF p. 53)",
+      "quote": "Mottling and cyanosis of the extremities"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "Noisy breathing from mucus in the throat of a dying client is called:",
+      "options": [
+        "Stridor",
+        "Death rattle",
+        "Wheeze",
+        "Stertor"
+      ],
+      "answer": "B",
+      "rationale": "The death rattle is noisy breathing from mucus collecting in the throat.",
+      "explanations": [
+        "Upper airway.",
+        "Correct.",
+        "Bronchospasm.",
+        "Snoring."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Signs of Impending Death (PDF p. 53)",
+      "quote": "Noisy breathing, referred to as the death rattle"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "How can the nurse help a dying client keep a sense of control?",
+      "options": [
+        "Decide all his care",
+        "Let him choose care times",
+        "Limit his visitors",
+        "Avoid discussing plans"
+      ],
+      "answer": "B",
+      "rationale": "Supporting control includes letting clients choose the location and timing of care and activities.",
+      "explanations": [
+        "Removes control.",
+        "Correct.",
+        "Not control.",
+        "Not control."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Care of the Dying (PDF p. 53)",
+      "quote": "allow clients to choose the location of care times of appointm"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Why should the nurse repeat information to the family of a dying client?",
+      "options": [
+        "They are not intelligent",
+        "Stress and grief limit absorption",
+        "It is required by law",
+        "To fill time"
+      ],
+      "answer": "B",
+      "rationale": "The family may not absorb information because of stress and grieving, so it is repeated.",
+      "explanations": [
+        "Disrespectful.",
+        "Correct.",
+        "Not the reason.",
+        "Not the reason."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Supporting the Family (PDF p. 54)",
+      "quote": "Repeat the provided information because they may not absorb it due to stress and grieving"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "Stiffening of the body about 2 to 4 hours after death is:",
+      "options": [
+        "Algor mortis",
+        "Livor mortis",
+        "Rigor mortis",
+        "Putrefaction"
+      ],
+      "answer": "C",
+      "rationale": "Rigor mortis results from lack of ATP and begins about 2–4 hours after death.",
+      "explanations": [
+        "Cooling.",
+        "Discoloration.",
+        "Correct.",
+        "Decomposition."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Postmortem Care (PDF p. 54)",
+      "quote": "Stiffening of the body that occurs about 2 to 4 hours after death"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "How fast does body temperature fall after death (algor mortis)?",
+      "options": [
+        "0.1°C per hour",
+        "About 1°C per hour",
+        "5°C per hour",
+        "It does not fall"
+      ],
+      "answer": "B",
+      "rationale": "Body temperature falls about 1°C (1.8°F) per hour until room temperature.",
+      "explanations": [
+        "Too slow.",
+        "Correct.",
+        "Too fast.",
+        "It falls."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Postmortem Care (PDF p. 54)",
+      "quote": "Body temperature falls about 1°C (1.8°F) per hour until it reaches room temperature"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "Why is a pillow placed under the head after death?",
+      "options": [
+        "For comfort only",
+        "To prevent facial pooling",
+        "To open the airway",
+        "Tradition only"
+      ],
+      "answer": "B",
+      "rationale": "A pillow under the head and shoulders prevents facial discoloration from settling blood (livor mortis).",
+      "explanations": [
+        "Not the reason.",
+        "Correct.",
+        "Not needed.",
+        "Has a reason."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Postmortem Care (PDF p. 54)",
+      "quote": "One pillow is placed under the head and shoulders to prevent blood from discoloring the face"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "During postmortem care, what is done with dentures?",
+      "options": [
+        "Removed and discarded",
+        "Inserted to give a natural look",
+        "Given to the morgue staff",
+        "Left in a cup"
+      ],
+      "answer": "B",
+      "rationale": "Dentures are usually inserted to give the face a natural appearance, and the mouth is closed.",
+      "explanations": [
+        "Not done.",
+        "Correct.",
+        "Not the practice.",
+        "Not the practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Postmortem Care (PDF p. 54)",
+      "quote": "Dentures are usually inserted to help give the face a natural appearance"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Before a CT scan with contrast, which lab results should be checked?",
+      "options": [
+        "BUN and creatinine",
+        "Hemoglobin only",
+        "Blood type",
+        "Cholesterol"
+      ],
+      "answer": "A",
+      "rationale": "Kidney function (BUN, creatinine) is checked because contrast is excreted by the kidneys.",
+      "explanations": [
+        "Correct.",
+        "Not specific.",
+        "Not needed.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, CT Scan (PDF p. 55)",
+      "quote": "Check BUN & Creatinine"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After a contrast CT, what should the client do?",
+      "options": [
+        "Restrict fluids",
+        "Increase fluid intake",
+        "Stay NPO for a day",
+        "Avoid walking"
+      ],
+      "answer": "B",
+      "rationale": "Increased fluids help eliminate the contrast medium; watch for delayed allergic reactions.",
+      "explanations": [
+        "Opposite.",
+        "Correct.",
+        "Not needed.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, CT Scan (PDF p. 55)",
+      "quote": "Increase fluid intake to help eliminate the contrast medium"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "For which client is an MRI contraindicated?",
+      "options": [
+        "Client with a pacemaker",
+        "Client with a cold",
+        "Client who is diabetic",
+        "Client with a cast of plaster"
+      ],
+      "answer": "A",
+      "rationale": "MRI is contraindicated with metal in the body and pacemakers.",
+      "explanations": [
+        "Correct.",
+        "Fine.",
+        "Fine.",
+        "Plaster is fine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, MRI (PDF p. 56)",
+      "quote": "Patients with pacemakers"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What should the client expect during an MRI?",
+      "options": [
+        "Severe pain",
+        "Loud banging noises",
+        "Electric shocks",
+        "Being asleep always"
+      ],
+      "answer": "B",
+      "rationale": "MRI is painless but noisy, with loud banging; the client must stay still.",
+      "explanations": [
+        "Painless.",
+        "Correct.",
+        "Not true.",
+        "Awake usually."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, MRI (PDF p. 56)",
+      "quote": "Tell the client to expect to hear loud banging from the scanner"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After a PET scan, what should the client do with urine?",
+      "options": [
+        "Save all of it",
+        "Flush right after voiding",
+        "Add bleach first",
+        "Avoid voiding"
+      ],
+      "answer": "B",
+      "rationale": "Flush immediately after each voiding; increase fluids for 24–48 hours.",
+      "explanations": [
+        "Not needed.",
+        "Correct.",
+        "Not needed.",
+        "Harmful."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, PET Scan (PDF p. 56)",
+      "quote": "Flush the toilet immediately after each voiding"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "How should a client prepare hair for an EEG?",
+      "options": [
+        "Apply hair spray",
+        "Use hair oil",
+        "Wash it; no sprays or creams",
+        "Braid it tightly"
+      ],
+      "answer": "C",
+      "rationale": "Hair should be clean, without sprays, creams, or oils, which impair electrode contact.",
+      "explanations": [
+        "Interferes.",
+        "Interferes.",
+        "Correct.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, EEG (PDF p. 57)",
+      "quote": "Instruct the client to clean the hair and refrain from using hair sprays, creams of solutions"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "How long before an EEG should caffeine be avoided?",
+      "options": [
+        "1 hour",
+        "8 hours",
+        "3 days",
+        "Not needed"
+      ],
+      "answer": "B",
+      "rationale": "Avoid caffeine-containing beverages for 8 hours before the EEG.",
+      "explanations": [
+        "Too short.",
+        "Correct.",
+        "Too long.",
+        "Needed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, EEG (PDF p. 57)",
+      "quote": "Refrain from drinking caffeine-containing beverages for 8 hours before the procedure"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client fears the EEG will shock him. What should the nurse say?",
+      "options": [
+        "'It may shock a little.'",
+        "'EEG does not cause electric shock.'",
+        "'You'll be sedated.'",
+        "'It hurts briefly.'"
+      ],
+      "answer": "B",
+      "rationale": "The EEG records brain activity and does not cause electric shock.",
+      "explanations": [
+        "Not true.",
+        "Correct.",
+        "Not usually.",
+        "Painless."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, EEG (PDF p. 57)",
+      "quote": "Inform the client that EEG does not cause electric shock."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "How is a client positioned for lumbar puncture?",
+      "options": [
+        "Prone",
+        "Knee-chest (C-shape)",
+        "Trendelenburg",
+        "Supine flat"
+      ],
+      "answer": "B",
+      "rationale": "The C-shaped, fetal, or knee-chest position widens the space between lumbar vertebrae (L3–L4 or L4–L5).",
+      "explanations": [
+        "Not used.",
+        "Correct.",
+        "Not used.",
+        "After."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Lumbar Puncture (PDF p. 58)",
+      "quote": "Position: Knee-chest position / C-shaped position I Fetal position I Shrimp"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which CSF finding suggests bacterial meningitis?",
+      "options": [
+        "Low glucose",
+        "High glucose",
+        "Clear, normal protein",
+        "No WBCs"
+      ],
+      "answer": "A",
+      "rationale": "Bacterial and TB meningitis decrease CSF glucose and increase protein and lactic acid.",
+      "explanations": [
+        "Correct.",
+        "Not typical.",
+        "Normal.",
+        "Normal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Lumbar Puncture (PDF p. 58)",
+      "quote": "Glucose - Bacterial and Tubercular Meningitis"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "When is lumbar puncture contraindicated?",
+      "options": [
+        "Site infection",
+        "Mild fever",
+        "Headache",
+        "Recent meal"
+      ],
+      "answer": "A",
+      "rationale": "LP is contraindicated with infection at the site and coagulation defects, and used cautiously with increased ICP.",
+      "explanations": [
+        "Correct.",
+        "Not a contraindication.",
+        "Not a contraindication.",
+        "No restrictions."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Lumbar Puncture (PDF p. 58)",
+      "quote": "This procedure is contraindicated if infection is present at the needle insertion site"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After a lumbar puncture, what helps replace lost CSF?",
+      "options": [
+        "Restrict fluids",
+        "Give fluids if permitted",
+        "Give diuretics",
+        "Keep NPO"
+      ],
+      "answer": "B",
+      "rationale": "If permitted, fluids are given to replace lost CSF; the site is watched for leakage.",
+      "explanations": [
+        "Opposite.",
+        "Correct.",
+        "Opposite.",
+        "Opposite."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Lumbar Puncture (PDF p. 58)",
+      "quote": "If permitted, administer fluids to replace lost CSF"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What sensation should a client expect during EMG needle insertion?",
+      "options": [
+        "None",
+        "Like an IM injection",
+        "Electric shock",
+        "Burning for hours"
+      ],
+      "answer": "B",
+      "rationale": "Clients feel a sensation like an intramuscular injection as the needle enters the muscle.",
+      "explanations": [
+        "Not true.",
+        "Correct.",
+        "Not true.",
+        "Not true."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, EMG (PDF p. 60)",
+      "quote": "expect sensation similar to that of an intramuscular injection"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which is a contraindication to EMG?",
+      "options": [
+        "Anticoagulant therapy",
+        "Diabetes",
+        "Hypertension",
+        "Age over 60"
+      ],
+      "answer": "A",
+      "rationale": "EMG is contraindicated with extensive skin infection, anticoagulant therapy, and infection at electrode sites.",
+      "explanations": [
+        "Correct.",
+        "Not.",
+        "Not.",
+        "Not."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, EMG (PDF p. 60)",
+      "quote": "Anticoagulant therapy"
+    }
+  ]
+}

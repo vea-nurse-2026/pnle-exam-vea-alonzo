@@ -1,0 +1,365 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "A client returns from microvascular decompression of the trigeminal nerve. Which equipment should the nurse ask the aide to place at the bedside?",
+      "options": [
+        "Flashlight and pulse oximeter",
+        "Cardiac monitor and suction",
+        "Chest tube set",
+        "Tracheostomy set"
+      ],
+      "answer": "A",
+      "rationale": "Care is the same as after craniotomy: hourly neurologic checks (pupils with a flashlight) and monitoring of cardiovascular and respiratory status (pulse oximetry).",
+      "explanations": [
+        "Correct: neuro and respiratory checks.",
+        "Not the routine need.",
+        "Not indicated.",
+        "Not indicated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1170 (PDF p. 1457)",
+      "quote": "This client requires hourly neurological assessment as well as monitoring of the cardiovascular and respiratory statuses."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with Guillain-Barré syndrome has paralysis ascending to the waist. Which equipment should be ready for emergencies?",
+      "options": [
+        "Nebulizer and oximeter",
+        "BP cuff and glucometer",
+        "Suction and feeding tube",
+        "Intubation tray and cardiac monitor"
+      ],
+      "answer": "D",
+      "rationale": "Ascending paralysis can cause respiratory failure, so an intubation tray is kept ready. Cardiac dysrhythmias also occur, so cardiac monitoring is needed.",
+      "explanations": [
+        "Not sufficient.",
+        "Not the priority.",
+        "Not the priority.",
+        "Correct: respiratory failure and dysrhythmias."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1171 (PDF p. 1458)",
+      "quote": "The client with Guillain-Barré syndrome is at risk for respiratory failure as a result of ascending paralysis."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A stroke client coughs when swallowing and now has a temperature of 38.3°C, SpO2 of 91%, confusion, and dyspnea. What should the nurse do?",
+      "options": [
+        "Notify the physician",
+        "Give paracetamol",
+        "Thicken his liquids",
+        "Recheck in 4 hours"
+      ],
+      "answer": "A",
+      "rationale": "These are signs of aspiration (fever, dyspnea, low oxygen, confusion). A complication has developed, so the provider is notified.",
+      "explanations": [
+        "Correct: likely aspiration pneumonia.",
+        "Treats only the symptom.",
+        "Too late as the only action.",
+        "Delays care."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1198 (PDF p. 1490)",
+      "quote": "The client is exhibiting clinical signs and symptoms of aspiration, which include fever, dyspnea, decreased arterial oxygen levels, and confusion."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "Mang Tomas, 52, is admitted with a leaking cerebral aneurysm and is scheduled for surgery.",
+      "stem": "Which intervention should the nurse implement before surgery?",
+      "options": [
+        "Bed rest",
+        "Walking in the room only",
+        "Use of a bedside commode",
+        "Daily hallway walks"
+      ],
+      "answer": "A",
+      "rationale": "Aneurysm precautions keep activity minimal to prevent straining (Valsalva), which raises blood pressure and increases bleeding.",
+      "explanations": [
+        "Correct: prevents straining.",
+        "Too much activity.",
+        "Getting up involves straining.",
+        "Too much activity."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1206 (PDF p. 1498)",
+      "quote": "the client’s activity is kept to a minimum to prevent Valsalva’s maneuver."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "Mang Tomas, 52, is admitted with a leaking cerebral aneurysm and is scheduled for surgery.",
+      "stem": "Mang Tomas's daughter asks to take him to the lounge 'for just a few minutes.' What should the nurse explain?",
+      "options": [
+        "Quiet speeds up healing",
+        "He needs isolation to cope",
+        "Stimuli may cause rebleeding",
+        "Visitors carry infection"
+      ],
+      "answer": "C",
+      "rationale": "Aneurysm precautions minimize stimuli that could raise intracranial pressure and trigger bleeding or rupture. Reduced stimuli do not speed healing.",
+      "explanations": [
+        "Not the reason.",
+        "Not the reason.",
+        "Correct: prevents rebleeding.",
+        "Not the reason."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1543 (PDF p. 1855)",
+      "quote": "Subarachnoid precautions (or aneurysm precautions) are intended to minimize environmental stimuli, which could increase intracranial pressure"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "Mang Tomas, 52, is admitted with a leaking cerebral aneurysm and is scheduled for surgery.",
+      "stem": "Which medication order should the nurse QUESTION for a client with a ruptured intracranial aneurysm?",
+      "options": [
+        "Nicardipine",
+        "Heparin",
+        "Docusate sodium",
+        "Aminocaproic acid"
+      ],
+      "answer": "B",
+      "rationale": "Heparin, an anticoagulant, raises the risk of rebleeding. Nicardipine manages vasospasm, docusate prevents straining, and aminocaproic acid prevents clot breakdown.",
+      "explanations": [
+        "Treats vasospasm.",
+        "Correct: risk of rebleeding.",
+        "Prevents straining.",
+        "Prevents clot breakdown."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1463 (PDF p. 1772)",
+      "quote": "The nurse should question a prescription for heparin sodium, which is an anticoagulant."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with Bell's palsy is upset about her face. What should the nurse tell her?",
+      "options": [
+        "Vasodilators will cure it",
+        "It's a mild stroke",
+        "It often resolves in 3 to 5 weeks",
+        "It is usually permanent"
+      ],
+      "answer": "C",
+      "rationale": "Clients are reassured that it is not a stroke and that symptoms often disappear on their own in about 3 to 5 weeks. Treatment is supportive.",
+      "explanations": [
+        "Vasodilators are not used.",
+        "It is not a stroke.",
+        "Correct: often resolves spontaneously.",
+        "Not usually permanent."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1408 (PDF p. 1714)",
+      "quote": "symptoms often disappear spontaneously in approximately 3 to 5 weeks."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which finding is the PRIMARY indicator of neurologic status in a client with an acute head injury?",
+      "options": [
+        "Vital signs",
+        "Motor function",
+        "Sensory function",
+        "Level of consciousness"
+      ],
+      "answer": "D",
+      "rationale": "LOC is the primary indicator. It changes before other neurologic signs or vital signs.",
+      "explanations": [
+        "Change later.",
+        "Not the primary indicator.",
+        "Not the primary indicator.",
+        "Correct: changes first."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1445 (PDF p. 1754)",
+      "quote": "The level of consciousness is the primary indicator of neurological status."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "During a seizure, a client's whole body becomes rigid, then all four limbs alternately contract and relax. How should the nurse document this?",
+      "options": [
+        "Partial seizure",
+        "Absence seizure",
+        "Tonic-clonic seizure",
+        "Myoclonic seizure"
+      ],
+      "answer": "C",
+      "rationale": "Tonic-clonic seizures begin with rigidity (tonic) followed by rhythmic contraction and relaxation (clonic). Absence seizures are brief lapses with a blank stare.",
+      "explanations": [
+        "Limited to one area.",
+        "Brief lapse with a blank stare.",
+        "Correct: tonic then clonic phases.",
+        "Brief muscle jerks."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1450 (PDF p. 1759)",
+      "quote": "Tonic-clonic seizures are characterized by body rigidity (tonic phase) followed by rhythmic jerky contraction and relaxation of all body muscles"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with a right-sided stroke has left-sided neglect. Which action would REINFORCE the neglect?",
+      "options": [
+        "Teach him to scan to the left",
+        "Keep his items on the right side only",
+        "Place the chair on his left",
+        "Touch his left arm when talking"
+      ],
+      "answer": "B",
+      "rationale": "The nurse refocuses the client's attention to the affected side. Items, the chair, and the commode are placed on the affected side, and the client is taught to scan toward it.",
+      "explanations": [
+        "Helpful.",
+        "Correct answer: reinforces neglect.",
+        "Helpful.",
+        "Helpful."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1451 (PDF p. 1760)",
+      "quote": "The nurse’s role is to refocus the client’s attention to the affected side."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "When would continued fatigue suggest a client's myasthenia gravis drugs are not optimal?",
+      "options": [
+        "Early morning only",
+        "Right after waking",
+        "After a short nap",
+        "Late in the day"
+      ],
+      "answer": "D",
+      "rationale": "In myasthenia gravis, weakness appears after exertion and near the end of the day. If fatigue persists then despite therapy, the regimen may need adjusting.",
+      "explanations": [
+        "Not the typical pattern.",
+        "Not the typical pattern.",
+        "Not the typical pattern.",
+        "Correct: the typical timing of weakness."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1452 (PDF p. 1761)",
+      "quote": "The client with myasthenia gravis has weakness after periods of exertion and near the end of the day."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which symptom does the nurse expect in a client with trigeminal neuralgia?",
+      "options": [
+        "Pain along cranial nerve VI",
+        "Bilateral facial pain",
+        "Sudden pain along cranial nerve V",
+        "Numbness of the tongue"
+      ],
+      "answer": "C",
+      "rationale": "Trigeminal neuralgia is abrupt-onset pain involving one or more divisions of the trigeminal nerve (cranial nerve V).",
+      "explanations": [
+        "Wrong nerve.",
+        "It is unilateral.",
+        "Correct: cranial nerve V.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1497 (PDF p. 1806)",
+      "quote": "It involves one or more divisions of the trigeminal nerve (cranial nerve V)."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which can trigger the pain of trigeminal neuralgia?",
+      "options": [
+        "Infection or stress",
+        "Low blood sugar",
+        "Touch or cold drafts",
+        "Watery eyes"
+      ],
+      "answer": "C",
+      "rationale": "Stimulating trigeminal nerve branches triggers pain: washing the face, brushing teeth, shaving, eating, yawning, or temperature stimuli such as a draft.",
+      "explanations": [
+        "Not the usual triggers.",
+        "Not a trigger.",
+        "Correct: tactile and thermal triggers.",
+        "Not a trigger."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1527 (PDF p. 1837)",
+      "quote": "Symptoms can be triggered by pressure from washing the face, brushing the teeth, shaving, eating and drinking, and yawning."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which findings does the nurse expect in a client with Bell's palsy?",
+      "options": [
+        "Eye paralysis and ptosis",
+        "One-sided facial droop and trouble chewing",
+        "Fixed pupil and raised eyelid",
+        "Facial twitching and ruddy cheeks"
+      ],
+      "answer": "B",
+      "rationale": "Bell's palsy is one-sided facial paralysis from compression of cranial nerve VII. It causes facial droop, increased tearing, pain near the ear, and difficulty chewing.",
+      "explanations": [
+        "Not typical.",
+        "Correct: CN VII paralysis.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1528 (PDF p. 1838)",
+      "quote": "Bell’s palsy is a one-sided facial paralysis resulting from compression of the facial nerve (CN VII)."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "When taking the history of a client with Guillain-Barré syndrome, the nurse should ask about a recent:",
+      "options": [
+        "Meningitis",
+        "Seizure or head trauma",
+        "Back injury",
+        "Respiratory or GI infection"
+      ],
+      "answer": "D",
+      "rationale": "Many clients report a respiratory or GI infection 1 to 4 weeks before the onset of neurologic deficits.",
+      "explanations": [
+        "Not a typical antecedent.",
+        "Not a typical antecedent.",
+        "Not a typical antecedent.",
+        "Correct: a common preceding event."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1531 (PDF p. 1841)",
+      "quote": "Many clients report a history of respiratory or GI infection in the 1 to 4 weeks before the onset of neurological deficits."
+    }
+  ]
+}

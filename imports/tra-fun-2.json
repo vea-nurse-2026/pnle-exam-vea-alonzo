@@ -1,0 +1,581 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Within what period should a physician countersign a telephone order?",
+      "options": [
+        "1 hour",
+        "24 hours",
+        "3 days",
+        "1 week"
+      ],
+      "answer": "B",
+      "rationale": "Telephone orders are countersigned by the ordering physician within the prescribed time, usually 24 hours.",
+      "explanations": [
+        "Too short.",
+        "Correct.",
+        "Too long.",
+        "Too long."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Telephone Orders (PDF p. 9)",
+      "quote": "countersigned by the physician who made the order within the prescribed period of time (within 24 hours)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Who is the PRIMARY source of assessment data?",
+      "options": [
+        "The client",
+        "The family",
+        "The medical record",
+        "The physician"
+      ],
+      "answer": "A",
+      "rationale": "The client is the primary source; family, records, and other professionals are secondary.",
+      "explanations": [
+        "Correct.",
+        "Secondary.",
+        "Secondary.",
+        "Secondary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Assessment (PDF p. 9)",
+      "quote": "Client (primary)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "In an emergency, which interview approach is used?",
+      "options": [
+        "Non-directive",
+        "Directive",
+        "Open-ended",
+        "Silence"
+      ],
+      "answer": "B",
+      "rationale": "The directive interview is structured with closed questions and is used in emergencies to get specific data.",
+      "explanations": [
+        "Too slow.",
+        "Correct.",
+        "Too slow.",
+        "Too slow."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Interviewing (PDF p. 10)",
+      "quote": "Used in emergency situation"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which stage of the interview is MOST important for building rapport?",
+      "options": [
+        "Opening",
+        "Body",
+        "Closing",
+        "Follow-up"
+      ],
+      "answer": "A",
+      "rationale": "The opening is the most important stage; it establishes rapport and orients the client.",
+      "explanations": [
+        "Correct.",
+        "Data shared.",
+        "Termination.",
+        "Not a stage."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Stages of Interview (PDF p. 10)",
+      "quote": "Most important"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Checking a client's hydration status every 15 minutes is which type of assessment?",
+      "options": [
+        "Initial",
+        "Problem-focused",
+        "Emergency",
+        "Time-lapsed"
+      ],
+      "answer": "B",
+      "rationale": "Problem-focused assessment determines the status of a specific problem, such as hydration every 15 minutes.",
+      "explanations": [
+        "Database.",
+        "Correct.",
+        "Life-threat.",
+        "Months later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Types of Assessment (PDF p. 10)",
+      "quote": "Hydration status every 15 minutes"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A home nurse compares a client's status now with data from 6 months ago. Which assessment is this?",
+      "options": [
+        "Initial",
+        "Problem-focused",
+        "Emergency",
+        "Time-lapsed"
+      ],
+      "answer": "D",
+      "rationale": "Time-lapsed assessment is done months after the initial one to compare with baseline.",
+      "explanations": [
+        "Admission.",
+        "Specific problem.",
+        "Crisis.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Types of Assessment (PDF p. 10)",
+      "quote": "Done several months after initial assessment"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Double-checking data to confirm accuracy is called:",
+      "options": [
+        "Clustering",
+        "Validating",
+        "Documenting",
+        "Analyzing"
+      ],
+      "answer": "B",
+      "rationale": "Validating is verifying data to confirm it is accurate and factual.",
+      "explanations": [
+        "Grouping.",
+        "Correct.",
+        "Recording.",
+        "Interpreting."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Validating Data (PDF p. 10)",
+      "quote": "Double checking or verifying data to confirm that it is accurate and factual"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which nursing diagnosis is written in the 3-part PES format?",
+      "options": [
+        "Anticipatory grieving",
+        "Constipation r/t laxative use",
+        "Pain r/t incision AMB grimacing",
+        "Risk for infection"
+      ],
+      "answer": "C",
+      "rationale": "PES includes the problem, etiology, and signs/symptoms ('as manifested by').",
+      "explanations": [
+        "One-part.",
+        "Two-part.",
+        "Correct.",
+        "Risk diagnosis."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Nursing Diagnosis (PDF p. 11)",
+      "quote": "Basic 3-part statements (PES format)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A problem is not present, but risk factors make it likely. Which diagnosis type is this?",
+      "options": [
+        "Actual",
+        "Risk",
+        "Wellness",
+        "Syndrome"
+      ],
+      "answer": "B",
+      "rationale": "A risk diagnosis is a judgment that a problem is likely to develop unless nurses intervene.",
+      "explanations": [
+        "Present now.",
+        "Correct.",
+        "Enhancement.",
+        "Cluster."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Types of Nursing Diagnosis (PDF p. 11)",
+      "quote": "the presence of risk factors indicates that a problem is likely to develop unless nurses intervene"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "'Readiness for enhanced family coping' is which type of nursing diagnosis?",
+      "options": [
+        "Actual",
+        "Risk",
+        "Wellness",
+        "Possible"
+      ],
+      "answer": "C",
+      "rationale": "Wellness diagnoses describe readiness for enhancement.",
+      "explanations": [
+        "Problem present.",
+        "Risk.",
+        "Correct.",
+        "Unclear data."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Types of Nursing Diagnosis (PDF p. 11)",
+      "quote": "Readiness for enhanced family coping"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "How should collaborative problems be labeled?",
+      "options": [
+        "Risk for",
+        "Potential complication",
+        "Readiness for",
+        "Possible"
+      ],
+      "answer": "B",
+      "rationale": "Collaborative problems begin with 'Potential complications', e.g., PC: increased ICP.",
+      "explanations": [
+        "Nursing risk.",
+        "Correct.",
+        "Wellness.",
+        "Unclear data."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Diagnosis (PDF p. 11)",
+      "quote": "all collaborative problems begin with diagnosing label “Potential Complications”"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "To be useful for evaluation, how should goals be written?",
+      "options": [
+        "In behavioral terms",
+        "As nursing actions",
+        "Vaguely",
+        "Only by the doctor"
+      ],
+      "answer": "A",
+      "rationale": "Goals are stated in behavioral, measurable terms (SMART) and involve the client and family.",
+      "explanations": [
+        "Correct.",
+        "Interventions.",
+        "Not measurable.",
+        "Nurse and client."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Planning (PDF p. 11)",
+      "quote": "it should be stated in BEHAVIORAL TERMS"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "When does discharge planning begin?",
+      "options": [
+        "On the day of discharge",
+        "At the first client contact",
+        "After surgery",
+        "When the doctor orders it"
+      ],
+      "answer": "B",
+      "rationale": "Discharge planning begins at first client contact with ongoing assessment of needs.",
+      "explanations": [
+        "Too late.",
+        "Correct.",
+        "Too late.",
+        "Nurse-initiated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Discharge Planning (PDF p. 12)",
+      "quote": "Begins at first client contact"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "What should the nurse do just before implementing an intervention?",
+      "options": [
+        "Document it first",
+        "Reassess the client",
+        "Delegate everything",
+        "Skip if busy"
+      ],
+      "answer": "B",
+      "rationale": "Implementation includes reassessing the client before an intervention.",
+      "explanations": [
+        "Never first.",
+        "Correct.",
+        "Not appropriate.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Implementation (PDF p. 12)",
+      "quote": "Reassessing the client before implementing an intervention"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Evaluation done at or just before discharge to see if goals were met is:",
+      "options": [
+        "Formative",
+        "Intermittent",
+        "Summative (terminal)",
+        "Ongoing"
+      ],
+      "answer": "C",
+      "rationale": "Terminal or summative evaluation determines whether goals are met, partially met, or unmet.",
+      "explanations": [
+        "During care.",
+        "Set times.",
+        "Correct.",
+        "During care."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Types of Evaluation (PDF p. 13)",
+      "quote": "Done at or immediately before discharge"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "In Becker's Health Belief Model, which is an individual perception?",
+      "options": [
+        "Age and sex",
+        "Perceived seriousness",
+        "Peer pressure",
+        "Mass media cues"
+      ],
+      "answer": "B",
+      "rationale": "Individual perceptions include perceived susceptibility, seriousness, and threat; age, peers, and media are modifying factors or cues.",
+      "explanations": [
+        "Demographic.",
+        "Correct.",
+        "Modifying.",
+        "Cue."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Health Belief Model (PDF p. 13)",
+      "quote": "Perceive seriousness of an illness"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "In Smith's models, defining health as the ability to perform one's work is the:",
+      "options": [
+        "Clinical model",
+        "Role performance model",
+        "Adaptive model",
+        "Eudemonistic model"
+      ],
+      "answer": "B",
+      "rationale": "Role performance model defines health by ability to perform work; eudemonistic is self-actualization.",
+      "explanations": [
+        "No disease.",
+        "Correct.",
+        "Coping.",
+        "Actualization."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Smith's Model of Health (PDF p. 13)",
+      "quote": "Role performance model — health is identified in terms of individual's ability to perform his/her work"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Travis's illness-wellness continuum moves toward high-level wellness through which steps?",
+      "options": [
+        "Awareness, education, growth",
+        "Symptoms, sick role, recovery",
+        "Alarm, resistance, exhaustion",
+        "Agent, host, environment"
+      ],
+      "answer": "A",
+      "rationale": "Movement right of the neutral point occurs through awareness, education, and growth.",
+      "explanations": [
+        "Correct.",
+        "Stages of illness.",
+        "GAS.",
+        "Ecologic model."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Travis's Continuum (PDF p. 13)",
+      "quote": "Awareness"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A client stays home from work, and family confirms he is ill. Which stage of illness is this?",
+      "options": [
+        "Symptom experience",
+        "Assumption of the sick role",
+        "Medical care contact",
+        "Recovery"
+      ],
+      "answer": "B",
+      "rationale": "In assuming the sick role, the person accepts illness and is excused from usual duties, with confirmation from family.",
+      "explanations": [
+        "Earlier.",
+        "Correct.",
+        "Next.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Stages of Illness (PDF p. 14)",
+      "quote": "Excused from normal duties and role expectations"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Physical therapy after a stroke is which level of prevention (Leavell and Clark)?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "None"
+      ],
+      "answer": "C",
+      "rationale": "Tertiary prevention halts disease progression and rehabilitates, such as PT after CVA or speech therapy after laryngectomy.",
+      "explanations": [
+        "Promotion.",
+        "Screening.",
+        "Correct.",
+        "It is prevention."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Levels of Prevention (PDF p. 15)",
+      "quote": "Physical therapy after CVA"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Getting married is which type of stressor?",
+      "options": [
+        "Internal",
+        "Developmental",
+        "Situational",
+        "Physiologic"
+      ],
+      "answer": "C",
+      "rationale": "Situational stressors are unpredictable and may be positive or negative, such as marriage, divorce, or birth.",
+      "explanations": [
+        "From within.",
+        "Predictable life stages.",
+        "Correct.",
+        "Not a category."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Sources of Stress (PDF p. 15)",
+      "quote": "Situational stressors – are unpredictable and may occur at any time during life"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "In Selye's GAS, the 'fight or flight' release of epinephrine and cortisol occurs in which phase?",
+      "options": [
+        "Shock phase of alarm",
+        "Resistance stage",
+        "Exhaustion stage",
+        "Recovery"
+      ],
+      "answer": "A",
+      "rationale": "In the shock phase of the alarm reaction, the ANS releases epinephrine and cortisone for fight or flight.",
+      "explanations": [
+        "Correct.",
+        "Adaptation.",
+        "Depletion.",
+        "Not GAS."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, General Adaptation Syndrome (PDF p. 15)",
+      "quote": "“Fight or Flight”"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "In which GAS stage does the body adapt and move back toward homeostasis?",
+      "options": [
+        "Alarm",
+        "Resistance",
+        "Exhaustion",
+        "Shock"
+      ],
+      "answer": "B",
+      "rationale": "In resistance, the body adapts, limits the stressor, and moves back to homeostasis.",
+      "explanations": [
+        "Mobilization.",
+        "Correct.",
+        "Depletion.",
+        "Alarm phase."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, General Adaptation Syndrome (PDF p. 15)",
+      "quote": "Is when the body’s adaptation takes place"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Inflammation localized to an injured finger is an example of:",
+      "options": [
+        "General adaptation syndrome",
+        "Local adaptation syndrome",
+        "Exhaustion",
+        "Sick role"
+      ],
+      "answer": "B",
+      "rationale": "In LAS, a person responds to stress through a particular body part or organ.",
+      "explanations": [
+        "Whole body.",
+        "Correct.",
+        "GAS stage.",
+        "Illness stage."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Local Adaptation Syndrome (PDF p. 15)",
+      "quote": "Man may respond to stress through a particular body part or body organ"
+    }
+  ]
+}

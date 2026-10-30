@@ -1,0 +1,581 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client is started on amitriptyline for depression. Which common side effect should the nurse monitor for?",
+      "options": [
+        "Diarrhea",
+        "Drowsiness",
+        "Hypertension",
+        "Increased salivation"
+      ],
+      "answer": "B",
+      "rationale": "Tricyclic antidepressants commonly cause drowsiness, fatigue, and sedation, along with anticholinergic effects (dry mouth, blurred vision, constipation) and hypotension.",
+      "explanations": [
+        "TCAs cause constipation.",
+        "Correct: CNS sedation is common.",
+        "TCAs tend to cause hypotension.",
+        "TCAs cause dry mouth."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q341 (PDF p. 509)",
+      "quote": "Common side effects of amitriptyline (a tricyclic antidepressant) include the central nervous system effects of drowsiness, fatigue, lethargy, and sedation."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Which statement by a mother shows she understands why her newborn needs a vitamin K (phytonadione) injection?",
+      "options": [
+        "'The baby's liver cannot make vitamin K at all.'",
+        "'Only sick babies need this vitamin.'",
+        "'Newborns lack the gut bacteria that make vitamin K.'",
+        "'It protects the baby from jaundice.'"
+      ],
+      "answer": "C",
+      "rationale": "The newborn gut lacks the normal flora that synthesize vitamin K, causing a temporary clotting deficiency in the first days of life. The injection prevents bleeding.",
+      "explanations": [
+        "The liver uses vitamin K; the problem is the lack of gut flora.",
+        "All newborns receive it.",
+        "Correct: there are no intestinal bacteria yet to produce vitamin K.",
+        "Vitamin K prevents bleeding, not jaundice."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q344 (PDF p. 512)",
+      "quote": "The absence of normal flora needed to synthesize vitamin K (phytonadione) in the normal newborn gut results in low levels of vitamin K"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Aspirin is given to a client before percutaneous transluminal coronary angioplasty (PTCA). What is its purpose?",
+      "options": [
+        "To relieve pain after the procedure",
+        "To prevent thrombus formation",
+        "To prevent fever after the procedure",
+        "To lower the blood pressure"
+      ],
+      "answer": "B",
+      "rationale": "Aspirin inhibits platelet aggregation, reducing the risk of the artery occluding during and after angioplasty.",
+      "explanations": [
+        "Not the reason for giving it before PTCA.",
+        "Correct: it is an antiplatelet agent.",
+        "Not the purpose here.",
+        "Aspirin does not lower blood pressure."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q347 (PDF p. 515)",
+      "quote": "the aspirin inhibits platelet aggregation."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Acetaminophen is prescribed to be given before a topical nitrate. What is the reason?",
+      "options": [
+        "Headache is a common side effect of nitrates",
+        "Acetaminophen boosts the nitrate's effect",
+        "It prevents fever caused by the nitrate",
+        "It protects the stomach from the nitrate"
+      ],
+      "answer": "A",
+      "rationale": "Nitrates dilate blood vessels, which often causes headache. Acetaminophen given beforehand prevents or lessens it. The headaches usually lessen with continued use.",
+      "explanations": [
+        "Correct: vasodilation causes headache.",
+        "It does not potentiate the nitrate.",
+        "Nitrates do not cause fever.",
+        "Topical nitrates do not irritate the stomach."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q348 (PDF p. 516)",
+      "quote": "Headache occurs as a side effect of nitrates in many clients."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Mang Ernesto, 68, has atrial fibrillation and is discharged on warfarin to prevent stroke.",
+      "stem": "Which food should Mang Ernesto limit because of its high vitamin K content?",
+      "options": [
+        "Oranges",
+        "Broccoli",
+        "Strawberries",
+        "White rice"
+      ],
+      "answer": "B",
+      "rationale": "Warfarin works against vitamin K-dependent clotting factors, so intake of vitamin K-rich foods (green leafy vegetables, broccoli, cabbage, turnips, liver, tea) is kept limited and consistent.",
+      "explanations": [
+        "Oranges are high in vitamin C, not K.",
+        "Correct: broccoli is high in vitamin K.",
+        "Strawberries are high in vitamin C.",
+        "Rice is low in vitamin K."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q350 (PDF p. 518)",
+      "quote": "These foods include coffee or tea (caffeine), turnips, cabbage, broccoli, greens, fish, and liver."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Mang Ernesto, 68, has atrial fibrillation and is discharged on warfarin to prevent stroke.",
+      "stem": "The nurse tells Mang Ernesto to shave with an electric razor. Which reason BEST supports this instruction?",
+      "options": [
+        "Electric razors can be disinfected",
+        "Any cut will become infected",
+        "Cuts and bleeding must be avoided",
+        "Blades contain metals that react with warfarin"
+      ],
+      "answer": "C",
+      "rationale": "Anticoagulants increase the risk of bleeding, so clients are taught measures that prevent cuts, such as using an electric razor and a soft toothbrush.",
+      "explanations": [
+        "Not the main reason.",
+        "Not every cut becomes infected.",
+        "Correct: the goal is to prevent bleeding.",
+        "Not true."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q473 (PDF p. 657)",
+      "quote": "The importance of use of an electric razor is to prevent cuts and possible bleeding."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A client starting TB treatment under DOTS is prescribed rifampin. Which side effect should the nurse tell the client to expect?",
+      "options": [
+        "Green-colored urine",
+        "Yellowing of the eyes",
+        "Orange-colored body secretions",
+        "Clay-colored stools"
+      ],
+      "answer": "C",
+      "rationale": "Rifampin turns urine, sweat, and tears orange; soft contact lenses can be permanently stained. Rifampin is hepatotoxic, so yellow sclera would be a warning sign, not an expected effect.",
+      "explanations": [
+        "Not an effect of rifampin.",
+        "Jaundice suggests hepatotoxicity and must be reported.",
+        "Correct: an expected, harmless discoloration.",
+        "Not an expected effect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q353 (PDF p. 521)",
+      "quote": "Secretions will become orange in color as a result of the rifampin."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A client receiving cisplatin complains of ringing in the ears. The nurse recognizes this as:",
+      "options": [
+        "An expected sign that the drug is working",
+        "An adverse effect: ototoxicity",
+        "A sign of dehydration",
+        "An allergic reaction to the infusion"
+      ],
+      "answer": "B",
+      "rationale": "Cisplatin, a platinum compound, can cause ototoxicity with tinnitus and hearing loss. The nurse assesses hearing during therapy.",
+      "explanations": [
+        "Tinnitus is a toxic effect, not a sign of effectiveness.",
+        "Correct: cisplatin is ototoxic.",
+        "Not the cause of tinnitus here.",
+        "Not an allergic manifestation."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q366 (PDF p. 534)",
+      "quote": "An adverse effect related to the administration of cisplatin is ototoxicity with hearing loss."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "Mrs. Garcia, 55, has type 1 diabetes and is admitted for blood sugar control. She receives 8 units of regular insulin subcutaneously at 7:30 AM.",
+      "stem": "At what time should the nurse be MOST alert for hypoglycemia?",
+      "options": [
+        "9:30 to 11:30 AM",
+        "11:30 AM to 1:30 PM",
+        "1:30 to 3:30 PM",
+        "3:30 to 5:30 PM"
+      ],
+      "answer": "A",
+      "rationale": "Regular insulin starts working in about 30 minutes, peaks in 2 to 4 hours, and lasts 4 to 6 hours. Hypoglycemia is most likely at the peak: 9:30 to 11:30 AM.",
+      "explanations": [
+        "Correct: 2 to 4 hours after the dose.",
+        "Past the peak.",
+        "Near the end of its duration.",
+        "Beyond its duration of action."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q370 (PDF p. 538)",
+      "quote": "Its onset of action occurs in a half hour and peaks in 2 to 4 hours."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "Mrs. Garcia, 55, has type 1 diabetes and is admitted for blood sugar control. She receives 8 units of regular insulin subcutaneously at 7:30 AM.",
+      "stem": "Mrs. Garcia's blood glucose is 62 mg/dL. Which finding does the nurse expect?",
+      "options": [
+        "Hot, dry, flushed skin",
+        "Increased urine output",
+        "Fruity breath odor",
+        "Sweating, hunger, and nervousness"
+      ],
+      "answer": "D",
+      "rationale": "Hypoglycemia (below 70 mg/dL) causes hunger, sweating, weakness, nervousness, cool clammy skin, blurred vision, tachycardia, and palpitations. Polyuria is a sign of hyperglycemia.",
+      "explanations": [
+        "Hot, dry skin suggests hyperglycemia.",
+        "Polyuria suggests hyperglycemia.",
+        "Fruity breath suggests ketoacidosis.",
+        "Correct: adrenergic signs of hypoglycemia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q381 (PDF p. 550)",
+      "quote": "Clinical manifestations of hypoglycemia include hunger, sweating, weakness, nervousness, cool clammy skin"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "A client received atropine sulfate before surgery. Which effect should the nurse monitor for in the immediate postoperative period?",
+      "options": [
+        "Diarrhea",
+        "Bradycardia",
+        "Urinary retention",
+        "Excessive salivation"
+      ],
+      "answer": "C",
+      "rationale": "Atropine is an anticholinergic. It causes tachycardia, drowsiness, blurred vision, dry mouth, constipation, and urinary retention. It is contraindicated in glaucoma.",
+      "explanations": [
+        "It causes constipation.",
+        "It causes tachycardia.",
+        "Correct: an anticholinergic effect.",
+        "It causes dry mouth."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q377 (PDF p. 546)",
+      "quote": "Atropine sulfate is an anticholinergic medication that causes tachycardia, drowsiness, blurred vision, dry mouth, constipation, and urinary retention."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Flecainide is prescribed for a client with frequent runs of ventricular tachycardia. Which safety measure is MOST specific to this drug?",
+      "options": [
+        "Measuring urine output every hour",
+        "Doing neurologic checks every shift",
+        "Monitoring for new or worsening dysrhythmias",
+        "Checking the blood glucose before meals"
+      ],
+      "answer": "C",
+      "rationale": "Flecainide slows conduction and reduces excitability, but it can itself cause new or worse dysrhythmias (proarrhythmia). Cardiac rhythm monitoring is the key safety measure.",
+      "explanations": [
+        "Standard care, not specific to flecainide.",
+        "Not specific to flecainide.",
+        "Correct: flecainide can be proarrhythmic.",
+        "Unrelated to flecainide."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q399 (PDF p. 569)",
+      "quote": "the nurse must monitor for the development of a new or worsening dysrhythmia."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client is prescribed valproic acid 250 mg once daily for seizures. When is the SAFEST time to give it?",
+      "options": [
+        "Before breakfast",
+        "With breakfast",
+        "With lunch",
+        "At bedtime with a snack"
+      ],
+      "answer": "D",
+      "rationale": "Valproic acid depresses the CNS, causing sedation, dizziness, ataxia, and confusion. A single daily dose at bedtime reduces the risk of injury; a snack lessens GI upset.",
+      "explanations": [
+        "Daytime sedation increases the risk of falls.",
+        "Daytime sedation increases the risk of falls.",
+        "Daytime sedation increases the risk of falls.",
+        "Correct: bedtime dosing reduces injury risk."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q406 (PDF p. 580)",
+      "quote": "administering it at bedtime negates the risk of injury from sedation and enhances client safety."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Just before an IV dose of tobramycin, the client reports dizziness and ringing in the ears. What should the nurse do?",
+      "options": [
+        "Give the dose, then reassess",
+        "Check the client's pupils",
+        "Give an antiemetic with the dose",
+        "Hold the dose and notify the physician"
+      ],
+      "answer": "D",
+      "rationale": "Vertigo and tinnitus suggest eighth cranial nerve damage (ototoxicity), which can become permanent hearing loss. The dose is held and the prescriber notified.",
+      "explanations": [
+        "Giving the dose risks permanent hearing loss.",
+        "Pupils are unrelated to ototoxicity.",
+        "Treating the symptom ignores the toxicity.",
+        "Correct: hold the dose and report it."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q429 (PDF p. 607)",
+      "quote": "Ringing in the ears and vertigo are two symptoms that may indicate dysfunction of the eighth cranial nerve."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which safety measure must be in place before giving IV amiodarone for a life-threatening ventricular dysrhythmia?",
+      "options": [
+        "Continuous cardiac monitoring",
+        "Oxygen at 2 L/min",
+        "An indwelling urinary catheter",
+        "A pulse oximeter only"
+      ],
+      "answer": "A",
+      "rationale": "Amiodarone treats life-threatening ventricular dysrhythmias. The client must be on continuous cardiac monitoring, and the drug is given by infusion pump.",
+      "explanations": [
+        "Correct: rhythm monitoring is essential.",
+        "May be in place but is not specific to amiodarone.",
+        "Not required.",
+        "Oximetry alone does not monitor rhythm."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q430 (PDF p. 608)",
+      "quote": "The client should have continuous cardiac monitoring in place for safety"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "The nurse is about to inject IV hydralazine for a client in hypertensive crisis. Which item must be in place?",
+      "options": [
+        "A central venous catheter line",
+        "A blood pressure cuff at the bedside",
+        "An indwelling urinary catheter",
+        "A cooling blanket on the bed"
+      ],
+      "answer": "B",
+      "rationale": "Hydralazine lowers blood pressure quickly, so BP and pulse are monitored frequently after it is given. A peripheral IV is enough.",
+      "explanations": [
+        "A central line is not necessary.",
+        "Correct: frequent BP monitoring is required.",
+        "Not needed for this drug.",
+        "Unrelated to hydralazine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q436 (PDF p. 614)",
+      "quote": "The blood pressure and pulse should be monitored frequently after administration"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client's clonazepam dose for a seizure disorder is being adjusted. Which nursing measure is the PRIORITY?",
+      "options": [
+        "Weighing the client daily",
+        "Checking for bruising",
+        "Instituting seizure precautions",
+        "Monitoring blood glucose"
+      ],
+      "answer": "C",
+      "rationale": "During initial therapy and dose adjustments of an anticonvulsant, seizure control can change, so seizure precautions are instituted. Flumazenil reverses benzodiazepines.",
+      "explanations": [
+        "Clonazepam does not affect weight.",
+        "Clonazepam does not cause bleeding.",
+        "Correct: seizure risk changes during adjustment.",
+        "Clonazepam does not affect glucose."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q440 (PDF p. 620)",
+      "quote": "During initial therapy and periods of dosage adjustment, the nurse should initiate seizure precautions for the client."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Before giving oral pyridostigmine to a client with myasthenia gravis, what should the nurse check FIRST?",
+      "options": [
+        "The ability to swallow, using sips of water",
+        "Whether the client has voided",
+        "The client's apical pulse",
+        "The time of the last bowel movement"
+      ],
+      "answer": "A",
+      "rationale": "Myasthenia gravis can weaken the swallowing muscles. The first assessment is whether the client can safely take oral medications, such as by trying sips of water.",
+      "explanations": [
+        "Correct: impaired swallowing risks aspiration.",
+        "Not needed before this drug.",
+        "Not the priority check here.",
+        "Not relevant to safe administration."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q447 (PDF p. 627)",
+      "quote": "The primary assessment is to determine the client’s ability to handle oral medications or any oral substance."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client has taken metoclopramide for a long time. Which finding should the nurse report to the physician IMMEDIATELY?",
+      "options": [
+        "Dry mouth on waking up",
+        "Mild anxiety and irritability",
+        "Drowsiness during the day",
+        "Rhythmic movements of the face"
+      ],
+      "answer": "D",
+      "rationale": "Uncontrolled rhythmic movements of the face or limbs suggest tardive dyskinesia, which may be irreversible. The drug is stopped and the prescriber notified.",
+      "explanations": [
+        "A mild side effect.",
+        "A mild side effect.",
+        "A common, mild side effect.",
+        "Correct: possible tardive dyskinesia."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q451 (PDF p. 631)",
+      "quote": "If the client experiences tardive dyskinesia (rhythmic movements of the face or limbs), the nurse should call the primary health care provider"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client on a heparin infusion after a myocardial infarction has an aPTT of 100 seconds. Before reporting it, which drug should the nurse make sure is available?",
+      "options": [
+        "Vitamin K",
+        "Protamine sulfate",
+        "Methylergonovine",
+        "Fresh frozen plasma"
+      ],
+      "answer": "B",
+      "rationale": "An aPTT of 100 seconds exceeds the therapeutic range (about 60 to 70 seconds) and means a risk of bleeding. Protamine sulfate is the antidote for heparin.",
+      "explanations": [
+        "Vitamin K reverses warfarin.",
+        "Correct: the antidote for heparin.",
+        "Methylergonovine is an oxytocic drug.",
+        "FFP is used for warfarin-related bleeding."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q590 (PDF p. 798)",
+      "quote": "The antidote for heparin overdosage is protamine sulfate and may be prescribed."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Methylergonovine is prescribed for a postpartum client. Which finding should make the nurse verify the order with the physician?",
+      "options": [
+        "Blood pressure of 160/100 mm Hg",
+        "Heavy lochia rubra",
+        "A boggy, hard-to-locate fundus",
+        "Continuous trickle of bright red blood"
+      ],
+      "answer": "A",
+      "rationale": "Methylergonovine treats uterine atony but is contraindicated in hypertension. Heavy lochia and a boggy fundus are the very signs it treats.",
+      "explanations": [
+        "Correct: hypertension is a contraindication.",
+        "A sign of atony that the drug treats.",
+        "A sign of atony that the drug treats.",
+        "Bleeding from atony is an indication for the drug."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q505 (PDF p. 700)",
+      "quote": "It is contraindicated for the hypertensive woman, individuals with severe hepatic or renal disease, and during the third stage of labor."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which instruction should the nurse give a postoperative client using a patient-controlled analgesia (PCA) pump?",
+      "options": [
+        "'Push the button before the pain becomes severe.'",
+        "'Ask your family to press it while you sleep.'",
+        "'Wait until the pain is unbearable to press it.'",
+        "'Press it every few minutes even without pain.'"
+      ],
+      "answer": "A",
+      "rationale": "The client presses the button before pain becomes too great and reports nausea, vomiting, inability to void, and breakthrough pain. Only the client should press the button.",
+      "explanations": [
+        "Correct: early dosing keeps pain under control.",
+        "Others pressing the button risks overdose.",
+        "Severe pain is harder to control.",
+        "Unneeded doses risk oversedation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q515 (PDF p. 710)",
+      "quote": "The client needs to be instructed to push the button before the pain becomes too great."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "IV foscarnet is prescribed for CMV retinitis in a client with AIDS. What should the nurse do before giving it?",
+      "options": [
+        "Obtain a sputum culture",
+        "Prepare folic acid as an antidote",
+        "Run it on a controlled infusion device",
+        "Give it as a rapid IV push"
+      ],
+      "answer": "C",
+      "rationale": "Foscarnet is potentially toxic, especially to the kidneys, so it is given with a controlled infusion device and serum creatinine is checked often.",
+      "explanations": [
+        "Not needed for this drug.",
+        "Folic acid is not an antidote for foscarnet.",
+        "Correct: controlled infusion for a toxic drug.",
+        "A rapid push increases toxicity."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q548 (PDF p. 749)",
+      "quote": "Because of the potential toxicity of the medication, it is administered with the use of a controlled infusion device."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with Parkinson's disease recently started on levodopa is about to walk. What is MOST important to assess first?",
+      "options": [
+        "The history of falls",
+        "Assistive devices used",
+        "Postural (orthostatic) vital signs",
+        "Muscle strength of the arms"
+      ],
+      "answer": "C",
+      "rationale": "Parkinson's disease causes orthostatic hypotension, and levodopa makes it worse. Checking postural vital signs before walking the client prevents falls.",
+      "explanations": [
+        "Helpful, but not the most important here.",
+        "Helpful, but not the most important here.",
+        "Correct: levodopa adds to orthostatic hypotension.",
+        "Not the priority before ambulating."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q592 (PDF p. 800)",
+      "quote": "This problem is exacerbated with the introduction of levodopa, which can also cause postural hypotension."
+    }
+  ]
+}

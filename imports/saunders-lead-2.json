@@ -1,0 +1,137 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP V", "topic": "Acute Biologic Crisis & Emergency Care", "situation": "",
+      "stem": "Which behavior in a disaster survivor suggests post-traumatic stress disorder?",
+      "options": ["Regression only", "Talking calmly about the event", "Flashbacks of the disaster", "Rationalizing why it happened"],
+      "answer": "C",
+      "rationale": "PTSD is a sustained maladaptive response to trauma: flashbacks, recurrent dreams, irritability, sleep problems, detachment from others, and repressed memories.",
+      "explanations": ["Not a defining sign.", "Not a sign.", "Correct: intrusive recollections.", "Not a sign."],
+      "difficulty": "Easy", "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q664 (PDF p. 883)",
+      "quote": "the client experiences recurrent and intrusive recollections of the event (flashbacks), has recurrent dreams of the event"
+    },
+    {
+      "subject": "NP I", "topic": "Integrated: Professional Practice, Ethics & Law", "situation": "",
+      "stem": "A dying client asks, 'Will you be the executor of my will?' What is the BEST reply?",
+      "options": ["'I must decline; I'm your nurse.'", "'I'll carry out your wishes.'", "'It's an honor to be named.'", "'Tell me more about your thinking.'"],
+      "answer": "D",
+      "rationale": "The question does not show why the client is asking. Seeking clarification acknowledges the request and keeps communication open.",
+      "explanations": ["Closes communication.", "Inappropriate role.", "Inappropriate role.", "Correct: clarifies."],
+      "difficulty": "Moderate", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q832 (PDF p. 1068)",
+      "quote": "In option 4, the nurse seeks clarification while acknowledging the client"
+    },
+    {
+      "subject": "NP V", "topic": "Collaboration & Teamwork", "situation": "",
+      "stem": "A charge nurse hears a nursing attendant shouting at a client with delirium. What is the PRIORITY action?",
+      "options": ["Tell the client all is well", "Correct the attendant in the room", "Ensure safety, then talk privately", "Report it the next day"],
+      "answer": "C",
+      "rationale": "The nurse first makes sure the client is safe, then talks to the attendant away from the client, who could become more confused or agitated.",
+      "explanations": ["Ignores the problem.", "Agitates the client.", "Correct: safety then private talk.", "Too late."],
+      "difficulty": "Easy", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q891 (PDF p. 1133)",
+      "quote": "The nurse must ascertain that the client is safe and then discuss the matter with the UAP in an area away from the hearing of the client."
+    },
+    {
+      "subject": "NP IV", "topic": "Reporting & Recording", "situation": "",
+      "stem": "Which student statement on correcting a written chart error is CORRECT?",
+      "options": ["'Write it as a late entry.'", "'Draw a line, initial, and date.'", "'Use correction tape.'", "'Rewrite the whole page.'"],
+      "answer": "B",
+      "rationale": "Per agency policy, the nurse draws one line through the error, initials and dates it, then writes the correct information. Late entries are for omitted information.",
+      "explanations": ["For omissions.", "Correct: the procedure.", "Never used.", "Not done."],
+      "difficulty": "Easy", "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1037 (PDF p. 1311)",
+      "quote": "Agency policy usually includes drawing one line through the error, initialing and dating the line, and then providing the correct information."
+    },
+    {
+      "subject": "NP IV", "topic": "Reporting & Recording", "situation": "",
+      "stem": "The nurse finds a client on the floor beside the bed. How should the incident report describe it?",
+      "options": ["'Client fell out of bed.'", "'Client fell over the rails.'", "'Client found on floor by bed.'", "'Restless client fell.'"],
+      "answer": "C",
+      "rationale": "An incident report gives a factual description of what the nurse observed. The nurse did not see a fall, so only the finding is recorded.",
+      "explanations": ["An assumption.", "An assumption.", "Correct: facts observed.", "An assumption."],
+      "difficulty": "Easy", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1038 (PDF p. 1312)",
+      "quote": "The correct option is the only option that describes the facts as observed by the nurse."
+    },
+    {
+      "subject": "NP II", "topic": "Child Care: Legal, Collaboration & Teamwork", "situation": "",
+      "stem": "The nurse finds a child's genitals swollen and suspects sexual abuse. What is of PRIMARY importance?",
+      "options": ["Document the findings", "Report the suspected abuse", "Refer the family", "Talk to the parents"],
+      "answer": "B",
+      "rationale": "The nurse's primary legal duty when abuse is suspected is to report it. In the Philippines, RA 7610 requires health workers to report suspected child abuse. Documenting and referring follow.",
+      "explanations": ["Done, but not primary.", "Correct: the legal duty.", "Done later.", "Not primary."],
+      "difficulty": "Easy", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1192 (PDF p. 1484)",
+      "quote": "The primary legal responsibility of the nurse when child abuse is suspected is to report the case."
+    },
+    {
+      "subject": "NP III", "topic": "Cellular Aberrations", "situation": "",
+      "stem": "A chemotherapy dose seems too high, and the prescriber is away for days. What should the nurse do NEXT?",
+      "options": ["Reschedule the chemo", "Wait for the partner's rounds", "Call the on-call doctor", "Let the pharmacist lower it"],
+      "answer": "C",
+      "rationale": "If an order seems wrong, the nurse clarifies it with the prescriber or a substitute before giving it. A pharmacist cannot change the dose.",
+      "explanations": ["Delays care.", "Delays care.", "Correct: clarifies with a substitute.", "Outside the pharmacist's scope."],
+      "difficulty": "Moderate", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1401 (PDF p. 1705)",
+      "quote": "the nurse must clarify the dosage with the client’s primary health care provider or the primary health care provider’s substitute before administering the medication."
+    },
+    {
+      "subject": "NP IV", "topic": "Collaboration & Teamwork", "situation": "",
+      "stem": "Coworkers resist a nurse's plan for a restraint-free unit. What helps her MOST as a change agent?",
+      "options": ["Point out their mistakes", "Ask the supervisor to enforce it", "Write a new policy alone", "Gather data with coworkers"],
+      "answer": "D",
+      "rationale": "Change is more likely when the nurse works with others to solve shared problems than when she demands change alone.",
+      "explanations": ["Creates resistance.", "Imposes change.", "Unilateral.", "Correct: collaborative."],
+      "difficulty": "Easy", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1402 (PDF p. 1707)",
+      "quote": "To be an effective change agent, the nurse must work collaboratively with others to solve common problems."
+    },
+    {
+      "subject": "NP V", "topic": "Therapeutic Communication", "situation": "",
+      "stem": "A withdrawn client with end-stage heart failure won't join care. Which staff statement shows a need for MORE teaching?",
+      "options": ["'You're very quiet today.'", "'What are you feeling now?'", "'Why don't you get up?'", "'Tell me about your sleep.'"],
+      "answer": "C",
+      "rationale": "A 'why' question asks for an explanation the client may not have, so it is nontherapeutic. The others acknowledge, explore feelings, or invite elaboration.",
+      "explanations": ["Therapeutic.", "Therapeutic.", "Correct answer: a 'why' question.", "Therapeutic."],
+      "difficulty": "Easy", "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1418 (PDF p. 1724)",
+      "quote": "Requesting an explanation is a nontherapeutic communication technique."
+    },
+    {
+      "subject": "NP IV", "topic": "Collaboration & Teamwork", "situation": "",
+      "stem": "Which rehab client's needs can a nursing attendant MOST safely meet?",
+      "options": ["Bed rest, 24-hour urine", "Transfer for angiography", "New admission to assess", "Needs insulin teaching"],
+      "answer": "A",
+      "rationale": "Nursing attendants are trained to care for clients on bed rest and to maintain 24-hour urine collections, with instructions from the nurse.",
+      "explanations": ["Correct: within training.", "Needs a nurse.", "Needs a nurse.", "Needs a nurse."],
+      "difficulty": "Easy", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1449 (PDF p. 1758)",
+      "quote": "Unlicensed assistive personnel are trained to care for the client on bed rest and to maintain 24-hour urine collections."
+    },
+    {
+      "subject": "NP IV", "topic": "Collaboration & Teamwork", "situation": "",
+      "stem": "Which client should the nurse care for FIRST?",
+      "options": ["Wound infection, temp 38°C", "DVT with bleeding gums", "New arm cast, numb fingers", "Stable post-op day 2"],
+      "answer": "C",
+      "rationale": "Numb fingers under a new cast may mean compartment syndrome, an emergency. Nerve and muscle damage start within 4 to 6 hours.",
+      "explanations": ["Not first.", "Next priority.", "Correct: possible compartment syndrome.", "Stable."],
+      "difficulty": "Moderate", "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1539 (PDF p. 1850)",
+      "quote": "The client with a cast who experiences numbness in the fingers should be seen first because this could be a symptom of compartment syndrome."
+    },
+    {
+      "subject": "NP IV", "topic": "Collaboration & Teamwork", "situation": "",
+      "stem": "Which client can be delegated to a nursing attendant?",
+      "options": ["Needs spirometer teaching", "Needs a clean-catch urine", "Needs a dressing reinforced", "Needs a new assessment"],
+      "answer": "B",
+      "rationale": "Attendants are trained to collect specimens such as clean-catch urine. Teaching, dressing care, and assessment need a nurse.",
+      "explanations": ["Teaching is a nurse's job.", "Correct: within training.", "Needs a nurse.", "Needs a nurse."],
+      "difficulty": "Easy", "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1549 (PDF p. 1862)",
+      "quote": "The UAP can assist with specimen collection such as a clean catch urine because he or she is trained in this skill."
+    }
+  ]
+}

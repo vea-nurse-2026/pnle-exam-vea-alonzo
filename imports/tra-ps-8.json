@@ -1,0 +1,485 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "Why must barbiturate withdrawal be done by tapering?",
+      "options": [
+        "To prevent seizures and death",
+        "To increase euphoria",
+        "To shorten hospital stay",
+        "To avoid constipation"
+      ],
+      "answer": "A",
+      "rationale": "Abrupt barbiturate cessation can cause seizures and death; doses are tapered over days.",
+      "explanations": [
+        "Correct.",
+        "Not purpose.",
+        "Not purpose.",
+        "Not purpose."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Sedative Detoxification (PDF p. 276)",
+      "quote": "Tapering, or administering decreasing doses of a medication, is essential with barbiturates"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A client with dilated pupils, tachycardia, hypertension, and hyperactivity most likely used:",
+      "options": [
+        "Cocaine",
+        "Heroin",
+        "Alcohol",
+        "Diazepam"
+      ],
+      "answer": "A",
+      "rationale": "Stimulants cause euphoria, hypervigilance, dilated pupils, tachycardia, and hypertension.",
+      "explanations": [
+        "Correct.",
+        "Constricted pupils.",
+        "Depressant.",
+        "Depressant."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Stimulants (PDF p. 277)",
+      "quote": "Dilated pupils, perspiration or chills"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "During stimulant 'crash' withdrawal, the nurse should closely monitor for:",
+      "options": [
+        "Suicidal ideation",
+        "Seizures from DTs",
+        "Respiratory depression",
+        "Hyperthermia"
+      ],
+      "answer": "A",
+      "rationale": "Stimulant withdrawal causes marked dysphoria, fatigue, and depression with suicidal ideation.",
+      "explanations": [
+        "Correct.",
+        "Alcohol.",
+        "Opioids.",
+        "Not typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Stimulant Withdrawal (PDF p. 277)",
+      "quote": "The person may experience depressive symptoms including suicidal ideation for several days."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Bloodshot eyes, dry mouth, increased appetite, and inappropriate laughter suggest use of:",
+      "options": [
+        "Cannabis",
+        "Cocaine",
+        "Heroin",
+        "Inhalants"
+      ],
+      "answer": "A",
+      "rationale": "Cannabis causes conjunctival injection, dry mouth, increased appetite, and time distortion.",
+      "explanations": [
+        "Correct.",
+        "Stimulant.",
+        "Opioid.",
+        "Dizziness."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cannabis (PDF p. 277)",
+      "quote": "Conjunctive injection (bloodshot eyes)"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "An unconscious client has pinpoint pupils and RR 6/min. Which drug should the nurse prepare?",
+      "options": [
+        "Naloxone",
+        "Flumazenil",
+        "Disulfiram",
+        "Chlorpromazine"
+      ],
+      "answer": "A",
+      "rationale": "Naloxone, an opioid antagonist, reverses opioid intoxication; repeat doses may be needed.",
+      "explanations": [
+        "Correct.",
+        "Benzodiazepines.",
+        "Alcohol.",
+        "Antipsychotic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Opioids (PDF p. 278)",
+      "quote": "Is the treatment of choice because it reverses all signs of opioid intoxication."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Yawning, rhinorrhea, lacrimation, and diarrhea indicate withdrawal from:",
+      "options": [
+        "Opioids",
+        "Cannabis",
+        "Hallucinogens",
+        "Inhalants"
+      ],
+      "answer": "A",
+      "rationale": "Opioid withdrawal: lacrimation, rhinorrhea, yawning, sweating, diarrhea, aches, and craving.",
+      "explanations": [
+        "Correct.",
+        "No withdrawal.",
+        "No withdrawal.",
+        "No withdrawal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Opioid Withdrawal (PDF p. 278)",
+      "quote": "Rhinorrhea"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "What is the role of methadone in heroin dependence?",
+      "options": [
+        "Replaces heroin without craving",
+        "Causes vomiting with heroin",
+        "Reverses overdose",
+        "Treats hallucinations"
+      ],
+      "answer": "A",
+      "rationale": "Methadone meets the physical need for opiates without producing craving for more.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Naloxone.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Opiates Management (PDF p. 281)",
+      "quote": "Meets the physical need for opiates but does not produce cravings for more"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which drug blocks the effects of any opioid later taken?",
+      "options": [
+        "Naltrexone",
+        "Methadone",
+        "Morphine",
+        "Ondansetron"
+      ],
+      "answer": "A",
+      "rationale": "Naltrexone is an opioid antagonist that blocks the effects of ingested opioids.",
+      "explanations": [
+        "Correct.",
+        "Agonist.",
+        "Agonist.",
+        "Antiemetic."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Opiates Management (PDF p. 281)",
+      "quote": "It blocks the effects of any opioids that might be ingested"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Clonidine is given in opioid withdrawal mainly to relieve:",
+      "options": [
+        "Nausea, vomiting, and diarrhea",
+        "Craving for heroin",
+        "Respiratory depression",
+        "Hallucinations"
+      ],
+      "answer": "A",
+      "rationale": "Clonidine suppresses autonomic withdrawal effects, most effective against nausea, vomiting, and diarrhea.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Opiates Management (PDF p. 281)",
+      "quote": "It is most effective against nausea, vomiting, and diarrhea"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "How is a psychotic reaction to a hallucinogen best managed?",
+      "options": [
+        "Isolate from external stimuli",
+        "Group therapy",
+        "Bright, busy room",
+        "Give stimulants"
+      ],
+      "answer": "A",
+      "rationale": "Treatment is supportive; psychotic reactions are managed best by isolation from stimuli.",
+      "explanations": [
+        "Correct.",
+        "Not now.",
+        "Worsens.",
+        "Contraindicated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Hallucinogens (PDF p. 279)",
+      "quote": "Psychotic reactions are managed best byisolationfrom external stimuli"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Transient recurrence of perceptual disturbances weeks after LSD use is called:",
+      "options": [
+        "Flashback",
+        "Blackout",
+        "Tolerance",
+        "Withdrawal"
+      ],
+      "answer": "A",
+      "rationale": "Hallucinogens can produce flashbacks, transient recurrences of perceptual disturbances.",
+      "explanations": [
+        "Correct.",
+        "Alcohol.",
+        "Dose need.",
+        "None for LSD."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Hallucinogens (PDF p. 279)",
+      "quote": "Hallucinogens can produce flashbacks"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A teenager is found sniffing rugby glue and is drowsy. What is the treatment?",
+      "options": [
+        "Supportive ABC care",
+        "Specific antidote",
+        "Naloxone IV push",
+        "Induced vomiting"
+      ],
+      "answer": "A",
+      "rationale": "No antidote exists for inhalants; support respiratory and cardiac function.",
+      "explanations": [
+        "Correct.",
+        "None exists.",
+        "Opioids.",
+        "Aspiration risk."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Inhalants (PDF p. 280)",
+      "quote": "There are no antidotes or specific medications to treat inhalants toxicity."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "The teenage child of an alcoholic father should be referred to:",
+      "options": [
+        "Alateen",
+        "Alcoholics Anonymous",
+        "Narcotics Anonymous",
+        "Al-Anon"
+      ],
+      "answer": "A",
+      "rationale": "Alateen is for children of parents with substance problems; Al-Anon is for spouses and friends.",
+      "explanations": [
+        "Correct.",
+        "Alcoholics.",
+        "Drug users.",
+        "Adults."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, AA Groups (PDF p. 280)",
+      "quote": "AlaTeen- A group for children of parents with substance problems."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Alcoholics Anonymous is based on which philosophy?",
+      "options": [
+        "Total abstinence",
+        "Controlled drinking",
+        "Weekend drinking",
+        "Medication alone"
+      ],
+      "answer": "A",
+      "rationale": "AA's 12-step program holds that total abstinence is essential, with peer support.",
+      "explanations": [
+        "Correct.",
+        "Not AA.",
+        "Not AA.",
+        "Not AA."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Alcoholics Anonymous (PDF p. 280)",
+      "quote": "total abstinence is essential"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which vitamin is given to prevent Wernicke's syndrome in alcoholism?",
+      "options": [
+        "Thiamine (B1)",
+        "Vitamin C",
+        "Vitamin K",
+        "Vitamin D"
+      ],
+      "answer": "A",
+      "rationale": "Thiamine prevents or treats Wernicke's and Korsakoff's syndromes.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Alert: Alcohol (PDF p. 280)",
+      "quote": "VitaminB1 (thiamine) often is prescribed"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which is a realistic goal for a client recovering from alcohol dependence?",
+      "options": [
+        "Staying sober today",
+        "Never feeling cravings",
+        "Drinking only socially",
+        "Stopping AA in 1 week"
+      ],
+      "answer": "A",
+      "rationale": "Set realistic, here-and-now goals such as staying sober today.",
+      "explanations": [
+        "Correct.",
+        "Unrealistic.",
+        "Not abstinence.",
+        "Unrealistic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Substance Abuse Interventions (PDF p. 281)",
+      "quote": "Set realistic goals such as staying sober today"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client is found in another city with a new name and no memory of her past. This is:",
+      "options": [
+        "Dissociative fugue",
+        "Dissociative amnesia",
+        "Depersonalization",
+        "Conversion disorder"
+      ],
+      "answer": "A",
+      "rationale": "Fugue: sudden travel away from home, inability to recall the past, possibly a new identity.",
+      "explanations": [
+        "Correct.",
+        "No travel.",
+        "Detached feeling.",
+        "Physical deficit."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Dissociative Disorders (PDF p. 281)",
+      "quote": "He or she may assume a new identity"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Dissociative identity disorder was formerly called:",
+      "options": [
+        "Multiple personality disorder",
+        "Schizophrenia",
+        "Borderline disorder",
+        "Conversion reaction"
+      ],
+      "answer": "A",
+      "rationale": "DID: two or more distinct identities that take control of behavior.",
+      "explanations": [
+        "Correct.",
+        "Different.",
+        "Different.",
+        "Different."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Dissociative Disorders (PDF p. 281)",
+      "quote": "Formerly multiple personality disorder"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client feels detached from her own body but knows it is not real. This is:",
+      "options": [
+        "Depersonalization disorder",
+        "Psychosis",
+        "Dissociative fugue",
+        "Hypochondriasis"
+      ],
+      "answer": "A",
+      "rationale": "Depersonalization: feeling detached from oneself with intact reality testing.",
+      "explanations": [
+        "Correct.",
+        "Reality lost.",
+        "Travel.",
+        "Disease fear."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Dissociative Disorders (PDF p. 282)",
+      "quote": "Thisis accompanied by intact reality testing"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client with a dissociative disorder begins a flashback. Which intervention helps?",
+      "options": [
+        "Grounding techniques",
+        "Leave her alone",
+        "Probe trauma details",
+        "Restrain at once"
+      ],
+      "answer": "A",
+      "rationale": "Grounding techniques remind the client she is in the present, an adult, and safe.",
+      "explanations": [
+        "Correct.",
+        "Unsafe.",
+        "Worsens.",
+        "Not first."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Dissociative Disorders Management (PDF p. 282)",
+      "quote": "Grounding techniques remind the client that he or she is in the present"
+    }
+  ]
+}

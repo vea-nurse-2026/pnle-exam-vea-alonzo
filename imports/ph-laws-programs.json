@@ -1,0 +1,941 @@
+{
+  "source": "Philippine laws (lawphil.net / lawyerly.ph) and DOH program references",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Under RA 9173 (Philippine Nursing Act of 2002), which activity is within the scope of nursing practice?",
+      "options": [
+        "Prescribing antibiotics for pneumonia",
+        "Providing health education to families and communities",
+        "Performing minor surgical procedures independently",
+        "Dispensing prescription medicines without an order"
+      ],
+      "answer": "B",
+      "rationale": "Sec. 28 lists the nurse's duties: nursing care through the nursing process, linkages with community resources, health education to individuals, families and communities, teaching nursing students, and training and research.",
+      "explanations": [
+        "Prescribing is outside the nurse's legal scope.",
+        "Correct: health education is listed in Sec. 28.",
+        "Surgery is a medical function.",
+        "Dispensing prescription drugs without an order is not a nursing function."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "RA 9173, Sec. 28 (lawphil.net)",
+      "quote": "Provide health education to individuals, families and communities;"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Under RA 9173, how many members, including the Chairperson, compose the Professional Regulatory Board of Nursing?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Nine"
+      ],
+      "answer": "C",
+      "rationale": "The Board is composed of a Chairperson and six members, seven in all.",
+      "explanations": [
+        "Too few.",
+        "Six is the number of members besides the Chairperson.",
+        "Correct: a Chairperson plus six members.",
+        "Too many."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "RA 9173, Sec. 3 (lawphil.net)",
+      "quote": "to be composed of a Chairperson and six (6) members."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A nurse wants to be appointed to the Board of Nursing. Under RA 9173, how many years of continuous nursing practice must the nurse have before appointment?",
+      "options": [
+        "At least 5 years",
+        "At least 7 years",
+        "At least 15 years",
+        "At least 10 years"
+      ],
+      "answer": "D",
+      "rationale": "A Board member must have at least 10 years of continuous practice before appointment, the last 5 of them in the Philippines.",
+      "explanations": [
+        "Five years refers to the most recent practice that must be in the Philippines.",
+        "Not the requirement.",
+        "More than the law requires.",
+        "Correct: at least 10 years of continuous practice."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "RA 9173, Sec. 4 (lawphil.net)",
+      "quote": "Have at least ten (10) years of continuous practice of the profession prior to appointment."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Under RA 9173, what is the longest period for which a nurse's certificate of registration may be suspended?",
+      "options": [
+        "4 years",
+        "1 year",
+        "2 years",
+        "6 years"
+      ],
+      "answer": "A",
+      "rationale": "The Board may revoke or suspend a license, and a suspension cannot exceed four years.",
+      "explanations": [
+        "Correct: suspension shall not exceed 4 years.",
+        "Shorter than the maximum.",
+        "Shorter than the maximum.",
+        "Six years is the maximum prison term under the penal provision, not the suspension period."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Remembering",
+      "source": "RA 9173, Sec. 23 (lawphil.net)",
+      "quote": "shall be for a period not to exceed four (4) years."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which penalty does RA 9173 set for a violation of the Act?",
+      "options": [
+        "A fine of P10,000 to P20,000 with no imprisonment",
+        "Imprisonment of 6 months to 1 year with no fine",
+        "A fine of P50,000 to P100,000, 1 to 6 years in prison, or both",
+        "Permanent revocation of the license with no fine"
+      ],
+      "answer": "C",
+      "rationale": "Violators face a fine of not less than P50,000 nor more than P100,000, imprisonment of 1 to 6 years, or both, at the discretion of the court.",
+      "explanations": [
+        "The fine is much higher.",
+        "The prison term is 1 to 6 years.",
+        "Correct: this is the penal provision of RA 9173.",
+        "Revocation is an administrative sanction, not the penal provision."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Remembering",
+      "source": "RA 9173, Sec. 35 (lawphil.net)",
+      "quote": "not less than Fifty thousand pesos (P50,000.00) nor more than One hundred thousand pesos (P100,000.00)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Under RA 9173, a chief nurse or director of nursing service must have at least how many years of experience in a supervisory or managerial position in nursing?",
+      "options": [
+        "2 years",
+        "5 years",
+        "3 years",
+        "10 years"
+      ],
+      "answer": "B",
+      "rationale": "Nursing service administrators need at least 2 years of experience in general nursing service administration; a chief nurse or director of nursing service needs at least 5 years in a supervisory or managerial position.",
+      "explanations": [
+        "Two years is for nursing service administrators in general.",
+        "Correct: 5 years in a supervisory or managerial position.",
+        "Not the requirement.",
+        "Ten years is the Board member requirement."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Remembering",
+      "source": "RA 9173, Sec. 29 (lawphil.net)",
+      "quote": "at least five (5) years of experience in a supervisory or managerial position in nursing."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Under the Universal Health Care Act (RA 11223), who is covered by the National Health Insurance Program?",
+      "options": [
+        "Only employed Filipinos who pay premiums",
+        "Only indigent families listed by the DSWD",
+        "Every Filipino citizen, automatically",
+        "Only senior citizens and persons with disability"
+      ],
+      "answer": "C",
+      "rationale": "RA 11223 automatically includes every Filipino citizen in the NHIP.",
+      "explanations": [
+        "Coverage is not limited to paying members.",
+        "Coverage is not limited to indigents.",
+        "Correct: inclusion is automatic for every citizen.",
+        "These are only some of the groups covered."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "RA 11223, Sec. 5 (lawphil.net)",
+      "quote": "Every Filipino citizen shall be automatically included into the NHIP"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Under RA 11223, members of the National Health Insurance Program are classified into which two types?",
+      "options": [
+        "Direct and indirect contributors",
+        "Formal and informal members",
+        "Principal and dependent members",
+        "Regular and sponsored members"
+      ],
+      "answer": "A",
+      "rationale": "Membership has two types. Direct contributors can pay premiums or are gainfully employed; indirect contributors are all others.",
+      "explanations": [
+        "Correct: the two membership types under UHC.",
+        "Not the UHC classification.",
+        "Dependents are covered, but this is not the membership classification.",
+        "Not the UHC classification."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "RA 11223, Sec. 8 (lawphil.net)",
+      "quote": "two (2) types, direct contributors and indirect contributors"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Under UHC, a client without an emergency wants to go straight to a tertiary hospital specialist. Who should coordinate the client's access to that higher level of care?",
+      "options": [
+        "The barangay captain",
+        "The PhilHealth regional office",
+        "The client's primary care provider",
+        "The specialist the client chooses"
+      ],
+      "answer": "C",
+      "rationale": "The primary care provider is the navigator, coordinator, and initial and continuing point of contact. Except in emergency or serious cases, access to higher levels of care is coordinated by the primary care provider.",
+      "explanations": [
+        "The barangay captain does not manage clinical referrals.",
+        "PhilHealth pays for care but does not coordinate referrals.",
+        "Correct: the primary care provider acts as gatekeeper and navigator.",
+        "Self-referral bypasses the referral system."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "RA 11223, Sec. 6(c) (lawphil.net)",
+      "quote": "access to higher levels of care shall be coordinated by the primary care provider"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Under RA 11223, which is an example of a POPULATION-BASED health service?",
+      "options": [
+        "Consultation for a child with fever",
+        "Dengue vector control in a barangay",
+        "Prenatal checkup of a pregnant woman",
+        "Teleconsultation for a client with diabetes"
+      ],
+      "answer": "B",
+      "rationale": "Population-based services such as health promotion, disease surveillance, and vector control target whole communities. Individual-based services are given to one person at a facility or remotely.",
+      "explanations": [
+        "This is an individual-based service.",
+        "Correct: vector control serves the whole population.",
+        "This is an individual-based service.",
+        "Remote care for one person is individual-based."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "RA 11223, Sec. 4(q) (lawphil.net)",
+      "quote": "interventions such as health promotion, disease surveillance, and vector control"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "RA 11223 describes primary care as initial-contact care that is also:",
+      "options": [
+        "Specialized, hospital-based, and episodic",
+        "Free only for indigent families",
+        "Limited to the treatment of illness",
+        "Accessible, continuous, comprehensive, and coordinated"
+      ],
+      "answer": "D",
+      "rationale": "Primary care is initial-contact, accessible, continuous, comprehensive, and coordinated care that is available when needed.",
+      "explanations": [
+        "This describes tertiary care.",
+        "Primary care is for every Filipino.",
+        "Primary care also covers promotion and prevention.",
+        "Correct: these are the features named in the law."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "RA 11223, Sec. 4(r) (lawphil.net)",
+      "quote": "initial-contact, accessible, continuous, comprehensive and coordinated care"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Nurse Lea is in charge of the immunization program at a rural health unit. A mother brings her healthy baby, born 6 weeks ago, for the first visit since birth. The baby received BCG and the hepatitis B birth dose.",
+      "stem": "Which vaccines should the baby receive today under the routine schedule?",
+      "options": [
+        "Pentavalent, OPV, and PCV first doses",
+        "MMR and IPV first doses",
+        "BCG booster and hepatitis B second dose",
+        "IPV and measles-containing vaccine"
+      ],
+      "answer": "A",
+      "rationale": "Pentavalent (DPT-HepB-Hib), OPV, and PCV are each given at 6, 10, and 14 weeks. IPV is given at 14 weeks, and the measles-containing vaccine at 9 months and 1 year.",
+      "explanations": [
+        "Correct: the 6-week vaccines.",
+        "MMR is given at 9 months and 1 year; IPV at 14 weeks.",
+        "BCG has no booster in the routine schedule.",
+        "IPV is given at 14 weeks."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "PIDS, Philippine EPI vaccination schedule (pidswebs.pids.gov.ph, 2020)",
+      "quote": "Pentavalent vaccine (DPT-HepB -HiB) Diphtheria, tetanus and pertussis 3 6 weeks, 10 weeks, 14 weeks"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Nurse Lea is in charge of the immunization program at a rural health unit. A mother brings her healthy baby, born 6 weeks ago, for the first visit since birth. The baby received BCG and the hepatitis B birth dose.",
+      "stem": "The mother asks which diseases the pentavalent vaccine protects against. Nurse Lea answers:",
+      "options": [
+        "Measles, mumps, rubella, varicella, and polio",
+        "Tuberculosis, polio, measles, hepatitis B, and pneumonia",
+        "Diphtheria, tetanus, pertussis, hepatitis B, and Hib",
+        "Rotavirus, pneumococcus, measles, polio, and tetanus"
+      ],
+      "answer": "C",
+      "rationale": "The pentavalent vaccine combines DPT, hepatitis B, and Haemophilus influenzae type B.",
+      "explanations": [
+        "These are covered by MMR, varicella, and polio vaccines.",
+        "Tuberculosis is covered by BCG, measles by MCV.",
+        "Correct: DPT + HepB + Hib.",
+        "These are covered by separate vaccines."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "PIDS, Philippine EPI vaccination schedule (pidswebs.pids.gov.ph, 2020)",
+      "quote": "Pentavalent vaccine (DPT-HepB -HiB)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Nurse Lea is in charge of the immunization program at a rural health unit. A mother brings her healthy baby, born 6 weeks ago, for the first visit since birth. The baby received BCG and the hepatitis B birth dose.",
+      "stem": "At which ages will the baby receive the two doses of measles-containing vaccine?",
+      "options": [
+        "6 weeks and 14 weeks",
+        "6 months and 9 months",
+        "1 year and 18 months",
+        "9 months and 1 year"
+      ],
+      "answer": "D",
+      "rationale": "The measles-containing vaccine (MCV/MMR) is given in two doses, at 9 months and at 1 year.",
+      "explanations": [
+        "These are pentavalent, OPV, and PCV ages.",
+        "Six months is too early in the routine schedule.",
+        "The doses are given earlier.",
+        "Correct: 9 months and 1 year."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "PIDS, Philippine EPI vaccination schedule (pidswebs.pids.gov.ph, 2020)",
+      "quote": "Measles, mumps, rubella 2 9 months, 1 year"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "Under RA 10152 (Mandatory Infants and Children Health Immunization Act), up to what age do children receive basic immunization free in government facilities?",
+      "options": [
+        "Up to 1 year",
+        "Up to 5 years",
+        "Up to 2 years",
+        "Up to 12 years"
+      ],
+      "answer": "B",
+      "rationale": "RA 10152 provides free basic immunization for infants and children up to five years of age, and requires the hepatitis B birth dose within 24 hours of birth.",
+      "explanations": [
+        "Coverage extends beyond infancy.",
+        "Correct: up to five years of age.",
+        "Coverage extends beyond 2 years.",
+        "School-age vaccines are separate from this provision."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "RA 10152 (lawphil.net)",
+      "quote": "infants and children up to five (5) years of age"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "",
+      "stem": "Under RA 10152, when must the hepatitis B birth dose be given to infants born in a health facility?",
+      "options": [
+        "Within 24 hours after birth",
+        "At 6 weeks of age",
+        "Before hospital discharge, any day",
+        "At the first well-baby visit"
+      ],
+      "answer": "A",
+      "rationale": "The law requires the hepatitis B vaccine within 24 hours after birth for all infants born in hospitals, infirmaries, health centers, or lying-in centers.",
+      "explanations": [
+        "Correct: within 24 hours.",
+        "Six weeks is when the pentavalent series starts.",
+        "The law sets a 24-hour limit.",
+        "Waiting for a later visit misses the birth dose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "RA 10152 (lawphil.net)",
+      "quote": "within twenty-four (24) hours after birth"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Under RA 9288 (Newborn Screening Act), when should newborn screening be done for a healthy term baby?",
+      "options": [
+        "Immediately after the cord is cut",
+        "Within the first 6 hours of life",
+        "After 24 hours of life but not later than 3 days",
+        "At the 2-week well-baby visit"
+      ],
+      "answer": "C",
+      "rationale": "Screening is done after 24 hours of life but not later than 3 days. A baby who needs intensive care may be tested later, but by 7 days of age.",
+      "explanations": [
+        "Too early for reliable results.",
+        "Too early for reliable results.",
+        "Correct: the legal time window.",
+        "Too late; the window closes at 3 days."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "RA 9288, Sec. 6 (lawphil.net)",
+      "quote": "Newborn screening shall be performed after twenty-four (24) hours of life but not later than three (3) days"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A preterm baby has been in the NICU since birth. By what age must the baby's newborn screening be done?",
+      "options": [
+        "3 days",
+        "30 days",
+        "14 days",
+        "7 days"
+      ],
+      "answer": "D",
+      "rationale": "A newborn who must be placed in intensive care may be exempted from the 3-day requirement but must be tested by seven days of age.",
+      "explanations": [
+        "Three days applies to healthy newborns.",
+        "Thirty days is the legal definition of the newborn period.",
+        "Too late under the law.",
+        "Correct: by 7 days of age."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "RA 9288, Sec. 6 (lawphil.net)",
+      "quote": "must be tested by seven (7) days of age."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Child Care: Legal, Collaboration & Teamwork",
+      "situation": "",
+      "stem": "The parents of a newborn refuse newborn screening because of their religious beliefs. What must the nurse ensure?",
+      "options": [
+        "The screening is done anyway since it is mandatory",
+        "The parents sign an acknowledgment of the risk",
+        "The baby is kept until the parents agree to it",
+        "The refusal is reported to the barangay police"
+      ],
+      "answer": "B",
+      "rationale": "Parents may refuse on religious grounds, but they must acknowledge in writing that refusal places the newborn at risk. The document goes into the baby's record and the refusal is noted in the national database.",
+      "explanations": [
+        "The law allows refusal on religious grounds.",
+        "Correct: written acknowledgment is required.",
+        "Holding the baby would be unlawful.",
+        "Refusal is documented, not reported to the police."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "RA 9288, Sec. 7 (lawphil.net)",
+      "quote": "shall acknowledge in writing their understanding that refusal for testing places their newborn at risk"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Child Care: Legal, Collaboration & Teamwork",
+      "situation": "",
+      "stem": "Under RA 9288, when must the health practitioner who will deliver the baby inform the parents about newborn screening?",
+      "options": [
+        "Prior to delivery",
+        "Only if the baby looks sick",
+        "At discharge from the hospital",
+        "Within 30 days after birth"
+      ],
+      "answer": "A",
+      "rationale": "Any health practitioner who delivers or assists in delivering a newborn must, before delivery, inform the parents or guardian of the availability, nature, and benefits of newborn screening.",
+      "explanations": [
+        "Correct: before delivery.",
+        "All newborns are screened, not only sick ones.",
+        "Too late to support an informed decision.",
+        "Too late; the screening window has passed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "RA 9288, Sec. 5 (lawphil.net)",
+      "quote": "inform the parents or legal guardian of the newborn of the availability, nature and benefits of newborn screening."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "Nurse Carla is assigned in the delivery room of a district hospital that follows the Essential Intrapartum and Newborn Care (EINC) protocol, also known as Unang Yakap.",
+      "stem": "A baby is delivered and is crying. What is the FIRST step of the EINC protocol?",
+      "options": [
+        "Suction the mouth and nose",
+        "Clamp and cut the cord",
+        "Weigh the baby on the warmer",
+        "Dry the baby immediately and thoroughly"
+      ],
+      "answer": "D",
+      "rationale": "EINC has four steps done in sequence: immediate and thorough drying, early skin-to-skin contact, properly timed cord clamping, and non-separation of mother and baby for early breastfeeding.",
+      "explanations": [
+        "Routine suctioning is no longer done.",
+        "Cord clamping is the third step.",
+        "Weighing is delayed so the baby stays with the mother.",
+        "Correct: drying comes first."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Bull World Health Organ 2023;101(8):499–500 (interview with M. A. Silvestre on EINC)",
+      "quote": "The first step is immediate and thorough drying of the baby"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "Nurse Carla is assigned in the delivery room of a district hospital that follows the Essential Intrapartum and Newborn Care (EINC) protocol, also known as Unang Yakap.",
+      "stem": "After drying the baby and placing it skin-to-skin on the mother's abdomen, when should Nurse Carla clamp the cord?",
+      "options": [
+        "Immediately, within 10 seconds",
+        "After the placenta is delivered",
+        "After cord pulsations stop, about 1 to 3 minutes",
+        "After the first breastfeeding is completed"
+      ],
+      "answer": "C",
+      "rationale": "Properly timed (delayed) cord clamping waits until pulsations stop, about 1 to 3 minutes after birth. Even a one-minute delay gives the baby more blood and warmth.",
+      "explanations": [
+        "Immediate clamping deprives the baby of placental blood.",
+        "Not the EINC timing.",
+        "Correct: delayed, properly timed clamping.",
+        "Breastfeeding comes after cord clamping."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Bull World Health Organ 2023;101(8):499–500 (interview with M. A. Silvestre on EINC)",
+      "quote": "just by delaying the cutting and clamping of the cord for one minute"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "Nurse Carla is assigned in the delivery room of a district hospital that follows the Essential Intrapartum and Newborn Care (EINC) protocol, also known as Unang Yakap.",
+      "stem": "Which routine practice was DISCONTINUED for healthy newborns under EINC?",
+      "options": [
+        "Suctioning every newborn",
+        "Skin-to-skin contact with the mother",
+        "Early breastfeeding initiation",
+        "Keeping mother and baby together"
+      ],
+      "answer": "A",
+      "rationale": "EINC stopped routine suctioning, early bathing, early weighing and footprinting, and early separation of mother and baby, because these practices harm newborns.",
+      "explanations": [
+        "Correct: routine suctioning was stopped.",
+        "Skin-to-skin contact is a core EINC step.",
+        "Early breastfeeding is a core EINC step.",
+        "Non-separation is a core EINC step."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Bull World Health Organ 2023;101(8):499–500 (interview with M. A. Silvestre on EINC)",
+      "quote": "we were suctioning all newborns to clear their airways as a matter of routine"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+      "situation": "",
+      "stem": "A nurse returns to work after maternity leave and is still breastfeeding. Under RA 10028, what lactation break is she entitled to?",
+      "options": [
+        "15 minutes per day, unpaid",
+        "40 minutes per 8-hour period, paid",
+        "1 hour per day, unpaid",
+        "Breaks only during her meal time"
+      ],
+      "answer": "B",
+      "rationale": "Nursing employees get lactation breaks, on top of meal time, of not less than 40 minutes for every 8-hour working period. These count as compensable hours worked.",
+      "explanations": [
+        "Below the legal minimum.",
+        "Correct: at least 40 minutes per 8 hours, paid.",
+        "The breaks are compensable, not unpaid.",
+        "The breaks are in addition to meal time."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "RA 10028, Sec. 12 (lawyerly.ph)",
+      "quote": "shall not be less than a total of forty (40) minutes for every eight (8)-hour working period."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+      "situation": "",
+      "stem": "A hospital is setting up a lactation station for its employees. Which plan violates RA 10028?",
+      "options": [
+        "Placing it in a well-ventilated room",
+        "Providing a refrigerator to store milk",
+        "Placing it inside a staff toilet",
+        "Providing a sink for washing up"
+      ],
+      "answer": "C",
+      "rationale": "A lactation station must be private, clean, sanitary, and well ventilated, and it must not be located in the toilet.",
+      "explanations": [
+        "Ventilation is required.",
+        "Storing expressed milk is part of its purpose.",
+        "Correct: the law prohibits lactation stations in toilets.",
+        "Washing facilities are part of the station."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "RA 10028, Sec. 11 (lawyerly.ph)",
+      "quote": "The lactation station shall not be located in the toilet."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Under RA 10028, rooming-in means the newborn stays in the same room as the mother:",
+      "options": [
+        "Only during breastfeeding sessions",
+        "Only at night",
+        "Starting on the second day",
+        "Right after delivery up to discharge"
+      ],
+      "answer": "D",
+      "rationale": "Rooming-in places the newborn in the same room as the mother right after delivery up to discharge, which supports breastfeeding on demand.",
+      "explanations": [
+        "Rooming-in is continuous, not only during feeds.",
+        "Rooming-in is continuous, day and night.",
+        "It begins right after delivery.",
+        "Correct: from delivery to discharge."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "RA 10028, Sec. 3(v) (lawyerly.ph)",
+      "quote": "the practice of placing the newborn in the same room as the mother right after delivery up to discharge."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "A 16-year-old who has never been pregnant asks the health center nurse for a modern family planning method. Under RA 10354, what is required?",
+      "options": [
+        "Written consent from her parents or guardian",
+        "Only her own verbal consent at the clinic",
+        "A court order allowing the method",
+        "Written consent from her sexual partner"
+      ],
+      "answer": "A",
+      "rationale": "Minors cannot access modern family planning methods without written parental or guardian consent, unless the minor is already a parent or has had a miscarriage.",
+      "explanations": [
+        "Correct: written parental or guardian consent is required.",
+        "A minor's own consent is not enough unless an exception applies.",
+        "Not required by the law.",
+        "Partner consent is not the legal requirement."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "RA 10354, Sec. 7 (lawphil.net)",
+      "quote": "without written consent from their parents or guardian/s"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "A nurse has religious objections to providing artificial contraception. Under RA 10354, what must the nurse do when a client asks for it in a non-emergency?",
+      "options": [
+        "Refuse and tell the client to stop asking",
+        "Provide it anyway despite the objection",
+        "Refer the client to another provider",
+        "Report the client to the parish priest"
+      ],
+      "answer": "C",
+      "rationale": "The law respects conscientious objection based on ethical or religious beliefs, but the objector must refer the client to another provider. Emergencies and serious cases must still be attended to.",
+      "explanations": [
+        "Refusal without referral is prohibited.",
+        "The law respects the nurse's conscience.",
+        "Correct: refer the client to another provider.",
+        "This breaches confidentiality and is inappropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "RA 10354, Sec. 23 (lawphil.net)",
+      "quote": "the conscientious objection of a health care service provider based on his/her ethical or religious beliefs"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "RA 10354 defines modern methods of family planning as methods that are safe, effective, legal, and:",
+      "options": [
+        "Artificial methods only, such as pills",
+        "Given free of charge in all facilities",
+        "Approved by the client's religion",
+        "Non-abortifacient, natural or artificial"
+      ],
+      "answer": "D",
+      "rationale": "Modern methods are safe, effective, non-abortifacient, and legal, whether natural or artificial.",
+      "explanations": [
+        "Natural methods can also be modern methods.",
+        "Cost is not part of the definition.",
+        "Religious approval is not part of the definition.",
+        "Correct: non-abortifacient, natural or artificial."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "RA 10354, Sec. 4(l) (lawphil.net)",
+      "quote": "safe, effective, non-abortifacient and legal methods, whether natural or artificial."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Maternal Care: Ethico-Moral, Legal & Management",
+      "situation": "",
+      "stem": "Under RA 10354, when may nurses and midwives give lifesaving drugs during an obstetric emergency?",
+      "options": [
+        "Never; only physicians may give them",
+        "Only with the family's written consent",
+        "Only in a tertiary hospital",
+        "When no physicians are available"
+      ],
+      "answer": "D",
+      "rationale": "The law allows midwives and nurses to administer lifesaving drugs in emergencies when no physicians are available, as part of ensuring skilled birth attendance.",
+      "explanations": [
+        "The law makes an exception for emergencies.",
+        "Emergency drugs are not conditioned on family consent.",
+        "The provision applies wherever no physician is available.",
+        "Correct: when no physicians are available."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Understanding",
+      "source": "RA 10354, Sec. 5 (lawphil.net)",
+      "quote": "there are no physicians available."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "A 16-year-old asks for voluntary HIV testing at a social hygiene clinic. Under RA 11166, whose consent is needed?",
+      "options": [
+        "The 16-year-old's own consent",
+        "Both parents' written consent",
+        "A court order",
+        "The school principal's consent"
+      ],
+      "answer": "A",
+      "rationale": "For persons 15 to below 18 years old, consent to voluntary HIV testing is obtained from the child without the need for parental or guardian consent.",
+      "explanations": [
+        "Correct: minors 15 to 17 may consent themselves.",
+        "Not needed for this age group.",
+        "Not required.",
+        "The school has no role in consent."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "RA 11166, Sec. 29(a) (lawphil.net)",
+      "quote": "consent to voluntary HIV testing shall be obtained from the child without the need of consent from a parent or guardian"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "An adult client's HIV test is reactive. Under RA 11166, to whom should the result be disclosed?",
+      "options": [
+        "The client's spouse",
+        "The client's employer",
+        "Only the client who was tested",
+        "The barangay health worker"
+      ],
+      "answer": "C",
+      "rationale": "Results are disclosed only to the individual who submitted to the test. Disclosure to others needs written consent, except in limited cases such as DOH surveillance reporting.",
+      "explanations": [
+        "Disclosure to a spouse needs the client's consent.",
+        "Disclosure to employers is prohibited.",
+        "Correct: only to the person tested.",
+        "Community workers are not entitled to the result."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "RA 11166, Sec. 46 (lawphil.net)",
+      "quote": "only to the individual who submitted to the test"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Under RA 11166, which service must every HIV testing facility provide for free?",
+      "options": [
+        "Antiretroviral drugs for the partner",
+        "Pre-test and post-test HIV counseling",
+        "Hospital admission for every reactive client",
+        "Mandatory testing for all clinic visitors"
+      ],
+      "answer": "B",
+      "rationale": "All HIV testing facilities must give free pre-test and post-test counseling. Testing is voluntary and needs informed consent.",
+      "explanations": [
+        "Not the facility requirement in this provision.",
+        "Correct: free pre- and post-test counseling.",
+        "Admission depends on the client's condition.",
+        "Testing is non-compulsory except in limited cases."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "RA 11166, Sec. 31 (lawphil.net)",
+      "quote": "All HIV testing facilities shall provide free pre-test and post-test HIV counseling"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "Nurse Paolo works in the psychiatric unit of a regional hospital and is orienting new staff on the Philippine Mental Health Act (RA 11036).",
+      "stem": "Within what period after admission must a service user be informed of their rights?",
+      "options": [
+        "Within 7 days",
+        "Within 72 hours",
+        "At discharge",
+        "Within 24 hours"
+      ],
+      "answer": "D",
+      "rationale": "Service users have the right to information, within 24 hours of admission to a mental health facility, about their rights.",
+      "explanations": [
+        "Too late under the law.",
+        "Too late under the law.",
+        "Rights must be explained early in the stay.",
+        "Correct: within 24 hours of admission."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "RA 11036, Sec. 5(s) (lawphil.net)",
+      "quote": "Information, within the twenty-four (24) hours of admission to a mental health facility"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "Nurse Paolo works in the psychiatric unit of a regional hospital and is orienting new staff on the Philippine Mental Health Act (RA 11036).",
+      "stem": "A new nurse asks whether admitted clients can decide on their own treatment. What is Nurse Paolo's BEST answer?",
+      "options": [
+        "'Clients are presumed to have legal capacity and must give written informed consent.'",
+        "'Admitted clients lose the right to decide on their treatment.'",
+        "'Only the family decides on treatment in a psychiatric unit.'",
+        "'Verbal consent is enough for any treatment.'"
+      ],
+      "answer": "A",
+      "rationale": "Service users are presumed to have legal capacity and must give written informed consent before treatment, including physical or chemical restraint. Consent may be withdrawn.",
+      "explanations": [
+        "Correct: capacity is presumed and consent is written.",
+        "Admission does not remove decision-making rights.",
+        "The client decides unless capacity is impaired.",
+        "The Act requires consent in writing."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "RA 11036, Sec. 8 (lawphil.net)",
+      "quote": "Service users must provide informed consent in writing prior to the implementation"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "Nurse Paolo works in the psychiatric unit of a regional hospital and is orienting new staff on the Philippine Mental Health Act (RA 11036).",
+      "stem": "An emergency treatment order is given for a client in a psychiatric emergency. Within how many days must the internal review board review it?",
+      "options": [
+        "3 days",
+        "15 days",
+        "30 days",
+        "60 days"
+      ],
+      "answer": "B",
+      "rationale": "During emergencies, treatment or restraint may be given only to the extent necessary, on the order of the attending mental health professional. The internal review board reviews the order within 15 days.",
+      "explanations": [
+        "Not the period set by the law.",
+        "Correct: within 15 days of the order.",
+        "Longer than the law allows.",
+        "Longer than the law allows."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Remembering",
+      "source": "RA 11036, Sec. 13(c) (lawphil.net)",
+      "quote": "within fifteen (15) days from the date such order was issued"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Under RA 11036, up to how many 'supporters' may a service user designate to help in decision-making?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "answer": "C",
+      "rationale": "A service user may designate up to three persons as supporters to help them make decisions about treatment.",
+      "explanations": [
+        "The law allows more than one.",
+        "The law allows up to three.",
+        "Correct: up to three supporters.",
+        "More than the law allows."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Remembering",
+      "source": "RA 11036, Sec. 11 (lawphil.net)",
+      "quote": "A service user may designate up to three (3) persons or \"supporters\""
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which nursing action BEST upholds the right to treatment in the least restrictive environment under RA 11036?",
+      "options": [
+        "Placing every new admission in seclusion",
+        "Restraining clients who refuse medicines",
+        "Locking all clients in their rooms at night",
+        "Trying verbal de-escalation before any restraint"
+      ],
+      "answer": "D",
+      "rationale": "Service users have the right to care in the least restrictive environment and manner. Facilities must minimize restrictive care, so less restrictive measures come first.",
+      "explanations": [
+        "Routine seclusion violates the least restrictive principle.",
+        "Refusing medication does not justify restraint.",
+        "Blanket confinement is overly restrictive.",
+        "Correct: least restrictive measures come first."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "RA 11036, Sec. 5(g) (lawphil.net)",
+      "quote": "Access to psychosocial care and clinical treatment in the least restrictive environment and manner;"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Documentation in Psychiatric Nursing",
+      "situation": "",
+      "stem": "A client's employer calls the psychiatric unit asking for the client's diagnosis. What should the nurse do?",
+      "options": [
+        "Give only the diagnosis, since it is brief",
+        "Decline unless the client has given written consent",
+        "Ask the attending physician to call back with the details",
+        "Fax the discharge summary to the employer"
+      ],
+      "answer": "B",
+      "rationale": "Information about service users is confidential and is not disclosed to third parties without the client's written consent.",
+      "explanations": [
+        "Even the diagnosis is confidential.",
+        "Correct: written consent is required.",
+        "The physician is also bound by confidentiality.",
+        "Sending records without consent violates the law."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "RA 11036, Sec. 5(l) (lawphil.net)",
+      "quote": "shall not be disclosed to third parties without the written consent of the service user concerned"
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which teaching is correct for a client wearing a Holter monitor?",
+      "options": [
+        "Shower as usual",
+        "Keep an activity and symptom log",
+        "Use an electric shaver freely",
+        "Wear tight clothing"
+      ],
+      "answer": "B",
+      "rationale": "The client records activities and presses the button with symptoms, avoids electrical devices and showers, and wears loose clothing.",
+      "explanations": [
+        "Avoid.",
+        "Correct.",
+        "Interferes.",
+        "Loose clothing."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Holter Monitor (PDF p. 68)",
+      "quote": "Instruct the client regarding recording and pressing the button upon experiencing pain or discomfort"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How long does a Holter monitor usually record?",
+      "options": [
+        "1 hour",
+        "24 hours",
+        "1 week",
+        "1 month"
+      ],
+      "answer": "B",
+      "rationale": "The Holter monitor records cardiac activity continuously for 24 hours during normal activities.",
+      "explanations": [
+        "Too short.",
+        "Correct.",
+        "Not standard.",
+        "Not standard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Holter Monitor (PDF p. 67)",
+      "quote": "Records electrical cardiac activity on a continuous basis for 24 hours"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Before an exercise stress test, the client should:",
+      "options": [
+        "Eat a large meal",
+        "NPO 4 hr, no caffeine",
+        "Drink strong coffee",
+        "Wear sandals"
+      ],
+      "answer": "B",
+      "rationale": "NPO 4 hours, avoid tobacco and caffeine, and wear exercise clothes and rubber-soled shoes.",
+      "explanations": [
+        "Avoid.",
+        "Correct.",
+        "Avoid.",
+        "Rubber-soled shoes."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Cardiac Stress Testing (PDF p. 68)",
+      "quote": "NPO 4 hours before the test"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which condition contraindicates a stress test?",
+      "options": [
+        "Unstable angina",
+        "Controlled hypertension",
+        "Mild obesity",
+        "Past appendectomy"
+      ],
+      "answer": "A",
+      "rationale": "Contraindications include unstable angina, severe aortic stenosis, acute myocarditis, severe hypertension, and heart failure.",
+      "explanations": [
+        "Correct.",
+        "Not.",
+        "Not.",
+        "Not."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Cardiac Stress Testing (PDF p. 68)",
+      "quote": "Unstable angina"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "After cardiac catheterization, how is the head of the bed kept?",
+      "options": [
+        "No more than 30°",
+        "High Fowler's",
+        "Flat with legs up",
+        "Any position"
+      ],
+      "answer": "A",
+      "rationale": "Bed rest 2–6 hours with HOB no greater than 30°; check the site and distal pulses.",
+      "explanations": [
+        "Correct.",
+        "Bleeding risk.",
+        "Not standard.",
+        "Not standard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Cardiac Catheterization (PDF p. 69)",
+      "quote": "Head of the bed no greater than 30 degrees"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "After cardiac catheterization, which assessment of the affected leg is frequent?",
+      "options": [
+        "Color and cap refill",
+        "Knee reflex",
+        "Hair growth",
+        "Calf size only"
+      ],
+      "answer": "A",
+      "rationale": "The extremity's temperature, color, and capillary refill and peripheral pulses are checked often.",
+      "explanations": [
+        "Correct.",
+        "Not needed.",
+        "Not needed.",
+        "Incomplete."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Cardiac Catheterization (PDF p. 69)",
+      "quote": "Temperature, color and capillary refill of the affected extremity are frequently evaluated."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "After a radioactive iodine uptake test, what should the client do?",
+      "options": [
+        "Restrict fluids",
+        "Flush after voiding",
+        "Skip handwashing",
+        "Save urine in a jar"
+      ],
+      "answer": "B",
+      "rationale": "Flush immediately after each voiding, wash hands well, and increase fluids for 24 hours.",
+      "explanations": [
+        "Increase fluids.",
+        "Correct.",
+        "Wash hands.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Radioactive Iodine Uptake (PDF p. 70)",
+      "quote": "Flush toilet immediately for three times after each voiding"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which drug may DECREASE radioactive iodine uptake results?",
+      "options": [
+        "Lugol's solution",
+        "Lithium",
+        "Estrogen",
+        "Barbiturates"
+      ],
+      "answer": "A",
+      "rationale": "Lugol's solution, SSKI, antithyroid drugs, and antihistamines may decrease results; lithium, estrogen, and barbiturates may raise them.",
+      "explanations": [
+        "Correct.",
+        "Elevates.",
+        "Elevates.",
+        "Elevates."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Radioactive Iodine Uptake (PDF p. 70)",
+      "quote": "Drugs that may decrease results. Lugol's solution, SSKI, anti-thyroid, antihistamines"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A high TSH with low thyroid hormone suggests:",
+      "options": [
+        "Primary hypothyroidism",
+        "Graves' disease",
+        "Thyroid storm",
+        "Excess thyroid replacement"
+      ],
+      "answer": "A",
+      "rationale": "TSH increases in primary and congenital hypothyroidism; it decreases in Graves' and excess replacement.",
+      "explanations": [
+        "Correct.",
+        "TSH low.",
+        "TSH low.",
+        "TSH low."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, TSH Assay (PDF p. 71)",
+      "quote": "Primary hypothyroidism"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Before a 24-hour urine VMA test, which food should be avoided?",
+      "options": [
+        "Rice",
+        "Bananas",
+        "Chicken",
+        "Water"
+      ],
+      "answer": "B",
+      "rationale": "Avoid amine-rich foods (bananas, avocados, chocolate, coffee) and vanilla for 48 hours; VMA tests for pheochromocytoma.",
+      "explanations": [
+        "Allowed.",
+        "Correct.",
+        "Allowed.",
+        "Allowed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, VMA Test (PDF p. 71)",
+      "quote": "Avoid foods high in amines for 48 hours (bananas, avocados, beer, aged cheese, chocolate, cocoa"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "The VMA test helps diagnose which condition?",
+      "options": [
+        "Pheochromocytoma",
+        "Cushing's syndrome",
+        "Addison's disease",
+        "Diabetes insipidus"
+      ],
+      "answer": "A",
+      "rationale": "VMA, a metabolite of epinephrine, helps diagnose pheochromocytoma, neuroblastoma, and ganglioneuroma.",
+      "explanations": [
+        "Correct.",
+        "Cortisol.",
+        "Cortisol.",
+        "ADH."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, VMA Test (PDF p. 71)",
+      "quote": "Assist in the diagnosis of neuroblastoma, ganglioneuroma or pheochromocytoma"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "How should a client prepare for an OGTT?",
+      "options": [
+        "Low-carbohydrate diet 3 days before",
+        "Regular diet 3 days, then NPO 8–12 hours",
+        "Eat right before the test",
+        "Smoke during the test"
+      ],
+      "answer": "B",
+      "rationale": "Eat a regular diet at least 3 days before, be NPO 8–12 hours, and avoid smoking.",
+      "explanations": [
+        "Alters results.",
+        "Correct.",
+        "Not NPO.",
+        "Avoid."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, OGTT (PDF p. 72)",
+      "quote": "Take regular diet for at least 3 days before the test"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Glycosylated hemoglobin reflects glucose control over about how long?",
+      "options": [
+        "1 day",
+        "1 week",
+        "3 months",
+        "1 year"
+      ],
+      "answer": "C",
+      "rationale": "HbA1c reflects blood glucose levels over up to 3 months.",
+      "explanations": [
+        "Too short.",
+        "Too short.",
+        "Correct.",
+        "Too long."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Glycosylated Hemoglobin (PDF p. 72)",
+      "quote": "Reflects serum glucose levels up to 3 months"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "What is the normal fasting blood glucose range?",
+      "options": [
+        "40–60 mg/dL",
+        "70–110 mg/dL",
+        "130–160 mg/dL",
+        "180–200 mg/dL"
+      ],
+      "answer": "B",
+      "rationale": "Normal FBS is 70–110 mg/dL after 8–12 hours NPO.",
+      "explanations": [
+        "Low.",
+        "Correct.",
+        "High.",
+        "High."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Fasting Blood Glucose (PDF p. 72)",
+      "quote": "Normal: 70 — 110 mg/dL"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What should the client do right before paracentesis?",
+      "options": [
+        "Drink 1 L of water",
+        "Void",
+        "Lie prone",
+        "Eat a full meal"
+      ],
+      "answer": "B",
+      "rationale": "The client voids before paracentesis to avoid bladder puncture and sits upright.",
+      "explanations": [
+        "Not needed.",
+        "Correct.",
+        "Sitting.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Paracentesis (PDF p. 72)",
+      "quote": "Void before the procedure"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "After paracentesis, which finding is a priority to watch?",
+      "options": [
+        "Hypotension",
+        "Hunger",
+        "Mild thirst",
+        "Sleepiness"
+      ],
+      "answer": "A",
+      "rationale": "Watch for hypotension and hypovolemic shock from fluid shifts; measure girth.",
+      "explanations": [
+        "Correct.",
+        "Not priority.",
+        "Not priority.",
+        "Not priority."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Paracentesis (PDF p. 72)",
+      "quote": "Observe for hypotension and hypovolemic shock"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "During needle insertion for liver biopsy, the client should:",
+      "options": [
+        "Inhale and hold",
+        "Exhale fully and hold",
+        "Breathe fast",
+        "Cough"
+      ],
+      "answer": "B",
+      "rationale": "After several deep breaths, the client exhales and holds at end-expiration while the needle is inserted.",
+      "explanations": [
+        "Not per procedure.",
+        "Correct.",
+        "Unsafe.",
+        "Unsafe."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Liver Biopsy (PDF p. 73)",
+      "quote": "Instruct client to resume breathing after the physician aspirates and withdraws the needle"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Before a liver biopsy, what must be available?",
+      "options": [
+        "Clotting results, blood",
+        "Barium contrast",
+        "A chest tube",
+        "An insulin drip"
+      ],
+      "answer": "A",
+      "rationale": "Coagulation tests and compatible donor blood are confirmed because of bleeding risk.",
+      "explanations": [
+        "Correct.",
+        "Not needed.",
+        "Not routine.",
+        "Not needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Liver Biopsy (PDF p. 72)",
+      "quote": "Ascertain that results of coagulation tests and compatible donor blood are available"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "After liver biopsy, which activity is avoided for one week?",
+      "options": [
+        "Walking",
+        "Heavy lifting",
+        "Reading",
+        "Eating"
+      ],
+      "answer": "B",
+      "rationale": "Avoid heavy lifting and strenuous activity for a week; avoid coughing and straining early.",
+      "explanations": [
+        "Allowed.",
+        "Correct.",
+        "Allowed.",
+        "Allowed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Liver Biopsy (PDF p. 73)",
+      "quote": "Avoid heavy lifting and strenuous activity for one week"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What is the normal serum albumin level?",
+      "options": [
+        "1.0–2.0 g/dL",
+        "4.0–5.5 g/dL",
+        "7.0–9.0 g/dL",
+        "0.5 g/dL"
+      ],
+      "answer": "B",
+      "rationale": "Normal serum albumin is 4.0–5.5 g/dL; total protein 7.0–7.5 g/dL.",
+      "explanations": [
+        "Low.",
+        "Correct.",
+        "Too high.",
+        "Low."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Protein Studies (PDF p. 73)",
+      "quote": "Serum albumin 4.0 - 5.5 g/dL"
+    }
+  ]
+}

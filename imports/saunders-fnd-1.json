@@ -1,0 +1,917 @@
+{
+ "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client with heart failure has magnesium 0.75 mEq/L. What should the nurse do?",
+   "options": [
+    "Monitor for dysrhythmias",
+    "Give phosphate antacids",
+    "Restrict green vegetables",
+    "Encourage diuretics"
+   ],
+   "answer": "A",
+   "rationale": "Normal magnesium is 1.3–2.1 mEq/L. Hypomagnesemia affects myocardial function, so the client is monitored for dysrhythmias.",
+   "explanations": [
+    "Correct: cardiac risk.",
+    "Not indicated.",
+    "They supply magnesium.",
+    "May worsen it."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q5 (PDF p. 142)",
+   "quote": "The client should be monitored for dysrhythmias because magnesium plays an important role in myocardial"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "A client with myasthenia gravis becomes WEAKER after an edrophonium (Tensilon) test dose. How is this interpreted?",
+   "options": [
+    "Myasthenic crisis",
+    "Cholinergic crisis",
+    "Normal response",
+    "Test error"
+   ],
+   "answer": "B",
+   "rationale": "Worsening weakness after edrophonium means cholinergic crisis from overmedication. Improvement would mean myasthenic crisis.",
+   "explanations": [
+    "Would improve.",
+    "Correct: overmedication.",
+    "Not normal.",
+    "Not an error."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q11 (PDF p. 149)",
+   "quote": "cholinergic crisis (overmedication) with anticholinesterase medications"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "What should the nurse do before starting continuous IV therapy?",
+   "options": [
+    "Apply a cool compress",
+    "Inspect the solution and expiry",
+    "Pad an arm board above the site",
+    "Shave the site"
+   ],
+   "answer": "B",
+   "rationale": "IV solutions must be free of particles and within the expiration date to prevent vein trauma, thromboembolism, and infection.",
+   "explanations": [
+    "Warm compress dilates.",
+    "Correct: safety check.",
+    "Not first.",
+    "Clip, do not shave."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q21 (PDF p. 160)",
+   "quote": "IV solutions should be free of particles or precipitates"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "What must be written on an ABG requisition?",
+   "options": [
+    "Client's allergies",
+    "Client's temperature",
+    "Diet order",
+    "Religion"
+   ],
+   "answer": "B",
+   "rationale": "An ABG requisition includes the time drawn, the client's temperature, whether on room air or oxygen, and ventilator settings.",
+   "explanations": [
+    "Not required.",
+    "Correct: affects results.",
+    "Not required.",
+    "Not required."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q31 (PDF p. 170)",
+   "quote": "the client’s temperature, whether the specimen was drawn on room air or using supplemental oxygen"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "What is MOST important to assess before advancing a client from liquid to solid food?",
+   "options": [
+    "Bowel sounds",
+    "Chewing ability",
+    "Appetite",
+    "Food preferences"
+   ],
+   "answer": "B",
+   "rationale": "Chewing ability is assessed for safety; a soft or mechanically chopped diet may be needed.",
+   "explanations": [
+    "Already assessed.",
+    "Correct: safety.",
+    "Not safety.",
+    "Not safety."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q36 (PDF p. 175)",
+   "quote": "The nurse needs to assess the client’s chewing ability before advancing a client from liquid to solid food."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Which ABG does the nurse expect in a client on continuous NG suction?",
+   "options": [
+    "pH 7.25, PaCO2 55, HCO3 24",
+    "pH 7.30, PaCO2 38, HCO3 20",
+    "pH 7.48, PaCO2 30, HCO3 23",
+    "pH 7.49, PaCO2 38, HCO3 30"
+   ],
+   "answer": "D",
+   "rationale": "NG suction removes acid, causing metabolic alkalosis: high pH and high bicarbonate.",
+   "explanations": [
+    "Respiratory acidosis.",
+    "Metabolic acidosis.",
+    "Respiratory alkalosis.",
+    "Correct: metabolic alkalosis."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q40 (PDF p. 179)",
+   "quote": "metabolic alkalosis resulting from loss of acid"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client on NG suction has HCO3 30. Which pH is MOST likely?",
+   "options": [
+    "7.52",
+    "7.36",
+    "7.25",
+    "7.20"
+   ],
+   "answer": "A",
+   "rationale": "Loss of gastric HCl causes metabolic alkalosis, with HCO3 above normal and an elevated pH.",
+   "explanations": [
+    "Correct: alkalosis.",
+    "Normal.",
+    "Acidosis.",
+    "Acidosis."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q73 (PDF p. 218)",
+   "quote": "Loss of gastric fluid via nasogastric suction or vomiting causes metabolic alkalosis"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "ABG: pH 7.43, PCO2 31, HCO3 21. Which imbalance is present?",
+   "options": [
+    "Compensated metabolic acidosis",
+    "Compensated respiratory alkalosis",
+    "Uncompensated metabolic alkalosis",
+    "Uncompensated respiratory acidosis"
+   ],
+   "answer": "B",
+   "rationale": "pH is normal (compensated) but on the alkaline side. Low PCO2 is the primary change, and low HCO3 is compensation.",
+   "explanations": [
+    "pH is on the alkaline side.",
+    "Correct: compensated respiratory alkalosis.",
+    "HCO3 is low.",
+    "PCO2 is low."
+   ],
+   "difficulty": "Difficult",
+   "bloom": "Analyzing",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q72 (PDF p. 217)",
+   "quote": "In a respiratory condition, the pH and the Pco2 move in opposite directions"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Which effect should a preoperative client expect from relaxation therapy?",
+   "options": [
+    "Faster heart rate",
+    "Improved well-being",
+    "Higher BP",
+    "More muscle tension"
+   ],
+   "answer": "B",
+   "rationale": "Relaxation decreases cognitive and physiological arousal, giving a sense of well-being and lowering heart rate, BP, and muscle tension.",
+   "explanations": [
+    "Decreases.",
+    "Correct: well-being.",
+    "Decreases.",
+    "Decreases."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q42 (PDF p. 181)",
+   "quote": "Relaxation is the state of generalized decreased cognitive, physiological, and/or behavioral arousal."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Which Mantoux test result is POSITIVE in a client with no special risk factors?",
+   "options": [
+    "Induration of 12 mm",
+    "Redness of 15 mm",
+    "A wheal right after injection",
+    "Itching only"
+   ],
+   "answer": "A",
+   "rationale": "Positivity is based on induration, not redness. Under Philippine TB guidelines, induration of 10 mm or more is positive for most clients (5 mm or more if HIV-positive or immunosuppressed). A wheal only shows correct injection.",
+   "explanations": [
+    "Correct: induration ≥10 mm.",
+    "Redness is not read.",
+    "Shows correct technique.",
+    "Not a criterion."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q67 (PDF p. 212)",
+   "quote": "The presence of a wheal would indicate that the skin test was administered appropriately."
+  },
+  {
+   "subject": "NP I",
+   "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+   "situation": "",
+   "stem": "Where should the nurse inject a tuberculin skin test?",
+   "options": [
+    "Upper arm near a mole",
+    "Inner forearm near a burn scar",
+    "Inner forearm, hairless area",
+    "Abdomen near the navel"
+   ],
+   "answer": "C",
+   "rationale": "Intradermal tests are usually given on the inner forearm in an area that is not heavily pigmented and is free of lesions, scars, and hair.",
+   "explanations": [
+    "Avoid moles.",
+    "Avoid scars.",
+    "Correct: proper site.",
+    "Not used."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q222 (PDF p. 377)",
+   "quote": "Intradermal injections are most commonly given in the inner surface of the forearm."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which CSF finding is normally NEGATIVE in an adult?",
+   "options": [
+    "Protein",
+    "Glucose",
+    "Red blood cells",
+    "Chloride"
+   ],
+   "answer": "C",
+   "rationale": "Normal CSF has no red blood cells. Protein and glucose are normally present, and a few WBCs may be seen.",
+   "explanations": [
+    "Normally present.",
+    "Normally present.",
+    "Correct: none normally.",
+    "Normally present."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q77 (PDF p. 222)",
+   "quote": "The adult with a normal CSF has no red blood cells in the CSF."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which meal BEST promotes wound healing in a burn client?",
+   "options": [
+    "Peanut butter sandwich, apple, tea",
+    "Chicken, broccoli, strawberries, milk",
+    "Spaghetti, garlic bread, soda",
+    "Bread, jam, coffee"
+   ],
+   "answer": "B",
+   "rationale": "Wound healing needs protein (chicken, milk) and vitamin C (broccoli, strawberries).",
+   "explanations": [
+    "Lower protein and vitamin C.",
+    "Correct: protein and vitamin C.",
+    "Low nutrients.",
+    "Low nutrients."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q78 (PDF p. 223)",
+   "quote": "including protein, such as chicken and milk, and vitamin C, such as broccoli and strawberries."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A client has a poor swallowing reflex. Which food should be removed from the diet?",
+   "options": [
+    "Spinach",
+    "Mashed potato",
+    "Custard",
+    "Thick soup"
+   ],
+   "answer": "A",
+   "rationale": "Raw, chunky, and stringy vegetables such as spinach, corn, and peas are excluded when swallowing is poor.",
+   "explanations": [
+    "Correct: stringy.",
+    "Easy to swallow.",
+    "Easy to swallow.",
+    "Easy to swallow."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q80 (PDF p. 225)",
+   "quote": "stringy vegetables such as spinach, corn, and peas are foods commonly excluded"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "During a first walk after abdominal surgery, which sign suggests orthostatic hypotension?",
+   "options": [
+    "Bradycardia",
+    "Dizziness",
+    "Flushed skin",
+    "Warm skin"
+   ],
+   "answer": "B",
+   "rationale": "Orthostatic hypotension on rising causes dizziness, nausea, tachycardia, and pallor.",
+   "explanations": [
+    "Tachycardia occurs.",
+    "Correct: a sign.",
+    "Pallor occurs.",
+    "Not a sign."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q83 (PDF p. 228)",
+   "quote": "Orthostatic hypotension occurs when a normotensive person develops symptoms of low blood pressure when rising"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "How should the client be positioned after a bedside liver biopsy?",
+   "options": [
+    "Supine, flat",
+    "Semi-Fowler's",
+    "Left side-lying",
+    "Right side, pillow"
+   ],
+   "answer": "D",
+   "rationale": "The client lies on the right side with a small pillow under the puncture site for about 2 hours to compress the liver and prevent bleeding.",
+   "explanations": [
+    "No compression.",
+    "No compression.",
+    "Wrong side.",
+    "Correct: compresses the site."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q98 (PDF p. 246)",
+   "quote": "the nurse positions the client on the right side with a small pillow or folded towel under the puncture site"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "What is MOST important to assess before a liver biopsy?",
+   "options": [
+    "Pain tolerance",
+    "Iodine allergy",
+    "Nausea history",
+    "Lying still, breath-hold"
+   ],
+   "answer": "D",
+   "rationale": "The client must lie still and hold the breath during needle insertion to avoid puncturing the lung or other organs.",
+   "explanations": [
+    "Less critical.",
+    "No dye used.",
+    "Less critical.",
+    "Correct: prevents injury."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q230 (PDF p. 385)",
+   "quote": "It is most important for the nurse to assess the client’s ability to lie still and hold the breath for the procedure."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Perception & Coordination Disorders",
+   "situation": "",
+   "stem": "Which medication is likely prescribed before an MRI for a client with a suspected brain tumor?",
+   "options": [
+    "Opioid",
+    "Sedative",
+    "Corticosteroid",
+    "Antiemetic"
+   ],
+   "answer": "B",
+   "rationale": "The client must lie still in an enclosed scanner, so relaxation techniques or a sedative may be used.",
+   "explanations": [
+    "Not routine.",
+    "Correct: helps lie still.",
+    "Not routine.",
+    "Not routine."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q124 (PDF p. 274)",
+   "quote": "An MRI scan is a noninvasive diagnostic test that visualizes the body’s tissues, structure, and blood flow."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "How should the nurse prepare a client for electrophysiology studies (EPS)?",
+   "options": [
+    "Continue antiarrhythmics",
+    "Eat a full breakfast",
+    "Stay NPO 6 to 8 hours",
+    "No consent is needed"
+   ],
+   "answer": "C",
+   "rationale": "EPS is invasive and induces dysrhythmias. The client is NPO 6 to 8 hours, and antidysrhythmics are usually withheld.",
+   "explanations": [
+    "Usually withheld.",
+    "NPO.",
+    "Correct: NPO.",
+    "Consent needed."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q127 (PDF p. 277)",
+   "quote": "During this invasive procedure, a special wire is introduced into the heart to produce dysrhythmias."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "An older client with type 1 diabetes has gastroenteritis. How should the nurse prevent dehydration?",
+   "options": [
+    "Hold all fluids",
+    "Offer small amounts often",
+    "Give one large glass hourly",
+    "Stop insulin"
+   ],
+   "answer": "B",
+   "rationale": "Dehydration risks DKA. Small amounts of fluid are tolerated even with vomiting and are offered frequently.",
+   "explanations": [
+    "Causes dehydration.",
+    "Correct: small, frequent.",
+    "Causes vomiting.",
+    "Risks DKA."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q129 (PDF p. 279)",
+   "quote": "Small amounts of fluid may be tolerated, even when vomiting is present."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Before a kidney CT with contrast, what is MOST important to assess?",
+   "options": [
+    "Allergies to iodine or shellfish",
+    "Family kidney disease",
+    "Antibiotic use",
+    "Fluid preference"
+   ],
+   "answer": "A",
+   "rationale": "Any test with possible dye requires asking about allergies, especially to iodine or shellfish.",
+   "explanations": [
+    "Correct: dye allergy.",
+    "Less critical.",
+    "Less critical.",
+    "Not safety."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q137 (PDF p. 287)",
+   "quote": "specifically an allergy to shellfish or iodine."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which condition LOWERS the risk of aspiration during enteral feeding?",
+   "options": [
+    "Sedation",
+    "Artificial airway",
+    "Head-elevated position",
+    "Decreased LOC"
+   ],
+   "answer": "C",
+   "rationale": "Sedation, coughing, artificial airways, suctioning, and decreased LOC raise aspiration risk. Head elevation reduces it.",
+   "explanations": [
+    "Raises risk.",
+    "Raises risk.",
+    "Correct: reduces risk.",
+    "Raises risk."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q148 (PDF p. 298)",
+   "quote": "A serious complication associated with enteral feedings is aspiration of formula into the tracheobronchial tree."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "How does the nurse check for IV infiltration?",
+   "options": [
+    "Strip the tubing for blood",
+    "Check for redness and warmth",
+    "Increase the rate",
+    "Palpate for edema and coolness"
+   ],
+   "answer": "D",
+   "rationale": "Infiltration causes edema and coolness from fluid leaking into tissue. Redness and warmth suggest phlebitis.",
+   "explanations": [
+    "Not reliable.",
+    "Phlebitis.",
+    "Worsens it.",
+    "Correct: infiltration signs."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q160 (PDF p. 311)",
+   "quote": "it is important to assess the site for edema and coolness"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "An IV dressing is damp and the tape is loose. What should the nurse do FIRST?",
+   "options": [
+    "Stop the infusion",
+    "Apply a new dressing",
+    "Check all tubing connections",
+    "Remove the catheter"
+   ],
+   "answer": "C",
+   "rationale": "The nurse checks all connections first to find the leak. If the leak is at the site, the infusion is stopped and the IV restarted.",
+   "explanations": [
+    "Not yet.",
+    "Leak not found.",
+    "Correct: locate the leak.",
+    "Not yet."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q168 (PDF p. 321)",
+   "quote": "the nurse checks all connections to ensure tight seals while the IV infuses to help locate the source of the leak."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Which finding suggests a need for IV fluid and electrolyte therapy?",
+   "options": [
+    "Bounding pulse",
+    "Hyponatremia",
+    "Normal skin turgor",
+    "Moist mucosa"
+   ],
+   "answer": "B",
+   "rationale": "Fluid and electrolyte imbalances such as hyponatremia, with a rapid, weak, thready pulse, signal the need for IV therapy.",
+   "explanations": [
+    "Overload.",
+    "Correct: an imbalance.",
+    "Normal.",
+    "Normal."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q172 (PDF p. 325)",
+   "quote": "Rapid, weak, and thready pulse is an assessment abnormality found with fluid and electrolyte imbalances, such as hyponatremia."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client with chest pain has elevated CK-MB and troponins. What do these indicate?",
+   "options": [
+    "Angina only",
+    "Pulmonary embolism",
+    "Myocardial infarction",
+    "Pericarditis"
+   ],
+   "answer": "C",
+   "rationale": "CK-MB and troponins are sensitive markers of myocardial damage. CK-MB rises 3–6 hours after chest pain and peaks at about 24 hours.",
+   "explanations": [
+    "No damage.",
+    "Not specific.",
+    "Correct: myocardial damage.",
+    "Not specific."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q178 (PDF p. 331)",
+   "quote": "Creatine kinase (CK)-MB isoenzyme is a sensitive indicator of myocardial damage."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "A client needs three pillows to breathe while sleeping. How should this be documented?",
+   "options": [
+    "Orthopnea",
+    "Dyspnea at rest",
+    "Exertional dyspnea",
+    "Paroxysmal nocturnal dyspnea"
+   ],
+   "answer": "A",
+   "rationale": "Orthopnea is difficulty breathing when lying flat and is documented by the number of pillows needed.",
+   "explanations": [
+    "Correct: orthopnea.",
+    "Not described.",
+    "Not described.",
+    "Sudden waking."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q185 (PDF p. 338)",
+   "quote": "Dyspnea can be exertional or at rest."
+  },
+  {
+   "subject": "NP II",
+   "topic": "Care of the At-Risk and Sick Child",
+   "situation": "",
+   "stem": "Which sweat test result supports cystic fibrosis?",
+   "options": [
+    "Sweat potassium > 60 mEq/L",
+    "Sweat chloride > 60 mEq/L",
+    "Sweat sodium < 40 mEq/L",
+    "Sweat chloride < 20 mEq/L"
+   ],
+   "answer": "B",
+   "rationale": "Abnormally high sweat chloride is unique to CF; a level above 60 mEq/L supports the diagnosis.",
+   "explanations": [
+    "Not the marker.",
+    "Correct: CF marker.",
+    "Not the marker.",
+    "Normal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q194 (PDF p. 348)",
+   "quote": "A consistent finding of abnormally high chloride concentrations in the sweat is a unique characteristic of CF."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Thoracentesis fluid has a high RBC count. What is the likely cause of the effusion?",
+   "options": [
+    "Trauma",
+    "Infection",
+    "Heart failure",
+    "Kidney failure"
+   ],
+   "answer": "A",
+   "rationale": "Pleural fluid with many RBCs may result from trauma and may need chest tube drainage.",
+   "explanations": [
+    "Correct: bloody effusion.",
+    "WBCs high.",
+    "Transudate.",
+    "Transudate."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q228 (PDF p. 383)",
+   "quote": "Pleural fluid from an effusion that has a high red blood cell count may result from trauma"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "Which tray should be at the bedside of a client admitted with a left pleural effusion?",
+   "options": [
+    "Intubation",
+    "Paracentesis",
+    "Thoracentesis",
+    "Central line"
+   ],
+   "answer": "C",
+   "rationale": "A significant pleural effusion is usually treated by thoracentesis, and the fluid is analyzed for the cause.",
+   "explanations": [
+    "Not indicated.",
+    "Abdominal.",
+    "Correct: drains the pleura.",
+    "Not indicated."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q269 (PDF p. 426)",
+   "quote": "The client with a significant pleural effusion is usually treated by thoracentesis."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which GI study should be scheduled LAST?",
+   "options": [
+    "Ultrasound",
+    "Colonoscopy",
+    "Barium enema",
+    "Fecal occult blood"
+   ],
+   "answer": "C",
+   "rationale": "Barium may take up to 72 hours to clear and can obscure other tests, so it is done last.",
+   "explanations": [
+    "Not affected.",
+    "Barium interferes.",
+    "Correct: do last.",
+    "Not the issue."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q229 (PDF p. 384)",
+   "quote": "When barium is instilled into the lower GI tract, it may take up to 72 hours to clear the GI tract."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which order does the nurse expect after an upper GI series?",
+   "options": [
+    "Bland diet",
+    "NPO",
+    "Laxative",
+    "Antiemetic"
+   ],
+   "answer": "C",
+   "rationale": "Barium is constipating and can cause obstruction, so laxatives are given routinely.",
+   "explanations": [
+    "Not routine.",
+    "Not needed.",
+    "Correct: clears barium.",
+    "Not routine."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q316 (PDF p. 480)",
+   "quote": "Barium sulfate, which is used as a contrast material during an upper GI series, is constipating."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "How should the client breathe during indirect laryngoscopy?",
+   "options": [
+    "Try to swallow",
+    "Hold the breath",
+    "Breathe normally",
+    "Roll the tongue back"
+   ],
+   "answer": "C",
+   "rationale": "The vocal cords are observed during rest and phonation; the client sits upright and breathes normally.",
+   "explanations": [
+    "Interferes.",
+    "Interferes.",
+    "Correct.",
+    "Interferes."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q250 (PDF p. 407)",
+   "quote": "Indirect laryngoscopy is done to assess the function of the vocal cords or obtain tissue for biopsy."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Before a renal biopsy, which result should be reported?",
+   "options": [
+    "PT 15 seconds",
+    "Hgb 14 g/dL",
+    "Platelets 250,000",
+    "Creatinine 0.9"
+   ],
+   "answer": "A",
+   "rationale": "Hemorrhage is a main complication of renal biopsy. Normal PT is 11–12.5 seconds, so 15 seconds is prolonged.",
+   "explanations": [
+    "Correct: prolonged.",
+    "Normal.",
+    "Normal.",
+    "Normal."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q263 (PDF p. 420)",
+   "quote": "Postprocedure hemorrhage is a complication after renal biopsy."
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "A client with pyelonephritis vomited all night and is due for an IV pyelogram. What is the PRIORITY?",
+   "options": [
+    "Cancel the test",
+    "Give oral fluids",
+    "Give an antiemetic only",
+    "Request an IV infusion"
+   ],
+   "answer": "D",
+   "rationale": "IV fluids replace losses, are needed for dye injection, and help eliminate the dye.",
+   "explanations": [
+    "Not first.",
+    "Not tolerated.",
+    "Incomplete.",
+    "Correct: priority."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q266 (PDF p. 423)",
+   "quote": "The highest priority of the nurse would be to request a prescription for an intravenous infusion."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "Which food should a client on a low-sodium diet avoid?",
+   "options": [
+    "Apples",
+    "Broccoli",
+    "Soy sauce",
+    "Fresh fish"
+   ],
+   "answer": "C",
+   "rationale": "High-sodium foods include table salt, cheeses, soy sauce, cured pork such as ham, canned foods, and cold cuts.",
+   "explanations": [
+    "Low sodium.",
+    "Low sodium.",
+    "Correct: high sodium.",
+    "Low sodium."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q272 (PDF p. 429)",
+   "quote": "Foods highest in sodium include table salt, some cheeses, soy sauce, cured pork"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+   "situation": "",
+   "stem": "What should the nurse tell a client about first cardiac catheterization?",
+   "options": [
+    "'It's done in the OR.'",
+    "'Insertion is very painful.'",
+    "'You'll lie still for 4 hours.'",
+    "'You may feel warmth or palpitations.'"
+   ],
+   "answer": "D",
+   "rationale": "The client may feel sensations such as warmth or flushing with dye and palpitations. It is done in the cath lab under local anesthesia.",
+   "explanations": [
+    "Cath lab.",
+    "Local anesthesia.",
+    "Not accurate.",
+    "Correct: expected sensations."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q277 (PDF p. 434)",
+   "quote": "Cardiac catheterization is an invasive test that involves the insertion of a catheter and the injection of dye"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "A client scheduled for pneumonectomy asks how long chest tubes will stay in. What should the nurse say?",
+   "options": [
+    "'About 3 days.'",
+    "'About a week.'",
+    "'Until drainage stops.'",
+    "'Usually none.'"
+   ],
+   "answer": "D",
+   "rationale": "After pneumonectomy, chest tubes usually are not inserted; the empty cavity fills with serosanguineous fluid.",
+   "explanations": [
+    "Not placed.",
+    "Not placed.",
+    "Not placed.",
+    "Correct."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q322 (PDF p. 487)",
+   "quote": "Chest tubes are not inserted"
+  }
+ ]
+}

@@ -1,0 +1,845 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which findings are typical of a pleural effusion?",
+      "options": [
+        "Moist, productive cough",
+        "Dyspnea at rest only",
+        "Dry cough, dyspnea on exertion",
+        "Wheezing at night"
+      ],
+      "answer": "C",
+      "rationale": "A pleural effusion (fluid in the pleural space) usually causes dyspnea on exertion and a dry, nonproductive cough from bronchial irritation.",
+      "explanations": [
+        "The cough is dry.",
+        "Dyspnea is usually on exertion.",
+        "Correct: typical findings.",
+        "Not typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q227 (PDF p. 382)",
+      "quote": "Typical assessment findings in the client with a pleural effusion include dyspnea, which usually occurs with exertion, and a dry, nonproductive cough."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Mang Lando, 70, is admitted with pneumonia. He has crackles, a productive cough, and dyspnea on exertion.",
+      "stem": "When is the SAFEST time to take Mang Lando for a short walk?",
+      "options": [
+        "After he eats lunch",
+        "After a brief nap",
+        "After he uses his inhaler",
+        "Right after a coughing spell"
+      ],
+      "answer": "C",
+      "rationale": "Activities are scheduled after respiratory treatments. After a bronchodilator he has his best oxygen exchange and tolerates activity better. After meals he tires easily.",
+      "explanations": [
+        "He fatigues after eating.",
+        "Breathing is not improved by a nap.",
+        "Correct: best gas exchange.",
+        "He is fatigued after coughing."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q231 (PDF p. 386)",
+      "quote": "The nurse should schedule activities for the client with pneumonia after the client has received respiratory treatments or medications."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Mang Lando, 70, is admitted with pneumonia. He has crackles, a productive cough, and dyspnea on exertion.",
+      "stem": "Mang Lando says food has lost its taste. What BEST improves his appetite?",
+      "options": [
+        "Snacks between meals",
+        "Three large meals",
+        "Mouth care before meals",
+        "Spicy food for flavor"
+      ],
+      "answer": "C",
+      "rationale": "Expectorating sputum dulls taste, so oral hygiene before meals helps. Small, frequent meals are better because of dyspnea.",
+      "explanations": [
+        "Does not fix the taste.",
+        "Large meals worsen dyspnea.",
+        "Correct: restores taste.",
+        "May irritate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q385 (PDF p. 554)",
+      "quote": "To minimize this adverse effect, the nurse should provide oral hygiene before meals."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Mang Lando, 70, is admitted with pneumonia. He has crackles, a productive cough, and dyspnea on exertion.",
+      "stem": "Mang Lando gets short of breath during activity. Which action promotes his safety?",
+      "options": [
+        "Have him breathe rapidly",
+        "Add stimulation",
+        "Monitor SpO2 with activity",
+        "Walk farther each time"
+      ],
+      "answer": "C",
+      "rationale": "Monitoring vital signs and oxygen saturation before, during, and after activity shows how he tolerates it. Pursed-lip breathing helps.",
+      "explanations": [
+        "Pursed-lip breathing is used.",
+        "Not related.",
+        "Correct: gauges tolerance.",
+        "May overtax him."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1330 (PDF p. 1632)",
+      "quote": "The nurse monitors vital signs, including oxygen saturation, before, during, and after activity to gauge client response."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Mang Lando, 70, is admitted with pneumonia. He has crackles, a productive cough, and dyspnea on exertion.",
+      "stem": "Which discharge statement by Mang Lando shows a need for MORE teaching?",
+      "options": [
+        "'I'll finish all my antibiotics.'",
+        "'I won't need the spirometer anymore.'",
+        "'I'll do my breathing exercises.'",
+        "'I'll get enough rest.'"
+      ],
+      "answer": "B",
+      "rationale": "Incentive spirometry and deep breathing continue for 6 to 8 weeks after discharge to keep the alveoli open and clear secretions.",
+      "explanations": [
+        "Correct practice.",
+        "Correct answer: keep using it for 6 to 8 weeks.",
+        "Correct practice.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q761 (PDF p. 990)",
+      "quote": "Deep breathing and coughing exercises and the use of incentive spirometry should be practiced for 6 to 8 weeks"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "After a sclerosing agent is injected through the chest tube for pleurodesis, what should the nurse do?",
+      "options": [
+        "Ambulate the client",
+        "Clamp the chest tube",
+        "Have him cough and deep breathe",
+        "Increase the suction"
+      ],
+      "answer": "B",
+      "rationale": "The tube is clamped so the agent does not drain back out, and a repositioning schedule spreads it within the pleural space.",
+      "explanations": [
+        "No specific purpose.",
+        "Correct: keeps the agent in place.",
+        "No specific purpose now.",
+        "Would remove the agent."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q234 (PDF p. 389)",
+      "quote": "After injection of the sclerosing agent, the chest tube is clamped to prevent the agent from draining back out of the pleural space."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which intervention BEST promotes comfort for a client with AIDS and Pneumocystis pneumonia?",
+      "options": [
+        "Monitor for bloody sputum",
+        "Review ABG results",
+        "Raise the head of the bed",
+        "Count respirations hourly"
+      ],
+      "answer": "C",
+      "rationale": "Clients with breathing difficulty are usually more comfortable with the head of the bed raised. The other options monitor function rather than provide comfort.",
+      "explanations": [
+        "Monitoring only.",
+        "Monitoring only.",
+        "Correct: eases breathing.",
+        "Monitoring only."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q237 (PDF p. 392)",
+      "quote": "Clients with respiratory difficulties are often more comfortable with the head of the bed elevated."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with empyema will have a bedside thoracentesis. What should be ready in case it is not effective?",
+      "options": [
+        "Code cart",
+        "A small-bore needle",
+        "An extra-large bottle",
+        "Chest tube and drainage system"
+      ],
+      "answer": "D",
+      "rationale": "Empyema is pus in the pleural cavity. If the exudate is too thick for thoracentesis, a chest tube may be needed.",
+      "explanations": [
+        "Not indicated.",
+        "Will not drain thick pus.",
+        "Not the issue.",
+        "Correct: drains thick exudate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q239 (PDF p. 394)",
+      "quote": "If the exudate is too thick for drainage via thoracentesis, the client may require placement of a chest tube"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with empyema is scheduled for decortication. Which fact should guide the nurse's emotional support?",
+      "options": [
+        "It shortens life expectancy",
+        "He will be in severe pain for weeks",
+        "He'll be discharged the next day",
+        "Chest tubes may stay in a long time"
+      ],
+      "answer": "D",
+      "rationale": "Chest tubes remain until the former pus-filled space is obliterated, which may take time and be discouraging.",
+      "explanations": [
+        "Not accurate.",
+        "Not accurate.",
+        "Not accurate.",
+        "Correct: a prolonged recovery."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1005 (PDF p. 1256)",
+      "quote": "the client will have chest tubes in place after surgery, and these must remain until the former pus-filled space is completely obliterated."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Mang Romy, 66, a former jeepney driver who smoked for 40 years, has COPD.",
+      "stem": "Which action shows Mang Romy is doing pursed-lip breathing correctly?",
+      "options": [
+        "Holding his breath for 30 seconds",
+        "Relaxing his abdomen while exhaling",
+        "Inhaling through the mouth",
+        "Exhaling slowly through pursed lips"
+      ],
+      "answer": "D",
+      "rationale": "Prolonging exhalation through pursed lips reduces air trapping from narrowed airways.",
+      "explanations": [
+        "No useful purpose.",
+        "Not the technique.",
+        "He inhales through the nose.",
+        "Correct: prolongs exhalation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q302 (PDF p. 465)",
+      "quote": "Prolonging expiration time reduces air trapping caused by airway narrowing that occurs in COPD."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Mang Romy, 66, a former jeepney driver who smoked for 40 years, has COPD.",
+      "stem": "Mang Romy is at risk for carbon dioxide narcosis. Which oxygen flow rate should the nurse confirm?",
+      "options": [
+        "2 to 3 L/min",
+        "4 to 5 L/min",
+        "6 to 8 L/min",
+        "10 L/min"
+      ],
+      "answer": "A",
+      "rationale": "In CO2 narcosis, the drive to breathe comes from low oxygen. A low flow (2 to 3 L/min) avoids removing that stimulus.",
+      "explanations": [
+        "Correct: low-flow oxygen.",
+        "Too high.",
+        "Too high.",
+        "Too high."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q531 (PDF p. 729)",
+      "quote": "For these clients, the stimulus to breathe is a decreased arterial oxygen concentration."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "Mang Romy, 66, a former jeepney driver who smoked for 40 years, has COPD.",
+      "stem": "Mang Romy is admitted with an exacerbation. Which factor MOST likely contributed?",
+      "options": [
+        "Lower fat intake",
+        "Lower fluid intake",
+        "Sleeping soundly",
+        "Worry about a doctor visit"
+      ],
+      "answer": "B",
+      "rationale": "Dehydration thickens secretions and makes coughing ineffective. Correcting dehydration and teaching coughing technique help limit exacerbations.",
+      "explanations": [
+        "Not a contributing factor.",
+        "Correct: thickens secretions.",
+        "Not a factor.",
+        "Less direct."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q749 (PDF p. 978)",
+      "quote": "The nurse assesses the client for contributing factors such as dehydration and a lack of knowledge of proper coughing techniques."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Mang Romy, 66, a former jeepney driver who smoked for 40 years, has COPD.",
+      "stem": "Which statement by Mang Romy about nutrition needs correction?",
+      "options": [
+        "'I'll rest before I eat.'",
+        "'I'll eat less cabbage.'",
+        "'I'll drink fluids between meals.'",
+        "'I'll eat three big meals daily.'"
+      ],
+      "answer": "D",
+      "rationale": "Large meals distend the abdomen and push up the diaphragm, hindering breathing. Resting before meals reduces fatigue, and gas-forming foods are limited.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate.",
+        "Correct answer: large meals impair breathing."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q760 (PDF p. 989)",
+      "quote": "Large meals distend the abdomen and elevate the diaphragm, which may interfere with breathing"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "Mang Romy, 66, a former jeepney driver who smoked for 40 years, has COPD.",
+      "stem": "What should home teaching for Mang Romy MOST importantly aim to do?",
+      "options": [
+        "Join a support group",
+        "Be more socially active",
+        "Learn his drug names",
+        "Improve oxygenation"
+      ],
+      "answer": "D",
+      "rationale": "COPD is airflow obstruction. Improving oxygenation and minimizing carbon dioxide retention are the primary goals; the other options support them.",
+      "explanations": [
+        "Supportive.",
+        "Supportive.",
+        "Too narrow.",
+        "Correct: the primary goal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q798 (PDF p. 1028)",
+      "quote": "Improving oxygenation and minimizing carbon dioxide retention are the primary goals."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "The home nurse finds a client with emphysema smoking. Which response is MOST therapeutic?",
+      "options": [
+        "'I see you never went to the clinic.'",
+        "'Your secret is out now.'",
+        "'Have you looked at ways to quit?'",
+        "'Smoking will kill you.'"
+      ],
+      "answer": "C",
+      "rationale": "The nurse avoids judgment and explores adaptive strategies without being controlling, leaving the decision with the client.",
+      "explanations": [
+        "Judgmental.",
+        "Judgmental.",
+        "Correct: nonjudgmental exploration.",
+        "Threatening."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q818 (PDF p. 1052)",
+      "quote": "The nurse who observes a maladaptive behavior in a client should not make judgmental comments"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with COPD has a respiratory rate of 35 and extreme dyspnea. Which concern is MOST appropriate?",
+      "options": [
+        "Lack of knowledge",
+        "Activity intolerance only",
+        "Body image concerns",
+        "Difficulty communicating"
+      ],
+      "answer": "D",
+      "rationale": "Speaking clearly requires an intact respiratory system. Extreme dyspnea is a physical alteration that impairs speech.",
+      "explanations": [
+        "No data support it.",
+        "Not the focus here.",
+        "No data support it.",
+        "Correct: dyspnea limits speech."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q964 (PDF p. 1211)",
+      "quote": "Extreme dyspnea is a physical alteration that affects speech."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client is anxious about her first home chest physiotherapy. Which fact should reassure her?",
+      "options": [
+        "It makes you cough often",
+        "It has no risks",
+        "It replaces medicines",
+        "It loosens secretions"
+      ],
+      "answer": "D",
+      "rationale": "CPT mobilizes and clears secretions so breathing is more effective. It does carry some risks.",
+      "explanations": [
+        "Only if secretions are mobilized.",
+        "Risks exist.",
+        "Not true.",
+        "Correct: its purpose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q907 (PDF p. 1150)",
+      "quote": "CPT is an intervention to assist with mobilizing and clearing secretions to enhance more effective breathing."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "A client has had hoarseness for 8 weeks. Which disorder is he at risk for?",
+      "options": [
+        "Thyroid cancer",
+        "Acute laryngitis",
+        "Laryngeal cancer",
+        "Lung cancer"
+      ],
+      "answer": "C",
+      "rationale": "Persistent hoarseness is a common early sign of laryngeal cancer. Eight weeks is too long for acute laryngitis. Risk factors include smoking and heavy alcohol use.",
+      "explanations": [
+        "Not an early sign.",
+        "Too long for an acute problem.",
+        "Correct: an early sign.",
+        "Not an early sign."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q395 (PDF p. 565)",
+      "quote": "Hoarseness is a common early sign of laryngeal cancer"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Forty-eight hours after admission for pleurisy, the pleural friction rub is gone. What does this indicate?",
+      "options": [
+        "The medicine worked",
+        "Inflammation has resolved",
+        "The client is breathing shallowly",
+        "Pleural fluid has accumulated"
+      ],
+      "answer": "D",
+      "rationale": "A friction rub is heard early, before fluid builds up. Once fluid accumulates, there is less friction and the rub disappears.",
+      "explanations": [
+        "Not confirmed.",
+        "Not confirmed.",
+        "Not the reason.",
+        "Correct: fluid separates the pleura."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q397 (PDF p. 567)",
+      "quote": "Once fluid accumulates in the inflamed area, there is less friction between the visceral and parietal lung surfaces, and the pleural friction rub disappears."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which instruction promotes comfort for a client recovering from pleurisy?",
+      "options": [
+        "Take only shallow breaths",
+        "Take as much pain medicine as possible",
+        "Lie on the unaffected side",
+        "Splint the chest when coughing"
+      ],
+      "answer": "D",
+      "rationale": "Splinting the chest wall during coughing and deep breathing eases pain. Shallow breaths promote atelectasis.",
+      "explanations": [
+        "Promotes atelectasis.",
+        "Medication is taken cautiously.",
+        "Not the main instruction.",
+        "Correct: eases coughing pain."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q709 (PDF p. 931)",
+      "quote": "The client with pleurisy should splint the chest wall during coughing and deep breathing."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which statement shows a client understands how to prevent another pulmonary embolism?",
+      "options": [
+        "'I'll limit my fluids.'",
+        "'I'll sit down whenever I can.'",
+        "'I'll wear elastic support stockings.'",
+        "'I'll cross my legs to rest them.'"
+      ],
+      "answer": "C",
+      "rationale": "Elastic stockings improve venous return. Adequate fluids prevent hypercoagulability, and periods of walking are mixed with sitting.",
+      "explanations": [
+        "Promotes clotting.",
+        "Promotes venous stasis.",
+        "Correct: improves venous return.",
+        "Impedes venous return."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q645 (PDF p. 863)",
+      "quote": "The recurrence of pulmonary embolism can be minimized with the wearing of elastic or supportive hose"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client suddenly shows signs of pulmonary embolism. Which order should the nurse carry out FIRST?",
+      "options": [
+        "Apply oxygen",
+        "Give morphine",
+        "Start an IV line",
+        "Get a 12-lead ECG"
+      ],
+      "answer": "A",
+      "rationale": "Hypoxemia is the immediate threat, so oxygen comes first. An IV line for emergency drugs and an ECG follow.",
+      "explanations": [
+        "Correct: treats hypoxemia.",
+        "After oxygen.",
+        "After oxygen.",
+        "After oxygen."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1323 (PDF p. 1625)",
+      "quote": "The client needs oxygen immediately because of hypoxemia"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which findings are typical of rib fractures?",
+      "options": [
+        "Pain on exhaling, deep breaths",
+        "Pain on inhaling, deep breaths",
+        "Pain on exhaling, shallow breaths",
+        "Pain on inhaling, shallow breaths"
+      ],
+      "answer": "D",
+      "rationale": "Fractured ribs hurt on inspiration and palpation. Respirations are shallow, with guarding of the area.",
+      "explanations": [
+        "Not typical.",
+        "Breaths are shallow.",
+        "Pain is on inspiration.",
+        "Correct: typical findings."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1328 (PDF p. 1630)",
+      "quote": "The client with fractured ribs typically has pain over the fracture site with inspiration and to palpation."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which breathing findings does the nurse expect with flail chest?",
+      "options": [
+        "Slow, deep breathing",
+        "Mild bradypnea",
+        "Pallor only",
+        "Paradoxical chest movement"
+      ],
+      "answer": "D",
+      "rationale": "Flail chest causes obvious respiratory distress: severe dyspnea, cyanosis, and paradoxical chest movement, with shallow, rapid, grunting respirations.",
+      "explanations": [
+        "Breathing is rapid.",
+        "Breathing is rapid.",
+        "Incomplete.",
+        "Correct: hallmark findings."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1329 (PDF p. 1631)",
+      "quote": "The client has severe dyspnea and cyanosis accompanied by paradoxical chest movement."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A client with a sucking chest wound has an occlusive dressing and is anxious. What BEST relieves his anxiety?",
+      "options": [
+        "Stay with him",
+        "Turn on the TV",
+        "Explain the ABG results",
+        "Leave the call bell"
+      ],
+      "answer": "A",
+      "rationale": "Staying eases his anxiety and lets the nurse watch for a tension pneumothorax, which the dressing could cause.",
+      "explanations": [
+        "Correct: support plus observation.",
+        "Distraction only.",
+        "Not helpful now.",
+        "Not enough."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q987 (PDF p. 1236)",
+      "quote": "Staying with the client has a twofold benefit."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Equipment for High-Acuity & Emergency Care",
+      "situation": "",
+      "stem": "Continuous bubbling appears in the water-seal chamber of a chest drainage system. What is the likely cause?",
+      "options": [
+        "The system is intact",
+        "The pneumothorax is resolving",
+        "The suction is off",
+        "There is an air leak"
+      ],
+      "answer": "D",
+      "rationale": "Continuous bubbling through inspiration and expiration means air is leaking into the system. A resolving pneumothorax causes intermittent bubbling.",
+      "explanations": [
+        "Not with continuous bubbling.",
+        "Bubbling would be intermittent.",
+        "Affects the suction chamber.",
+        "Correct: an air leak."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1321 (PDF p. 1623)",
+      "quote": "Continuous bubbling in the water-seal chamber through both inspiration and expiration indicates that air is leaking into the system."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Equipment for High-Acuity & Emergency Care",
+      "situation": "",
+      "stem": "The water-seal chamber fluid is below the 2-cm mark. What should the nurse do?",
+      "options": [
+        "Assume there is a leak",
+        "Add suction",
+        "Clamp the tube",
+        "Add sterile water to 2 cm"
+      ],
+      "answer": "D",
+      "rationale": "The water seal must be at 2 cm to keep air from re-entering the pleural space. Water evaporates, so the nurse refills it.",
+      "explanations": [
+        "Not indicated.",
+        "Not indicated.",
+        "Dangerous.",
+        "Correct: restores the seal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1351 (PDF p. 1654)",
+      "quote": "The water-seal chamber should be filled to the 2-cm mark to provide an adequate water seal"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "After chest tube removal, which statement shows a need for MORE teaching?",
+      "options": [
+        "'No heavy lifting for 4 to 6 weeks.'",
+        "'I'll keep taking my pain medicine.'",
+        "'I can remove the dressing today.'",
+        "'I'll report fever or redness.'"
+      ],
+      "answer": "C",
+      "rationale": "The site dressing stays in place until the provider says it may be removed. Heavy lifting is avoided for 4 to 6 weeks.",
+      "explanations": [
+        "Correct practice.",
+        "Correct practice.",
+        "Correct answer: keep the dressing on.",
+        "Correct practice."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1383 (PDF p. 1686)",
+      "quote": "This is maintained in place until the primary health care provider says it may be removed."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which statement before percutaneous IVC filter insertion shows a need for MORE teaching?",
+      "options": [
+        "'It's done under general anesthesia.'",
+        "'Complications are rare.'",
+        "'It helps prevent emboli.'",
+        "'I may go home soon after.'"
+      ],
+      "answer": "A",
+      "rationale": "The percutaneous approach uses local anesthesia. Complications are rare.",
+      "explanations": [
+        "Correct answer: local anesthesia is used.",
+        "Accurate.",
+        "Accurate.",
+        "Accurate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1283 (PDF p. 1583)",
+      "quote": "The percutaneous approach uses local anesthesia."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which emotional reaction in a client with silicosis needs IMMEDIATE intervention?",
+      "options": [
+        "Anxiety",
+        "Depression",
+        "Suicidal ideation",
+        "Ineffective coping"
+      ],
+      "answer": "C",
+      "rationale": "Suicidal ideation is not a normal reaction and warrants immediate intervention. Anxiety, depression, and ineffective coping are common reactions.",
+      "explanations": [
+        "Common.",
+        "Common.",
+        "Correct: requires immediate action.",
+        "Common."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1373 (PDF p. 1676)",
+      "quote": "Suicidal ideation is not a normal emotional reaction with this condition."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Why is positive-pressure ventilation given during electroconvulsive therapy (ECT)?",
+      "options": [
+        "The seizure depresses breathing",
+        "General anesthesia is routine",
+        "A muscle relaxant paralyzes breathing",
+        "It prevents brain damage"
+      ],
+      "answer": "C",
+      "rationale": "A short-acting muscle relaxant is given to prevent injury during the seizure, so ventilation is supported until it wears off, usually within 2 to 3 minutes.",
+      "explanations": [
+        "Not the specific reason.",
+        "Not the specific reason.",
+        "Correct: the relaxant affects the breathing muscles.",
+        "Not the reason."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1272 (PDF p. 1573)",
+      "quote": "The client receives positive pressure ventilation until the muscle relaxant is metabolized, usually within 2 to 3 minutes."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A sputum culture grows Mycobacterium tuberculosis. How should the nurse interpret this?",
+      "options": [
+        "Positive for active TB",
+        "Exposure only",
+        "A false positive",
+        "Needs a skin test to confirm"
+      ],
+      "answer": "A",
+      "rationale": "Culturing M. tuberculosis from sputum or tissue confirms active TB. A skin test helps but does not confirm active disease.",
+      "explanations": [
+        "Correct: confirms active TB.",
+        "A culture confirms disease.",
+        "Not a false positive.",
+        "The culture is confirmatory."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q354 (PDF p. 522)",
+      "quote": "Culture of Mycobacterium tuberculosis from sputum or other body secretions or tissue confirms the diagnosis of active tuberculosis."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which findings suggest pulmonary tuberculosis?",
+      "options": [
+        "High fever and chest pain",
+        "More appetite and chills",
+        "Weight gain and insomnia",
+        "Low-grade fever, fatigue, and cough"
+      ],
+      "answer": "D",
+      "rationale": "Pulmonary TB causes cough, anorexia and weight loss, fatigue, low-grade fever, chills, night sweats, dyspnea, hemoptysis, and chest pain.",
+      "explanations": [
+        "Fever is usually low-grade.",
+        "Appetite decreases.",
+        "Weight is lost.",
+        "Correct: classic TB findings."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1322 (PDF p. 1624)",
+      "quote": "The client with pulmonary tuberculosis generally has a productive or nonproductive cough, anorexia and weight loss, fatigue, low-grade fever"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A client with newly diagnosed TB will be in respiratory isolation for 2 weeks. Which action BEST prevents psychosocial distress?",
+      "options": [
+        "Note whether he has visitors",
+        "Tell staff not to touch him",
+        "Assign a talkative roommate",
+        "Limit nurse visits to save masks"
+      ],
+      "answer": "A",
+      "rationale": "Visitors and social contacts give positive stimulation, and touch helps the client feel socially acceptable. A client in respiratory isolation is in a private room.",
+      "explanations": [
+        "Correct: social contact matters.",
+        "Isolating and stigmatizing.",
+        "Not appropriate in isolation.",
+        "Increases isolation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q963 (PDF p. 1210)",
+      "quote": "The nurse should note whether the client has visitors and social contacts because the presence of others can offer positive stimulation."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which finding relates to chronic sinusitis?",
+      "options": [
+        "Blurred vision",
+        "Loss of smell",
+        "Ear pain only",
+        "High fever"
+      ],
+      "answer": "B",
+      "rationale": "Chronic sinusitis causes anosmia (loss of smell), chronic cough, nasal stuffiness, purulent discharge, and headache worse on waking.",
+      "explanations": [
+        "Not directly associated.",
+        "Correct: anosmia.",
+        "Not typical.",
+        "Not typical of chronic sinusitis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q382 (PDF p. 551)",
+      "quote": "Chronic sinusitis is characterized by anosmia (loss of smell), a chronic cough resulting from nasal discharge"
+    }
+  ]
+}

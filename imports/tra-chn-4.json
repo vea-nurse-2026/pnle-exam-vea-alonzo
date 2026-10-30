@@ -1,0 +1,485 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which DOH-approved herbal medicine is used to clean wounds and as a mouthwash for swollen gums?",
+      "options": [
+        "Bayabas",
+        "Ampalaya",
+        "Bawang",
+        "Sambong"
+      ],
+      "answer": "A",
+      "rationale": "Bayabas (Psidium guajava) leaves are boiled and used to clean wounds twice a day, or lukewarm as a mouthwash for mouth infections and swollen gums.",
+      "explanations": [
+        "Correct: wound and mouth care.",
+        "For mild diabetes.",
+        "For cholesterol.",
+        "For swelling and kidney stones."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Herbal Medicine – Bayabas (PDF p. 98)",
+      "quote": "For cleansing or wounds, mouth infections and swollen gums"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How should a client take bawang (garlic) to help lower cholesterol?",
+      "options": [
+        "One clove weekly",
+        "Two cloves with meals, TID",
+        "Rub juice on skin",
+        "Ten cloves at bedtime"
+      ],
+      "answer": "B",
+      "rationale": "For cholesterol, two cloves of garlic are eaten with meals three times a day. It may be sauteed, boiled, infused, or mixed with vinegar.",
+      "explanations": [
+        "Too little.",
+        "Correct: the dosage.",
+        "Not the use.",
+        "Not the dosage."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Herbal Medicine – Bawang (PDF p. 98–99)",
+      "quote": "Eat two clove of garlic with meals three times a day"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client with mild diabetes asks how to take ampalaya leaf decoction. What should the nurse say?",
+      "options": [
+        "½ glass TID before meals",
+        "1 glass at bedtime",
+        "Apply on the skin",
+        "Drink as desired"
+      ],
+      "answer": "A",
+      "rationale": "Two cups of chopped leaves are boiled in two glasses of water for 15 minutes on low fire; the client drinks ½ glass three times a day before eating.",
+      "explanations": [
+        "Correct: the dosage.",
+        "Not the dosage.",
+        "Not the use.",
+        "Unsafe."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Herbal Medicine – Ampalaya (PDF p. 99)",
+      "quote": "Drink ½ glass three times a day before eating"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Yerba buena is used for body pain. How is the decoction prepared?",
+      "options": [
+        "Covered pot, 1 hour",
+        "Uncovered pot, 15 minutes",
+        "Soaked overnight, no boiling",
+        "Microwaved 2 minutes"
+      ],
+      "answer": "B",
+      "rationale": "Chopped leaves are boiled in two glasses of water for 15 minutes without covering the pot, then cooled and strained. Fresh leaves may also be squeezed onto the painful part.",
+      "explanations": [
+        "Not the method.",
+        "Correct: preparation.",
+        "Not the method.",
+        "Not the method."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Herbal Medicine – Yerba Buena (PDF p. 97)",
+      "quote": "Cleanse thoroughly and chop the leaves, then boil in two glasses of water for 15 minutes."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Which law strengthened Philippine disaster control capability and set up community disaster preparedness?",
+      "options": [
+        "PD 1566",
+        "PD 856",
+        "RA 7719",
+        "RA 9003"
+      ],
+      "answer": "A",
+      "rationale": "PD 1566 (1978) strengthened the Philippine disaster control capability and established the National Program on Community Disaster Preparedness.",
+      "explanations": [
+        "Correct: disaster preparedness.",
+        "Sanitation Code.",
+        "Blood Services Act.",
+        "Solid Waste Act."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Health Emergency Preparedness and Response (PDF p. 99)",
+      "quote": "Presidential Decree No 1566 (1978) – Strengthening the Philippine Disaster Control Capability"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "In disaster management, what is the FIRST priority?",
+      "options": [
+        "Protecting critical resources",
+        "Protecting people at risk",
+        "Documenting damage",
+        "Restoring livelihood"
+      ],
+      "answer": "B",
+      "rationale": "The first priority is protecting people at risk. The second is protecting the critical resources and systems communities depend on.",
+      "explanations": [
+        "Second priority.",
+        "Correct: first priority.",
+        "Not first.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Health Emergency Preparedness and Response (PDF p. 99)",
+      "quote": "First priority: protection of the people who are at risk"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "A serious disruption causing losses that exceed the community's ability to cope with its own resources is a:",
+      "options": [
+        "Hazard",
+        "Disaster",
+        "Risk",
+        "Emergency drill"
+      ],
+      "answer": "B",
+      "rationale": "A disaster is a serious disruption of a society causing widespread human, material, or environmental losses that exceed its ability to cope using its own resources. A hazard is a phenomenon with potential to cause damage.",
+      "explanations": [
+        "Potential cause.",
+        "Correct: disaster.",
+        "Likelihood of harm.",
+        "Not the definition."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Disaster and Health Emergency Management (PDF p. 99)",
+      "quote": "exceed the ability of the affected society to cope, using only its own resources."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Nurse Ben is screening donors at a barangay blood-letting drive under the National Voluntary Blood Services Program (RA 7719).",
+      "stem": "What is the minimum weight to donate 450 mL of blood?",
+      "options": [
+        "40 kg",
+        "45 kg",
+        "50 kg",
+        "60 kg"
+      ],
+      "answer": "C",
+      "rationale": "Donors must weigh more than 45 kg for 250 mL and 50 kg (110 lb) for 450 mL of donated blood.",
+      "explanations": [
+        "Too low.",
+        "For 250 mL.",
+        "Correct: for 450 mL.",
+        "Higher than required."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, National Voluntary Blood Services Program (PDF p. 100)",
+      "quote": "50kg (110 lbs) for 450 ml of donated blood"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Nurse Ben is screening donors at a barangay blood-letting drive under the National Voluntary Blood Services Program (RA 7719).",
+      "stem": "A 17-year-old student wants to donate. What does Nurse Ben need?",
+      "options": [
+        "He is too young",
+        "Parental consent",
+        "A doctor's order",
+        "Nothing extra"
+      ],
+      "answer": "B",
+      "rationale": "Donors may be 16 to 65 years old; those aged 16 and 17 need parental consent.",
+      "explanations": [
+        "16 is the minimum.",
+        "Correct: parental consent.",
+        "Not required.",
+        "Consent is needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, National Voluntary Blood Services Program (PDF p. 100)",
+      "quote": "Be aged 16-65 years (for ages 16 & 17, parental consent is need)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Population Groups",
+      "situation": "Nurse Ben is screening donors at a barangay blood-letting drive under the National Voluntary Blood Services Program (RA 7719).",
+      "stem": "Which volunteer should Nurse Ben DEFER from donating?",
+      "options": [
+        "BP 120/80, weight 55 kg",
+        "Hemoglobin 13 g/dL",
+        "History of malaria",
+        "Age 40, healthy"
+      ],
+      "answer": "C",
+      "rationale": "Contraindications include malaria, diabetes, cancer, heart disease, epilepsy, STIs, kidney or liver disease, and prohibited drug use. Hemoglobin must be at least 12.5 g/dL.",
+      "explanations": [
+        "Eligible.",
+        "Eligible.",
+        "Correct: a contraindication.",
+        "Eligible."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, National Voluntary Blood Services Program (PDF p. 100)",
+      "quote": "Malaria"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "Nurse Ben is screening donors at a barangay blood-letting drive under the National Voluntary Blood Services Program (RA 7719).",
+      "stem": "Which after-donation instruction should Nurse Ben give?",
+      "options": [
+        "Remove the dressing right away",
+        "Smoke to relax",
+        "Increase fluid intake",
+        "Carry heavy items with that arm"
+      ],
+      "answer": "C",
+      "rationale": "After donating: keep the dressing on 3 to 12 hours, avoid heavy lifting with that arm, no smoking for 2 hours, no alcohol for 12 hours, and eat regular meals with more fluids.",
+      "explanations": [
+        "Keep it 3–12 hours.",
+        "Avoid for 2 hours.",
+        "Correct: replaces volume.",
+        "Avoid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, National Voluntary Blood Services Program (PDF p. 100)",
+      "quote": "Eat regular meals and increase fluid intake following your donation"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Whose commitment is required to supervise the operations of a Botika ng Barangay?",
+      "options": [
+        "The barangay captain",
+        "A licensed pharmacist",
+        "The rural health physician",
+        "The PHN"
+      ],
+      "answer": "B",
+      "rationale": "A Botika ng Barangay requires a commitment from a licensed pharmacist to supervise its operations, plus at least 2 trained BHWs as aides.",
+      "explanations": [
+        "Not the supervisor.",
+        "Correct: pharmacist.",
+        "Not required.",
+        "Not the supervisor."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Botika ng Barangay (PDF p. 101)",
+      "quote": "Commitment form a licensed pharmacist to supervise Botika ng Barangay operations"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "How much of a Botika ng Barangay's initial capital must come from the community?",
+      "options": [
+        "At least 1/10",
+        "At least 1/3",
+        "At least 1/2",
+        "All of it"
+      ],
+      "answer": "B",
+      "rationale": "At least one-third of the initial capital must be community-sourced, and at least one-third from the LGU or other government officials.",
+      "explanations": [
+        "Too little.",
+        "Correct: one-third.",
+        "Not the rule.",
+        "Not the rule."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Botika ng Barangay (PDF p. 101)",
+      "quote": "Community-sourced funds at least 1/3 of the initial capital requirements"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "Nursing students are starting a COPAR program in a depressed coastal barangay.",
+      "stem": "In which COPAR phase do the students select the site and do a preliminary social investigation?",
+      "options": [
+        "Pre-entry",
+        "Entry",
+        "Community study",
+        "Sustenance"
+      ],
+      "answer": "A",
+      "rationale": "The pre-entry phase is done before going to the community: site selection criteria, site selection, preliminary social investigation, and networking with LGUs and NGOs.",
+      "explanations": [
+        "Correct: before entering.",
+        "Integration and core group.",
+        "Data gathering.",
+        "Final phase."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, COPAR Process (PDF p. 102)",
+      "quote": "Done before going to the community"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "Nursing students are starting a COPAR program in a depressed coastal barangay.",
+      "stem": "Which criterion should guide site selection for COPAR?",
+      "options": [
+        "Wealthy, well-served area",
+        "Health services are inaccessible",
+        "Ongoing armed conflict",
+        "Community rejects the program"
+      ],
+      "answer": "B",
+      "rationale": "Criteria: a socio-economically depressed, underserved community, inaccessible health services, poor health status, relative peace and order, and acceptance of the program.",
+      "explanations": [
+        "The opposite.",
+        "Correct: a criterion.",
+        "Needs peace and order.",
+        "Needs acceptance."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, COPAR Process (PDF p. 102)",
+      "quote": "Health services are inaccessible"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "Nursing students are starting a COPAR program in a depressed coastal barangay.",
+      "stem": "The students live with the residents and share their hardships to build trust. Which COPAR activity is this?",
+      "options": [
+        "Integration",
+        "Ground working",
+        "Social mobilization",
+        "Role play"
+      ],
+      "answer": "A",
+      "rationale": "Integration is establishing rapport by immersing in community life and sharing the people's hopes and hardships to build mutual trust and cooperation.",
+      "explanations": [
+        "Correct: integration.",
+        "One-to-one motivation.",
+        "Collective action.",
+        "Rehearsing a meeting."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, 10 Critical Activities in COPAR (PDF p. 103)",
+      "quote": "Establishing rapport with the people in a continuing effort to imbibe community life"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "Nursing students are starting a COPAR program in a depressed coastal barangay.",
+      "stem": "The students go house to house, motivating residents one-on-one to act on an issue. What is this called?",
+      "options": [
+        "Integration",
+        "Ground working",
+        "Community meeting",
+        "Reflection"
+      ],
+      "answer": "B",
+      "rationale": "Ground working, also called agitation, means going around and motivating people one-on-one to do something about community issues.",
+      "explanations": [
+        "Building rapport.",
+        "Correct: ground working.",
+        "Ratifies decisions.",
+        "Analyzes past action."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, 10 Critical Activities in COPAR (PDF p. 103–104)",
+      "quote": "This entails going around and motivating people on a one-to-one basis to do something about community issues."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "Nursing students are starting a COPAR program in a depressed coastal barangay.",
+      "stem": "Which criterion is used to choose core group members?",
+      "options": [
+        "Wealthy and influential",
+        "Respected and from the poor sector",
+        "Appointed by the mayor",
+        "Already holds office"
+      ],
+      "answer": "B",
+      "rationale": "Core group members should be respected, from the poor sector, responsible and committed to social change, willing to learn, and able to communicate.",
+      "explanations": [
+        "Not the criterion.",
+        "Correct: core group criterion.",
+        "Leaders emerge through action.",
+        "Not required."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, COPAR Entry Phase (PDF p. 102)",
+      "quote": "Belongs to the poor sector of society"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "How are leaders identified in COPAR?",
+      "options": [
+        "Appointed by outsiders",
+        "They emerge through action",
+        "Chosen by the nurse",
+        "By seniority"
+      ],
+      "answer": "B",
+      "rationale": "COPAR is group-oriented, not leader-oriented. Leaders emerge and are tested through action rather than being appointed by an external entity.",
+      "explanations": [
+        "Not COPAR.",
+        "Correct: emerge in action.",
+        "External choice.",
+        "Not the basis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, COPAR Principles (PDF p. 101)",
+      "quote": "Leaders are identified, emerge and are tested through action"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Utilization of Research",
+      "situation": "",
+      "stem": "How does participatory action research differ from traditional research?",
+      "options": [
+        "Experts define the problem",
+        "Community members define the problem",
+        "Outsiders control the process",
+        "Researchers write the action plan"
+      ],
+      "answer": "B",
+      "rationale": "In PAR, community members define the research problem as experts of their own reality and carry out the research, and the purpose is empowerment. In traditional research, external experts define and control it.",
+      "explanations": [
+        "Traditional research.",
+        "Correct: PAR.",
+        "Traditional research.",
+        "Community writes it in PAR."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Participatory Action Research (PDF p. 104)",
+      "quote": "Research problems are defined by the community members themselves who are viewed as experts of their own reality"
+    }
+  ]
+}

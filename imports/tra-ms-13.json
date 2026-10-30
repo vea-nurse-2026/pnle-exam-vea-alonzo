@@ -1,0 +1,509 @@
+{
+ "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+ "questions": [
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Which routine urinalysis finding is abnormal?",
+   "options": [
+    "Albumin positive",
+    "pH of 6.0",
+    "SG of 1.015",
+    "Straw color"
+   ],
+   "answer": "A",
+   "rationale": "Normal urine has no albumin; pH 4.5–8, SG 1.010–1.020, straw/amber color.",
+   "explanations": [
+    "Correct.",
+    "Normal.",
+    "Normal.",
+    "Normal."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Normal Urine Values (PDF p. 381)",
+   "quote": "Albumin: (-)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Why are women more prone to cystitis than men?",
+   "options": [
+    "Shorter urethra",
+    "Larger bladder",
+    "Less estrogen",
+    "More fluids"
+   ],
+   "answer": "A",
+   "rationale": "A short urethra close to the rectum allows ascending E. coli infection.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Protective."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "TRA Nursing Module, Cystitis (PDF p. 381)",
+   "quote": "Female (shorter urethra, childbirth, anatomic proximity of urethra to rectum)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which teaching helps prevent recurrent cystitis?",
+   "options": [
+    "Void after intercourse",
+    "Hold urine long",
+    "Drink more coffee",
+    "Limit fluids"
+   ],
+   "answer": "A",
+   "rationale": "Void after intercourse, void frequently, hydrate, avoid irritants, wipe front to back.",
+   "explanations": [
+    "Correct.",
+    "Stasis.",
+    "Irritant.",
+    "Stasis."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Cystitis Management (PDF p. 381)",
+   "quote": "Empty bladder after sexual intercourse"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which organism most commonly causes cystitis?",
+   "options": [
+    "E. coli",
+    "S. aureus",
+    "Candida",
+    "Pseudomonas"
+   ],
+   "answer": "A",
+   "rationale": "Ascending E. coli infection is most common.",
+   "explanations": [
+    "Correct.",
+    "Less common.",
+    "Less common.",
+    "Less common."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Cystitis (PDF p. 381)",
+   "quote": "Usually caused by an ascending bacterial infection (E.coli)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Colicky pain radiating from the flank down to the genitalia suggests:",
+   "options": [
+    "Ureteral stone",
+    "Cystitis",
+    "BPH",
+    "Appendicitis"
+   ],
+   "answer": "A",
+   "rationale": "Ureterolithiasis causes excruciating, wavelike pain radiating to thigh and genitalia.",
+   "explanations": [
+    "Correct.",
+    "Suprapubic.",
+    "Obstruction.",
+    "RLQ."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Urolithiasis (PDF p. 382)",
+   "quote": "radiating down the thigh to the genitalia"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "What is a key nursing action for a client with renal colic?",
+   "options": [
+    "Strain all urine",
+    "Restrict fluids",
+    "Keep on bed rest",
+    "Give calcium"
+   ],
+   "answer": "A",
+   "rationale": "Strain urine and save stones for analysis; force fluids about 3 L/day.",
+   "explanations": [
+    "Correct.",
+    "Opposite.",
+    "Ambulate.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Urolithiasis Nursing (PDF p. 383)",
+   "quote": "Stain urine using gauze pad & save solid materials for analysis"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Allopurinol is prescribed for which type of kidney stone?",
+   "options": [
+    "Uric acid",
+    "Struvite",
+    "Calcium phosphate",
+    "Cystine"
+   ],
+   "answer": "A",
+   "rationale": "Allopurinol lowers uric acid; a low-purine diet also helps.",
+   "explanations": [
+    "Correct.",
+    "Infection.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Urolithiasis Management (PDF p. 383)",
+   "quote": "Allopurinol (uric acid)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Nutrition & Gastrointestinal Disorders",
+   "situation": "",
+   "stem": "A client with uric acid stones should limit:",
+   "options": [
+    "Sardines",
+    "Rice",
+    "Apples",
+    "Water"
+   ],
+   "answer": "A",
+   "rationale": "Uric acid stones: low-purine diet; avoid anchovies, sardines, organ meats.",
+   "explanations": [
+    "Correct.",
+    "Low purine.",
+    "Low purine.",
+    "Encouraged."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Stone Types (PDF p. 382)",
+   "quote": "Anchovies, organ meat, whole grain, nuts, sardines"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Which stone forms from urea-splitting bacteria?",
+   "options": [
+    "Struvite",
+    "Uric acid",
+    "Cystine",
+    "Calcium oxalate"
+   ],
+   "answer": "A",
+   "rationale": "Struvite (alkaline) stones are associated with infection.",
+   "explanations": [
+    "Correct.",
+    "Purines.",
+    "Genetic.",
+    "Diet."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Stone Types (PDF p. 382)",
+   "quote": "Struvite Urea-splitting bacteria"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Nocturia, hesitancy, and weak urine stream in a 65-year-old man suggest:",
+   "options": [
+    "Benign prostatic hyperplasia",
+    "Cystitis",
+    "Pyelonephritis",
+    "Glomerulonephritis"
+   ],
+   "answer": "A",
+   "rationale": "BPH constricts the urethra causing obstructive symptoms.",
+   "explanations": [
+    "Correct.",
+    "Dysuria.",
+    "Fever.",
+    "Edema."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, BPH (PDF p. 383)",
+   "quote": "Decrease in force of urine steam"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Cellular Aberrations",
+   "situation": "",
+   "stem": "Finasteride treats BPH by:",
+   "options": [
+    "Shrinking the prostate",
+    "Relaxing bladder neck",
+    "Killing bacteria",
+    "Increasing urine output"
+   ],
+   "answer": "A",
+   "rationale": "5-alpha reductase inhibition reduces glandular hyperplasia; terazosin relaxes smooth muscle.",
+   "explanations": [
+    "Correct.",
+    "Terazosin.",
+    "Antibiotic.",
+    "Diuretic."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "TRA Nursing Module, BPH Management (PDF p. 384)",
+   "quote": "Atrophy of prostate gland"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "After TURP, the drainage becomes bright red. The nurse should:",
+   "options": [
+    "Increase irrigation rate",
+    "Stop irrigation",
+    "Clamp the catheter",
+    "Restrict fluids"
+   ],
+   "answer": "A",
+   "rationale": "Increase continuous bladder irrigation flow to clear reddish drainage and prevent clots.",
+   "explanations": [
+    "Correct.",
+    "Clots.",
+    "Obstruction.",
+    "Increase fluids."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, TURP Care (PDF p. 384)",
+   "quote": "If drainage is reddish, increase flow rate"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Care of Patients Undergoing Surgery",
+   "situation": "",
+   "stem": "Why is sterile normal saline used for bladder irrigation after TURP?",
+   "options": [
+    "Prevent water intoxication",
+    "Lower cost",
+    "Warm the bladder",
+    "Stop bleeding"
+   ],
+   "answer": "A",
+   "rationale": "Hypotonic fluid can be absorbed, causing water intoxication.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not main."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "TRA Nursing Module, TURP Care (PDF p. 384)",
+   "quote": "Us a sterile NSS to prevent water intoxication"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "Which discharge instruction is appropriate after prostatectomy?",
+   "options": [
+    "Avoid straining at stool",
+    "Lift heavy objects",
+    "Sit for long trips",
+    "Restrict fluids"
+   ],
+   "answer": "A",
+   "rationale": "Avoid straining, heavy lifting, prolonged sitting, and long trips; do Kegel exercises.",
+   "explanations": [
+    "Correct.",
+    "Bleeding.",
+    "Bleeding.",
+    "Increase."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, TURP Discharge (PDF p. 384)",
+   "quote": "Straining w/defecation"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Fever, chills, flank pain, and CVA tenderness suggest:",
+   "options": [
+    "Acute pyelonephritis",
+    "Cystitis",
+    "BPH",
+    "Urethritis"
+   ],
+   "answer": "A",
+   "rationale": "Kidney infection causes systemic signs and costovertebral tenderness.",
+   "explanations": [
+    "Correct.",
+    "Lower tract.",
+    "Obstruction.",
+    "Discharge."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Pyelonephritis (PDF p. 385)",
+   "quote": "Costovertebral"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Acute post-streptococcal glomerulonephritis typically follows a strep throat by:",
+   "options": [
+    "7–10 days",
+    "1 day",
+    "6 months",
+    "1 year"
+   ],
+   "answer": "A",
+   "rationale": "AGN appears 7–10 days after GABHS infection.",
+   "explanations": [
+    "Correct.",
+    "Too soon.",
+    "Too late.",
+    "Too late."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, AGN (PDF p. 385)",
+   "quote": "After 7 - 10 days after streptococcal throat infection"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "What is the pathognomonic sign of acute glomerulonephritis?",
+   "options": [
+    "Periorbital edema",
+    "Anasarca",
+    "Polyuria",
+    "Jaundice"
+   ],
+   "answer": "A",
+   "rationale": "Periorbital edema with hematuria, hypertension, and oliguria.",
+   "explanations": [
+    "Correct.",
+    "Nephrotic.",
+    "Oliguria.",
+    "Liver."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, AGN (PDF p. 386)",
+   "quote": "Pathognomonic sign: Periorbital edema"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Infectious, Inflammatory & Immunologic Disorders",
+   "situation": "",
+   "stem": "Which diet is ordered for acute glomerulonephritis?",
+   "options": [
+    "Restrict sodium and fluids",
+    "High sodium",
+    "High potassium",
+    "Unlimited fluids"
+   ],
+   "answer": "A",
+   "rationale": "Restrict sodium, fluid, and protein; give carbohydrates liberally.",
+   "explanations": [
+    "Correct.",
+    "Retention.",
+    "Hyperkalemia.",
+    "Overload."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, AGN Management (PDF p. 386)",
+   "quote": "Dietary restriction of sodium, fluid & protein"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Massive proteinuria with anasarca indicates:",
+   "options": [
+    "Nephrotic syndrome",
+    "Acute GN",
+    "Cystitis",
+    "Renal colic"
+   ],
+   "answer": "A",
+   "rationale": "Increased glomerular permeability causes massive protein loss and generalized edema.",
+   "explanations": [
+    "Correct.",
+    "Hematuria.",
+    "Infection.",
+    "Stone."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Nephrotic Syndrome (PDF p. 387)",
+   "quote": "Pathognomonic sign: Anasarca (generalized edema)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Acute renal failure from severe hemorrhage and hypotension is classified as:",
+   "options": [
+    "Pre-renal",
+    "Intra-renal",
+    "Post-renal",
+    "Chronic"
+   ],
+   "answer": "A",
+   "rationale": "Pre-renal: hypoperfusion; intra-renal: tissue damage; post-renal: obstruction.",
+   "explanations": [
+    "Correct.",
+    "Nephrotoxins.",
+    "Obstruction.",
+    "Progressive."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Acute Renal Failure (PDF p. 387)",
+   "quote": "Hypoperfusion of kidney"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Acute renal failure caused by an enlarged prostate is:",
+   "options": [
+    "Post-renal",
+    "Pre-renal",
+    "Intra-renal",
+    "Nephrotic"
+   ],
+   "answer": "A",
+   "rationale": "Urinary tract obstruction causes post-renal failure.",
+   "explanations": [
+    "Correct.",
+    "Perfusion.",
+    "Tissue.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Acute Renal Failure (PDF p. 387)",
+   "quote": "Obstruction to urine flow"
+  }
+ ]
+}

@@ -1,0 +1,701 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Florence Nightingale's theory focuses on using which factor to help the patient recover?",
+      "options": [
+        "The environment",
+        "Self-care",
+        "Adaptation",
+        "Interpersonal relations"
+      ],
+      "answer": "A",
+      "rationale": "Nightingale's Environmental Theory uses the patient's environment (fresh air, pure water, drainage, cleanliness, light) to assist recovery.",
+      "explanations": [
+        "Correct.",
+        "Orem.",
+        "Roy.",
+        "Peplau."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 1)",
+      "quote": "Act of utilizing ENVIRONMENT of the patient to assist him in his recovery"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which theorist described 14 fundamental needs the nurse helps the client meet toward independence?",
+      "options": [
+        "Faye Abdellah",
+        "Virginia Henderson",
+        "Dorothy Johnson",
+        "Imogene King"
+      ],
+      "answer": "B",
+      "rationale": "Henderson's Nature of Nursing Model has the nurse assist people to gain independence in meeting 14 fundamental needs.",
+      "explanations": [
+        "21 problems.",
+        "Correct.",
+        "7 subsystems.",
+        "Goal attainment."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 1)",
+      "quote": "14 Fundamental Needs"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which theorist identified 21 nursing problems?",
+      "options": [
+        "Faye Abdellah",
+        "Myra Levine",
+        "Betty Neuman",
+        "Lydia Hall"
+      ],
+      "answer": "A",
+      "rationale": "Abdellah's Patient-Centered Approaches to Nursing identifies 21 nursing problems.",
+      "explanations": [
+        "Correct.",
+        "Conservation.",
+        "Systems.",
+        "Care-core-cure."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 1)",
+      "quote": "Identifies 21 nursing problems"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Imogene King's theory views nursing as an interaction leading to what?",
+      "options": [
+        "Adaptation",
+        "Goal attainment",
+        "Self-care",
+        "Conservation"
+      ],
+      "answer": "B",
+      "rationale": "King's Goal Attainment Theory sees nursing as nurse-patient interaction leading to goal attainment, with personal, interpersonal, and social systems.",
+      "explanations": [
+        "Roy.",
+        "Correct.",
+        "Orem.",
+        "Levine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 2)",
+      "quote": "Viewed nursing as an interaction process between patient and nurse that lead to goal attainment"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which theory says caring is universal but its expression varies by culture?",
+      "options": [
+        "Leininger's Transcultural Nursing",
+        "Rogers' Unitary Human Beings",
+        "Watson's Human Caring",
+        "Parse's Human Becoming"
+      ],
+      "answer": "A",
+      "rationale": "Leininger's Cultural Care Diversity and Universality theory holds that caring is universal but culturally expressed, with three intervention modes.",
+      "explanations": [
+        "Correct.",
+        "Energy fields.",
+        "Carative factors.",
+        "Meaning."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 2)",
+      "quote": "Emphasizes that human caring, although universal, varies among cultures"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Myra Levine's model proposes conservation of which?",
+      "options": [
+        "Energy and integrity",
+        "Goals and roles",
+        "Stress and coping",
+        "Care and cure"
+      ],
+      "answer": "A",
+      "rationale": "Levine's four conservation principles: energy, structural integrity, personal integrity, and social integrity.",
+      "explanations": [
+        "Correct.",
+        "King.",
+        "Neuman.",
+        "Hall."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 2)",
+      "quote": "Conservation of energy"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which theorist classified stressors as intrapersonal, interpersonal, and extrapersonal?",
+      "options": [
+        "Betty Neuman",
+        "Dorothy Johnson",
+        "Hildegard Peplau",
+        "Ida Orlando"
+      ],
+      "answer": "A",
+      "rationale": "Neuman's Health Care Systems Model addresses stressors within, between, and outside the person; nursing maintains system stability.",
+      "explanations": [
+        "Correct.",
+        "Behavioral system.",
+        "Interpersonal.",
+        "Nurse-patient process."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 2)",
+      "quote": "intrapersonal stressors (within the individual), interpersonal (occurs between individuals ) and extra personal"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A client unable to perform any self-care after a stroke needs which Orem nursing system?",
+      "options": [
+        "Wholly compensatory",
+        "Partly compensatory",
+        "Supportive-educative",
+        "Developmental"
+      ],
+      "answer": "A",
+      "rationale": "Wholly compensatory care is for those unable to control their environment and process information; partly compensatory for some activities; supportive-educative for learning self-care.",
+      "explanations": [
+        "Correct.",
+        "Some activities.",
+        "Learning.",
+        "Not an Orem system."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 2)",
+      "quote": "Wholly Compensatory- for individuals who are unable to control and monitor their environment"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A new diabetic needs teaching to give his own insulin. Which Orem system applies?",
+      "options": [
+        "Wholly compensatory",
+        "Partly compensatory",
+        "Supportive-educative",
+        "Custodial"
+      ],
+      "answer": "C",
+      "rationale": "Supportive-educative care is for clients who need to learn self-care measures with assistance.",
+      "explanations": [
+        "Total care.",
+        "Partial care.",
+        "Correct.",
+        "Not Orem."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 2)",
+      "quote": "Supportive-Educative- for clients who need to learn to perform self-care measure"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "What are the phases of Peplau's interpersonal relations model?",
+      "options": [
+        "Orientation to resolution",
+        "Pre-orientation to termination",
+        "Assessment to evaluation",
+        "Denial to acceptance"
+      ],
+      "answer": "A",
+      "rationale": "Peplau described orientation, identification, exploitation, and resolution in the therapeutic nurse-client relationship.",
+      "explanations": [
+        "Correct.",
+        "Other model.",
+        "Nursing process.",
+        "Grief."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 2)",
+      "quote": "Orientation"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which theorist views the person as an irreducible energy field, greater than the sum of parts?",
+      "options": [
+        "Martha Rogers",
+        "Callista Roy",
+        "Jean Watson",
+        "Lydia Hall"
+      ],
+      "answer": "A",
+      "rationale": "Rogers' Science of Unitary Human Beings sees the person as an irreducible, four-dimensional energy field.",
+      "explanations": [
+        "Correct.",
+        "Adaptation.",
+        "Caring.",
+        "Care-core-cure."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 2)",
+      "quote": "Views the person as an irreducible whole, the whole being is greater than the sum of its parts"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which is one of Roy's four adaptive modes?",
+      "options": [
+        "Role-function",
+        "Self-care",
+        "Conservation",
+        "Goal attainment"
+      ],
+      "answer": "A",
+      "rationale": "Roy's adaptive modes are physiologic, self-concept, role-function, and interdependence.",
+      "explanations": [
+        "Correct.",
+        "Orem.",
+        "Levine.",
+        "King."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 3)",
+      "quote": "Role-function mode"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "In Lydia Hall's model, which circle involves the therapeutic use of self?",
+      "options": [
+        "Care",
+        "Core",
+        "Cure",
+        "Cause"
+      ],
+      "answer": "B",
+      "rationale": "Care is nurturance exclusive to nursing; core is therapeutic use of self and reflection; cure is nursing related to physician's orders.",
+      "explanations": [
+        "Nurturance.",
+        "Correct.",
+        "Medical orders.",
+        "Not in model."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 3)",
+      "quote": "Core- involves the therapeutic use of self"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Ida Orlando's three elements of the nursing situation are client behavior, nurse reaction, and:",
+      "options": [
+        "Nurse action",
+        "Goal setting",
+        "Environment",
+        "Adaptation"
+      ],
+      "answer": "A",
+      "rationale": "Orlando's Dynamic Nurse-Patient Relationship: client behavior, nurse reaction, and nurse action.",
+      "explanations": [
+        "Correct.",
+        "Not her element.",
+        "Nightingale.",
+        "Roy."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 3)",
+      "quote": "Nurse action"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which theorist made caring the central, unifying focus of nursing with 10 carative factors?",
+      "options": [
+        "Jean Watson",
+        "Rosemarie Parse",
+        "Madeleine Leininger",
+        "Dorothy Johnson"
+      ],
+      "answer": "A",
+      "rationale": "Watson's Human Caring Theory centers practice on caring, using 10 carative factors.",
+      "explanations": [
+        "Correct.",
+        "Human becoming.",
+        "Culture.",
+        "Behavior."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Nursing Theories (PDF p. 3)",
+      "quote": "Practice of caring is central to nursing: it is the unifying focus for practice"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Personal & Professional Development",
+      "situation": "",
+      "stem": "A nurse with 2–3 years' experience coordinates complex care and plans well. Which Benner stage is this?",
+      "options": [
+        "Novice",
+        "Advanced beginner",
+        "Competent",
+        "Expert"
+      ],
+      "answer": "C",
+      "rationale": "Competent nurses (2–3 years) show organization and planning and coordinate multiple complex care demands.",
+      "explanations": [
+        "Student.",
+        "Marginal.",
+        "Correct.",
+        "Intuitive."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Benner's Stages (PDF p. 6)",
+      "quote": "Coordinates multiple complex care demands"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Personal & Professional Development",
+      "situation": "",
+      "stem": "A nurse acts because 'it felt right,' without needing rules. Which Benner stage?",
+      "options": [
+        "Advanced beginner",
+        "Competent",
+        "Proficient",
+        "Expert"
+      ],
+      "answer": "D",
+      "rationale": "Experts perform fluidly without rules or maxims, often acting on intuition.",
+      "explanations": [
+        "Needs rules.",
+        "Plans.",
+        "Uses maxims.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Benner's Stages (PDF p. 6)",
+      "quote": "Inclined to take a certain action because “it felt right”."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Personal & Professional Development",
+      "situation": "",
+      "stem": "A proficient nurse (3–5 years) is characterized by which?",
+      "options": [
+        "Follows rigid rules",
+        "Sees situations as a whole",
+        "No experience",
+        "Marginal performance"
+      ],
+      "answer": "B",
+      "rationale": "Proficient nurses perceive situations holistically, use maxims, and focus on long-term goals.",
+      "explanations": [
+        "Novice.",
+        "Correct.",
+        "Novice.",
+        "Advanced beginner."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Benner's Stages (PDF p. 6)",
+      "quote": "Perceives situations as a whole rather than in terms of parts"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which nurse role helps clients exercise their rights and speak for themselves?",
+      "options": [
+        "Change agent",
+        "Client advocate",
+        "Manager",
+        "Researcher"
+      ],
+      "answer": "B",
+      "rationale": "The advocate protects the client and helps them exercise their rights.",
+      "explanations": [
+        "Behavior change.",
+        "Correct.",
+        "Planning.",
+        "Inquiry."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Roles of a Nurse (PDF p. 5)",
+      "quote": "Nurse assist clients in exercising their rights and help them speak for themselves"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "In the communication process, the message returned by the receiver is called:",
+      "options": [
+        "Channel",
+        "Encoding",
+        "Feedback",
+        "Sender"
+      ],
+      "answer": "C",
+      "rationale": "Feedback is the response returned by the receiver to the sender.",
+      "explanations": [
+        "Means of conveying.",
+        "Sender's step.",
+        "Correct.",
+        "Originator."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Communication (PDF p. 6)",
+      "quote": "Response/feedback- message returned by the receiver to the sender"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Reporting & Recording",
+      "situation": "",
+      "stem": "Which record type groups data by problem and includes a database, problem list, plan, and progress notes?",
+      "options": [
+        "Source-oriented record",
+        "Problem-oriented record",
+        "Kardex",
+        "Incident report"
+      ],
+      "answer": "B",
+      "rationale": "The POMR has four components: database, problem list, initial plan, and progress notes (SOAPIE).",
+      "explanations": [
+        "By department.",
+        "Correct.",
+        "Quick reference.",
+        "Event report."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Documentation (PDF p. 7)",
+      "quote": "4 BASIC COMPONENTS OF POMR"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Reporting & Recording",
+      "situation": "",
+      "stem": "Which documentation tool may be written in pencil for frequently changing care details?",
+      "options": [
+        "Nurses' notes",
+        "Kardex",
+        "Medication record",
+        "Incident report"
+      ],
+      "answer": "B",
+      "rationale": "The Kardex is a concise, quickly updated organizer that may be written in pencil.",
+      "explanations": [
+        "Permanent ink.",
+        "Correct.",
+        "Permanent ink.",
+        "Permanent."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Kardex (PDF p. 7)",
+      "quote": "May be written in a pencil to ease in recording frequent change in details of client care"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Reporting & Recording",
+      "situation": "",
+      "stem": "Which entry is the BEST nurses' note?",
+      "options": [
+        "'Client was uncooperative.'",
+        "'Client refused medication.'",
+        "'Client seems lazy.'",
+        "'Client is difficult.'"
+      ],
+      "answer": "B",
+      "rationale": "Accurate notes record facts and observations, not opinions.",
+      "explanations": [
+        "Opinion.",
+        "Correct: fact.",
+        "Opinion.",
+        "Opinion."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Guidelines for Recording (PDF p. 8)",
+      "quote": "Fact “ Client refused Medication”"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Reporting & Recording",
+      "situation": "",
+      "stem": "When should nursing care be documented?",
+      "options": [
+        "Before giving care",
+        "At the end of the shift",
+        "As soon as possible after care",
+        "Only if problems occur"
+      ],
+      "answer": "C",
+      "rationale": "No recording is done before care; documenting is done as soon as possible after assessment or intervention.",
+      "explanations": [
+        "Never before.",
+        "Too late.",
+        "Correct.",
+        "Always document."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Guidelines for Recording (PDF p. 7)",
+      "quote": "No recording should be done BEFORE providing nursing care"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Reporting & Recording",
+      "situation": "",
+      "stem": "How should a blank space in a nurses' note be handled?",
+      "options": [
+        "Leave it",
+        "Write in it later",
+        "Draw a line through it and sign",
+        "Fill with correction fluid"
+      ],
+      "answer": "C",
+      "rationale": "Write on every line; if a blank appears, draw a line through it and sign.",
+      "explanations": [
+        "Allows additions.",
+        "Not allowed.",
+        "Correct.",
+        "Never used."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Guidelines for Recording (PDF p. 8)",
+      "quote": "If a blank appears in the notation, draw a through the blank space and sign the notation"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Reporting & Recording",
+      "situation": "",
+      "stem": "A client refuses a treatment. What should be documented?",
+      "options": [
+        "Nothing at all",
+        "Only 'refused'",
+        "What, why, who was told",
+        "The nurse's opinion"
+      ],
+      "answer": "C",
+      "rationale": "Care omitted because of refusal is recorded with what, why, and who was notified.",
+      "explanations": [
+        "Must record.",
+        "Incomplete.",
+        "Correct.",
+        "Opinion."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Guidelines for Recording (PDF p. 8)",
+      "quote": "Document what and why it is omitted and who was notified"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Reporting & Recording",
+      "situation": "",
+      "stem": "Which practice is correct when receiving a telephone order?",
+      "options": [
+        "Any staff may take it",
+        "Write it and read it back",
+        "Write it later from memory",
+        "Skip the time"
+      ],
+      "answer": "B",
+      "rationale": "Only RNs receive telephone orders; they write the date, time, and complete order, read it back, and question unusual orders.",
+      "explanations": [
+        "RNs only.",
+        "Correct.",
+        "Error risk.",
+        "Must record."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Telephone Orders (PDF p. 8)",
+      "quote": "Write the complete order and read it back."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Reporting & Recording",
+      "situation": "",
+      "stem": "What is the purpose of the change-of-shift report (endorsement)?",
+      "options": [
+        "Reciting the Kardex",
+        "Continuity of care",
+        "Assigning blame",
+        "Replacing charting"
+      ],
+      "answer": "B",
+      "rationale": "Endorsement gives a quick summary of needs and care for continuity; it is not merely reciting the Kardex.",
+      "explanations": [
+        "Not merely this.",
+        "Correct.",
+        "Not the purpose.",
+        "Not a substitute."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Reporting (PDF p. 8)",
+      "quote": "For continuity of care of clients by providing quick summary of health care needs"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Who may read a client's chart?",
+      "options": [
+        "Any employee",
+        "Visitors who ask",
+        "The care team",
+        "The neighbors"
+      ],
+      "answer": "C",
+      "rationale": "Only health professionals participating in the client's care may read the chart.",
+      "explanations": [
+        "Not allowed.",
+        "Not allowed.",
+        "Correct.",
+        "Not allowed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Guidelines for Recording (PDF p. 8)",
+      "quote": "Only the health professionals who participate in the care of the client are allowed to read the chart"
+    }
+  ]
+}

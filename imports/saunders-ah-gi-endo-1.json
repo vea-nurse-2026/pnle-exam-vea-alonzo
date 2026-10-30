@@ -1,0 +1,797 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client with myxedema has fatigue, cold intolerance, and facial puffiness. Lack of which hormones causes these findings?",
+      "options": [
+        "Prolactin",
+        "T3 and T4",
+        "ACTH",
+        "Growth hormone"
+      ],
+      "answer": "B",
+      "rationale": "Myxedema results from inadequate thyroid hormone (T3 and T4), which lowers the basal metabolic rate and affects nearly every body system.",
+      "explanations": [
+        "Not linked to these symptoms.",
+        "Correct: thyroid hormone deficiency.",
+        "Not linked to these symptoms.",
+        "Not linked to these symptoms."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q64 (PDF p. 209)",
+      "quote": "Myxedema results from inadequate thyroid hormone levels (T3 and T4)."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "Aling Cora, 34, is admitted with Graves' disease. She has weight loss, palpitations, heat intolerance, and an enlarged thyroid.",
+      "stem": "Which menstrual change should the nurse expect Aling Cora to report?",
+      "options": [
+        "Amenorrhea or scanty flow",
+        "Menorrhagia",
+        "Metrorrhagia",
+        "Dysmenorrhea"
+      ],
+      "answer": "A",
+      "rationale": "Amenorrhea or decreased menstrual flow is common in Graves' disease (toxic diffuse goiter).",
+      "explanations": [
+        "Correct: decreased flow is common.",
+        "Not typical of Graves' disease.",
+        "Not typical of Graves' disease.",
+        "Not typical of Graves' disease."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q65 (PDF p. 210)",
+      "quote": "Amenorrhea or a decreased menstrual flow is common in the client with Graves’ disease."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "Aling Cora, 34, is admitted with Graves' disease. She has weight loss, palpitations, heat intolerance, and an enlarged thyroid.",
+      "stem": "Aling Cora will receive radioactive iodine. What should the nurse tell her?",
+      "options": [
+        "Treatments continue for life",
+        "It destroys the whole gland in one dose",
+        "Relief of symptoms may take 6 to 8 weeks",
+        "She will need surgery afterward"
+      ],
+      "answer": "C",
+      "rationale": "Radioactive iodine lowers thyroid hormone levels over time. Symptom relief does not occur until about 6 to 8 weeks after treatment.",
+      "explanations": [
+        "Not true.",
+        "It reduces, not instantly destroys, the gland.",
+        "Correct: relief takes weeks.",
+        "Not routinely true."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q253 (PDF p. 410)",
+      "quote": "After treatment with radioactive iodine therapy, a decrease in the thyroid hormone level should be noted, which helps alleviate symptoms."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which finding in a client with acute pancreatitis shows paralytic ileus has developed?",
+      "options": [
+        "Inability to pass flatus",
+        "Loss of anal sphincter control",
+        "Sudden severe constant pain",
+        "A firm mass at the right costal margin"
+      ],
+      "answer": "A",
+      "rationale": "Inflammation such as pancreatitis can cause paralytic ileus, a nonmechanical obstruction. Inability to pass flatus is a sign.",
+      "explanations": [
+        "Correct: a sign of paralytic ileus.",
+        "Not a sign of ileus.",
+        "Pain in ileus is more diffuse.",
+        "Not a sign of ileus."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q181 (PDF p. 334)",
+      "quote": "Inability to pass flatus is a clinical manifestation of paralytic ileus."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "Mang Ponso, 60, a heavy drinker for 30 years, is admitted with cirrhosis and massive ascites.",
+      "stem": "Mang Ponso is short of breath from the ascites. What is the PRIORITY nursing measure?",
+      "options": [
+        "Turn him every 2 hours",
+        "Raise the head of the bed",
+        "Listen to his lung fields",
+        "Restrict his oral fluids"
+      ],
+      "answer": "B",
+      "rationale": "Ascitic fluid pushes up on the diaphragm. Raising the head of the bed uses gravity to relieve the pressure and ease breathing.",
+      "explanations": [
+        "Does not relieve the pressure.",
+        "Correct: eases diaphragm pressure.",
+        "The assessment is already known.",
+        "Not the immediate relief measure."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q202 (PDF p. 356)",
+      "quote": "Elevating the head of the bed enlists the aid of gravity in relieving pressure on the diaphragm."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "Mang Ponso, 60, a heavy drinker for 30 years, is admitted with cirrhosis and massive ascites.",
+      "stem": "Which diet does the nurse expect for Mang Ponso?",
+      "options": [
+        "Sodium restriction",
+        "High fat",
+        "Low carbohydrate",
+        "1,500 calories a day"
+      ],
+      "answer": "A",
+      "rationale": "With ascites, sodium and possibly fluids are restricted. Fat stays normal, carbohydrates are sufficient, and calories are 2,000 to 3,000 a day.",
+      "explanations": [
+        "Correct: limits fluid retention.",
+        "Fat is kept normal.",
+        "Carbohydrates are kept sufficient.",
+        "Calories are 2,000 to 3,000."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q621 (PDF p. 836)",
+      "quote": "If the client has ascites, sodium and possibly fluids would be restricted in the diet."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "Mang Ponso, 60, a heavy drinker for 30 years, is admitted with cirrhosis and massive ascites.",
+      "stem": "Which statement by Mang Ponso at discharge shows he needs MORE teaching?",
+      "options": [
+        "'I'll get enough rest.'",
+        "'I'll weigh myself regularly.'",
+        "'I'll take paracetamol for headaches.'",
+        "'I'll avoid alcohol.'"
+      ],
+      "answer": "C",
+      "rationale": "Acetaminophen (paracetamol) is avoided in cirrhosis because it can cause fatal liver damage. Rest, nutrition, and weight monitoring are appropriate.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Correct answer: hepatotoxic in cirrhosis.",
+        "Appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q641 (PDF p. 859)",
+      "quote": "Acetaminophen (Tylenol) is avoided because it can cause fatal liver damage in the client with cirrhosis."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "Ate Rose, 42, has a subtotal thyroidectomy for a large goiter.",
+      "stem": "Which item should be at Ate Rose's bedside after surgery?",
+      "options": [
+        "Hypothermia blanket",
+        "Emergency tracheostomy kit",
+        "Magnesium sulfate vial",
+        "Saturated potassium iodide"
+      ],
+      "answer": "B",
+      "rationale": "Swelling in the tracheal area after thyroidectomy can cause respiratory distress, so an emergency tracheostomy kit is kept at the bedside, along with oxygen and suction.",
+      "explanations": [
+        "Thyroid surgery does not alter heat control.",
+        "Correct: for airway emergencies.",
+        "Hypomagnesemia is not a concern.",
+        "Not the bedside priority."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q259 (PDF p. 416)",
+      "quote": "Respiratory distress can occur after thyroidectomy as a result of swelling in the tracheal area."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "Ate Rose, 42, has a subtotal thyroidectomy for a large goiter.",
+      "stem": "Which finding suggests the parathyroid glands were damaged during Ate Rose's surgery?",
+      "options": [
+        "Fever of 38°C",
+        "Mild neck pain",
+        "Hoarse voice",
+        "Tingling lips"
+      ],
+      "answer": "D",
+      "rationale": "Parathyroid damage lowers PTH, causing hypocalcemia and tetany. Tingling around the mouth or of the fingers and toes, and muscle twitching, are early signs.",
+      "explanations": [
+        "Not a parathyroid sign.",
+        "Expected after surgery.",
+        "Suggests laryngeal nerve injury.",
+        "Correct: a sign of hypocalcemia."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q372 (PDF p. 540)",
+      "quote": "Hypocalcemia and tetany result when parathyroid hormone (PTH) levels decrease."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "Ate Rose, 42, has a subtotal thyroidectomy for a large goiter.",
+      "stem": "Which statement by Ate Rose before surgery shows she understands the teaching?",
+      "options": [
+        "'I'll need antithyroid pills after surgery.'",
+        "'I'll support my neck when I cough or move.'",
+        "'I should keep my head bent forward.'",
+        "'I can turn my head freely right away.'"
+      ],
+      "answer": "B",
+      "rationale": "Supporting the neck when coughing or moving reduces tension on the incision. Removing the thyroid does not mean taking antithyroid drugs afterward.",
+      "explanations": [
+        "Not necessarily true.",
+        "Correct: reduces suture-line tension.",
+        "Strains the incision.",
+        "Strains the incision."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q759 (PDF p. 988)",
+      "quote": "One way of reducing incisional tension is to teach the client how to support the neck when coughing or being repositioned."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which assessment gives the BEST data about hypothyroidism on admission?",
+      "options": [
+        "Inspecting the facial features",
+        "Auscultating the lungs",
+        "Percussing the thyroid",
+        "Checking safe ambulation"
+      ],
+      "answer": "A",
+      "rationale": "Inspecting the face reveals coarse features, puffiness around the eyes, and the blank expression typical of hypothyroidism.",
+      "explanations": [
+        "Correct: reveals characteristic features.",
+        "Not specific.",
+        "The thyroid is palpated, not percussed.",
+        "Not specific."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q301 (PDF p. 464)",
+      "quote": "Inspection of facial features will reveal the characteristic coarse features, presence of edema around the eyes and face"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which finding does the nurse expect in a client with hypothyroidism?",
+      "options": [
+        "Rapid weight loss",
+        "Heat intolerance",
+        "Fast heart rate",
+        "Slow pulse, dry skin"
+      ],
+      "answer": "D",
+      "rationale": "Low thyroid hormone slows metabolism: bradycardia, hypotension, cool dry scaly skin, low body temperature, brittle hair, and cold intolerance.",
+      "explanations": [
+        "Weight gain occurs.",
+        "Cold intolerance occurs.",
+        "Bradycardia occurs.",
+        "Correct: slowed metabolism."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q383 (PDF p. 552)",
+      "quote": "Some of these manifestations are bradycardia; hypotension; cool, dry, scaly skin; decreased body temperature"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "After transsphenoidal pituitary surgery, which assessment detects a common temporary complication?",
+      "options": [
+        "Pulse rate",
+        "Temperature",
+        "Urine output",
+        "Oxygen saturation"
+      ],
+      "answer": "C",
+      "rationale": "Surgical trauma can cause temporary diabetes insipidus from ADH deficiency, with polyuria of 4 to 24 L a day. Urine output and weight are monitored.",
+      "explanations": [
+        "Not the specific complication.",
+        "Not the specific complication.",
+        "Correct: detects diabetes insipidus.",
+        "Not the specific complication."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q335 (PDF p. 503)",
+      "quote": "A common complication of surgery on the pituitary gland is temporary diabetes insipidus."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which finding should the nurse plan to manage in a client with diabetes insipidus?",
+      "options": [
+        "Bradycardia",
+        "Hypertension",
+        "Poor skin turgor",
+        "Less urine output"
+      ],
+      "answer": "C",
+      "rationale": "ADH deficiency causes massive urine output, poor skin turgor, dry mucous membranes, narrowed pulse pressure, tachycardia, and hypotension.",
+      "explanations": [
+        "Tachycardia occurs.",
+        "Hypotension occurs.",
+        "Correct: signs of dehydration.",
+        "Output is greatly increased."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q384 (PDF p. 553)",
+      "quote": "Clinical manifestations include poor skin turgor, increased urinary output, dry mucous membranes, decreased pulse pressure"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which intervention belongs in the post-hypophysectomy care plan?",
+      "options": [
+        "Daily weights and intake/output",
+        "Flat bed position",
+        "Vigorous coughing exercises",
+        "Brushing teeth firmly"
+      ],
+      "answer": "A",
+      "rationale": "Diabetes insipidus or SIADH can develop, so daily weights and I&O are monitored. The head of the bed is raised. Coughing and toothbrushing are avoided because they can disrupt the surgical site and cause a CSF leak.",
+      "explanations": [
+        "Correct: detects ADH problems.",
+        "The head is elevated.",
+        "Coughing raises ICP and strains the site.",
+        "Avoided to protect the surgical site."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q371 (PDF p. 539)",
+      "quote": "obtaining daily weights and monitoring intake and output are important interventions."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Discharge teaching after a UNILATERAL adrenalectomy should include:",
+      "options": [
+        "A lifelong diabetic diet",
+        "A strenuous exercise routine",
+        "Taking steroids that will be tapered off",
+        "Lifelong steroid replacement"
+      ],
+      "answer": "C",
+      "rationale": "After removal of one adrenal gland, corticosteroids are given temporarily and tapered off; lifelong replacement is not needed. Steroids also mask infection, so the client watches for its signs.",
+      "explanations": [
+        "Not indicated.",
+        "Not appropriate now.",
+        "Correct: temporary, tapered steroids.",
+        "Only after bilateral removal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q337 (PDF p. 505)",
+      "quote": "will be placed on corticosteroids temporarily to avoid a cortisol deficiency; lifelong replacement is not necessary."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which question BEST elicits data about hyperparathyroidism?",
+      "options": [
+        "'Do your hands tremble?'",
+        "'Do you have joint or bone pain?'",
+        "'Have you had diarrhea lately?'",
+        "'Do you feel cold often?'"
+      ],
+      "answer": "B",
+      "rationale": "Excess PTH pulls calcium from bone, causing demineralization and bone and joint pain, along with hypercalcemia.",
+      "explanations": [
+        "Not typical.",
+        "Correct: bone demineralization.",
+        "Constipation is more likely.",
+        "Not typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q379 (PDF p. 548)",
+      "quote": "When bone reabsorption is increased, calcium is released from the bones into the blood, causing hypercalcemia."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which item MUST be at the bedside after a parathyroidectomy?",
+      "options": [
+        "Cardiac monitor",
+        "Tracheotomy set",
+        "Gastric suction",
+        "Chest drainage system"
+      ],
+      "answer": "B",
+      "rationale": "Hemorrhage and swelling can compress the trachea and cause respiratory distress, so a tracheotomy set is routinely placed at the bedside.",
+      "explanations": [
+        "Not the specific priority.",
+        "Correct: for airway compromise.",
+        "Not indicated.",
+        "Not indicated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q547 (PDF p. 748)",
+      "quote": "An emergency tracheotomy set is always routinely placed at the bedside of the client with this type of surgery"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "The cause of a client's acute abdominal pain is not yet known. Which order should the nurse question?",
+      "options": [
+        "Clear liquid diet",
+        "Nasogastric tube insertion",
+        "An analgesic",
+        "IV line insertion"
+      ],
+      "answer": "A",
+      "rationale": "Until the cause is known and the need for surgery is decided, the client is kept NPO with an IV line. A clear liquid diet would be questioned.",
+      "explanations": [
+        "Correct: the client should be NPO.",
+        "May help decompress the stomach.",
+        "May be given as prescribed.",
+        "Expected."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q419 (PDF p. 596)",
+      "quote": "the nurse would question a prescription to give a clear liquid diet."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which statement by a client with type 1 diabetes about sick days needs correction?",
+      "options": [
+        "'I'll stop my insulin if I'm vomiting.'",
+        "'I'll call my doctor if ill more than 24 hours.'",
+        "'I'll check my sugar every 2 to 4 hours.'",
+        "'I'll drink fluids often.'"
+      ],
+      "answer": "A",
+      "rationale": "Insulin is continued even when vomiting and unable to eat, to prevent DKA. Blood glucose is checked every 2 to 4 hours during illness.",
+      "explanations": [
+        "Correct answer: stopping insulin risks DKA.",
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q631 (PDF p. 848)",
+      "quote": "The client needs to be instructed to take insulin, even if he or she is vomiting and unable to eat."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which statement about hypoglycemia shows a client needs MORE teaching?",
+      "options": [
+        "'It can happen day or night.'",
+        "'I'll drink milk if it happens.'",
+        "'Shakiness may mean low sugar.'",
+        "'I'll take extra insulin if I feel shaky.'"
+      ],
+      "answer": "D",
+      "rationale": "Insulin lowers blood glucose further and is never a treatment for hypoglycemia. The client takes 10 to 15 g of simple carbohydrate.",
+      "explanations": [
+        "Accurate.",
+        "Accurate.",
+        "Accurate.",
+        "Correct answer: dangerous misconception."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q632 (PDF p. 850)",
+      "quote": "Insulin is not taken as a treatment for hypoglycemia because the insulin will lower the blood glucose level."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which food should a client recovering from pancreatitis AVOID?",
+      "options": [
+        "Spicy chili",
+        "Bagels",
+        "Lentil soup",
+        "Watermelon"
+      ],
+      "answer": "A",
+      "rationale": "Spicy foods, alcohol, coffee, tea, and heavy meals stimulate pancreatic secretions and can trigger attacks.",
+      "explanations": [
+        "Correct: stimulates pancreatic secretions.",
+        "Acceptable.",
+        "Acceptable.",
+        "Acceptable."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q640 (PDF p. 858)",
+      "quote": "The client must avoid spicy foods such as chili, alcohol, coffee, tea, and heavy meals"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client is discharged after hyperglycemic hyperosmolar state (HHS). Which teaching is the PRIORITY?",
+      "options": [
+        "Exercise routines",
+        "Diet control",
+        "Follow-up appointments",
+        "Reporting signs of dehydration"
+      ],
+      "answer": "D",
+      "rationale": "Dehydration in HHS can be severe and progress rapidly, so reporting its signs is the priority.",
+      "explanations": [
+        "Part of teaching, not the priority.",
+        "Part of teaching, not the priority.",
+        "Part of teaching, not the priority.",
+        "Correct: dehydration is the main danger."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q686 (PDF p. 907)",
+      "quote": "Clients at risk for HHS should report signs and symptoms of dehydration to primary health care providers."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "When planning diabetes care for an older client, what should the nurse do FIRST?",
+      "options": [
+        "Plan all her menus",
+        "Teach with a video only",
+        "Encourage family to do her care",
+        "Assess her ability for self-care"
+      ],
+      "answer": "D",
+      "rationale": "The nurse first assesses self-care ability. Planning menus and relying on others promote dependence, and hands-on practice works better than video.",
+      "explanations": [
+        "Promotes dependence.",
+        "Hands-on practice is better.",
+        "Promotes dependence.",
+        "Correct: assessment first."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q687 (PDF p. 908)",
+      "quote": "The nurse first assesses the client’s ability for self-care."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client with gastritis asks which pain reliever will not upset the stomach. The nurse recommends:",
+      "options": [
+        "Aspirin",
+        "Naproxen",
+        "Ibuprofen",
+        "Acetaminophen"
+      ],
+      "answer": "D",
+      "rationale": "Aspirin and NSAIDs such as naproxen and ibuprofen irritate the GI tract. Acetaminophen does not.",
+      "explanations": [
+        "Irritates the stomach.",
+        "An NSAID; irritating.",
+        "An NSAID; irritating.",
+        "Correct: not a gastric irritant."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q717 (PDF p. 939)",
+      "quote": "The client should be advised to take analgesics that do not contain aspirin, such as acetaminophen."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which statement shows a client with Cushing's syndrome understands discharge teaching?",
+      "options": [
+        "'I'll eat low-potassium foods.'",
+        "'I'll check my stools for dark color.'",
+        "'I'll avoid all exercise.'",
+        "'I'll stop steroids suddenly if I feel well.'"
+      ],
+      "answer": "B",
+      "rationale": "Excess cortisol increases gastric acid, which can cause peptic ulcers and GI bleeding, so stool color is checked. Potassium-rich foods are encouraged because hypokalemia occurs.",
+      "explanations": [
+        "Potassium-rich foods are needed.",
+        "Correct: watches for GI bleeding.",
+        "Not appropriate.",
+        "Steroids are never stopped abruptly."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q754 (PDF p. 983)",
+      "quote": "Cortisol stimulates the secretion of gastric acid, and this can result in the development of peptic ulcers and gastrointestinal bleeding."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client with type 1 diabetes has a glycosylated hemoglobin (HbA1c) of 10%. How should the nurse interpret this?",
+      "options": [
+        "Normal, well-controlled glucose",
+        "Good control in the past week",
+        "Recent dietary lapse only",
+        "Poor glucose control over recent weeks"
+      ],
+      "answer": "D",
+      "rationale": "HbA1c reflects glucose control over the previous 6 to 8 weeks and is not affected by diet in the last day or two. A level of 10% shows poor control.",
+      "explanations": [
+        "10% is elevated.",
+        "It reflects 6 to 8 weeks.",
+        "Not affected by short-term diet.",
+        "Correct: elevated means poor control."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q757 (PDF p. 986)",
+      "quote": "Glycosylated hemoglobin is a measure of glucose control during the 6 to 8 weeks before the test."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "When is hypoglycemia MOST likely after an insulin injection?",
+      "options": [
+        "At its peak",
+        "At its onset",
+        "At the end of its duration",
+        "Equally at any time"
+      ],
+      "answer": "A",
+      "rationale": "Reactions are most likely at peak time, when the insulin is at its maximum action. Regular insulin peaks in about 2 hours; NPH in 4 to 12 hours.",
+      "explanations": [
+        "Correct: maximum action.",
+        "Action is just beginning.",
+        "Action is waning.",
+        "Risk is highest at the peak."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q758 (PDF p. 987)",
+      "quote": "Insulin reactions are most likely to occur during the peak time after insulin administration"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which instruction helps a client with type 1 diabetes manage the risk of hypoglycemia?",
+      "options": [
+        "Carry glucose tablets",
+        "Check urine for acetone",
+        "Report feeling drowsy",
+        "Skip NPH if not hungry"
+      ],
+      "answer": "A",
+      "rationale": "Glucose tablets treat a hypoglycemic reaction. Glucagon may be prescribed if the client becomes unconscious and cannot swallow.",
+      "explanations": [
+        "Correct: quick treatment.",
+        "Relates to hyperglycemia.",
+        "Not the key measure.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q765 (PDF p. 994)",
+      "quote": "Glucose tablets are taken if a hypoglycemic reaction occurs."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which statement by a client with peptic ulcer disease shows effective teaching?",
+      "options": [
+        "'I'll have a bedtime snack.'",
+        "'I'll take aspirin for pain.'",
+        "'I'll take antacids with my H2 blocker.'",
+        "'I'll eat slowly and chew well.'"
+      ],
+      "answer": "D",
+      "rationale": "Eating slowly and chewing well prevent overdistention and reflux. Bedtime snacks raise night acid, aspirin and NSAIDs are avoided, and antacids interfere with H2 blockers.",
+      "explanations": [
+        "Promotes night acid secretion.",
+        "Irritates the ulcer.",
+        "Antacids reduce H2 blocker absorption.",
+        "Correct: prevents overdistention."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q781 (PDF p. 1011)",
+      "quote": "Eating slowly and chewing thoroughly helps prevent overdistention and reflux."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which dietary statement by a client with GERD needs correction?",
+      "options": [
+        "'I'll avoid coffee and chocolate.'",
+        "'I'll eat 4 to 6 small meals daily.'",
+        "'I'll drink extra fluids with meals.'",
+        "'I'll avoid snacks before bed.'"
+      ],
+      "answer": "C",
+      "rationale": "Fluids are taken between meals to prevent overdistention and reflux. Coffee, tea, cola, and chocolate lower LES pressure.",
+      "explanations": [
+        "Appropriate.",
+        "Appropriate.",
+        "Correct answer: causes overdistention.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q783 (PDF p. 1013)",
+      "quote": "Fluids must be taken between meals rather than with meals to prevent the overdistention that leads to reflux."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client with a colostomy complains of odor. Which food helps reduce it?",
+      "options": [
+        "Eggs",
+        "Yogurt",
+        "Cucumbers",
+        "Mushrooms"
+      ],
+      "answer": "B",
+      "rationale": "Yogurt, buttermilk, cranberry juice, and parsley help reduce odor. Eggs, fish, onions, cucumbers, mushrooms, and cabbage cause odor.",
+      "explanations": [
+        "Causes odor.",
+        "Correct: deodorizing.",
+        "Causes odor.",
+        "Causes odor."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q791 (PDF p. 1021)",
+      "quote": "Foods that help eliminate odor with a colostomy include yogurt, buttermilk, cranberry juice, and parsley."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "For a client newly diagnosed with type 1 diabetes, which teaching is MOST important initially?",
+      "options": [
+        "The diabetic diet",
+        "Understanding the diagnosis",
+        "Blood glucose monitoring",
+        "Insulin injection technique"
+      ],
+      "answer": "B",
+      "rationale": "Before teaching self-management, the client must understand the disease itself. Diet, glucose testing, and insulin technique follow.",
+      "explanations": [
+        "Taught later.",
+        "Correct: foundation for later teaching.",
+        "Taught later.",
+        "Taught later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q811 (PDF p. 1045)",
+      "quote": "Before educating about a disease process, it is important that the client understands the components of the disease process."
+    }
+  ]
+}

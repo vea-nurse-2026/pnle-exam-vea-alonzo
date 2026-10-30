@@ -1,0 +1,989 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which is a goal of palliative care?",
+      "options": [
+        "Delay the impending death",
+        "Hasten the death",
+        "Relieve pain and distress",
+        "Stop all medicines"
+      ],
+      "answer": "C",
+      "rationale": "Palliative care is total care. It relieves pain and other distressing symptoms, supports the client to live as actively as possible, and neither hastens nor delays death.",
+      "explanations": [
+        "Not a goal.",
+        "Not a goal.",
+        "Correct: symptom relief.",
+        "Not a goal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q91 (PDF p. 239)",
+      "quote": "Palliative care is a philosophy of total care."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "Which respiratory finding suggests that death is imminent?",
+      "options": [
+        "Regular, deep breaths",
+        "Cheyne-Stokes pattern",
+        "Normal SpO2",
+        "Clear lungs"
+      ],
+      "answer": "B",
+      "rationale": "Imminent death shows poor gas exchange (dyspnea, cyanosis) and altered breathing such as slow, labored, irregular, or Cheyne-Stokes respiration.",
+      "explanations": [
+        "Not a sign.",
+        "Correct: altered pattern.",
+        "Not a sign.",
+        "Secretions are common."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q154 (PDF p. 304)",
+      "quote": "altered patterns of respiration, such as slow, labored, irregular, or Cheyne- Stokes pattern"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which is a NORMAL age-related concern when planning care for an older client?",
+      "options": [
+        "Incontinence",
+        "Depression",
+        "Risk of dehydration",
+        "Confusion"
+      ],
+      "answer": "C",
+      "rationale": "Older clients are at risk for dehydration, immobility complications, and loss of skin integrity. Incontinence, depression, and confusion are not normal aging.",
+      "explanations": [
+        "Not normal aging.",
+        "Not normal aging.",
+        "Correct: normal risk.",
+        "Not normal aging."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q171 (PDF p. 324)",
+      "quote": "Older clients are at risk for dehydration and complications related to immobility."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which eye finding is a normal age-related change?",
+      "options": [
+        "More tears",
+        "Clear white sclera",
+        "Slower adaptation to darkness",
+        "Better color vision"
+      ],
+      "answer": "C",
+      "rationale": "Aging brings a flatter cornea (blurred vision), poor adaptation to darkness, yellowing sclera, fewer tears, and poorer color discrimination.",
+      "explanations": [
+        "Tears decrease.",
+        "Sclera yellows.",
+        "Correct: aging change.",
+        "Color vision declines."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q612 (PDF p. 825)",
+      "quote": "poor pupillary adaptation to darkness"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which factor increases an older adult's risk for hypothermia?",
+      "options": [
+        "Hyperthyroidism",
+        "Poor thermoregulation",
+        "Fever",
+        "Exercise"
+      ],
+      "answer": "B",
+      "rationale": "Older adults' median oral temperature is about 36°C. Poor thermoregulation, anemia, alcohol, hypoglycemia, and burns raise hypothermia risk.",
+      "explanations": [
+        "Raises heat.",
+        "Correct: a risk factor.",
+        "Not a risk.",
+        "Generates heat."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q620 (PDF p. 835)",
+      "quote": "Numerous factors increase the risk of hypothermia"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "A deceased client will donate his eyes. What care is usually prescribed?",
+      "options": [
+        "Tape the eyes shut",
+        "Keep him supine only",
+        "Saline gauze and a small ice pack",
+        "Turn him side to side"
+      ],
+      "answer": "C",
+      "rationale": "The eyes are closed and covered with saline-moistened gauze and a small ice pack. Enucleation follows within 2 to 4 hours.",
+      "explanations": [
+        "Not the care.",
+        "Not specific.",
+        "Correct: preserves corneas.",
+        "Not indicated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q458 (PDF p. 640)",
+      "quote": "placing gauze pads wet with saline over them with a small ice pack"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "Which finding is a contraindication to organ donation?",
+      "options": [
+        "Penicillin allergy",
+        "Hepatitis B infection",
+        "Age over 20",
+        "Foreign travel"
+      ],
+      "answer": "B",
+      "rationale": "A donor with hepatitis B could infect the recipient. Allergies and travel history are not contraindications.",
+      "explanations": [
+        "Not a contraindication.",
+        "Correct: infection risk.",
+        "Not a contraindication.",
+        "Not a contraindication."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q594 (PDF p. 802)",
+      "quote": "A decedent who had a hepatitis B infection cannot donate organs"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "Which finding shows a brain-dead organ donor is being maintained to standard?",
+      "options": [
+        "Urine 100 mL/hr",
+        "pH 7.32",
+        "Capillary refill 5 seconds",
+        "BP 70/40"
+      ],
+      "answer": "A",
+      "rationale": "Urine output of 100 mL/hr shows good renal perfusion. A pH of 7.32 is acidosis and a 5-second refill is too slow.",
+      "explanations": [
+        "Correct: good perfusion.",
+        "Acidosis.",
+        "Too slow.",
+        "Hypotension."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q595 (PDF p. 803)",
+      "quote": "Urine output at 100 mL per hour indicates adequate renal perfusion"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Acute Biologic Crisis & Emergency Care",
+      "situation": "",
+      "stem": "After aggressive cerebral edema treatment, what is the PRIORITY to keep a donor's kidneys viable?",
+      "options": [
+        "Screen for infection",
+        "Restore intravascular volume",
+        "Give diuretics",
+        "Restrict fluids"
+      ],
+      "answer": "B",
+      "rationale": "Kidneys need about 80 mm Hg perfusion pressure. Cerebral edema treatment causes fluid deficit, so volume is restored first.",
+      "explanations": [
+        "Not the priority.",
+        "Correct: perfusion.",
+        "Worsens deficit.",
+        "Worsens deficit."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q596 (PDF p. 804)",
+      "quote": "The kidneys require a minimum perfusion pressure of 80 mm Hg to produce urine"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Which hospital safety measure is specific to infants and toddlers?",
+      "options": [
+        "Keep crib sides up",
+        "Give small toys",
+        "Leave food on trays",
+        "Lower side rails"
+      ],
+      "answer": "A",
+      "rationale": "Crib sides are never left down. Large, soft toys without small parts prevent choking.",
+      "explanations": [
+        "Correct: prevents falls.",
+        "Choking risk.",
+        "Choking risk.",
+        "Fall risk."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q475 (PDF p. 659)",
+      "quote": "crib sides should never be left down because the child could roll and fall."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Which statement about preventing burns in a toddler needs MORE teaching?",
+      "options": [
+        "'I'll cook on back burners.'",
+        "'I'll stay in the kitchen.'",
+        "'I'll put my coffee on the counter.'",
+        "'I'll turn pot handles inward.'"
+      ],
+      "answer": "C",
+      "rationale": "Toddlers can reach hot objects on counters. Hot drinks must be kept out of reach.",
+      "explanations": [
+        "Safe.",
+        "Safe.",
+        "Correct answer: within reach.",
+        "Safe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q503 (PDF p. 697)",
+      "quote": "can reach hot water or hot objects placed on counters"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "With which liquid should an adolescent take oral iron?",
+      "options": [
+        "Cola",
+        "Soda",
+        "Water",
+        "Tomato juice"
+      ],
+      "answer": "D",
+      "rationale": "Vitamin C enhances iron absorption, and tomato juice is rich in it.",
+      "explanations": [
+        "No vitamin C.",
+        "No vitamin C.",
+        "No vitamin C.",
+        "Correct: vitamin C."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q611 (PDF p. 824)",
+      "quote": "Iron should be administered with vitamin C–rich fluids"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "A crying toddler won't sit still for an eye exam. What should the nurse say?",
+      "options": [
+        "'Want to see my flashlight?'",
+        "'Don't be scared.'",
+        "'Sit still, it'll be quick.'",
+        "'We'll do it later.'"
+      ],
+      "answer": "A",
+      "rationale": "Involving the toddler in the exam reduces fear. Telling a child not to be scared tells him how to feel.",
+      "explanations": [
+        "Correct: involves the child.",
+        "Dismisses feelings.",
+        "Ignores feelings.",
+        "Delays care."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q682 (PDF p. 902)",
+      "quote": "Fears in this age group can be decreased by getting the child actively involved in the examination."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "A 6-year-old starts bedwetting after a new baby arrives. Which defense mechanism is this?",
+      "options": [
+        "Regression",
+        "Repression",
+        "Identification",
+        "Rationalization"
+      ],
+      "answer": "A",
+      "rationale": "Regression is returning to an earlier form of behavior under stress.",
+      "explanations": [
+        "Correct: regression.",
+        "Blocks wishes.",
+        "Models others.",
+        "Explains away."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q851 (PDF p. 1088)",
+      "quote": "The defense mechanism of regression is characterized by returning to an earlier form of expressing an impulse."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "A preschooler in traction starts bedwetting. How should the nurse explain this to the mother?",
+      "options": [
+        "A sign of abuse",
+        "Expected regression",
+        "Needs a psychiatrist",
+        "A kidney problem"
+      ],
+      "answer": "B",
+      "rationale": "Regression is common in immobilized children and usually needs no professional intervention.",
+      "explanations": [
+        "Not supported.",
+        "Correct: expected.",
+        "Not needed.",
+        "Not supported."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q873 (PDF p. 1110)",
+      "quote": "Regressive behaviors are not uncommon in immobilized children"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Which adolescent statement needs follow-up?",
+      "options": [
+        "'I like to be alone when stressed.'",
+        "'I'm moody lately.'",
+        "'I've cut out all fat and lost weight.'",
+        "'I argue with my parents.'"
+      ],
+      "answer": "C",
+      "rationale": "Omitting all fat and losing weight during growth suggests poor nutrition and a possible eating disorder.",
+      "explanations": [
+        "Normal.",
+        "Normal.",
+        "Correct: red flag.",
+        "Normal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q852 (PDF p. 1089)",
+      "quote": "suggests inadequate nutrition and a possible eating disorder."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "How should the nurse prepare an 11-year-old for an IV insertion?",
+      "options": [
+        "Just show the equipment",
+        "Let parents explain it",
+        "Say it won't hurt",
+        "Use visual aids and concrete words"
+      ],
+      "answer": "D",
+      "rationale": "School-age children understand best with visual aids and concrete language.",
+      "explanations": [
+        "Incomplete.",
+        "Delegates teaching.",
+        "Not truthful.",
+        "Correct: fits the age."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q860 (PDF p. 1097)",
+      "quote": "The school-age child understands best with visual aids and concrete language."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "Which statement by a hospitalized 16-year-old suggests a developmental problem?",
+      "options": [
+        "'Wash my hair before friends come.'",
+        "'Can friends visit tonight?'",
+        "'Tell my friends not to visit.'",
+        "'I'll play games with friends.'"
+      ],
+      "answer": "C",
+      "rationale": "Adolescents who withdraw from peers struggle with identity development.",
+      "explanations": [
+        "Normal.",
+        "Normal.",
+        "Correct: isolation.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q867 (PDF p. 1104)",
+      "quote": "Adolescents who withdraw from peers into isolation struggle with developing identity"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "A 9-year-old is in traction for 2 months. What BEST promotes psychosocial development?",
+      "options": [
+        "A music player",
+        "Tutoring for schoolwork",
+        "A phone for calls",
+        "Extra TV time"
+      ],
+      "answer": "B",
+      "rationale": "School-age children face industry versus inferiority. Keeping up with schoolwork gives accomplishment.",
+      "explanations": [
+        "Diversion only.",
+        "Correct: industry.",
+        "Social, but less.",
+        "Diversion only."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q939 (PDF p. 1183)",
+      "quote": "The developmental task of the school-age child is industry versus inferiority."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "A 16-year-old with diabetes says, 'I'm fed up with diets and doctors!' What is the PRIORITY concern?",
+      "options": [
+        "Chronic illness",
+        "Personal crisis",
+        "Loss of control",
+        "Lack of nutrition knowledge"
+      ],
+      "answer": "C",
+      "rationale": "Adolescents strive for identity and independence; the statement reflects fear of losing control.",
+      "explanations": [
+        "Not the priority.",
+        "Not the focus.",
+        "Correct: fits the statement.",
+        "Not shown."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q944 (PDF p. 1189)",
+      "quote": "the situation describes a common fear of loss of control."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "Which finding in a 12-year-old suggests disrupted self-concept development?",
+      "options": [
+        "Has many friends",
+        "Has a babysitting job",
+        "Has an intimate relationship",
+        "Enjoys mastering chess"
+      ],
+      "answer": "C",
+      "rationale": "Intimate relationships are expected in young adulthood. Friends and industry fit this age.",
+      "explanations": [
+        "Appropriate.",
+        "Shows industry.",
+        "Correct: too early.",
+        "Shows industry."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q962 (PDF p. 1209)",
+      "quote": "The formation of an intimate relationship would not be expected until young adulthood."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "Which question BEST assesses a teenager's feelings about using a cane?",
+      "options": [
+        "'How do you feel about the cane?'",
+        "'Any questions about the cane?'",
+        "'Worried about your friends?'",
+        "'What problems will you have?'"
+      ],
+      "answer": "A",
+      "rationale": "An open-ended question about feelings elicits assessment data. The others are closed or assume feelings.",
+      "explanations": [
+        "Correct: open-ended.",
+        "Closed.",
+        "Assumes.",
+        "Not about feelings."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1043 (PDF p. 1317)",
+      "quote": "posing an open-ended question to elicit assessment data"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "A 14-year-old in skeletal traction struggles with the long stay. What helps MOST?",
+      "options": [
+        "Play loud music",
+        "Wear own clothes for visits",
+        "Dye his hair",
+        "Keep the room dark"
+      ],
+      "answer": "B",
+      "rationale": "Adolescents need to belong to a peer group. Wearing their own clothes supports this.",
+      "explanations": [
+        "Disturbs others.",
+        "Correct: peer identity.",
+        "Not appropriate.",
+        "May reflect depression."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1202 (PDF p. 1494)",
+      "quote": "The child should be allowed to wear his or her own clothes to feel a sense of belonging to the group."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "A 10-month-old is hospitalized for RSV. Which plan fits his development?",
+      "options": [
+        "Total body restraint",
+        "Vary caregivers daily",
+        "Keep him alone",
+        "Consistent routine and comfort"
+      ],
+      "answer": "D",
+      "rationale": "Infants are in trust versus mistrust. A consistent routine with comfort, touch, and talking supports trust.",
+      "explanations": [
+        "Not appropriate.",
+        "Undermines trust.",
+        "Not appropriate.",
+        "Correct: builds trust."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1163 (PDF p. 1450)",
+      "quote": "A 10-month-old infant is in the trust versus mistrust stage of psychosocial development"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "Which behavior shows a preschooler with scarlet fever is coping with bed rest?",
+      "options": [
+        "Insists mother stays",
+        "Coloring and drawing",
+        "Mother keeps adding activities",
+        "Sucks thumb when refused"
+      ],
+      "answer": "B",
+      "rationale": "Play is how preschoolers adjust to life experiences; quiet play like drawing suits bed rest.",
+      "explanations": [
+        "Dependence.",
+        "Correct: coping through play.",
+        "Not the child's coping.",
+        "Regression."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1219 (PDF p. 1512)",
+      "quote": "for the preschooler, play is the best way for children to understand and adjust to life’s experiences."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Theories of Growth and Development",
+      "situation": "",
+      "stem": "Which outcome shows a positive DEVELOPMENTAL result for a preschooler in traction?",
+      "options": [
+        "Fracture heals",
+        "Parents give safe home care",
+        "Joints stay intact",
+        "Shows age-appropriate behavior"
+      ],
+      "answer": "D",
+      "rationale": "Hospitalization and immobility may cause regression. Age-appropriate behavior is the developmental outcome.",
+      "explanations": [
+        "Physical.",
+        "Caregiver outcome.",
+        "Physical.",
+        "Correct: developmental."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1232 (PDF p. 1525)",
+      "quote": "a positive outcome of age-appropriate behavior can be achieved."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Which parent statement about toddler temper tantrums shows understanding?",
+      "options": [
+        "'I'll ignore it if he's safe.'",
+        "'I'll say only bad kids do it.'",
+        "'I'll isolate him 10 minutes.'",
+        "'I'll reward him with candy.'"
+      ],
+      "answer": "A",
+      "rationale": "Ignoring attention-seeking behavior extinguishes it, provided the child is safe. Time-out should be about 1 minute per year of age.",
+      "explanations": [
+        "Correct: ignore safely.",
+        "Negative.",
+        "Too long.",
+        "Food reward is avoided."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1241 (PDF p. 1534)",
+      "quote": "Ignoring a negative attention-seeking behavior is considered the best way to extinguish it"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which diabetes task suits a newly diagnosed 9-year-old?",
+      "options": [
+        "Adult draws up insulin",
+        "Self-injects with supervision",
+        "Decides sliding scale alone",
+        "Adult does everything"
+      ],
+      "answer": "B",
+      "rationale": "School-age children can draw up and give insulin with supervision but lack maturity for independent dosing decisions.",
+      "explanations": [
+        "Underuses skills.",
+        "Correct: supervised.",
+        "Too independent.",
+        "Underuses skills."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1252 (PDF p. 1552)",
+      "quote": "School-age children have the cognitive and motor skills to draw up and administer insulin with adult supervision."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "At what age can most children begin to monitor their own insulin needs?",
+      "options": [
+        "5 years",
+        "7 years",
+        "9 years",
+        "15 years"
+      ],
+      "answer": "C",
+      "rationale": "Most children 9 years or older understand the principles of monitoring their insulin needs.",
+      "explanations": [
+        "Too young.",
+        "Too young.",
+        "Correct: about 9.",
+        "Later than needed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1080 (PDF p. 1362)",
+      "quote": "Most children 9 years old or older can understand the principles of monitoring their own insulin requirements."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Reproductive Health (Male & Female)",
+      "situation": "",
+      "stem": "What should the nurse do FIRST before teaching a teenager about sexuality?",
+      "options": [
+        "Warn about pregnancy",
+        "Build rapport, assess knowledge",
+        "Advise abstinence",
+        "Give pamphlets"
+      ],
+      "answer": "B",
+      "rationale": "Establishing a relationship and exploring prior knowledge comes first; it builds rapport and identifies learning needs.",
+      "explanations": [
+        "Later.",
+        "Correct: first step.",
+        "Judgmental first.",
+        "Later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q753 (PDF p. 982)",
+      "quote": "The first step in effective communication is establishing a relationship."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "What should the nurse assess about a dying client's end-of-life wishes?",
+      "options": [
+        "Preferred place of death",
+        "Insurance details",
+        "Neighbors' opinions",
+        "Hospital profits"
+      ],
+      "answer": "A",
+      "rationale": "End-of-life assessment includes the preferred place of death, expectations for nursing care, and wishes about comfort and spiritual care.",
+      "explanations": [
+        "Correct: key wish.",
+        "Not nursing care.",
+        "Irrelevant.",
+        "Irrelevant."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q741 (PDF p. 967)",
+      "quote": "End-of-life assessment related to nursing care should include the preferred place for death"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "A spouse says, 'I can't keep watching her die.' What is the MOST therapeutic reply?",
+      "options": [
+        "'It's hard. Rest a bit.'",
+        "'You must stay with her.'",
+        "'She needs you more now.'",
+        "'Don't think that way.'"
+      ],
+      "answer": "A",
+      "rationale": "An empathetic response acknowledges the spouse's pain and suggests time for self-care.",
+      "explanations": [
+        "Correct: empathy.",
+        "Judgmental.",
+        "Induces guilt.",
+        "Dismisses feelings."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q816 (PDF p. 1050)",
+      "quote": "The most therapeutic response is the one that is empathetic"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A dying client says, 'I hope I'm worthy of heaven,' and shows fear. What should the nurse do FIRST?",
+      "options": [
+        "Help express fears",
+        "Assess the nature of the fear",
+        "Find past coping",
+        "Document the fear"
+      ],
+      "answer": "B",
+      "rationale": "Fear ranges from mild to overwhelming, so the nurse first assesses its nature, then helps the client express it.",
+      "explanations": [
+        "Next step.",
+        "Correct: assess first.",
+        "Later.",
+        "Not first."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q849 (PDF p. 1086)",
+      "quote": "the nurse would first assess the nature of the client’s fears"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which behavior shows ANTICIPATORY grieving in a dying client?",
+      "options": [
+        "Discusses feelings about the loss",
+        "Prolonged outbursts",
+        "Unresolved guilt",
+        "Denies illness for months"
+      ],
+      "answer": "A",
+      "rationale": "Discussing thoughts and feelings about the loss shows anticipatory grief. The others suggest dysfunctional grieving.",
+      "explanations": [
+        "Correct: anticipatory grief.",
+        "Dysfunctional.",
+        "Dysfunctional.",
+        "Dysfunctional."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q900 (PDF p. 1143)",
+      "quote": "The remaining options are examples of dysfunctional grieving."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Therapeutic Communication",
+      "situation": "",
+      "stem": "A dying client is angry that her family keeps hoping for a cure. Which response uses reflection?",
+      "options": [
+        "'Have you told your family?'",
+        "'Let's talk about your anger.'",
+        "'You're angry they still hope?'",
+        "'You sound pessimistic.'"
+      ],
+      "answer": "C",
+      "rationale": "Reflection directs the client's feelings back to validate them.",
+      "explanations": [
+        "Assessment.",
+        "Directive.",
+        "Correct: reflection.",
+        "Judgmental."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q925 (PDF p. 1169)",
+      "quote": "Reflection is the therapeutic communication technique that redirects the client’s feelings back at the client"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which statement shows a dying client has reached ACCEPTANCE?",
+      "options": [
+        "'I want to reach 100.'",
+        "'I want my family here when I die.'",
+        "'When my kids graduate, I'll be ready.'",
+        "'After the wedding, I'll be ready.'"
+      ],
+      "answer": "B",
+      "rationale": "Acceptance is often shown by plans for death and wanting loved ones near. The others are bargaining.",
+      "explanations": [
+        "Bargaining.",
+        "Correct: acceptance.",
+        "Bargaining.",
+        "Bargaining."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q948 (PDF p. 1193)",
+      "quote": "Acceptance is often characterized by plans for death."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "How can the nurse BEST help a family cope as death nears?",
+      "options": [
+        "Limit time in the room",
+        "Teach coping theories",
+        "Pick spiritual measures for them",
+        "Answer questions and give resources"
+      ],
+      "answer": "D",
+      "rationale": "Open, clear communication helps decision-making and coping and preserves the family's sense of control.",
+      "explanations": [
+        "Isolates them.",
+        "Not the focus.",
+        "Imposes.",
+        "Correct: open communication."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1015 (PDF p. 1288)",
+      "quote": "Maintaining effective and open communication among family members affected by death and grief is important"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which event BEST shows a client died with dignity?",
+      "options": [
+        "Family thanks the nurse",
+        "Nurse says care was hard",
+        "Doctor signs quickly",
+        "Room cleaned quickly"
+      ],
+      "answer": "A",
+      "rationale": "The family's response gives external validation that comprehensive, quality care was given.",
+      "explanations": [
+        "Correct: external validation.",
+        "Nurse's feelings.",
+        "Not related.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1021 (PDF p. 1294)",
+      "quote": "The correct option provides external validation that the client received comprehensive, quality care."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Which statement to parents of a stillborn baby shows effective teaching of a new nurse?",
+      "options": [
+        "'How can I help you remember your baby?'",
+        "'Do you want a tranquilizer?'",
+        "'I don't know why this happened either.'",
+        "'You have 15 more minutes.'"
+      ],
+      "answer": "A",
+      "rationale": "Helping the family create memories confirms the baby's existence and helps them complete grieving.",
+      "explanations": [
+        "Correct: supports grief.",
+        "Suppresses grief.",
+        "Nurse-focused.",
+        "Limits grieving."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1024 (PDF p. 1297)",
+      "quote": "assist the family with creating memories of the infant"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Right after a death, the family refuses to discuss funeral plans. What should the nurse do?",
+      "options": [
+        "Show acceptance",
+        "Give funeral brochures",
+        "Probe about arrangements",
+        "Offer time alone with the client"
+      ],
+      "answer": "D",
+      "rationale": "The family is in denial, the first stage. Offering time alone supports them as they process the death.",
+      "explanations": [
+        "For later stages.",
+        "Premature.",
+        "Not supportive.",
+        "Correct: fits denial."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1029 (PDF p. 1302)",
+      "quote": "The family is exhibiting the first stage of grief: denial."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Concepts of Mental Health & Therapeutic Models",
+      "situation": "",
+      "stem": "Which reaction by the partner of a dying client is an EXPECTED coping response?",
+      "options": [
+        "Refuses to visit",
+        "Expresses anger at God",
+        "Won't allow death at home",
+        "Sends the children away"
+      ],
+      "answer": "B",
+      "rationale": "Anger is a normal response to impending loss and is often directed at God, the dying person, or caregivers.",
+      "explanations": [
+        "Denial.",
+        "Correct: normal anger.",
+        "Not expected coping.",
+        "Not expected coping."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1030 (PDF p. 1303)",
+      "quote": "The expression of anger is a normal response to impending loss"
+    }
+  ]
+}

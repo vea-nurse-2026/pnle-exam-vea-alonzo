@@ -1,0 +1,629 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Nitrazine paper turns blue with vaginal fluid. What does this mean?",
+      "options": [
+        "Amniotic fluid (alkaline)",
+        "Urine (acidic)",
+        "Blood",
+        "Normal discharge"
+      ],
+      "answer": "A",
+      "rationale": "Blue (alkaline) indicates amniotic fluid; red (acidic) indicates urine.",
+      "explanations": [
+        "Correct.",
+        "Red.",
+        "Not tested.",
+        "Acidic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Nitrazine Test (PDF p. 200)",
+      "quote": "Blue (alkaline): Amniotic fluid"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "A woman has a strong urge to push at 8 cm. What should the nurse tell her?",
+      "options": [
+        "Pant; don't push yet",
+        "Push hard now",
+        "Hold her breath",
+        "Lie flat"
+      ],
+      "answer": "A",
+      "rationale": "Do not push before full dilation; pant-breathe with the urge to push.",
+      "explanations": [
+        "Correct.",
+        "Cervical injury.",
+        "Not advised.",
+        "Not advised."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Second Stage (PDF p. 201)",
+      "quote": "Ask client to pant-breathe if there is an urge to push"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Which sequence correctly begins the cardinal movements of labor?",
+      "options": [
+        "Engagement, descent, flexion",
+        "Descent, engagement, flexion",
+        "Flexion, descent, engagement",
+        "Extension, flexion, descent"
+      ],
+      "answer": "A",
+      "rationale": "Mechanisms of labor: engagement, descent, flexion, internal rotation, extension, external rotation, expulsion.",
+      "explanations": [
+        "Correct.",
+        "Wrong.",
+        "Wrong.",
+        "Wrong."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Mechanisms of Labor (PDF p. 201)",
+      "quote": "Mechanisms of Labor (ED FIRE ERE)"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Under EINC, when is the cord clamped?",
+      "options": [
+        "After pulsation stops",
+        "Immediately at birth",
+        "After 30 minutes",
+        "Before drying"
+      ],
+      "answer": "A",
+      "rationale": "EINC: immediate drying, skin-to-skin, properly timed cord clamping (after pulsations stop or 1–3 minutes), and early breastfeeding.",
+      "explanations": [
+        "Correct.",
+        "Too early.",
+        "Too late.",
+        "Drying first."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, EINC (PDF p. 201)",
+      "quote": "Properly timed cord clamping (when pulsation stops or after 2 minutes)"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Which sign shows the placenta has separated?",
+      "options": [
+        "Globular uterus, longer cord",
+        "Uterus relaxes",
+        "Cord shortens",
+        "Bleeding stops"
+      ],
+      "answer": "A",
+      "rationale": "Signs: Calkin's sign (firm, globular uterus), cord lengthening, sudden gush of blood, uterus rising.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Lengthens.",
+        "Gush occurs."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Third Stage (PDF p. 201)",
+      "quote": "Calkin's Sign (Uterus becomes firm and globular)"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "After how long is the third stage of labor considered prolonged?",
+      "options": [
+        "30 minutes",
+        "5 minutes",
+        "2 hours",
+        "1 day"
+      ],
+      "answer": "A",
+      "rationale": "The third stage usually lasts 5–10 minutes; beyond 30 minutes is abnormal.",
+      "explanations": [
+        "Correct.",
+        "Normal.",
+        "Too long.",
+        "Too long."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Third Stage (PDF p. 201)",
+      "quote": "Beyond 30 minutes is already abnormal"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "A placenta delivers with the shiny fetal side first. This is:",
+      "options": [
+        "Schultze mechanism",
+        "Duncan mechanism",
+        "Placenta accreta",
+        "Succenturiate lobe"
+      ],
+      "answer": "A",
+      "rationale": "Schultze is shiny, separates from the center, with less bleeding; Duncan is raw and red with more bleeding.",
+      "explanations": [
+        "Correct.",
+        "Raw side.",
+        "Abnormal attachment.",
+        "Extra lobe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Placental Expulsion (PDF p. 201)",
+      "quote": "Shiny and glistening from the fetal membranes"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "How many vessels does a normal umbilical cord have?",
+      "options": [
+        "Two arteries, one vein",
+        "One artery, two veins",
+        "One artery, one vein",
+        "Two arteries, two veins"
+      ],
+      "answer": "A",
+      "rationale": "A normal cord has two arteries and one vein (AVA).",
+      "explanations": [
+        "Correct.",
+        "Wrong.",
+        "Abnormal.",
+        "Wrong."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Third Stage (PDF p. 201)",
+      "quote": "2 arteries and 1 vein (AVA)"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "When is methylergonovine (Methergine) given?",
+      "options": [
+        "After delivery of the placenta",
+        "Before delivery of the baby",
+        "Before placental delivery",
+        "In early labor"
+      ],
+      "answer": "A",
+      "rationale": "Ergot drugs cause strong contraction and can trap the placenta, so they are given after placental delivery.",
+      "explanations": [
+        "Correct.",
+        "Dangerous.",
+        "Traps placenta.",
+        "Not indicated."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Third Stage Drugs (PDF p. 201)",
+      "quote": "Best given immediately after delivery of placenta"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Why is the fourth stage of labor most risky for a woman with heart disease?",
+      "options": [
+        "Fluid returns to circulation",
+        "Blood volume falls",
+        "Breathing stops",
+        "Pain peaks"
+      ],
+      "answer": "A",
+      "rationale": "Retained fluid is reabsorbed, increasing cardiac output and oxygen demand.",
+      "explanations": [
+        "Correct.",
+        "Not the issue.",
+        "Not the issue.",
+        "Not the issue."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Fourth Stage (PDF p. 202)",
+      "quote": "most detrimental or difficult stage of labor in gravidocardiac patients"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A woman at 10 weeks has bleeding with a closed cervix. What type of abortion is this?",
+      "options": [
+        "Threatened",
+        "Inevitable",
+        "Incomplete",
+        "Complete"
+      ],
+      "answer": "A",
+      "rationale": "Threatened abortion: bleeding without cervical dilation or effacement.",
+      "explanations": [
+        "Correct.",
+        "Cervix dilating.",
+        "Some tissue passed.",
+        "All passed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Types of Abortion (PDF p. 202)",
+      "quote": "Threatened Abortion Presence of vaginal bleeding; no cervical dilation and effacement"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "What is the most common predisposing factor for ectopic pregnancy?",
+      "options": [
+        "Pelvic inflammation",
+        "Multiparity",
+        "Obesity",
+        "Hypertension"
+      ],
+      "answer": "A",
+      "rationale": "PID is the most common predisposing factor; previous surgery, IUD, and prior ectopic also increase risk.",
+      "explanations": [
+        "Correct.",
+        "Not main.",
+        "Not main.",
+        "Not main."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Ectopic Pregnancy (PDF p. 202)",
+      "quote": "Most common predisposing factor: Pelvic Inflammatory Disease (PID)"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Bluish discoloration around the umbilicus in ruptured ectopic pregnancy is:",
+      "options": [
+        "Cullen's sign",
+        "Chadwick's sign",
+        "Homans' sign",
+        "Goodell's sign"
+      ],
+      "answer": "A",
+      "rationale": "Cullen's sign is periumbilical ecchymosis from hemoperitoneum.",
+      "explanations": [
+        "Correct.",
+        "Vagina.",
+        "DVT.",
+        "Cervix."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Ectopic Pregnancy (PDF p. 203)",
+      "quote": "Positive (+) for Cullen's Sign"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which drug may treat an unruptured ectopic pregnancy under 3 cm?",
+      "options": [
+        "Methotrexate",
+        "Oxytocin",
+        "Magnesium sulfate",
+        "Terbutaline"
+      ],
+      "answer": "A",
+      "rationale": "Methotrexate, given IM, destroys fast-growing trophoblast cells in small ectopics.",
+      "explanations": [
+        "Correct.",
+        "Labor.",
+        "Seizures.",
+        "Tocolytic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Ectopic Pregnancy (PDF p. 203)",
+      "quote": "Given I.M. to the mother if ectopic pregnancy is less than 3 cm"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which finding suggests hydatidiform mole?",
+      "options": [
+        "Large uterus, vomiting",
+        "Small uterus",
+        "Strong fetal heart",
+        "Low hCG"
+      ],
+      "answer": "A",
+      "rationale": "H-mole shows rapid uterine enlargement, hyperemesis from high hCG, pinkish discharge, and no FHT.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Absent FHT.",
+        "Very high hCG."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Hydatidiform Mole (PDF p. 203)",
+      "quote": "Rapid abdominal enlargement"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "After D&C for H-mole, what should the woman avoid for 1 year?",
+      "options": [
+        "Pregnancy",
+        "Exercise",
+        "Bathing",
+        "Dairy"
+      ],
+      "answer": "A",
+      "rationale": "hCG is monitored for a year to detect choriocarcinoma; pregnancy would confuse results.",
+      "explanations": [
+        "Correct.",
+        "Not restricted.",
+        "Not restricted.",
+        "Not restricted."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Hydatidiform Mole (PDF p. 203)",
+      "quote": "No pregnancy for 1 year"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "What is the most common cause of habitual abortion?",
+      "options": [
+        "Incompetent cervix",
+        "Placenta previa",
+        "Pre-eclampsia",
+        "Twins"
+      ],
+      "answer": "A",
+      "rationale": "Premature cervical dilation (incompetent cervix) is the most common cause of habitual abortion.",
+      "explanations": [
+        "Correct.",
+        "Third trimester.",
+        "Not cause.",
+        "Not cause."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Premature Cervical Dilation (PDF p. 204)",
+      "quote": "Most common cause of habitual abortion"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "When are McDonald cerclage sutures removed?",
+      "options": [
+        "37–38 weeks",
+        "20 weeks",
+        "At 28 weeks",
+        "Never"
+      ],
+      "answer": "A",
+      "rationale": "McDonald sutures are removed at 37–38 weeks to allow vaginal delivery.",
+      "explanations": [
+        "Correct.",
+        "Too early.",
+        "Too early.",
+        "Removed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Premature Cervical Dilation (PDF p. 204)",
+      "quote": "Sutures are removed 37 to 38 weeks of pregnancy."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Painless, bright red bleeding at 34 weeks suggests:",
+      "options": [
+        "Placenta previa",
+        "Abruptio placentae",
+        "Preterm labor",
+        "Ectopic"
+      ],
+      "answer": "A",
+      "rationale": "Placenta previa is the most common cause of painless third-trimester bleeding; abruption is painful.",
+      "explanations": [
+        "Correct.",
+        "Painful.",
+        "Contractions.",
+        "First trimester."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Placenta Previa (PDF p. 204)",
+      "quote": "Most common cause of painless bleeding in the third trimester of pregnancy"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which action is CONTRAINDICATED with painless bleeding late in pregnancy?",
+      "options": [
+        "Vaginal or rectal exam",
+        "Bed rest",
+        "Side-lying position",
+        "Fetal monitoring"
+      ],
+      "answer": "A",
+      "rationale": "Never do pelvic or rectal exams with suspected placenta previa; they can cause hemorrhage.",
+      "explanations": [
+        "Correct.",
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Placenta Previa (PDF p. 205)",
+      "quote": "Never attempt a pelvic or rectal examination with painless bleeding late in pregnancy"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Sharp fundal pain with a rigid, board-like uterus suggests:",
+      "options": [
+        "Abruptio placentae",
+        "Placenta previa",
+        "Normal labor",
+        "UTI"
+      ],
+      "answer": "A",
+      "rationale": "Abruption causes sharp stabbing pain, uterine rigidity, and bleeding that may be concealed.",
+      "explanations": [
+        "Correct.",
+        "Painless.",
+        "Not rigid.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Abruptio Placenta (PDF p. 205)",
+      "quote": "Rigidity of the uterus"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Blood seeping into the myometrium in central abruption causes:",
+      "options": [
+        "Couvelaire uterus",
+        "Bicornuate uterus",
+        "Retroverted uterus",
+        "Subinvolution only"
+      ],
+      "answer": "A",
+      "rationale": "Couvelaire uterus is bluish, copper-colored, and atonic, often requiring hysterectomy.",
+      "explanations": [
+        "Correct.",
+        "Anomaly.",
+        "Position.",
+        "Later issue."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Abruptio Placenta (PDF p. 205)",
+      "quote": "Couvelaire Uterus"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "The cord prolapses after membranes rupture. What should the nurse do?",
+      "options": [
+        "Cover with saline gauze",
+        "Push the cord back",
+        "Let it dry",
+        "Have her walk"
+      ],
+      "answer": "A",
+      "rationale": "Do not reinsert; cover with NSS-moistened gauze, give oxygen, and check FHT; prepare for delivery.",
+      "explanations": [
+        "Correct.",
+        "Never.",
+        "Harmful.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, PROM (PDF p. 206)",
+      "quote": "Moisten gauze with NSS and cover the cord"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which drug hastens fetal lung maturity in preterm rupture of membranes?",
+      "options": [
+        "Betamethasone",
+        "Oxytocin",
+        "Methotrexate",
+        "Magnesium"
+      ],
+      "answer": "A",
+      "rationale": "Corticosteroids such as betamethasone hasten fetal lung maturity.",
+      "explanations": [
+        "Correct.",
+        "Labor.",
+        "Ectopic.",
+        "Seizures."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, PROM (PDF p. 206)",
+      "quote": "Corticosteroid such as Betamethasone to hasten fetal lung maturity"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Why is IV fluid given in preterm labor?",
+      "options": [
+        "Hydration calms uterus",
+        "To induce labor",
+        "To sedate",
+        "To lower BP"
+      ],
+      "answer": "A",
+      "rationale": "Good hydration may stop contractions; bed rest and tocolytics are also used.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Not the purpose.",
+        "Not the purpose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Premature Labor (PDF p. 206)",
+      "quote": "hydration may stop contractions"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "In the BUBBLE-HE postpartum check, 'H' stands for:",
+      "options": [
+        "Homans' sign",
+        "Hemoglobin",
+        "Heart rate",
+        "Height"
+      ],
+      "answer": "A",
+      "rationale": "Breasts, Uterus, Bladder, Bowels, Lochia, Episiotomy, Homans' sign, and Emotions.",
+      "explanations": [
+        "Correct.",
+        "Not in mnemonic.",
+        "Not in mnemonic.",
+        "Not in mnemonic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Postpartum Assessment (PDF p. 202)",
+      "quote": "Homan’s sign: pain upon dorsiflexion (possible deep vein thrombosis)"
+    }
+  ]
+}

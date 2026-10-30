@@ -1,0 +1,365 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Jun-jun, 15, has had a stepwise-rising fever for a week, headache, and rose spots on his abdomen.",
+      "stem": "Which disease does the nurse suspect in Jun-jun?",
+      "options": [
+        "Dengue",
+        "Typhoid fever",
+        "Measles",
+        "Leptospirosis"
+      ],
+      "answer": "B",
+      "rationale": "Typhoid fever begins with headache, nausea and vomiting, a ladder-like (stepwise) fever, and rose spots on the abdomen.",
+      "explanations": [
+        "Petechiae, not rose spots.",
+        "Correct: typhoid.",
+        "Maculopapular rash, Koplik spots.",
+        "Calf pain, after floods."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Typhoid Fever (PDF p. 164)",
+      "quote": "Rose spots on the abdomen"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Jun-jun, 15, has had a stepwise-rising fever for a week, headache, and rose spots on his abdomen.",
+      "stem": "Jun-jun suddenly has right lower abdominal pain and a rigid abdomen. What complication is MOST likely?",
+      "options": [
+        "Typhoid spine",
+        "Intestinal perforation",
+        "Reiter's syndrome",
+        "Bronchitis"
+      ],
+      "answer": "B",
+      "rationale": "Hemorrhage and perforation are the most dreaded complications. The nurse watches for sudden right lower abdominal pain and abdominal rigidity.",
+      "explanations": [
+        "Not this picture.",
+        "Correct: perforation.",
+        "Joint and eye signs.",
+        "Respiratory."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Typhoid Fever (PDF p. 164–165)",
+      "quote": "Hemorrhage/Perforation (most dreaded complications)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which drug should be AVOIDED in a client with bacillary dysentery (shigellosis)?",
+      "options": [
+        "Ciprofloxacin",
+        "Antidiarrheal agents",
+        "IV fluids",
+        "Oral rehydration"
+      ],
+      "answer": "B",
+      "rationale": "Antidiarrheal drugs are contraindicated in shigellosis because they delay fecal excretion of the organism and can prolong fever.",
+      "explanations": [
+        "An appropriate antibiotic.",
+        "Correct: contraindicated.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Bacillary Dysentery (PDF p. 166)",
+      "quote": "Contraindicated: Anti-diarrheal drugs (they delay fecal excretion that can lead to prolong fever)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A client from Sorsogon has had blood-streaked sputum for months that does not respond to TB drugs. He often eats raw crabs. What is suspected?",
+      "options": [
+        "Paragonimiasis",
+        "Schistosomiasis",
+        "Amoebiasis",
+        "Typhoid"
+      ],
+      "answer": "A",
+      "rationale": "Paragonimiasis (lung fluke) comes from eating raw or undercooked crabs or crayfish. It causes a long cough and blood-streaked sputum that look like TB but do not respond to TB drugs.",
+      "explanations": [
+        "Correct: lung fluke.",
+        "From snail-infested water.",
+        "Intestinal.",
+        "Intestinal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Paragonimiasis (PDF p. 166)",
+      "quote": "PTB – like signs/symptoms not responding to anti-TB medication"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which lab test is MOST useful for an early presumptive diagnosis of mumps?",
+      "options": [
+        "Serum amylase",
+        "Serum lipase",
+        "Blood culture",
+        "Liver enzymes"
+      ],
+      "answer": "A",
+      "rationale": "An elevated serum amylase is the most useful test for an early presumptive diagnosis of mumps.",
+      "explanations": [
+        "Correct: amylase.",
+        "Not the main test.",
+        "Not used.",
+        "Not used."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Mumps (PDF p. 167)",
+      "quote": "Serum amylase Determination (most useful test in making early presumptive diagnosis of mumps)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "When is mumps MOST communicable?",
+      "options": [
+        "48 hours before the swelling",
+        "1 week after the swelling",
+        "Only during the fever",
+        "After the swelling subsides"
+      ],
+      "answer": "A",
+      "rationale": "The 48 hours just before parotid swelling begins is the period of highest communicability. Cases are infectious up to a week before until 9 days after.",
+      "explanations": [
+        "Correct: peak period.",
+        "Lower risk.",
+        "Not the peak.",
+        "Lower risk."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Mumps (PDF p. 167)",
+      "quote": "48 – hours period immediately preceding onset of swelling is considered the time of highest communicability."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A child with mumps has painful parotid glands. Which food should the mother AVOID giving?",
+      "options": [
+        "Soft rice porridge",
+        "Sour fruit juice",
+        "Mashed potatoes",
+        "Plain soup"
+      ],
+      "answer": "B",
+      "rationale": "Soft, bland, semi-solid food is easier to manage. Acidic foods such as fruit juices increase discomfort.",
+      "explanations": [
+        "Appropriate.",
+        "Correct: increases pain.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Mumps (PDF p. 168)",
+      "quote": "Acid foods (fruit juices) increases discomfort"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "After eating home-canned food, a client has double vision, droopy eyelids, and trouble swallowing. Which paralysis pattern is expected?",
+      "options": [
+        "Ascending flaccid",
+        "Descending flaccid",
+        "Spastic",
+        "Unilateral"
+      ],
+      "answer": "B",
+      "rationale": "Botulism is a neurotoxin illness of descending flaccid paralysis with blurred vision, ptosis, dry mouth, and difficulty swallowing and breathing.",
+      "explanations": [
+        "Guillain-Barré.",
+        "Correct: botulism.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Botulism (PDF p. 168)",
+      "quote": "Flaccid paralysis (descending)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "How should a family make home-canned food safer to eat?",
+      "options": [
+        "Refrigerate it overnight",
+        "Boil it for 10 minutes",
+        "Add vinegar",
+        "Microwave for 30 seconds"
+      ],
+      "answer": "B",
+      "rationale": "Clients who eat home-canned food are taught to boil it for 10 minutes before eating to make sure it is safe.",
+      "explanations": [
+        "Does not destroy toxin.",
+        "Correct: destroys toxin.",
+        "Not reliable.",
+        "Not enough."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Botulism (PDF p. 169)",
+      "quote": "boil the food for 10 minutes before eating to ensure that it is safe to consume."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Before giving botulinum antitoxin, what must the nurse do?",
+      "options": [
+        "Give a laxative",
+        "Do a skin test",
+        "Start oral feeding",
+        "Give honey"
+      ],
+      "answer": "B",
+      "rationale": "Before botulinum antitoxin, the nurse checks the client's allergies and does a skin test first.",
+      "explanations": [
+        "Not before antitoxin.",
+        "Correct: prevents anaphylaxis.",
+        "Risk of aspiration.",
+        "Honey is a botulism source."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Botulism (PDF p. 169)",
+      "quote": "If giving the botulinus antitoxin, check the patient’s allergies, perform a skin test first."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which stage of Entamoeba histolytica is the infective stage?",
+      "options": [
+        "Cyst",
+        "Trophozoite",
+        "Egg",
+        "Larva"
+      ],
+      "answer": "A",
+      "rationale": "The cyst is the infective stage. It resists environmental conditions and survives a few days outside the body. Trophozoites invade tissue.",
+      "explanations": [
+        "Correct: infective.",
+        "Invades tissue.",
+        "Not this organism.",
+        "Not this organism."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Amoebiasis (PDF p. 169)",
+      "quote": "Cyst – considered to be the infective stage"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "How should the nurse handle a stool specimen for amoebiasis?",
+      "options": [
+        "Refrigerate it for 24 hours",
+        "Send it to the lab immediately",
+        "Mix it with oil",
+        "Collect only formed stool"
+      ],
+      "answer": "B",
+      "rationale": "No oil preparation for 48 hours before collection; collect a large portion with blood and mucus, label it, and send it to the laboratory immediately.",
+      "explanations": [
+        "Delays exam.",
+        "Correct: send promptly.",
+        "No oil prep.",
+        "Bloody mucus part."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Amoebiasis (PDF p. 170)",
+      "quote": "Send specimen immediately to the laboratory"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which is the intermediate host of Schistosoma japonicum in the Philippines?",
+      "options": [
+        "Anopheles minimus",
+        "Oncomelania snail",
+        "Aedes aegypti",
+        "Rattus rat"
+      ],
+      "answer": "B",
+      "rationale": "S. japonicum, endemic in the Philippines, uses the snail Oncomelania hupensis quadrasi as its intermediary host. Cercariae penetrate the skin in infested water.",
+      "explanations": [
+        "Malaria vector.",
+        "Correct: snail host.",
+        "Dengue vector.",
+        "Leptospirosis reservoir."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Schistosomiasis (PDF p. 171)",
+      "quote": "Oncomelania hupensis quadrasi is the intermediary host"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A farmer from Leyte has an itchy rash a day after wading in a rice field. What is this early sign called?",
+      "options": [
+        "Katayama fever",
+        "Swimmer's itch",
+        "Rose spots",
+        "Erythema migrans"
+      ],
+      "answer": "B",
+      "rationale": "The first stage of schistosomiasis is a pruritic rash ('swimmer's itch') about 24 hours after cercariae penetrate the skin. Katayama fever comes in the second stage.",
+      "explanations": [
+        "Second stage.",
+        "Correct: first stage.",
+        "Typhoid.",
+        "Lyme disease."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Schistosomiasis (PDF p. 171)",
+      "quote": "Pruritic rash known as “swimmers itch” occurs 24 hours after penetration of cercariae in the skin"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which test CONFIRMS schistosomiasis?",
+      "options": [
+        "Widal test",
+        "COPT",
+        "Schick test",
+        "Mantoux test"
+      ],
+      "answer": "B",
+      "rationale": "The circumoval precipitation test (COPT) is confirmatory for schistosomiasis. Fecalysis, biopsy, and ELISA are also used.",
+      "explanations": [
+        "Typhoid.",
+        "Correct: COPT.",
+        "Diphtheria.",
+        "TB exposure."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Schistosomiasis (PDF p. 171)",
+      "quote": "Circumoval precipitation test (COPT) – confirmatory test"
+    }
+  ]
+}

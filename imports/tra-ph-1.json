@@ -1,0 +1,485 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "'What the body does to the drug' describes:",
+      "options": [
+        "Pharmacodynamics",
+        "Pharmacokinetics",
+        "Pharmacotherapy",
+        "Toxicology"
+      ],
+      "answer": "B",
+      "rationale": "Pharmacokinetics is drug movement: absorption, distribution, metabolism, excretion. Pharmacodynamics is what the drug does to the body.",
+      "explanations": [
+        "Drug's effect.",
+        "Correct.",
+        "Drug use.",
+        "Poisons."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pharmacology Terms (PDF p. 105)",
+      "quote": "What the body does to the drug"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Biotransformation of a drug is also called:",
+      "options": [
+        "Absorption",
+        "Distribution",
+        "Metabolism",
+        "Excretion"
+      ],
+      "answer": "C",
+      "rationale": "Metabolism (biotransformation) inactivates drugs, mainly in the liver.",
+      "explanations": [
+        "Entry.",
+        "Transport.",
+        "Correct.",
+        "Elimination."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, ADME (PDF p. 105)",
+      "quote": "Also known as Biotransformation"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "An undesired, abnormal drug response more severe than a side effect is a(n):",
+      "options": [
+        "Side effect",
+        "Adverse reaction",
+        "Therapeutic effect",
+        "Placebo effect"
+      ],
+      "answer": "B",
+      "rationale": "Adverse reactions are undesired, more severe than side effects, abnormal, and reportable.",
+      "explanations": [
+        "Expected.",
+        "Correct.",
+        "Desired.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Therapeutic Index (PDF p. 105)",
+      "quote": "More severe than side effects"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Quality Improvement & Research",
+      "situation": "",
+      "stem": "Which clinical trial phase establishes whether a new drug is better than the standard?",
+      "options": [
+        "Phase I",
+        "Phase II",
+        "Phase III",
+        "Phase IV"
+      ],
+      "answer": "C",
+      "rationale": "Phase I safety and dosage; II effectiveness; III comparison with standard drug; IV post-marketing.",
+      "explanations": [
+        "Safety.",
+        "Effectiveness.",
+        "Correct.",
+        "Marketed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Clinical Trials (PDF p. 106)",
+      "quote": "PHASE III Establish if new drug is more effective than the standard drug."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A nurse is asked to give a medicine another nurse prepared. What should she do?",
+      "options": [
+        "Give it as asked",
+        "Give only her own",
+        "Check the color",
+        "Ask the client"
+      ],
+      "answer": "B",
+      "rationale": "Do not administer any medication you did not prepare.",
+      "explanations": [
+        "Unsafe.",
+        "Correct.",
+        "Not enough.",
+        "Not appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Nursing Responsibilities (PDF p. 106)",
+      "quote": "Do not administer any medication that you did not prepare."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which drug group is OTOTOXIC?",
+      "options": [
+        "Aminoglycosides",
+        "Penicillins",
+        "Antacids",
+        "Vitamins"
+      ],
+      "answer": "A",
+      "rationale": "Ototoxic drugs include aminoglycosides, aspirin, chloroquine, and loop diuretics.",
+      "explanations": [
+        "Correct.",
+        "Not typically.",
+        "No.",
+        "No."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Drug Toxicities (PDF p. 106)",
+      "quote": "Ototoxic drugs Aminoglycosides"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which drug causes a disulfiram-like reaction with alcohol?",
+      "options": [
+        "Metronidazole",
+        "Paracetamol",
+        "Amoxicillin",
+        "Omeprazole"
+      ],
+      "answer": "A",
+      "rationale": "Metronidazole, some cephalosporins, and oral hypoglycemics cause disulfiram reactions.",
+      "explanations": [
+        "Correct.",
+        "No.",
+        "No.",
+        "No."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Drug Reactions (PDF p. 107)",
+      "quote": "Disulfiram reaction Metronidazole"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Beta-2 receptors are found mainly in the:",
+      "options": [
+        "Heart",
+        "Bronchi",
+        "Iris",
+        "Kidneys"
+      ],
+      "answer": "B",
+      "rationale": "Beta-1 receptors are in the heart; beta-2 in the bronchi, vascular and uterine smooth muscle.",
+      "explanations": [
+        "Beta-1.",
+        "Correct.",
+        "Alpha-1.",
+        "Not main."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Adrenergic Receptors (PDF p. 107)",
+      "quote": "Bronchi, smooth muscles in the blood vessels, uterine muscles"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which effect is caused by SYMPATHETIC stimulation?",
+      "options": [
+        "Miosis",
+        "Bronchodilation",
+        "Increased peristalsis",
+        "Bladder contraction"
+      ],
+      "answer": "B",
+      "rationale": "Sympathetic effects: mydriasis, bronchodilation, increased HR, decreased peristalsis, bladder relaxation.",
+      "explanations": [
+        "Parasympathetic.",
+        "Correct.",
+        "Parasympathetic.",
+        "Parasympathetic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, ANS Responses (PDF p. 107)",
+      "quote": "Bronchioles Bronchodilate Bronchoconstrict"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which drug is used first in anaphylaxis?",
+      "options": [
+        "Epinephrine",
+        "Atropine",
+        "Propranolol",
+        "Bethanechol"
+      ],
+      "answer": "A",
+      "rationale": "Epinephrine treats anaphylaxis, bronchospasm, and cardiac arrest.",
+      "explanations": [
+        "Correct.",
+        "Bradycardia.",
+        "Beta blocker.",
+        "Cholinergic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Adrenergic Drugs (PDF p. 108)",
+      "quote": "Treats Allergic reaction, anaphylaxis, bronchospasm & cardiac arrest"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Combining albuterol with which drug class risks hypertensive crisis?",
+      "options": [
+        "MAO inhibitors",
+        "Antacids",
+        "Vitamins",
+        "Antipyretics"
+      ],
+      "answer": "A",
+      "rationale": "Albuterol with MAOIs can cause hypertensive crisis.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Adrenergic Drugs (PDF p. 108)",
+      "quote": "Should not be given with MAOI (can cause hypertensive crisis)"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which antidote is used for norepinephrine or dopamine extravasation/overdose?",
+      "options": [
+        "Phentolamine",
+        "Naloxone",
+        "Protamine",
+        "Vitamin K"
+      ],
+      "answer": "A",
+      "rationale": "Phentolamine is the antidote for norepinephrine and dopamine overdose or extravasation.",
+      "explanations": [
+        "Correct.",
+        "Opioids.",
+        "Heparin.",
+        "Warfarin."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Adrenergic Drugs (PDF p. 108)",
+      "quote": "Phentolamine mesylate = antidote for NE and dopamine overdose"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Non-selective beta blockers like propranolol are used cautiously in which client?",
+      "options": [
+        "Client with asthma",
+        "Client with migraine",
+        "Client with tremor",
+        "Client with angina"
+      ],
+      "answer": "A",
+      "rationale": "Non-selective beta blockers can cause bronchospasm; caution in COPD, asthma, and diabetes.",
+      "explanations": [
+        "Correct.",
+        "Indication.",
+        "Indication.",
+        "Indication."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Beta Blockers (PDF p. 108)",
+      "quote": "Bronchial Asthma"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which is a CARDIOSELECTIVE (beta-1) blocker?",
+      "options": [
+        "Propranolol",
+        "Metoprolol",
+        "Nadolol",
+        "Timolol"
+      ],
+      "answer": "B",
+      "rationale": "Selective beta-1 blockers include metoprolol, atenolol, acebutolol, betaxolol, and esmolol.",
+      "explanations": [
+        "Non-selective.",
+        "Correct.",
+        "Non-selective.",
+        "Non-selective."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Beta Blockers (PDF p. 109)",
+      "quote": "Metoprolol"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Fluids, Electrolytes & Acid-Base Balance",
+      "situation": "",
+      "stem": "Bethanechol is given to treat:",
+      "options": [
+        "Urinary retention",
+        "Hypertension",
+        "Asthma",
+        "Diarrhea"
+      ],
+      "answer": "A",
+      "rationale": "Bethanechol, a direct cholinergic agonist, treats urinary retention and abdominal distention.",
+      "explanations": [
+        "Correct.",
+        "No.",
+        "Worsens.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cholinergic Agonists (PDF p. 109)",
+      "quote": "Used to treat urinary retention and abdominal distention"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "What is the antidote for cholinergic overdose?",
+      "options": [
+        "Atropine",
+        "Physostigmine",
+        "Neostigmine",
+        "Epinephrine"
+      ],
+      "answer": "A",
+      "rationale": "Atropine counters cholinergic overdose (salivation, sweating, cramps). Pralidoxime reverses irreversible cholinesterase inhibitors.",
+      "explanations": [
+        "Correct.",
+        "Cholinergic.",
+        "Cholinergic.",
+        "Not antidote."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cholinergic Agonists (PDF p. 109)",
+      "quote": "ATROPINE SULFATE = antidote for cholinergic overdose"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Pralidoxime is the antidote for poisoning with which agents?",
+      "options": [
+        "Organophosphates",
+        "Opioids",
+        "Heparin",
+        "Iron"
+      ],
+      "answer": "A",
+      "rationale": "Pralidoxime reverses irreversible acetylcholinesterase inhibitors such as organophosphate pesticides.",
+      "explanations": [
+        "Correct.",
+        "Naloxone.",
+        "Protamine.",
+        "Deferoxamine."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cholinergic Agonists (PDF p. 109)",
+      "quote": "PRALIDOXIME = antidote for irreversible acetylcholinesterase-inhibiting drugs"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which is a sign of cholinergic excess (SLUDGE)?",
+      "options": [
+        "Dry mouth",
+        "Diarrhea",
+        "Urinary retention",
+        "Constipation"
+      ],
+      "answer": "B",
+      "rationale": "SLUDGE: salivation, lacrimation, urinary incontinence, diarrhea, GI cramps, emesis.",
+      "explanations": [
+        "Anticholinergic.",
+        "Correct.",
+        "Anticholinergic.",
+        "Anticholinergic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cholinergic Effects (PDF p. 109)",
+      "quote": "D - iarrhea"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which teaching is specific to phenytoin?",
+      "options": [
+        "Good oral hygiene and dental visits",
+        "High-potassium diet",
+        "Take on empty stomach",
+        "Mix with any IV fluid"
+      ],
+      "answer": "A",
+      "rationale": "Phenytoin causes gingival hyperplasia, so oral hygiene and dental visits are stressed; it is not mixed with other IV fluids.",
+      "explanations": [
+        "Correct.",
+        "Not related.",
+        "With food.",
+        "Not mixed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anticonvulsants (PDF p. 110)",
+      "quote": "Phenytoin: good oral hygiene, frequent dental visits"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Why is carbidopa combined with levodopa?",
+      "options": [
+        "Less peripheral breakdown",
+        "Adds more dopamine",
+        "Causes sleep",
+        "Treats nausea only"
+      ],
+      "answer": "A",
+      "rationale": "Carbidopa inhibits peripheral dopa decarboxylase so more levodopa reaches the brain.",
+      "explanations": [
+        "Correct.",
+        "Not.",
+        "Not.",
+        "Not."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Anti-Parkinson Agents (PDF p. 110)",
+      "quote": "Inhibits the enzyme dopa decarboxylase"
+    }
+  ]
+}

@@ -1,0 +1,821 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Which emotional need should the nurse anticipate in a client having a precipitous labor?",
+      "options": [
+        "Support in keeping a sense of control",
+        "Less pain than in a normal labor",
+        "Satisfaction with the quick labor",
+        "Fewer fears about the baby"
+      ],
+      "answer": "A",
+      "rationale": "Because of its abrupt onset and quick progress, precipitous labor makes it hard for the client to keep control. She needs support to understand and adapt to the rapid changes.",
+      "explanations": [
+        "Correct: rapid labor threatens her sense of control.",
+        "Contractions intensify quickly.",
+        "Not the expected need.",
+        "Fears are often greater."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q970 (PDF p. 1219)",
+      "quote": "The client experiencing a precipitous labor may have more difficulty maintaining control because of the abrupt onset and quick progression of the labor."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Parents of a newborn with an undescended testicle ask what can happen if it is not corrected. Which complication with a psychosocial impact should the nurse mention?",
+      "options": [
+        "Testicular atrophy",
+        "Infertility",
+        "Inguinal hernia",
+        "Urinary retention"
+      ],
+      "answer": "B",
+      "rationale": "The testes need a temperature below body temperature to produce fertile sperm, so uncorrected cryptorchidism can cause infertility. An 'empty scrotum' can also affect self-perception.",
+      "explanations": [
+        "A physical consequence.",
+        "Correct: affects reproduction and self-image.",
+        "A physical consequence.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q972 (PDF p. 1221)",
+      "quote": "Infertility can occur in males with this condition because proper function of the testes in producing fertile sperm depends on a temperature of less than 98.6° F (37.0° C)."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "The mother of a newborn with hydrocephalus says, 'I'm not sure I can care for my baby at home.' Which response is MOST therapeutic?",
+      "options": [
+        "'All babies have individual needs.'",
+        "'Mothers just know what to do.'",
+        "'You're worried about caring for him at home?'",
+        "'You'll be fine once you're home.'"
+      ],
+      "answer": "C",
+      "rationale": "Paraphrasing restates the mother's message and invites her to share more. The other responses minimize her concern or give false reassurance.",
+      "explanations": [
+        "Minimizes her concern.",
+        "False reassurance.",
+        "Correct: paraphrasing.",
+        "False reassurance."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q973 (PDF p. 1222)",
+      "quote": "Paraphrasing is restating the mother’s message in the nurse’s own words."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "Before an amniotomy, which data is the PRIORITY to assess?",
+      "options": [
+        "Fetal heart rate",
+        "Maternal heart rate",
+        "Fetal scalp blood sample",
+        "Maternal blood pressure"
+      ],
+      "answer": "A",
+      "rationale": "Fetal well-being must be confirmed before and after amniotomy by checking the FHR with a Doppler or external monitor. Scalp sampling is not possible with intact membranes.",
+      "explanations": [
+        "Correct: confirm fetal well-being.",
+        "Assessed, but not the priority.",
+        "Not possible with intact membranes.",
+        "Assessed, but not the priority."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1103 (PDF p. 1387)",
+      "quote": "Fetal well-being must be confirmed before and after amniotomy."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "At 35 weeks, a client reports a sudden gush of fluid from the vagina without contractions. What should the nurse suspect?",
+      "options": [
+        "Spontaneous miscarriage",
+        "Preterm labor",
+        "Intrauterine fetal demise",
+        "Premature membrane rupture"
+      ],
+      "answer": "D",
+      "rationale": "PROM usually shows as a sudden discharge of vaginal fluid before 37 weeks. Preterm labor shows contractions, cramping, and pressure; miscarriage shows bleeding and pain.",
+      "explanations": [
+        "Presents with bleeding and pain.",
+        "Presents with contractions.",
+        "Presents with loss of fetal movement.",
+        "Correct: a sudden gush of fluid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1108 (PDF p. 1392)",
+      "quote": "Premature rupture of the membranes is usually manifested by a sudden discharge of fluid from the vagina before 37 weeks of gestation."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A pregnant client with mitral valve prolapse needs anticoagulation. Which drug and route does the nurse expect?",
+      "options": [
+        "Oral warfarin daily",
+        "Continuous IV heparin",
+        "Subcutaneous terbutaline",
+        "Subcutaneous heparin"
+      ],
+      "answer": "D",
+      "rationale": "Heparin does not cross the placenta, so it is the safe anticoagulant in pregnancy, given subcutaneously. Warfarin crosses the placenta.",
+      "explanations": [
+        "Warfarin crosses the placenta.",
+        "Not the usual daily route.",
+        "A tocolytic, not an anticoagulant.",
+        "Correct: safe in pregnancy."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1125 (PDF p. 1409)",
+      "quote": "Heparin, which does not pass the placental barrier, is a safe anticoagulant therapy during pregnancy"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A postpartum client has thromboembolic disease. Which intervention MOST helps prevent pulmonary embolism?",
+      "options": [
+        "Strict bed rest",
+        "Frequent vital signs",
+        "Frequent breath sound checks",
+        "Giving prescribed anticoagulants"
+      ],
+      "answer": "D",
+      "rationale": "Anticoagulants prevent clots from forming and from moving to other areas, so they directly prevent pulmonary embolism. The other measures monitor but do not prevent.",
+      "explanations": [
+        "Not the preventive measure.",
+        "Monitors, but does not prevent.",
+        "Monitors, but does not prevent.",
+        "Correct: prevents clot formation and movement."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1145 (PDF p. 1432)",
+      "quote": "The purposes of anticoagulant therapy for the treatment of thromboembolytic disease are to prevent the formation of a clot and to prevent a clot from moving to another area"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A pregnant client is admitted with worsening heart disease. Which diet should the nurse discuss with the dietitian?",
+      "options": [
+        "Low-calorie to avoid weight gain",
+        "Low in fluids and fiber",
+        "High in fiber with enough fluids",
+        "Very high in sodium"
+      ],
+      "answer": "C",
+      "rationale": "Constipation can lead to straining (Valsalva maneuver), which can overload the heart. Adequate fluid and fiber prevent constipation. Low-calorie diets are not used in pregnancy.",
+      "explanations": [
+        "Not recommended in pregnancy.",
+        "Leads to constipation and low blood volume.",
+        "Correct: prevents straining.",
+        "Sodium worsens fluid overload."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1148 (PDF p. 1435)",
+      "quote": "Constipation can cause the client to use Valsalva’s maneuver. This maneuver can cause blood to rush to the heart and overload the cardiac system."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "The nursery is told that a newborn of an Rh-negative mother is coming. What should the nurse do first?",
+      "options": [
+        "Get the baby's type and Coombs",
+        "Prepare an exchange transfusion",
+        "Start phototherapy on arrival",
+        "Give RhoGAM to the newborn"
+      ],
+      "answer": "A",
+      "rationale": "Cord blood taken at delivery gives the newborn's blood type, Rh factor, and direct Coombs test. These results guide care.",
+      "explanations": [
+        "Correct: the results are needed to plan care.",
+        "Premature without results.",
+        "Premature without results.",
+        "RhoGAM is given to the mother, not the infant."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1172 (PDF p. 1459)",
+      "quote": "Umbilical cord blood is taken at the time of delivery to determine blood type, Rh factor, and antibody titer (direct Coombs’ test) of the newborn infant."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "In the second trimester, the fetal heart rate is 100 beats per minute. What should the nurse do FIRST?",
+      "options": [
+        "Document it as normal",
+        "Notify the physician",
+        "Tell the mother it is slow",
+        "Recheck it next visit"
+      ],
+      "answer": "B",
+      "rationale": "The normal FHR is 120 to 160 bpm. A rate of 100 needs prompt evaluation, so the provider is notified, and the finding is also documented.",
+      "explanations": [
+        "The finding is abnormal.",
+        "Correct: abnormal FHR needs evaluation.",
+        "Not the appropriate first action.",
+        "Delays evaluation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1205 (PDF p. 1497)",
+      "quote": "The FHR should be between 120 and 160 beats/min during pregnancy."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "After a gush of fluid in active labor, the monitor shows variable decelerations with each contraction. What should the nurse do FIRST?",
+      "options": [
+        "Increase the IV fluid rate",
+        "Check vaginally for the cord",
+        "Start oxygen and just wait",
+        "Prepare for delivery now"
+      ],
+      "answer": "B",
+      "rationale": "Variable decelerations after a gush of fluid suggest cord compression from prolapse. A vaginal exam detects the cord and confirms the problem.",
+      "explanations": [
+        "Not the first action.",
+        "Correct: confirms a prolapsed cord.",
+        "Delays confirmation.",
+        "Not yet indicated."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1181 (PDF p. 1471)",
+      "quote": "Variable deceleration with brief acceleration after a gush of amniotic fluid is a common clinical manifestation of cord compression"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "What is MOST important when admitting a newborn with myelomeningocele?",
+      "options": [
+        "Temperature every 4 hours",
+        "Blood pressure every hour",
+        "Fontanel check for bulging",
+        "Urine specific gravity"
+      ],
+      "answer": "C",
+      "rationale": "Increased intracranial pressure is a complication of spina bifida, and a bulging anterior fontanel is a sign of it. Temperature also matters because of infection risk.",
+      "explanations": [
+        "Important, but secondary.",
+        "Not the priority.",
+        "Correct: detects increased ICP.",
+        "Not the priority."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1191 (PDF p. 1483)",
+      "quote": "A sign of intracranial pressure in the newborn infant with spina bifida is a bulging anterior fontanel."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A term infant had hypoglycemia at 1 hour of age. At 24 hours, which finding needs follow-up?",
+      "options": [
+        "Weight loss of 100 g with dry, peeling skin",
+        "Glucose of 45 mg/dL before a feeding",
+        "Strong breastfeeding for 20 minutes",
+        "A high-pitched cry and poor feeding"
+      ],
+      "answer": "D",
+      "rationale": "Hypoglycemia causes CNS signs such as a high-pitched cry and weak feeding. Early weight loss and peeling skin are normal.",
+      "explanations": [
+        "Normal early findings.",
+        "Acceptable.",
+        "A good sign.",
+        "Correct: neurologic signs of hypoglycemia."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1216 (PDF p. 1509)",
+      "quote": "Hypoglycemia causes central nervous system symptoms (high- pitched cry), and it is also exhibited by a lack of strength for eating enough for growth."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Two days after admission for gestational hypertension, which finding shows the condition is WORSENING?",
+      "options": [
+        "Increased urine output",
+        "Trace urine protein",
+        "Complaints of blurred vision",
+        "BP of 130/80 mm Hg"
+      ],
+      "answer": "C",
+      "rationale": "Headache or blurred vision means the condition is worsening and needs immediate evaluation. The other findings suggest improvement.",
+      "explanations": [
+        "A sign of improvement.",
+        "A sign of improvement.",
+        "Correct: a sign of worsening.",
+        "A sign of improvement."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1222 (PDF p. 1515)",
+      "quote": "Client complaints of headache or blurred vision indicate a worsening of the condition and warrant immediate further evaluation."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother During Labor and Birth",
+      "situation": "",
+      "stem": "The nurse encourages oral fluids during labor. Which finding shows a successful outcome?",
+      "options": [
+        "Ketones in the urine",
+        "Urine specific gravity of 1.020",
+        "BP of 150/90 mm Hg",
+        "Continued leaking of amniotic fluid"
+      ],
+      "answer": "B",
+      "rationale": "Specific gravity measures urine concentration, and the kidneys tend to concentrate urine in labor. A specific gravity of 1.020 shows adequate hydration. Ketones show inadequate intake.",
+      "explanations": [
+        "Shows inadequate intake.",
+        "Correct: adequate hydration.",
+        "Not related to hydration.",
+        "Not related to hydration."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1233 (PDF p. 1526)",
+      "quote": "Urine specific gravity measures the concentration of the urine."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "The goal is 'The client will remain free of infection during her stay.' Which finding BEST shows the goal was met?",
+      "options": [
+        "Normal appetite",
+        "Absence of fever",
+        "Minimal vaginal bleeding",
+        "Moderate breast tenderness"
+      ],
+      "answer": "B",
+      "rationale": "Fever is the first sign of infection, so its absence suggests no infection. A temperature up to 38°C can be normal from the dehydrating effects of labor.",
+      "explanations": [
+        "Not a specific indicator.",
+        "Correct: no fever, no infection.",
+        "Not related to infection.",
+        "Not related to infection."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1234 (PDF p. 1527)",
+      "quote": "Fever is the first indication of an infection."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which statement shows a pregnant client understands the purpose of Kegel exercises?",
+      "options": [
+        "'They reduce backache.'",
+        "'They prevent ankle edema.'",
+        "'They strengthen the pelvic floor.'",
+        "'They prevent urinary infections.'"
+      ],
+      "answer": "C",
+      "rationale": "Kegel exercises strengthen the pelvic floor (pubococcygeal muscle). Pelvic tilts ease backache, and leg elevation reduces ankle edema.",
+      "explanations": [
+        "Pelvic tilts do this.",
+        "Leg elevation does this.",
+        "Correct: pelvic floor strengthening.",
+        "Fluid intake helps prevent UTIs."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1253 (PDF p. 1553)",
+      "quote": "Kegel exercises assist in strengthening the pelvic floor (pubococcygeal muscle)."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Which procedure should be AVOIDED during labor to reduce HIV transmission to the fetus?",
+      "options": [
+        "Cesarean birth",
+        "Epidural anesthesia",
+        "External fetal monitoring",
+        "Internal fetal scalp monitoring"
+      ],
+      "answer": "D",
+      "rationale": "Any procedure that exposes the fetus to maternal blood or body fluids is avoided. Internal scalp electrodes break the fetal skin.",
+      "explanations": [
+        "May actually reduce transmission.",
+        "Not a transmission risk to the fetus.",
+        "Noninvasive and safe.",
+        "Correct: exposes the fetus to maternal fluids."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1271 (PDF p. 1572)",
+      "quote": "Direct (internal) fetal monitoring is a procedure that may expose the fetus to maternal blood or body fluids and therefore should be avoided."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "One hour after surfactant therapy for RDS, which finding shows the newborn is improving?",
+      "options": [
+        "An audible grunt",
+        "A slight rise in respiratory rate",
+        "Arterial pH rising to 7.35 or higher",
+        "Increasing nasal flaring"
+      ],
+      "answer": "C",
+      "rationale": "RDS causes hypoxemia and metabolic acidosis. An arterial pH rising to 7.35 or more means the acidosis is resolving.",
+      "explanations": [
+        "A sign of distress.",
+        "A rising rate shows worsening.",
+        "Correct: acidosis is resolving.",
+        "A sign of distress."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1296 (PDF p. 1597)",
+      "quote": "If the arterial blood pH increases to ≥7.35, the metabolic acidosis is resolving and the newborn’s condition is improving."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "How should a newborn with gastroschisis be positioned before surgery?",
+      "options": [
+        "Prone on the abdomen",
+        "Held upright by parents",
+        "Side-lying, bowel supported",
+        "Supine, bowel uncovered"
+      ],
+      "answer": "C",
+      "rationale": "In gastroschisis the bowel is outside the abdomen with no sac. The infant is kept side-lying with the bowel supported by a blanket roll to prevent vascular compromise, kept NPO on IV fluids.",
+      "explanations": [
+        "Puts pressure on the exposed bowel.",
+        "Not safe before repair.",
+        "Correct: prevents twisting of the bowel.",
+        "The bowel must be covered and protected."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1331 (PDF p. 1633)",
+      "quote": "The infant should be placed in a side-lying position and the viscera supported with a blanket roll to prevent vascular compromise"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Ten days postpartum, a breastfeeding mother calls with a red, painful breast and fever. What should the nurse advise?",
+      "options": [
+        "Feed only from the other breast",
+        "Stop breastfeeding completely",
+        "Call the MD; nurse both sides",
+        "Apply ice and skip a feed"
+      ],
+      "answer": "C",
+      "rationale": "Fever with a red, painful breast suggests mastitis. The provider is notified so an antibiotic safe for the baby can be prescribed. The mother keeps nursing on both breasts, starting with the unaffected one.",
+      "explanations": [
+        "Both breasts should be emptied.",
+        "Not necessary.",
+        "Correct: treat and keep nursing.",
+        "Skipping feeds leads to stasis."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1333 (PDF p. 1635)",
+      "quote": "The mother should continue to nurse on both breasts, but should start the infant on the unaffected breast"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "What is the role of estrogen in pregnancy?",
+      "options": [
+        "Maintains the uterine lining for implantation",
+        "Converts glucose to fat",
+        "Keeps the corpus luteum active",
+        "Promotes uterine growth and prepares the breasts"
+      ],
+      "answer": "D",
+      "rationale": "Estrogen stimulates uterine development and prepares the breasts for lactation. Progesterone maintains the uterine lining, hPL converts glucose to fat, and hCG maintains the corpus luteum.",
+      "explanations": [
+        "Progesterone's role.",
+        "Human placental lactogen's role.",
+        "hCG's role.",
+        "Correct: estrogen's role."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1348 (PDF p. 1651)",
+      "quote": "Estrogen stimulates uterine development to provide an environment for the fetus and stimulates the breasts to prepare for lactation."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "How should the nurse describe imperforate anus to parents?",
+      "options": [
+        "Fecal incontinence",
+        "Incomplete development of the anus",
+        "Hard, infrequent stools",
+        "Telescoping of the intestine"
+      ],
+      "answer": "B",
+      "rationale": "Imperforate anus is incomplete development or absence of the anus in its normal position. Incontinence describes encopresis, and telescoping describes intussusception.",
+      "explanations": [
+        "Describes encopresis.",
+        "Correct: anal atresia.",
+        "Describes constipation.",
+        "Describes intussusception."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1354 (PDF p. 1657)",
+      "quote": "Imperforate anus (anal atresia, anal agenesis) is the incomplete development or absence of the anus in its normal position in the perineum."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "What is the approximate stomach capacity of a newborn?",
+      "options": [
+        "5 to 10 mL",
+        "10 to 20 mL",
+        "30 to 90 mL",
+        "75 to 100 mL"
+      ],
+      "answer": "B",
+      "rationale": "A newborn's stomach holds about 10 to 20 mL. It grows to 30 to 90 mL by 1 week and 75 to 100 mL by 2 to 3 weeks.",
+      "explanations": [
+        "Too small.",
+        "Correct: newborn capacity.",
+        "Capacity at 1 week.",
+        "Capacity at 2 to 3 weeks."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1355 (PDF p. 1658)",
+      "quote": "The stomach capacity of a newborn is approximately 10 to 20 mL."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Which measure relieves nipple soreness in a breastfeeding mother?",
+      "options": [
+        "Keep the same position to toughen the nipple",
+        "Stop nursing on the sore side",
+        "Align baby's ear, shoulder, hip, tummy to mother",
+        "Pull the baby off without breaking suction"
+      ],
+      "answer": "C",
+      "rationale": "Comfort measures include proper alignment (ear, shoulder, and hip in line, baby's stomach against the mother's), rotating positions, breaking suction with a finger, nursing often, and starting on the less sore side.",
+      "explanations": [
+        "Positions should be rotated.",
+        "Frequent nursing continues.",
+        "Correct: proper alignment prevents trauma.",
+        "Suction should be broken first."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1356 (PDF p. 1659)",
+      "quote": "Comfort measures for nipple soreness include positioning the infant with the ear, shoulder, and hip in straight alignment"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Immediately after delivery, where does the nurse expect to find the fundus?",
+      "options": [
+        "Deviated to the right",
+        "At or slightly below the umbilicus, midline",
+        "Well above the umbilicus",
+        "One fingerbreadth above the symphysis"
+      ],
+      "answer": "B",
+      "rationale": "Right after delivery, the fundus is at the umbilicus or one to three fingerbreadths below it, in the midline. A deviated fundus may mean a full bladder; a high fundus may mean clots.",
+      "explanations": [
+        "Suggests a full bladder.",
+        "Correct: the expected position.",
+        "May mean clots needing massage.",
+        "Seen days later."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1358 (PDF p. 1661)",
+      "quote": "Immediately after delivery, the uterine fundus should be at the level of the umbilicus or one to three fingerbreadths below it and in the midline of the abdomen."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Two hours after delivery, a mother's temperature is 38.9°C (102°F). What should the nurse do?",
+      "options": [
+        "Notify the physician",
+        "Remove her blanket",
+        "Document and recheck in 4 hours",
+        "Encourage oral fluids only"
+      ],
+      "answer": "A",
+      "rationale": "A slight rise from dehydration is normal, but 38.9°C (102°F) suggests infection and is reported to the provider.",
+      "explanations": [
+        "Correct: suggests infection.",
+        "Does not address the cause.",
+        "Delays needed evaluation.",
+        "Not enough for this level of fever."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1359 (PDF p. 1662)",
+      "quote": "A temperature of 102° F indicates infection, and the primary health care provider should be notified."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "After a vaginal delivery with epidural anesthesia, a vaginal hematoma is suspected. Which finding is the BEST indicator?",
+      "options": [
+        "Changes in vital signs",
+        "Vaginal bruising",
+        "A tearing sensation",
+        "Severe perineal pain"
+      ],
+      "answer": "A",
+      "rationale": "Under anesthesia the client cannot feel pain or pressure, so vital sign changes showing hypovolemia are the best indicator. Bruising may simply come from the delivery.",
+      "explanations": [
+        "Correct: signs of hypovolemia.",
+        "May come from the delivery itself.",
+        "Not felt under an epidural.",
+        "Not felt under an epidural."
+      ],
+      "difficulty": "Difficult",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1360 (PDF p. 1663)",
+      "quote": "Changes in vital signs indicate hypovolemia in the anesthetized postpartum woman with a vaginal hematoma."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "What is the PRIORITY assessment for a postterm small-for-gestational-age newborn?",
+      "options": [
+        "Urine output",
+        "Blood glucose",
+        "Total bilirubin",
+        "Hemoglobin and hematocrit"
+      ],
+      "answer": "B",
+      "rationale": "Hypoglycemia is the most common metabolic complication in SGA newborns and can cause CNS damage if not corrected immediately.",
+      "explanations": [
+        "Important, but secondary.",
+        "Correct: hypoglycemia is the main risk.",
+        "Not the highest priority.",
+        "Not the highest priority."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1362 (PDF p. 1665)",
+      "quote": "The most common metabolic complication in the SGA newborn is hypoglycemia"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "A newborn with Apgar scores of 1 and 4 is coming to the nursery. What is the PRIORITY?",
+      "options": [
+        "Ready the oxygen bag-mask",
+        "Turn on the apnea monitor",
+        "Prepare an IV with D5W",
+        "Warm the radiant warmer"
+      ],
+      "answer": "A",
+      "rationale": "With low Apgar scores, keeping the airway open comes first, so respiratory resuscitation equipment is prepared. The other measures are lower priority.",
+      "explanations": [
+        "Correct: the airway and breathing come first.",
+        "Important, but secondary.",
+        "Lower priority.",
+        "Lower priority."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1364 (PDF p. 1667)",
+      "quote": "The top priority action for a newborn infant with low Apgar scores is maintaining a patent airway"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Following Birth",
+      "situation": "",
+      "stem": "Which measure relieves breast engorgement in a breastfeeding mother?",
+      "options": [
+        "Feed from only one breast",
+        "Avoid wearing a bra",
+        "Warm compress or shower before feeding",
+        "Skip feedings to let breasts rest"
+      ],
+      "answer": "C",
+      "rationale": "Comfort measures include massaging the breasts before feeding, alternating breasts, a warm shower or compress just before feeding, and a supportive bra at all times.",
+      "explanations": [
+        "Both breasts should be used.",
+        "A supportive bra helps.",
+        "Correct: warmth helps let-down.",
+        "Skipping worsens engorgement."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1414 (PDF p. 1720)",
+      "quote": "taking a warm shower or applying warm compresses just before feeding, and wearing a supportive well-fitting bra at all times."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother Before Birth",
+      "situation": "",
+      "stem": "Which statement by a woman reflects a PRESUMPTIVE sign of pregnancy?",
+      "options": [
+        "'My pregnancy test was positive.'",
+        "'The doctor heard a heartbeat.'",
+        "'I haven't had a period in 2 months.'",
+        "'The ultrasound showed a baby.'"
+      ],
+      "answer": "C",
+      "rationale": "Presumptive signs are subjective changes the woman experiences: amenorrhea, nausea and vomiting, breast changes, urinary frequency, fatigue, and quickening.",
+      "explanations": [
+        "A probable sign.",
+        "A positive sign.",
+        "Correct: amenorrhea is presumptive.",
+        "A positive sign."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1465 (PDF p. 1774)",
+      "quote": "the presumptive signs of pregnancy are nausea, vomiting, breast changes, amenorrhea, urinary frequency, fatigue, and quickening."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "Pressing on a prenatal client's shin leaves a pit about 1 inch (2.5 cm) deep. How should the nurse document it?",
+      "options": [
+        "+1 edema",
+        "+2 edema",
+        "+3 edema",
+        "+4 edema"
+      ],
+      "answer": "D",
+      "rationale": "A pit about 1 inch deep is +4 edema. A slight pit is +1, about 1/4 inch is +2, and about 1/2 inch is +3.",
+      "explanations": [
+        "A slight indentation.",
+        "About 1/4 inch.",
+        "About 1/2 inch.",
+        "Correct: about 1 inch."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1537 (PDF p. 1848)",
+      "quote": "An indentation approximately 1-inch deep would be indicative of +4 edema."
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of Mother with Complications of Childbearing",
+      "situation": "",
+      "stem": "A client at 30 weeks in preterm labor receives betamethasone. What is its purpose?",
+      "options": [
+        "To mature the fetal lungs",
+        "To delay delivery for 48 hours",
+        "To stop contractions",
+        "To keep the ductus arteriosus open"
+      ],
+      "answer": "A",
+      "rationale": "Betamethasone increases surfactant and fetal lung maturity, reducing respiratory distress syndrome. Surfactant is not stable until after 32 weeks.",
+      "explanations": [
+        "Correct: promotes fetal lung maturity.",
+        "Not its purpose.",
+        "Tocolytics do this.",
+        "Not its purpose."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1547 (PDF p. 1859)",
+      "quote": "Betamethasone, a corticosteroid, is administered to increase the surfactant level and increase fetal lung maturity"
+    }
+  ]
+}

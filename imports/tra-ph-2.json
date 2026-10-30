@@ -1,0 +1,461 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which drug should be at the bedside of a client on pyridostigmine for myasthenia gravis?",
+      "options": [
+        "Atropine sulfate",
+        "Naloxone",
+        "Protamine",
+        "Flumazenil"
+      ],
+      "answer": "A",
+      "rationale": "Atropine is kept available for cholinergic crisis from cholinesterase inhibitor overdose.",
+      "explanations": [
+        "Correct.",
+        "Opioids.",
+        "Heparin.",
+        "Benzodiazepines."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Acetylcholinesterase Inhibitors (PDF p. 111)",
+      "quote": "Keep Atropine sulfate available for overdosage (cholinergic crisis)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "When is pyridostigmine best given for myasthenia gravis?",
+      "options": [
+        "30–60 min before meals",
+        "At bedtime only",
+        "2 hours after meals",
+        "Once a week"
+      ],
+      "answer": "A",
+      "rationale": "It is given 30–60 minutes before meals so muscle strength peaks for chewing and swallowing, with some food for gastric upset.",
+      "explanations": [
+        "Correct.",
+        "Not timed.",
+        "Too late.",
+        "Too seldom."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Acetylcholinesterase Inhibitors (PDF p. 111)",
+      "quote": "Administer medication 30 minutes to 1 hour before meals."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "When is suicide risk HIGHEST in a client starting antidepressants?",
+      "options": [
+        "Before treatment",
+        "As mood lifts",
+        "After one year",
+        "Never"
+      ],
+      "answer": "B",
+      "rationale": "Suicide precautions are maintained especially as depression lifts and energy returns.",
+      "explanations": [
+        "Also present.",
+        "Correct.",
+        "Less.",
+        "Risk exists."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Antidepressants (PDF p. 112)",
+      "quote": "Maintain suicide precautions especially as depression lifts."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "When are SSRIs and TCAs usually given?",
+      "options": [
+        "SSRIs morning, TCAs bedtime",
+        "Both at bedtime",
+        "Both in the morning",
+        "SSRIs at bedtime"
+      ],
+      "answer": "A",
+      "rationale": "SSRIs can cause insomnia, so they are given in the morning; TCAs cause drowsiness, so at bedtime.",
+      "explanations": [
+        "Correct.",
+        "SSRI insomnia.",
+        "TCA drowsiness.",
+        "Insomnia."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Antidepressants (PDF p. 112)",
+      "quote": "Give SSRI in morning, TCAs at bedtime."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "How long may antidepressants take to show effect?",
+      "options": [
+        "1 day",
+        "2 to 4 weeks",
+        "6 months",
+        "1 hour"
+      ],
+      "answer": "B",
+      "rationale": "Effects may take 2 to 4 weeks; clients are taught not to stop early.",
+      "explanations": [
+        "Too fast.",
+        "Correct.",
+        "Too long.",
+        "Too fast."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Antidepressants (PDF p. 112)",
+      "quote": "Effect of medication may take up to 2 to 4 weeks"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which food is AVOIDED by a client on an MAO inhibitor?",
+      "options": [
+        "Aged cheese and wine",
+        "Fresh fruit",
+        "White rice",
+        "Fresh chicken"
+      ],
+      "answer": "A",
+      "rationale": "Tyramine-rich foods (aged cheese, beer, wine, chocolate) can cause hypertensive crisis with MAOIs.",
+      "explanations": [
+        "Correct.",
+        "Safe.",
+        "Safe.",
+        "Safe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, MAOIs (PDF p. 112)",
+      "quote": "Hypertensive crisis with ingestion of foods high in tyramine (beer, wine, chocolate)"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which drug treats MAOI hypertensive crisis per the handout?",
+      "options": [
+        "Phentolamine",
+        "Atropine",
+        "Naloxone",
+        "Epinephrine"
+      ],
+      "answer": "A",
+      "rationale": "Phentolamine is given in MAOI hypertensive crisis.",
+      "explanations": [
+        "Correct.",
+        "No.",
+        "No.",
+        "Worsens."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, MAOIs (PDF p. 112)",
+      "quote": "Give Phentolamine in case of hypertensive crisis."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which is an early sign of lithium toxicity?",
+      "options": [
+        "Nausea, vomiting, diarrhea",
+        "Weight loss",
+        "Hypertension",
+        "Hair growth"
+      ],
+      "answer": "A",
+      "rationale": "Toxicity signs include nausea, vomiting, diarrhea, muscle weakness, and confusion.",
+      "explanations": [
+        "Correct.",
+        "Not typical.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Mood Stabilizers (PDF p. 112)",
+      "quote": "Toxicity signs: nausea, vomiting, diarrhea, weak muscles, confusion"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which teaching is correct for a client on lithium?",
+      "options": [
+        "Restrict sodium",
+        "High fluids and normal sodium",
+        "Take on an empty stomach",
+        "Limit fluids"
+      ],
+      "answer": "B",
+      "rationale": "Adequate fluids and normal sodium prevent lithium retention and toxicity; take with meals.",
+      "explanations": [
+        "Raises toxicity.",
+        "Correct.",
+        "With meals.",
+        "Raises toxicity."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Mood Stabilizers (PDF p. 112)",
+      "quote": "High intake of fluids and normal sodium"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "A client on haloperidol has involuntary lip-smacking and tongue movements. What is this?",
+      "options": [
+        "Tardive dyskinesia",
+        "Akathisia",
+        "Acute dystonia",
+        "Neuroleptic malignant syndrome"
+      ],
+      "answer": "A",
+      "rationale": "Tardive dyskinesia is a late EPS with involuntary oral-facial movements.",
+      "explanations": [
+        "Correct.",
+        "Restlessness.",
+        "Muscle spasm.",
+        "Fever, rigidity."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Antipsychotics (PDF p. 113)",
+      "quote": "Tardive dyskinesia"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which teaching applies to a client on chlorpromazine?",
+      "options": [
+        "Sunbathe daily",
+        "Avoid direct sunlight",
+        "Drink alcohol",
+        "Drive at night"
+      ],
+      "answer": "B",
+      "rationale": "Antipsychotics cause photosensitivity; avoid sunlight, alcohol, and hazardous activities.",
+      "explanations": [
+        "Photosensitivity.",
+        "Correct.",
+        "Avoid.",
+        "Avoid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Antipsychotics (PDF p. 113)",
+      "quote": "Avoid exposure to direct sunlight"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which is an atypical antipsychotic?",
+      "options": [
+        "Haloperidol",
+        "Chlorpromazine",
+        "Risperidone",
+        "Fluphenazine"
+      ],
+      "answer": "C",
+      "rationale": "Atypicals (CROQZ): clozapine, risperidone, olanzapine, quetiapine, ziprasidone.",
+      "explanations": [
+        "Typical.",
+        "Typical.",
+        "Correct.",
+        "Typical."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Antipsychotics (PDF p. 113)",
+      "quote": "Risperidone (Risperdal)"
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which teaching applies to benzodiazepines such as diazepam?",
+      "options": [
+        "Stop abruptly when better",
+        "Never stop abruptly",
+        "Take with alcohol",
+        "Double doses if anxious"
+      ],
+      "answer": "B",
+      "rationale": "Benzodiazepines are never stopped abruptly; alcohol potentiates them.",
+      "explanations": [
+        "Withdrawal.",
+        "Correct.",
+        "Dangerous.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anxiolytics (PDF p. 114)",
+      "quote": "Never abruptly stop the medication."
+    },
+    {
+      "subject": "NP V",
+      "topic": "Psychiatric Nursing Process, Disorders & Treatment",
+      "situation": "",
+      "stem": "Which condition contraindicates anxiolytics like benzodiazepines?",
+      "options": [
+        "Narrow-angle glaucoma",
+        "Insomnia",
+        "Anxiety",
+        "Muscle spasm"
+      ],
+      "answer": "A",
+      "rationale": "Contraindications include hypersensitivity, acute narrow-angle glaucoma, and liver disease.",
+      "explanations": [
+        "Correct.",
+        "Indication.",
+        "Indication.",
+        "Indication."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anxiolytics (PDF p. 114)",
+      "quote": "Acute narrow glaucoma"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "After spinal anesthesia, how long is the client kept flat to prevent headache?",
+      "options": [
+        "30 minutes",
+        "6–12 hours",
+        "3 days",
+        "Not needed"
+      ],
+      "answer": "B",
+      "rationale": "Keep the client flat 6–12 hours after spinal anesthesia to prevent spinal headache.",
+      "explanations": [
+        "Too short.",
+        "Correct.",
+        "Too long.",
+        "Needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Local Anesthetics (PDF p. 115)",
+      "quote": "SPINAL ANESTHESIA: keep the client flat for 6-12 hours to prevent spinal headache."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which peripheral muscle relaxant facilitates endotracheal intubation?",
+      "options": [
+        "Succinylcholine",
+        "Cyclobenzaprine",
+        "Orphenadrine",
+        "Diazepam"
+      ],
+      "answer": "A",
+      "rationale": "Peripheral relaxants such as succinylcholine block the myoneural junction for intubation.",
+      "explanations": [
+        "Correct.",
+        "Central.",
+        "Central.",
+        "Central."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Skeletal Muscle Relaxants (PDF p. 116)",
+      "quote": "Facilitation of endotracheal intubation"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which is a serious risk of COX-2 inhibitors like celecoxib?",
+      "options": [
+        "MI and stroke",
+        "Hair loss",
+        "Weight gain",
+        "Hypoglycemia"
+      ],
+      "answer": "A",
+      "rationale": "COX-2 inhibitors carry risks of MI and stroke, plus nephrotoxicity.",
+      "explanations": [
+        "Correct.",
+        "Not typical.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, NSAIDs (PDF p. 116)",
+      "quote": "Myocardial infarction"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which teaching applies to a client on allopurinol for gout?",
+      "options": [
+        "Increase fluids",
+        "Eat organ meats",
+        "Drink beer",
+        "Restrict water"
+      ],
+      "answer": "A",
+      "rationale": "Increase fluids to prevent renal calculi; avoid high-purine foods and fermented drinks.",
+      "explanations": [
+        "Correct.",
+        "High purine.",
+        "Avoid.",
+        "Stones."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anti-Gout Agents (PDF p. 117)",
+      "quote": "Increase OH to prevent renal calculi"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Ondansetron belongs to which class of antiemetics?",
+      "options": [
+        "5-HT3 antagonist",
+        "Antihistamine",
+        "Phenothiazine",
+        "Anticholinergic"
+      ],
+      "answer": "A",
+      "rationale": "Ondansetron and granisetron are serotonin (5-HT3) antagonists.",
+      "explanations": [
+        "Correct.",
+        "Dramamine.",
+        "Thorazine.",
+        "Scopolamine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Antiemetics (PDF p. 117)",
+      "quote": "Serotonin receptor antagonist Granisetron Ondansetron"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A client in a long leg cast cannot dorsiflex the foot. Which nerve is likely compressed?",
+      "options": [
+        "Peroneal",
+        "Radial",
+        "Ulnar",
+        "Median"
+      ],
+      "answer": "A",
+      "rationale": "Pressure on the peroneal nerve causes footdrop.",
+      "explanations": [
+        "Correct.",
+        "Arm.",
+        "Arm.",
+        "Arm."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Immobilized Extremities (PDF p. 451)",
+      "quote": "Injury to the peroneal nerve as a result of pressure is a cause of footdrop"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A client in a body spica cast has abdominal distention and vomiting. The nurse suspects:",
+      "options": [
+        "Cast syndrome",
+        "Appendicitis",
+        "Gastritis",
+        "Food poisoning"
+      ],
+      "answer": "A",
+      "rationale": "Cast syndrome (superior mesenteric artery compression) causes ileus; NG decompression, IV fluids.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Spica Body Cast (PDF p. 451)",
+      "quote": "Physiologic cast syndrome responses"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which action is outside the nurse's role for an external fixator?",
+      "options": [
+        "Adjusting the clamps",
+        "Pin site care",
+        "Neurovascular checks",
+        "Elevating the limb"
+      ],
+      "answer": "A",
+      "rationale": "The nurse never adjusts clamps; that is the physician's responsibility.",
+      "explanations": [
+        "Correct.",
+        "Nurse role.",
+        "Nurse role.",
+        "Nurse role."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, External Fixator (PDF p. 451)",
+      "quote": "The nurse never adjusts the clamps on the external fixator frame."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which solution is recommended for skeletal pin site care?",
+      "options": [
+        "Chlorhexidine",
+        "Hydrogen peroxide only",
+        "Alcohol only",
+        "Betadine ointment"
+      ],
+      "answer": "A",
+      "rationale": "Chlorhexidine is most effective; water is an alternative.",
+      "explanations": [
+        "Correct.",
+        "Not recommended.",
+        "Not recommended.",
+        "Not listed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Skeletal Traction (PDF p. 454)",
+      "quote": "Chlorhexidine solution is recommended as the most effective cleansing solution"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which finding shows traction is applied correctly?",
+      "options": [
+        "Weights hang freely",
+        "Weights rest on floor",
+        "Knots touch the pulley",
+        "Client slid to foot of bed"
+      ],
+      "answer": "A",
+      "rationale": "Weights hang freely, ropes unobstructed, client centered, knots away from pulleys.",
+      "explanations": [
+        "Correct.",
+        "Ineffective.",
+        "Friction.",
+        "Ineffective."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "TRA Nursing Module, Traction Principles (PDF p. 452)",
+      "quote": "Weights must hang freely and should not rest on the bed or floor."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Removing weights from skeletal traction is allowed only:",
+      "options": [
+        "Life-threatening event",
+        "During bathing",
+        "At night",
+        "On client request"
+      ],
+      "answer": "A",
+      "rationale": "Skeletal traction is never interrupted except in emergencies.",
+      "explanations": [
+        "Correct.",
+        "Never.",
+        "Never.",
+        "Never."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Skeletal Traction Alert (PDF p. 454)",
+      "quote": "The nurse must never remove weights from skeletal traction unless a life-threatening situation occurs"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Buck's extension traction is used for:",
+      "options": [
+        "Hip and femur fracture",
+        "Cervical spine",
+        "Humerus",
+        "Scoliosis"
+      ],
+      "answer": "A",
+      "rationale": "Buck's is skin traction to the lower leg before hip or femur surgery.",
+      "explanations": [
+        "Correct.",
+        "Halter, tongs.",
+        "Dunlop.",
+        "Cotrel."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Skin Traction (PDF p. 452)",
+      "quote": "Affectation of the hip and the femur"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A client in Buck's traction reports burning under the boot. The nurse should:",
+      "options": [
+        "Investigate immediately",
+        "Increase weight",
+        "Ignore it",
+        "Give sedative"
+      ],
+      "answer": "A",
+      "rationale": "Burning may indicate nerve damage or skin breakdown.",
+      "explanations": [
+        "Correct.",
+        "Harmful.",
+        "Unsafe.",
+        "Masks."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Skin Traction (PDF p. 452)",
+      "quote": "The nurse should immediately investigate any complaint of a burning sensation"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Bryant's traction is used for femur fractures in children younger than:",
+      "options": [
+        "3 years",
+        "10 years",
+        "15 years",
+        "18 years"
+      ],
+      "answer": "A",
+      "rationale": "Bryant's skin traction is for children under 3 (small weight).",
+      "explanations": [
+        "Correct.",
+        "Too old.",
+        "Too old.",
+        "Too old."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Skin Traction (PDF p. 452)",
+      "quote": "The Affectation of the hip and femur for children below 3 yrs. Old"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Crutchfield tongs provide traction for:",
+      "options": [
+        "Cervical spine injury",
+        "Femur fracture",
+        "Rib fracture",
+        "Wrist fracture"
+      ],
+      "answer": "A",
+      "rationale": "Crutchfield tongs are skeletal traction for cervical spine.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Skeletal Traction (PDF p. 453)",
+      "quote": "Crutchfield tong"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which exercise reduces venous stasis in a client in traction?",
+      "options": [
+        "Ankle pumps hourly",
+        "Bed rest only",
+        "Crossing legs",
+        "Holding breath"
+      ],
+      "answer": "A",
+      "rationale": "Active ankle flexion-extension and calf pumping 10 times an hour.",
+      "explanations": [
+        "Correct.",
+        "Stasis.",
+        "Stasis.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Skeletal Traction (PDF p. 454)",
+      "quote": "calf-pumping exercises"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "After total hip replacement, the leg should be kept in:",
+      "options": [
+        "Abduction",
+        "Adduction",
+        "Internal rotation",
+        "Flexion >90°"
+      ],
+      "answer": "A",
+      "rationale": "Abduction pillow prevents dislocation; never flex hip over 90 degrees.",
+      "explanations": [
+        "Correct.",
+        "Dislocation.",
+        "Dislocation.",
+        "Dislocation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Total Hip Replacement (PDF p. 456)",
+      "quote": "Positioning the leg in abduction, which helps prevent dislocation"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which statement shows understanding after hip replacement?",
+      "options": [
+        "I'll use a raised toilet seat",
+        "I'll cross my legs",
+        "I'll bend to tie shoes",
+        "I'll sit on low sofas"
+      ],
+      "answer": "A",
+      "rationale": "Raised seats limit hip flexion; avoid crossing legs and bending at waist.",
+      "explanations": [
+        "Correct.",
+        "Dislocation.",
+        "Flexion.",
+        "Flexion."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "TRA Nursing Module, Total Hip Replacement (PDF p. 456)",
+      "quote": "raised toilet seats are used to minimize hip joint flexion"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Prophylactic antibiotics before joint replacement are most effective when given:",
+      "options": [
+        "60 minutes before incision",
+        "After surgery",
+        "The day before",
+        "At discharge"
+      ],
+      "answer": "A",
+      "rationale": "Antibiotics within 60 minutes before incision prevent infection.",
+      "explanations": [
+        "Correct.",
+        "Late.",
+        "Early.",
+        "Late."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Orthopedic Surgery (PDF p. 456)",
+      "quote": "Prophylactic antibiotic 60 minutes prior to incision"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "After hip replacement, which drug class prevents DVT?",
+      "options": [
+        "LMW heparin",
+        "NSAIDs",
+        "Antacids",
+        "Diuretics"
+      ],
+      "answer": "A",
+      "rationale": "Enoxaparin, fondaparinux, stockings, and early ambulation prevent DVT.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Total Hip Replacement (PDF p. 457)",
+      "quote": "Low-molecular-weight heparin"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "A continuous passive motion device after knee replacement is used to:",
+      "options": [
+        "Increase range of motion",
+        "Immobilize the knee",
+        "Apply traction",
+        "Prevent bleeding"
+      ],
+      "answer": "A",
+      "rationale": "CPM increases circulation and knee range of motion.",
+      "explanations": [
+        "Correct.",
+        "Opposite.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Total Knee Replacement (PDF p. 457)",
+      "quote": "continuous passive motion"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "The level of amputation is chosen as:",
+      "options": [
+        "Most distal point that will heal",
+        "Always above the knee",
+        "Highest possible",
+        "Patient's preference only"
+      ],
+      "answer": "A",
+      "rationale": "Preserve length and function; based on circulation and prosthesis fit.",
+      "explanations": [
+        "Correct.",
+        "Not always.",
+        "Not this.",
+        "Not alone."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Amputation (PDF p. 457)",
+      "quote": "Most distal point that will heal successfully."
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A client with influenza is recovering at home. Which finding should prompt referral for possible pneumonia?",
+      "options": [
+        "Mild body aches",
+        "New fever, purulent sputum",
+        "Runny nose",
+        "Mild fatigue"
+      ],
+      "answer": "B",
+      "rationale": "The nurse watches for developing pneumonia: crackles, another temperature rise, or coughing with purulent or bloody sputum.",
+      "explanations": [
+        "Expected.",
+        "Correct: suggests pneumonia.",
+        "Expected.",
+        "Expected."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Influenza (PDF p. 157)",
+      "quote": "Watch for signs and symptoms of developing pneumonia such as crackles, another temperature increase"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "A farmer who butchered a sick carabao has a painless sore with a black scab and purplish vesicles. Which disease is suspected?",
+      "options": [
+        "Leptospirosis",
+        "Cutaneous anthrax",
+        "Leprosy",
+        "Impetigo"
+      ],
+      "answer": "B",
+      "rationale": "Cutaneous anthrax, over 90% of cases, starts as a pimple that ulcerates and forms a black scab surrounded by purplish vesicles. It comes from contact with tissues of animals dying of the disease.",
+      "explanations": [
+        "From rat urine.",
+        "Correct: black eschar.",
+        "Anesthetic patches.",
+        "Honey crusts."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Anthrax (PDF p. 157)",
+      "quote": "grows, ulcerates and forms a black scab, around which are purplish vesicles"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which hand hygiene is needed after caring for a client with anthrax?",
+      "options": [
+        "Alcohol rub only",
+        "Soap and water",
+        "Gloves without washing",
+        "Iodine rinse only"
+      ],
+      "answer": "B",
+      "rationale": "Alcohol-based hand sanitizers do not kill anthrax spores, so hands are washed with soap and water.",
+      "explanations": [
+        "Does not kill spores.",
+        "Correct: removes spores.",
+        "Not enough.",
+        "Not the standard."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anthrax (PDF p. 158)",
+      "quote": "Alcohol-based hand sanitizers do not kill anthrax spores; wash hands with soap and water."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which form of anthrax is the MOST fatal?",
+      "options": [
+        "Cutaneous",
+        "Inhalational",
+        "Intestinal",
+        "Ocular"
+      ],
+      "answer": "B",
+      "rationale": "Inhalational anthrax begins abruptly like the flu, then causes dyspnea, cyanosis, shock, and usually death in 2–6 days.",
+      "explanations": [
+        "Most common, less fatal.",
+        "Correct: most fatal.",
+        "Poor prognosis, but less.",
+        "Not a main form."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Anthrax (PDF p. 157)",
+      "quote": "Most Fatal"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Before starting antibiotics for suspected anthrax, what should the nurse do?",
+      "options": [
+        "Give the first dose",
+        "Obtain culture specimens",
+        "Apply alcohol to the lesion",
+        "Discharge the client"
+      ],
+      "answer": "B",
+      "rationale": "Culture specimens are obtained before antibiotic therapy starts.",
+      "explanations": [
+        "Cultures first.",
+        "Correct: cultures first.",
+        "Not indicated.",
+        "Not appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Anthrax (PDF p. 158)",
+      "quote": "Obtain culture specimens before starting antibiotic therapy"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which sputum characteristic is classic for pneumococcal pneumonia?",
+      "options": [
+        "Rusty",
+        "Rice-water",
+        "Frothy pink",
+        "Currant jelly"
+      ],
+      "answer": "A",
+      "rationale": "Pneumococcal pneumonia causes productive cough with rusty sputum, high fever, chest pain, and dullness on percussion over the affected lobe.",
+      "explanations": [
+        "Correct: pneumococcal.",
+        "Cholera stool.",
+        "Pulmonary edema.",
+        "Klebsiella."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pneumonia (PDF p. 159)",
+      "quote": "Rusty sputum"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Mang Rudy, 52, a tricycle driver, has had a cough for 3 weeks with afternoon fevers and night sweats.",
+      "stem": "Which test CONFIRMS pulmonary TB in Mang Rudy?",
+      "options": [
+        "Chest X-ray",
+        "Sputum AFB",
+        "Mantoux test",
+        "CBC"
+      ],
+      "answer": "B",
+      "rationale": "Sputum analysis for AFB is confirmatory. Tuberculin tests show exposure, and a chest X-ray supports the diagnosis.",
+      "explanations": [
+        "Supportive.",
+        "Correct: confirmatory.",
+        "Shows exposure.",
+        "Nonspecific."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Tuberculosis (PDF p. 160)",
+      "quote": "Sputum Analysis for AFB"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "Mang Rudy, 52, a tricycle driver, has had a cough for 3 weeks with afternoon fevers and night sweats.",
+      "stem": "Mang Rudy will take isoniazid. Which supplement should the nurse encourage?",
+      "options": [
+        "Vitamin B6",
+        "Vitamin C",
+        "Iron",
+        "Calcium"
+      ],
+      "answer": "A",
+      "rationale": "Isoniazid can cause peripheral neuropathy, so vitamin B6 (pyridoxine) intake is increased. Alcohol is avoided because of hepatotoxicity.",
+      "explanations": [
+        "Correct: prevents neuropathy.",
+        "Not related.",
+        "Not related.",
+        "Not related."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tuberculosis – Isoniazid (PDF p. 161)",
+      "quote": "Increase intake of Vitamin B6"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "Mang Rudy, 52, a tricycle driver, has had a cough for 3 weeks with afternoon fevers and night sweats.",
+      "stem": "Mang Rudy develops joint pain on pyrazinamide. Which lab result should the nurse check?",
+      "options": [
+        "Serum uric acid",
+        "Serum sodium",
+        "Blood glucose",
+        "Hemoglobin"
+      ],
+      "answer": "A",
+      "rationale": "Pyrazinamide causes hyperuricemia and can be hepatotoxic, so uric acid and liver function are monitored.",
+      "explanations": [
+        "Correct: hyperuricemia.",
+        "Not related.",
+        "Not related.",
+        "Not related."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Tuberculosis – Pyrazinamide (PDF p. 161)",
+      "quote": "Causes hyperuricemia"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A woman starting rifampicin for TB uses oral contraceptives. What should the nurse teach?",
+      "options": [
+        "The pill may be less effective",
+        "Stop TB drugs on pill days",
+        "Double the pill dose",
+        "No interaction exists"
+      ],
+      "answer": "A",
+      "rationale": "Rifampin can make oral contraceptives less effective, so a backup method is advised.",
+      "explanations": [
+        "Correct: reduced efficacy.",
+        "Unsafe.",
+        "Not appropriate.",
+        "There is one."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tuberculosis (PDF p. 161)",
+      "quote": "Caution the patient who is taking an oral contraceptive that the contraceptive may be less effective while she’s taking rifampin."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "What is the main purpose of DOTS in TB control?",
+      "options": [
+        "Shorten the incubation period",
+        "Prevent non-compliance",
+        "Replace sputum tests",
+        "Avoid drug side effects"
+      ],
+      "answer": "B",
+      "rationale": "Directly Observed Treatment, Short-course is a strategy to prevent non-compliance by having a treatment partner watch the client take each dose.",
+      "explanations": [
+        "Not the aim.",
+        "Correct: ensures adherence.",
+        "Sputum is still used.",
+        "Not the aim."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Tuberculosis (PDF p. 161)",
+      "quote": "Strategy to prevent non-compliance"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Which TB drug should be AVOIDED in children under 6 because of optic neuritis?",
+      "options": [
+        "Isoniazid",
+        "Rifampicin",
+        "Pyrazinamide",
+        "Ethambutol"
+      ],
+      "answer": "D",
+      "rationale": "Ethambutol can cause optic neuritis and is not recommended for children below 6, who cannot reliably report visual changes.",
+      "explanations": [
+        "Neuropathy.",
+        "Orange fluids.",
+        "Hyperuricemia.",
+        "Correct: optic neuritis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Tuberculosis – Ethambutol (PDF p. 161)",
+      "quote": "Not recommended for children (below 6 years old); can cause optic neuritis"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of the Community: Health System, PHC, Epidemiology & Disaster",
+      "situation": "",
+      "stem": "Bird flu is found in a poultry farm. Which control measure is used?",
+      "options": [
+        "Vaccinate the farmers only",
+        "Cull birds and disinfect the farm",
+        "Sell the birds quickly",
+        "Wait and observe"
+      ],
+      "answer": "B",
+      "rationale": "Control includes rapid destruction and proper disposal of birds, quarantine and rigorous disinfection of farms, and restrictions on moving live poultry.",
+      "explanations": [
+        "Not the control.",
+        "Correct: culling and disinfection.",
+        "Spreads disease.",
+        "Delays control."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Bird Flu (PDF p. 162)",
+      "quote": "Rapid destruction, proper disposal of carcasses and quarantining and rigorous disinfection of farms"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "What is the initial sign of SARS?",
+      "options": [
+        "Fever above 38°C",
+        "Productive cough",
+        "Rash",
+        "Diarrhea"
+      ],
+      "answer": "A",
+      "rationale": "The prodromal phase of SARS begins with fever above 38°C, then chills, malaise, myalgia, and headache. A dry cough follows.",
+      "explanations": [
+        "Correct: initial sign.",
+        "Cough is dry and later.",
+        "Not typical.",
+        "Not the initial sign."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, SARS (PDF p. 162)",
+      "quote": "Fever > 38oC (Initial Sign)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "After a flood, a barangay reports many cases of profuse diarrhea.",
+      "stem": "A client passes stools that look like rice water and has wrinkled fingertips. Which disease is suspected?",
+      "options": [
+        "Amoebiasis",
+        "Cholera",
+        "Typhoid fever",
+        "Shigellosis"
+      ],
+      "answer": "B",
+      "rationale": "Cholera causes profuse rice-watery stool and 'washer-woman's hands' from severe dehydration, which can lead to hypovolemic shock.",
+      "explanations": [
+        "Bloody mucoid stool.",
+        "Correct: cholera.",
+        "Fever, Peyer's patches.",
+        "Bloody stool."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Cholera (PDF p. 163)",
+      "quote": "Washer-woman’s hands"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "After a flood, a barangay reports many cases of profuse diarrhea.",
+      "stem": "What is the incubation period of cholera?",
+      "options": [
+        "6 to 48 hours",
+        "1 to 3 weeks",
+        "3 to 8 weeks",
+        "Months to years"
+      ],
+      "answer": "A",
+      "rationale": "Cholera has a short incubation period of 6 to 48 hours. Cases are infectious during diarrhea and up to 7 days after.",
+      "explanations": [
+        "Correct: short incubation.",
+        "Typhoid.",
+        "TB.",
+        "Leprosy."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Cholera (PDF p. 163)",
+      "quote": "6 to 48 hours"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "After a flood, a barangay reports many cases of profuse diarrhea.",
+      "stem": "Which isolation is used for a hospitalized client with cholera?",
+      "options": [
+        "Respiratory",
+        "Enteric",
+        "Reverse",
+        "Strict airborne"
+      ],
+      "answer": "B",
+      "rationale": "Cholera spreads through feces and vomitus, so enteric isolation with handwashing and accurate I&O is used.",
+      "explanations": [
+        "Not airborne.",
+        "Correct: enteric.",
+        "Protects the client.",
+        "Not airborne."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Cholera (PDF p. 163)",
+      "quote": "Enteric Isolation"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Care of Individuals: Communicable & Non-Communicable Diseases",
+      "situation": "",
+      "stem": "Typhoid fever is characterized by ulceration of which tissue?",
+      "options": [
+        "Peyer's patches",
+        "Gastric mucosa",
+        "Colonic crypts",
+        "Esophageal lining"
+      ],
+      "answer": "A",
+      "rationale": "Typhoid fever is a systemic Salmonella typhi infection with continued fever, anorexia, and involvement of lymphoid tissue, especially ulceration of Peyer's patches.",
+      "explanations": [
+        "Correct: Peyer's patches.",
+        "Not typical.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Typhoid Fever (PDF p. 164)",
+      "quote": "especially ulceration of Peyer’s patches."
+    }
+  ]
+}

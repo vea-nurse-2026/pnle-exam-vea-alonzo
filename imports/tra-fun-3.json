@@ -1,0 +1,725 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Which white cells arrive FIRST at a site of tissue injury?",
+      "options": [
+        "Neutrophils",
+        "Monocytes",
+        "Lymphocytes",
+        "Eosinophils"
+      ],
+      "answer": "A",
+      "rationale": "Neutrophils are first at the injury site; monocytes phagocytose in chronic injury; lymphocytes mediate immunity.",
+      "explanations": [
+        "Correct.",
+        "Chronic phase.",
+        "Immunity.",
+        "Allergy."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Inflammation (PDF p. 16)",
+      "quote": "Neutrophils — are first to be launched at the site of injury"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Infectious, Inflammatory & Immunologic Disorders",
+      "situation": "",
+      "stem": "Injured tissue releases substances that attract phagocytes. This process is:",
+      "options": [
+        "Margination",
+        "Diapedesis",
+        "Chemotaxis",
+        "Phagocytosis"
+      ],
+      "answer": "C",
+      "rationale": "Chemotaxis is the magnet-like attraction of phagocytes to the injured area.",
+      "explanations": [
+        "Lining up.",
+        "Leaving vessels.",
+        "Correct.",
+        "Engulfing."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Inflammation (PDF p. 16)",
+      "quote": "Chemotaxis — impaired tissues release substances which exert magnet-like force to the phagocytes"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "A clean surgical incision with approximated edges heals by:",
+      "options": [
+        "First intention",
+        "Second intention",
+        "Third intention",
+        "Granulation only"
+      ],
+      "answer": "A",
+      "rationale": "First intention occurs in clean-cut wounds with approximated edges and minimal scarring.",
+      "explanations": [
+        "Correct.",
+        "Large tissue loss.",
+        "Delayed closure.",
+        "Part of second intention."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Healing Process (PDF p. 16)",
+      "quote": "First Intention — occurs in clean-cut wound."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "An infected wound is left open, then closed surgically days later. This is healing by:",
+      "options": [
+        "First intention",
+        "Second intention",
+        "Third intention",
+        "Regeneration"
+      ],
+      "answer": "C",
+      "rationale": "Third intention is delayed surgical closure of an infected wound.",
+      "explanations": [
+        "Clean wound.",
+        "Left to fill in.",
+        "Correct.",
+        "Cell replacement."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Healing Process (PDF p. 16)",
+      "quote": "Third Intention — occurs when there is delayed surgical closure of infected wound"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "An electric fan cools a febrile child. Which heat-loss process is this?",
+      "options": [
+        "Radiation",
+        "Conduction",
+        "Convection",
+        "Evaporation"
+      ],
+      "answer": "C",
+      "rationale": "Convection is dispersion of heat by air currents. Conduction needs contact; radiation needs no contact.",
+      "explanations": [
+        "No contact.",
+        "Direct contact.",
+        "Correct.",
+        "Moisture."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Heat Loss (PDF p. 17)",
+      "quote": "Convection - dispersion of heat by air currents"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "When is body temperature normally LOWEST?",
+      "options": [
+        "4 am to 6 am",
+        "Noon",
+        "4 pm to 6 pm",
+        "9 pm"
+      ],
+      "answer": "A",
+      "rationale": "Diurnal variation: lowest 4–6 am, highest 4–6 pm.",
+      "explanations": [
+        "Correct.",
+        "Not lowest.",
+        "Highest.",
+        "Not lowest."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Body Temperature (PDF p. 17)",
+      "quote": "Lowest temp: 4am — 6am"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A fever stays above normal but swings more than 2°C within 24 hours. Which type?",
+      "options": [
+        "Intermittent",
+        "Remittent",
+        "Relapsing",
+        "Constant"
+      ],
+      "answer": "B",
+      "rationale": "Remittent fever has wide fluctuations over 2°C, all above normal.",
+      "explanations": [
+        "Returns to normal.",
+        "Correct.",
+        "Days apart.",
+        "Minimal change."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Types of Fever (PDF p. 17)",
+      "quote": "Remittent fever - wide range of temp fluctuations more than 2°C for over 24 hrs, all of which are above normal"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client just drank hot coffee. How long should the nurse wait before taking an oral temperature?",
+      "options": [
+        "5 minutes",
+        "15 minutes",
+        "30 minutes",
+        "1 hour"
+      ],
+      "answer": "C",
+      "rationale": "Wait 30 minutes after hot or cold drinks, food, or smoking.",
+      "explanations": [
+        "Too short.",
+        "Too short.",
+        "Correct.",
+        "Longer than needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Assessing Temperature (PDF p. 17)",
+      "quote": "Wait for 30 mins. before taking oral temperature"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "For which client is an ORAL temperature contraindicated?",
+      "options": [
+        "Alert adult",
+        "Client with an NG tube",
+        "Client after a shower",
+        "Client reading"
+      ],
+      "answer": "B",
+      "rationale": "Oral temps are avoided with oral lesions, dyspnea, cough, vomiting, NGT or ET tubes, seizures, young children, and confusion.",
+      "explanations": [
+        "Fine.",
+        "Correct.",
+        "Fine.",
+        "Fine."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Assessing Temperature (PDF p. 17)",
+      "quote": "Presence of oro-nasal pack, NGT, ET"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Rectal temperature is contraindicated in which client?",
+      "options": [
+        "Client with myocardial infarction",
+        "Healthy adult",
+        "Child with fever",
+        "Unconscious adult without rectal problems"
+      ],
+      "answer": "A",
+      "rationale": "Rectal temps are avoided with rectal conditions, diarrhea, quadriplegia, and MI (vagal stimulation).",
+      "explanations": [
+        "Correct.",
+        "Fine.",
+        "Fine.",
+        "Fine."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Assessing Temperature (PDF p. 18)",
+      "quote": "Quadriplegia and Myocardial Infarction"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "How is the pinna pulled for a tympanic temperature in a 2-year-old?",
+      "options": [
+        "Up and back",
+        "Back and down",
+        "Forward",
+        "Not pulled"
+      ],
+      "answer": "B",
+      "rationale": "For children under 3, the pinna is pulled straight back and slightly down; for adults, up and back.",
+      "explanations": [
+        "Older/adult.",
+        "Correct.",
+        "Wrong.",
+        "Needed."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tympanic Temperature (PDF p. 18)",
+      "quote": "pull pinna straight back and slightly downward for children <3 y/o"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "Which is correct when giving a tepid sponge bath?",
+      "options": [
+        "Add alcohol to the water",
+        "Rub the skin briskly",
+        "Pat the skin gently",
+        "Use ice water"
+      ],
+      "answer": "C",
+      "rationale": "TSB is done by patting to avoid friction; alcohol dries and irritates the skin.",
+      "explanations": [
+        "Avoid.",
+        "Friction raises heat.",
+        "Correct.",
+        "Causes shivering."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Tepid Sponge Bath (PDF p. 18)",
+      "quote": "Done by patting"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client's temperature is 102.2°F. What is it in Celsius?",
+      "options": [
+        "38°C",
+        "39°C",
+        "40°C",
+        "41°C"
+      ],
+      "answer": "B",
+      "rationale": "°C = 5/9 (°F − 32) = 5/9 × 70.2 = 39°C.",
+      "explanations": [
+        "Miscalculated.",
+        "Correct.",
+        "Miscalculated.",
+        "Miscalculated."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Temperature Conversion (PDF p. 18)",
+      "quote": "5/9 (°F - 32) = °C"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which pulse site is used during cardiac arrest in an INFANT?",
+      "options": [
+        "Carotid",
+        "Brachial",
+        "Radial",
+        "Temporal"
+      ],
+      "answer": "B",
+      "rationale": "The brachial pulse is used during infant cardiac arrest and for BP; carotid is used in adults.",
+      "explanations": [
+        "Adults.",
+        "Correct.",
+        "Routine.",
+        "When radial is inaccessible."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pulse Sites (PDF p. 19)",
+      "quote": "Brachial- used to measure BP and used during cardiac arrest in infants"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the Well Child (Neonate to Adolescent)",
+      "situation": "",
+      "stem": "Which pulse site is routinely used for infants and children up to 3 years?",
+      "options": [
+        "Radial",
+        "Apical",
+        "Femoral",
+        "Popliteal"
+      ],
+      "answer": "B",
+      "rationale": "The apical pulse is routine for infants and children up to 3 years.",
+      "explanations": [
+        "Older children.",
+        "Correct.",
+        "Arrest/shock.",
+        "Leg circulation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Pulse Sites (PDF p. 19)",
+      "quote": "Apical- routinely used for infants and children up to 3 y/o"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "The apical rate is 96 and the radial rate is 84 at the same time. What is this called?",
+      "options": [
+        "Pulse pressure",
+        "Pulse deficit",
+        "Bounding pulse",
+        "Bradycardia"
+      ],
+      "answer": "B",
+      "rationale": "Pulse deficit is the difference between apical and radial rates (here 12).",
+      "explanations": [
+        "BP difference.",
+        "Correct.",
+        "Volume.",
+        "Rate below 60."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pulse Deficit (PDF p. 19)",
+      "quote": "Discrepancy between the apical and radial pulse"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A pulse obliterated easily with light pressure is documented as:",
+      "options": [
+        "0",
+        "1+",
+        "2+",
+        "3+"
+      ],
+      "answer": "B",
+      "rationale": "Scale: 0 absent, 1+ weak/thready, 2+ normal, 3+ bounding.",
+      "explanations": [
+        "Absent.",
+        "Correct.",
+        "Normal.",
+        "Bounding."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Pulse Scale (PDF p. 19)",
+      "quote": "1+ - Weak or thread"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "What is the primary chemical stimulus for breathing in healthy people?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "B",
+      "rationale": "The medulla is the primary respiratory center, and CO2 is the main chemical stimulus.",
+      "explanations": [
+        "Hypoxic drive in COPD.",
+        "Correct.",
+        "Not.",
+        "Not primary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Respiratory Center (PDF p. 19)",
+      "quote": "CO2 is the primary chemical stimuli for breathing"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Breathing that waxes from very deep to very shallow, then stops briefly, is:",
+      "options": [
+        "Kussmaul's",
+        "Biot's",
+        "Cheyne-Stokes",
+        "Apneustic"
+      ],
+      "answer": "C",
+      "rationale": "Cheyne-Stokes goes from very deep to very shallow followed by temporary apnea.",
+      "explanations": [
+        "Deep, rapid.",
+        "Shallow with apnea.",
+        "Correct.",
+        "Prolonged inspiration."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Respiratory Terms (PDF p. 20)",
+      "quote": "Cheyne-Stokes- very deep to very shallow breathing followed by temporary apnea"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client in DKA has rapid, deep, labored breathing. What is it called?",
+      "options": [
+        "Kussmaul's",
+        "Biot's",
+        "Cheyne-Stokes",
+        "Bradypnea"
+      ],
+      "answer": "A",
+      "rationale": "Kussmaul's respirations are rapid, deep, and labored, seen in metabolic acidosis.",
+      "explanations": [
+        "Correct.",
+        "Clusters.",
+        "Waxing.",
+        "Slow."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Respiratory Terms (PDF p. 20)",
+      "quote": "Kussmaul's- rapid, deep and labored breathing"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "A shrill, harsh sound on INSPIRATION is:",
+      "options": [
+        "Wheeze",
+        "Stridor",
+        "Stertor",
+        "Crackles"
+      ],
+      "answer": "B",
+      "rationale": "Stridor is a shrill, harsh inspiratory sound; wheeze is a high-pitched expiratory sound; stertor is snoring.",
+      "explanations": [
+        "Expiratory.",
+        "Correct.",
+        "Snoring.",
+        "Fluid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Respiratory Terms (PDF p. 20)",
+      "quote": "Stridor- shrill, harsh sound heard during inspiration"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which error gives a FALSELY HIGH blood pressure?",
+      "options": [
+        "Cuff too wide",
+        "Arm above heart level",
+        "Cuff too narrow",
+        "Client rested 10 minutes"
+      ],
+      "answer": "C",
+      "rationale": "A narrow or loose cuff, arm below heart level, unsupported arm, or insufficient rest give false highs.",
+      "explanations": [
+        "False low.",
+        "False low.",
+        "Correct.",
+        "Proper."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Errors in BP (PDF p. 21)",
+      "quote": "Bladder cuff too narrow"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "How fast should the BP cuff be deflated?",
+      "options": [
+        "2–3 mm Hg per second",
+        "10 mm Hg per second",
+        "All at once",
+        "1 mm Hg per minute"
+      ],
+      "answer": "A",
+      "rationale": "Release the valve at 2–3 mm Hg per second to identify Korotkoff phases.",
+      "explanations": [
+        "Correct.",
+        "Too fast.",
+        "Misses readings.",
+        "Too slow."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Assessing BP (PDF p. 21)",
+      "quote": "Release the valve of the cuff at the rate of 2-3mmHG per second"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Pain lasting 6 months or longer is classified as:",
+      "options": [
+        "Acute",
+        "Chronic",
+        "Referred",
+        "Phantom"
+      ],
+      "answer": "B",
+      "rationale": "Acute pain lasts seconds to 6 months; chronic pain lasts 6 months or longer.",
+      "explanations": [
+        "Under 6 months.",
+        "Correct.",
+        "Location.",
+        "After amputation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Types of Pain (PDF p. 21)",
+      "quote": "Chronic Pain – constant or intermittent pain that lasts for 6 months or longer."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "In PQRST pain assessment, 'R' refers to:",
+      "options": [
+        "Relief",
+        "Radiation",
+        "Rate",
+        "Rhythm"
+      ],
+      "answer": "B",
+      "rationale": "PQRST: provoking factors, quality, radiation, severity, time.",
+      "explanations": [
+        "Not R.",
+        "Correct.",
+        "Not R.",
+        "Not R."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Characteristics of Pain (PDF p. 21)",
+      "quote": "Radiation"
+    },
+    {
+      "subject": "NP II",
+      "topic": "Care of the At-Risk and Sick Child",
+      "situation": "",
+      "stem": "Which pain scale suits a young child?",
+      "options": [
+        "Numeric 0–10 only",
+        "Faces Pain Scale",
+        "Visual analogue line",
+        "Descriptive word scale"
+      ],
+      "answer": "B",
+      "rationale": "The Faces Pain Scale is suitable for children to describe pain.",
+      "explanations": [
+        "Too abstract.",
+        "Correct.",
+        "Abstract.",
+        "Needs vocabulary."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Assessment of Pain (PDF p. 22)",
+      "quote": "Suitable for children to describe pain"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Percussing over an emphysematous lung produces which sound?",
+      "options": [
+        "Flatness",
+        "Dullness",
+        "Resonance",
+        "Hyperresonance"
+      ],
+      "answer": "D",
+      "rationale": "Hyperresonance (very loud, booming) is heard over emphysematous lungs; resonance over normal lung.",
+      "explanations": [
+        "Muscle.",
+        "Liver.",
+        "Normal lung.",
+        "Correct."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Percussion Sounds (PDF p. 22)",
+      "quote": "Hyper resonance Very loud Booming Emphysematous lung"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What is the correct sequence for examining the abdomen?",
+      "options": [
+        "Inspect, palpate, percuss, auscultate",
+        "Inspect, auscultate, percuss, palpate",
+        "Palpate, inspect, auscultate, percuss",
+        "Auscultate, inspect, palpate, percuss"
+      ],
+      "answer": "B",
+      "rationale": "Abdominal sequence: inspection, auscultation, percussion, palpation, so palpation does not alter bowel sounds.",
+      "explanations": [
+        "General sequence.",
+        "Correct.",
+        "Wrong.",
+        "Wrong."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Physical Exam (PDF p. 23)",
+      "quote": "The sequence for examination of the abdomen is as follows: (IAPePa)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "When should a painful abdominal quadrant be palpated?",
+      "options": [
+        "First",
+        "Last",
+        "Never",
+        "Second"
+      ],
+      "answer": "B",
+      "rationale": "The painful quadrant is palpated last; no palpation is done with liver or kidney tumors.",
+      "explanations": [
+        "Causes guarding.",
+        "Correct.",
+        "Usually done.",
+        "Not the rule."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Physical Exam (PDF p. 23)",
+      "quote": "Palpate the painful quadrant of the abdomen last"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Oxygenation (Airway, Gas Exchange, Perfusion)",
+      "situation": "",
+      "stem": "Which breath sound is soft, low-pitched, and heard over most of the lung fields?",
+      "options": [
+        "Bronchial",
+        "Bronchovesicular",
+        "Vesicular",
+        "Tracheal"
+      ],
+      "answer": "C",
+      "rationale": "Vesicular sounds are soft, low-pitched 'gentle sighing' sounds over the bronchioles and alveoli.",
+      "explanations": [
+        "Trachea.",
+        "Bronchi.",
+        "Correct.",
+        "Bronchial."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Breath Sounds (PDF p. 22)",
+      "quote": "Vesicular Soft-intensity,low-pitched,\"gentle sighing\" sounds"
+    }
+  ]
+}

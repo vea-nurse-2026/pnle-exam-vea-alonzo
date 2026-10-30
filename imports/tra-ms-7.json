@@ -1,0 +1,605 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What is the priority nursing assessment after an EGD with sedation?",
+      "options": [
+        "Return of gag reflex",
+        "Bowel sounds",
+        "Urine output",
+        "Pedal pulses"
+      ],
+      "answer": "A",
+      "rationale": "Withhold food and fluids until the gag reflex returns; monitor LOC, vitals, and SpO2.",
+      "explanations": [
+        "Correct.",
+        "Less relevant.",
+        "Less relevant.",
+        "Less relevant."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, EGD (PDF p. 340)",
+      "quote": "After the patient's gag reflex has returned"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which position is used during EGD?",
+      "options": [
+        "Left lateral",
+        "Right lateral",
+        "Prone",
+        "Trendelenburg"
+      ],
+      "answer": "A",
+      "rationale": "Left lateral position facilitates clearance of secretions and smooth scope entry.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, EGD (PDF p. 340)",
+      "quote": "The patient is positioned in the left lateral position"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "After EGD, which finding suggests perforation?",
+      "options": [
+        "Fever, dysphagia",
+        "Mild sore throat",
+        "Drowsy at 30 min",
+        "Belching"
+      ],
+      "answer": "A",
+      "rationale": "Report pain, bleeding, unusual difficulty swallowing, and rapidly rising temperature.",
+      "explanations": [
+        "Correct.",
+        "Expected.",
+        "Sedation.",
+        "Air."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, EGD (PDF p. 340)",
+      "quote": "Rapidly elevated temperature"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "GERD is primarily caused by:",
+      "options": [
+        "Weak LES",
+        "Excess bile",
+        "Pyloric stenosis",
+        "Excess saliva"
+      ],
+      "answer": "A",
+      "rationale": "Backflow of gastric contents occurs through an incompetent LES.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Symptom."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, GERD (PDF p. 341)",
+      "quote": "due to incompetent lower esophageal sphincter"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which instruction helps a client with GERD?",
+      "options": [
+        "Elevate head of bed 6–8 inches",
+        "Lie down after meals",
+        "Eat at bedtime",
+        "Wear tight belts"
+      ],
+      "answer": "A",
+      "rationale": "Elevate the bed, avoid eating 2 hours before bed, avoid tight clothing and lying after meals.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Worsens.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, GERD Nursing Management (PDF p. 341)",
+      "quote": "Elevate head of bed on 6 to 8 inches."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which drug class is more potent than H2 blockers for reducing gastric acid?",
+      "options": [
+        "Proton pump inhibitors",
+        "Antacids",
+        "Prokinetics",
+        "Laxatives"
+      ],
+      "answer": "A",
+      "rationale": "PPIs (omeprazole) inhibit the parietal cell ATPase pump and are more potent.",
+      "explanations": [
+        "Correct.",
+        "Neutralize.",
+        "Motility.",
+        "Bowel."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, GERD Pharmacology (PDF p. 341)",
+      "quote": "More potent than H2 receptor antagonists"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Nissen fundoplication treats GERD by:",
+      "options": [
+        "Fundus wrap",
+        "Stomach removal",
+        "Vagus nerve cut",
+        "Duodenal bypass"
+      ],
+      "answer": "A",
+      "rationale": "A portion of the fundus is wrapped around the sphincter area.",
+      "explanations": [
+        "Correct.",
+        "Gastrectomy.",
+        "Vagotomy.",
+        "Billroth II."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, GERD Surgery (PDF p. 341)",
+      "quote": "Wrapping of a portion of the gastric fundus around the sphincter area of the esophagus."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Cellular Aberrations",
+      "situation": "",
+      "stem": "Barrett's esophagus is significant because it is a precursor to:",
+      "options": [
+        "Esophageal cancer",
+        "Peptic ulcer",
+        "Hiatal hernia",
+        "Achalasia"
+      ],
+      "answer": "A",
+      "rationale": "Chronic reflux changes squamous lining (metaplasia), a precursor to esophageal cancer.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Barrett's Esophagus (PDF p. 341)",
+      "quote": "Precursor to esophageal cancer"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client with hiatal hernia should be taught to:",
+      "options": [
+        "Not recline for 1 hour after eating",
+        "Eat three large meals",
+        "Sleep flat",
+        "Lift heavy objects after meals"
+      ],
+      "answer": "A",
+      "rationale": "Small frequent feedings; do not recline 1 hour after eating; elevate head of bed.",
+      "explanations": [
+        "Correct.",
+        "Small meals.",
+        "Elevate.",
+        "Increases pressure."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Hiatal Hernia (PDF p. 342)",
+      "quote": "Patient is advised not to recline for 1 hour after eating"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Epigastric pain 2–3 hours after meals relieved by eating suggests:",
+      "options": [
+        "Duodenal ulcer",
+        "Gastric ulcer",
+        "Gastritis",
+        "Cholecystitis"
+      ],
+      "answer": "A",
+      "rationale": "Duodenal ulcer pain occurs 2–3 hours after meals and is relieved by food.",
+      "explanations": [
+        "Correct.",
+        "Worse with food.",
+        "Not this.",
+        "Fatty meals."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Duodenal vs Gastric Ulcer (PDF p. 342)",
+      "quote": "Pain occurs 2-3 hrs after meal"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which finding is more typical of gastric ulcer than duodenal ulcer?",
+      "options": [
+        "Hematemesis and weight loss",
+        "Weight gain",
+        "Pain relieved by food",
+        "Hypersecretion of HCl"
+      ],
+      "answer": "A",
+      "rationale": "Gastric ulcer: pain after eating, vomiting, hematemesis, weight loss.",
+      "explanations": [
+        "Correct.",
+        "Duodenal.",
+        "Duodenal.",
+        "Duodenal."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Duodenal vs Gastric Ulcer (PDF p. 343)",
+      "quote": "Hematemesis more common than melena"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which organism is a major cause of peptic ulcer and gastritis?",
+      "options": [
+        "Helicobacter pylori",
+        "Escherichia coli",
+        "Candida albicans",
+        "Salmonella typhi"
+      ],
+      "answer": "A",
+      "rationale": "H. pylori is treated with antibiotics (amoxicillin, clarithromycin) plus a PPI.",
+      "explanations": [
+        "Correct.",
+        "Not main.",
+        "Not main.",
+        "Typhoid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Peptic Ulcer Disease (PDF p. 343)",
+      "quote": "Gram-negative bacteria (H. Pylori)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "A client with gastritis develops hematemesis, tachycardia, and hypotension. The nurse should:",
+      "options": [
+        "Notify physician",
+        "Give milk",
+        "Encourage walking",
+        "Give aspirin"
+      ],
+      "answer": "A",
+      "rationale": "These indicate hemorrhagic gastritis; notify the physician.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Unsafe.",
+        "Worsens."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Gastritis Nursing Management (PDF p. 343)",
+      "quote": "Notify the physician if signs of hemorrhagic gastritis are present."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Severe peptic ulcers with extreme hyperacidity from a gastrin-secreting tumor is:",
+      "options": [
+        "Zollinger-Ellison syndrome",
+        "Dumping syndrome",
+        "Mallory-Weiss syndrome",
+        "Barrett's esophagus"
+      ],
+      "answer": "A",
+      "rationale": "Zollinger-Ellison: gastrinoma causing hyperacidity and severe ulcers.",
+      "explanations": [
+        "Correct.",
+        "Post-gastrectomy.",
+        "Esophageal tear.",
+        "Metaplasia."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Zollinger-Ellison Syndrome (PDF p. 343)",
+      "quote": "Consists of severe peptic ulcers, extreme gastric hyperacidity"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Sucralfate protects an ulcer by:",
+      "options": [
+        "Forming a protective barrier",
+        "Neutralizing acid",
+        "Killing H. pylori",
+        "Increasing gastric motility"
+      ],
+      "answer": "A",
+      "rationale": "Cytoprotectants form a viscous barrier that binds to the ulcer surface.",
+      "explanations": [
+        "Correct.",
+        "Antacid.",
+        "Antibiotic.",
+        "Prokinetic."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Cytoprotectants (PDF p. 344)",
+      "quote": "forms a protective barrier, binds to the surface of the ulcer"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Billroth II surgery involves:",
+      "options": [
+        "Gastrojejunostomy",
+        "Gastroduodenostomy",
+        "Fundoplication",
+        "Colectomy"
+      ],
+      "answer": "A",
+      "rationale": "Billroth II is gastrojejunostomy; Billroth I is gastroduodenostomy.",
+      "explanations": [
+        "Correct.",
+        "Billroth I.",
+        "Fundoplication.",
+        "Colectomy."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, PUD Surgery (PDF p. 344)",
+      "quote": "Billroth II (Gastrojejunostomy)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Thirty minutes after eating, a post-gastrectomy client has palpitations, sweating, and diarrhea. This is:",
+      "options": [
+        "Dumping syndrome",
+        "Hypoglycemia from insulin",
+        "Peritonitis",
+        "Gastritis"
+      ],
+      "answer": "A",
+      "rationale": "Rapid gastric emptying causes dumping syndrome symptoms about 30 minutes after meals.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Dumping Syndrome (PDF p. 344)",
+      "quote": "Symptoms occurring 30 minutes after eating"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which teaching helps prevent dumping syndrome?",
+      "options": [
+        "Avoid fluids with meals",
+        "Drink plenty during meals",
+        "Eat high-sugar desserts",
+        "Walk right after meals"
+      ],
+      "answer": "A",
+      "rationale": "Take fluids 1 hour before or after meals, eat dry low-carbohydrate meals, and lie down after.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Worsens.",
+        "Lie down."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Dumping Syndrome (PDF p. 344)",
+      "quote": "Fluid intake with meals is discouraged"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Diverticula most commonly occur in the:",
+      "options": [
+        "Sigmoid colon",
+        "Ascending colon",
+        "Duodenum",
+        "Esophagus"
+      ],
+      "answer": "A",
+      "rationale": "Diverticula occur most commonly in the sigmoid colon.",
+      "explanations": [
+        "Correct.",
+        "Less common.",
+        "Less common.",
+        "Less common."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Diverticular Disease (PDF p. 344)",
+      "quote": "Most commonly occur in the sigmoid colon."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which diet is recommended for diverticulosis without inflammation?",
+      "options": [
+        "High-fiber",
+        "Low-fiber",
+        "Clear liquid",
+        "High-fat"
+      ],
+      "answer": "A",
+      "rationale": "High fiber for diverticulosis; low fiber may be needed during acute diverticulitis.",
+      "explanations": [
+        "Correct.",
+        "Diverticulitis.",
+        "Acute only.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Diverticular Disease (PDF p. 345)",
+      "quote": "soft, high fiber foods are indicated for diverticulosis"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "What is the diagnostic test of choice for diverticulitis?",
+      "options": [
+        "CT scan",
+        "Barium enema",
+        "Colonoscopy",
+        "Upper GI series"
+      ],
+      "answer": "A",
+      "rationale": "CT is the test of choice in diverticulitis and reveals abscesses.",
+      "explanations": [
+        "Correct.",
+        "Avoid in acute.",
+        "Avoid in acute.",
+        "Upper tract."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Diverticular Disease (PDF p. 345)",
+      "quote": "CT Scan (test of choice for diverticulitis"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Transmural inflammation with a cobblestone appearance, mostly in the ileum, describes:",
+      "options": [
+        "Crohn's disease",
+        "Ulcerative colitis",
+        "Diverticulosis",
+        "Appendicitis"
+      ],
+      "answer": "A",
+      "rationale": "Crohn's affects all layers, skip areas, fistulas, cobblestone mucosa.",
+      "explanations": [
+        "Correct.",
+        "Mucosal, colon.",
+        "Sacs.",
+        "Appendix."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Crohn's Disease (PDF p. 345)",
+      "quote": "(Classic cobblestone appearance)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Ten to 20 bloody liquid stools daily with LLQ cramping suggests:",
+      "options": [
+        "Ulcerative colitis",
+        "Crohn's disease",
+        "Irritable bowel",
+        "Appendicitis"
+      ],
+      "answer": "A",
+      "rationale": "Ulcerative colitis involves mucosa of colon and rectum with bloody diarrhea.",
+      "explanations": [
+        "Correct.",
+        "Semi-solid stool.",
+        "No bleeding.",
+        "RLQ."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Ulcerative Colitis (PDF p. 345)",
+      "quote": "Diarrhea (10 to 20 liquid stools per day)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which diet is recommended for inflammatory bowel disease?",
+      "options": [
+        "Low-residue, high-protein",
+        "High-fiber, low-protein",
+        "High-fat diet",
+        "Gas-forming foods"
+      ],
+      "answer": "A",
+      "rationale": "Low residue, high protein, high calorie, with vitamins and iron.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Avoid."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, IBD Nursing Interventions (PDF p. 346)",
+      "quote": "Low residue"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Nutrition & Gastrointestinal Disorders",
+      "situation": "",
+      "stem": "Which surgery for ulcerative colitis creates a continent internal ileal reservoir?",
+      "options": [
+        "Kock ileostomy",
+        "Billroth I",
+        "Nissen fundoplication",
+        "Whipple procedure"
+      ],
+      "answer": "A",
+      "rationale": "Kock pouch is a continent ileal reservoir with a stoma.",
+      "explanations": [
+        "Correct.",
+        "Stomach.",
+        "Esophagus.",
+        "Pancreas."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, IBD Surgery (PDF p. 346)",
+      "quote": "Continent Ileostomy (Kock ileostomy)"
+    }
+  ]
+}

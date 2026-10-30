@@ -1,0 +1,581 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Bleeding a few hours after surgery when BP returns to normal and dislodges clots is:",
+      "options": [
+        "Intermediary hemorrhage",
+        "Primary hemorrhage",
+        "Secondary hemorrhage",
+        "Capillary ooze"
+      ],
+      "answer": "A",
+      "rationale": "Primary: during surgery; intermediary: first hours; secondary: later from slipped suture or erosion.",
+      "explanations": [
+        "Correct.",
+        "During surgery.",
+        "Later.",
+        "Vessel type."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Classification of Hemorrhage (PDF p. 495)",
+      "quote": "Intermediary Hemorrhage occurs during the few hours after surgery"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Bright red blood spurting with each heartbeat indicates:",
+      "options": [
+        "Arterial bleeding",
+        "Venous bleeding",
+        "Capillary bleeding",
+        "Concealed bleeding"
+      ],
+      "answer": "A",
+      "rationale": "Arterial blood is bright red and spurts; venous is dark and flows.",
+      "explanations": [
+        "Correct.",
+        "Dark.",
+        "Ooze.",
+        "Not visible."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Classification of Hemorrhage (PDF p. 495)",
+      "quote": "Blood is bright red and appears in spurts with each heartbeat."
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "What is the primary intervention for postoperative hypovolemic shock?",
+      "options": [
+        "Volume replacement",
+        "Diuretics",
+        "Fluid restriction",
+        "Ambulation"
+      ],
+      "answer": "A",
+      "rationale": "Replace volume, give oxygen, keep warm, monitor closely.",
+      "explanations": [
+        "Correct.",
+        "Worsens.",
+        "Worsens.",
+        "Unsafe."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Postop Shock (PDF p. 495)",
+      "quote": "Primary intervention for hypovolemic shock is volume replacement"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "When should the nurse intervene for postoperative nausea?",
+      "options": [
+        "At the first report",
+        "After vomiting starts",
+        "Only if it lasts 24 hours",
+        "Never"
+      ],
+      "answer": "A",
+      "rationale": "Treat nausea early to prevent vomiting.",
+      "explanations": [
+        "Correct.",
+        "Late.",
+        "Late.",
+        "Incorrect."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Nausea and Vomiting (PDF p. 495)",
+      "quote": "Intervene immediately in the patient’s first report of nausea"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Decreased breath sounds and crackles at the base on day 1 after abdominal surgery suggest:",
+      "options": [
+        "Atelectasis",
+        "Pulmonary edema",
+        "Asthma",
+        "Pneumothorax"
+      ],
+      "answer": "A",
+      "rationale": "Atelectasis results from shallow breathing; turn, deep breathe, use incentive spirometer.",
+      "explanations": [
+        "Correct.",
+        "Fluid.",
+        "Wheeze.",
+        "Absent sounds."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Respiratory Complications (PDF p. 496)",
+      "quote": "Atelectasis – alveolar collapse; incomplete expansion of lung"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Coughing is contraindicated after which surgery?",
+      "options": [
+        "Intracranial or eye surgery",
+        "Appendectomy",
+        "Hernia repair",
+        "Cholecystectomy"
+      ],
+      "answer": "A",
+      "rationale": "Coughing raises ICP and IOP; also avoided in plastic surgery.",
+      "explanations": [
+        "Correct.",
+        "Splint and cough.",
+        "Splint and cough.",
+        "Splint and cough."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Respiratory Complications (PDF p. 496)",
+      "quote": "Coughing is contraindicated in patients who have head injuries or who have undergone intracranial surgery, eye surgery"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Before the first postop ambulation, the nurse should first:",
+      "options": [
+        "Dangle legs at bedside",
+        "Walk to the hallway",
+        "Stand without support",
+        "Skip vital signs"
+      ],
+      "answer": "A",
+      "rationale": "Progress gradually: HOB up, sit, dangle, stand with support.",
+      "explanations": [
+        "Correct.",
+        "Too fast.",
+        "Unsafe.",
+        "Needed."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Ambulation (PDF p. 496)",
+      "quote": "turned so that both legs are hanging over the edge of the bed"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Which action helps prevent postoperative DVT?",
+      "options": [
+        "Leg exercises, early ambulation",
+        "Massage the calves",
+        "Pillow under knees",
+        "Cross the legs"
+      ],
+      "answer": "A",
+      "rationale": "Hydrate, exercise legs, ambulate early; avoid calf massage and knee gatch.",
+      "explanations": [
+        "Correct.",
+        "Emboli.",
+        "Compresses.",
+        "Stasis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Preventing DVT (PDF p. 496)",
+      "quote": "Encourage leg exercises and ambulate patient as soon as permitted"
+    },
+    {
+      "subject": "NP III",
+      "topic": "Care of Patients Undergoing Surgery",
+      "situation": "",
+      "stem": "Signs of a surgical wound infection include:",
+      "options": [
+        "Redness, pus",
+        "Clean, dry incision",
+        "Mild itching",
+        "Edges approximated"
+      ],
+      "answer": "A",
+      "rationale": "Infection: redness, swelling, warmth, pus, odor, fever.",
+      "explanations": [
+        "Correct.",
+        "Normal.",
+        "Healing.",
+        "Normal."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Wound Infection (PDF p. 497)",
+      "quote": "Pus or other discharge in the wound"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Under RA 9173, a foreign nurse may be licensed without examination through:",
+      "options": [
+        "Reciprocity",
+        "Special permit only",
+        "CPD units",
+        "Endorsement by hospital"
+      ],
+      "answer": "A",
+      "rationale": "Section 20: registration by reciprocity if requirements are substantially the same.",
+      "explanations": [
+        "Correct.",
+        "Temporary.",
+        "Not licensing.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Registration (PDF p. 498)",
+      "quote": "SEC. 20. Registration by Reciprocity."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A special/temporary permit under RA 9173 may be given to a foreign nurse who is:",
+      "options": [
+        "On a free medical mission",
+        "Working permanently in a hospital",
+        "Applying for citizenship",
+        "A nursing student"
+      ],
+      "answer": "A",
+      "rationale": "Permits cover specialists, medical missions (free), and exchange professors.",
+      "explanations": [
+        "Correct.",
+        "Needs license.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Special Permit (PDF p. 498)",
+      "quote": "Licensed nurses from foreign countries/ states on medical mission whose services shall be free"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Which law is the Continuing Professional Development Act?",
+      "options": [
+        "RA 10912",
+        "RA 9173",
+        "RA 7164",
+        "RA 8981"
+      ],
+      "answer": "A",
+      "rationale": "RA 10912 (2016) is the CPD Act; RA 9173 is the Nursing Act; RA 8981 is the PRC Modernization Act.",
+      "explanations": [
+        "Correct.",
+        "Nursing Act.",
+        "Old nursing law.",
+        "PRC Act."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, CPD (PDF p. 498)",
+      "quote": "According to RA 10912 (Continuing Professional Development Act of 2016)"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "'The right thing to do is the good thing to do' reflects which ethical approach?",
+      "options": [
+        "Teleological",
+        "Deontological",
+        "Virtue ethics",
+        "Epikia"
+      ],
+      "answer": "A",
+      "rationale": "Teleology focuses on outcomes; deontology on duty; virtue ethics on character.",
+      "explanations": [
+        "Correct.",
+        "Duty.",
+        "Character.",
+        "Exception."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Nursing Ethics (PDF p. 499)",
+      "quote": "The right thing to do is the good thing to do"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Not revealing confidential information that would harm a patient's reputation illustrates:",
+      "options": [
+        "Non-maleficence",
+        "Beneficence",
+        "Justice",
+        "Fidelity"
+      ],
+      "answer": "A",
+      "rationale": "Non-maleficence: do no harm.",
+      "explanations": [
+        "Correct.",
+        "Do good.",
+        "Fairness.",
+        "Promises."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Biomedical Ethics (PDF p. 499)",
+      "quote": "Not harming a person's reputation by revealing confidential information"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A nurse keeps her promise to return in 15 minutes. This shows:",
+      "options": [
+        "Fidelity",
+        "Veracity",
+        "Autonomy",
+        "Justice"
+      ],
+      "answer": "A",
+      "rationale": "Fidelity is keeping promises and loyalty.",
+      "explanations": [
+        "Correct.",
+        "Truth.",
+        "Self-rule.",
+        "Fairness."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Biomedical Ethics (PDF p. 499)",
+      "quote": "Keeping one's promises; loyalty"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Allowing a dying patient's relative to visit outside visiting hours applies the principle of:",
+      "options": [
+        "Epikia",
+        "Double effect",
+        "Respondeat superior",
+        "Res ipsa loquitur"
+      ],
+      "answer": "A",
+      "rationale": "Epikia is a reasonable exception to the general rule.",
+      "explanations": [
+        "Correct.",
+        "Two effects.",
+        "Employer liability.",
+        "Obvious negligence."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Principle of Epikia (PDF p. 499)",
+      "quote": "Exception to the general rule"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "In the principle of double effect, which condition is required?",
+      "options": [
+        "Good effect outweighs bad",
+        "Bad effect is intended",
+        "Good comes from evil act",
+        "Action is morally wrong"
+      ],
+      "answer": "A",
+      "rationale": "Action is good, good intended, bad only allowed, good not from evil, good greater than bad.",
+      "explanations": [
+        "Correct.",
+        "Merely allowed.",
+        "Not allowed.",
+        "Must be good."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Two-fold Effect (PDF p. 500)",
+      "quote": "Good effect must be greater than the bad effect"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Revocation or suspension of a nursing license is what type of case?",
+      "options": [
+        "Administrative",
+        "Criminal",
+        "Civil",
+        "Labor"
+      ],
+      "answer": "A",
+      "rationale": "License actions are administrative; appeals go to the PRC.",
+      "explanations": [
+        "Correct.",
+        "Court.",
+        "Court.",
+        "DOLE."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Legal Aspects (PDF p. 500)",
+      "quote": "License revocation or suspension is an administrative case."
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Where does a nurse file a case for illegal dismissal?",
+      "options": [
+        "DOLE",
+        "Board of Nursing",
+        "Trial court",
+        "DOH"
+      ],
+      "answer": "A",
+      "rationale": "Illegal dismissal cases are filed with DOLE; no lawyer needed.",
+      "explanations": [
+        "Correct.",
+        "Licensure.",
+        "Not first.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Illegal Dismissal (PDF p. 501)",
+      "quote": "Department of Labor and Employment"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "A sponge is left inside a patient after surgery. Which doctrine applies?",
+      "options": [
+        "Res ipsa loquitur",
+        "Force majeure",
+        "Epikia",
+        "Double effect"
+      ],
+      "answer": "A",
+      "rationale": "'The thing speaks for itself': injury would not occur without negligence.",
+      "explanations": [
+        "Correct.",
+        "Unforeseeable.",
+        "Exception.",
+        "Ethics."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Res Ipsa Loquitor (PDF p. 501)",
+      "quote": "The thing speaks for itself"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "The hospital shares liability for a staff nurse's negligence under:",
+      "options": [
+        "Respondeat superior",
+        "Force majeure",
+        "Res ipsa loquitur",
+        "Epikia"
+      ],
+      "answer": "A",
+      "rationale": "'Let the master answer': employer shares liability with employee.",
+      "explanations": [
+        "Correct.",
+        "Unforeseeable.",
+        "Obvious negligence.",
+        "Exception."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Respondeat Superior (PDF p. 501)",
+      "quote": "Let the master answer for the acts of the subordinate"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "An unconscious accident victim needs emergency surgery and no relative is present. Consent is:",
+      "options": [
+        "Implied",
+        "Required in writing",
+        "Given by the nurse",
+        "Delayed until family arrives"
+      ],
+      "answer": "A",
+      "rationale": "In emergencies consent is implied, since delay may cause greater harm.",
+      "explanations": [
+        "Correct.",
+        "Not possible.",
+        "Not role.",
+        "Harmful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Who Must Consent (PDF p. 502)",
+      "quote": "Implied consent"
+    },
+    {
+      "subject": "NP I",
+      "topic": "Integrated: Professional Practice, Ethics & Law",
+      "situation": "",
+      "stem": "Who gives consent for surgery of a married 17-year-old?",
+      "options": [
+        "The minor herself",
+        "Her parents",
+        "The hospital director",
+        "The court"
+      ],
+      "answer": "A",
+      "rationale": "A married or emancipated minor may consent without parents.",
+      "explanations": [
+        "Correct.",
+        "Not needed.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Who Must Consent (PDF p. 502)",
+      "quote": "If the minor is married or otherwise emancipated, parental consent is not needed"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Reporting & Recording",
+      "situation": "",
+      "stem": "'If it was not charted, it was not done' emphasizes that:",
+      "options": [
+        "Documentation is legal proof",
+        "Charting is optional",
+        "Only doctors chart",
+        "Notes can be added later freely"
+      ],
+      "answer": "A",
+      "rationale": "Records are legal protection; notes should be full, accurate, legible, prompt.",
+      "explanations": [
+        "Correct.",
+        "Required.",
+        "Nurses chart.",
+        "Prompt."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, Medical Records (PDF p. 502)",
+      "quote": "If it was not charted, it was not observed or done."
+    }
+  ]
+}

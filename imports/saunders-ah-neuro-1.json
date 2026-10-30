@@ -1,0 +1,773 @@
+{
+  "source": "Saunders Q&A Review for the NCLEX-RN Examination, 7th ed.",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with trigeminal neuralgia asks for a snack. Which is the BEST choice?",
+      "options": [
+        "Hot cocoa and toast",
+        "Vanilla pudding and lukewarm milk",
+        "Hot herbal tea with crackers",
+        "Iced coffee with crackers"
+      ],
+      "answer": "B",
+      "rationale": "Light touch or temperature extremes can trigger trigeminal pain, so soft, lukewarm, nutritious foods are best.",
+      "explanations": [
+        "Hot temperature triggers pain.",
+        "Correct: soft and lukewarm.",
+        "Hot temperature triggers pain.",
+        "Cold temperature triggers pain."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q57 (PDF p. 198)",
+      "quote": "Extremes of temperature will cause trigeminal pain."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which statement by a client with trigeminal neuralgia shows a need for MORE teaching?",
+      "options": [
+        "'I'll chew on my good side.'",
+        "'Analgesics will relieve my pain.'",
+        "'I'll use warm mouthwash.'",
+        "'I'll avoid cold drafts on my face.'"
+      ],
+      "answer": "B",
+      "rationale": "Trigeminal neuralgia causes sudden, intense facial pain that is rarely relieved by analgesics. Chewing on the unaffected side and warm mouthwash are recommended.",
+      "explanations": [
+        "Appropriate.",
+        "Correct answer: analgesics rarely help.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q764 (PDF p. 993)",
+      "quote": "The pain is rarely relieved by analgesics."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "In a client with a brainstem injury, which assessment is MOST critical along with the GCS?",
+      "options": [
+        "Assisting with ABGs",
+        "Assisting with lumbar puncture",
+        "Respiratory status and cranial nerves",
+        "Deep tendon reflexes only"
+      ],
+      "answer": "C",
+      "rationale": "The respiratory center is in the brainstem, so respiratory status and cranial nerve function are critical to assess.",
+      "explanations": [
+        "Not specifically required.",
+        "Not indicated.",
+        "Correct: brainstem functions.",
+        "Not the key assessment."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q62 (PDF p. 207)",
+      "quote": "Assessing the respiratory status and cranial nerve function is a critical component of the assessment process in a client with a brainstem injury"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After a supratentorial craniotomy, how is the client usually positioned?",
+      "options": [
+        "Prone, face down",
+        "Supine and flat",
+        "Head raised 30 degrees",
+        "Dorsal recumbent"
+      ],
+      "answer": "C",
+      "rationale": "After supratentorial surgery the head is raised about 30 degrees to promote venous outflow and control intracranial pressure.",
+      "explanations": [
+        "Raises ICP.",
+        "Raises ICP.",
+        "Correct: promotes venous drainage.",
+        "Raises ICP."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q111 (PDF p. 260)",
+      "quote": "the client’s head is usually elevated 30 degrees to promote venous outflow through the jugular veins and modulate intracranial pressure (ICP)."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which finding is typical of Guillain-Barré syndrome?",
+      "options": [
+        "Descending weakness",
+        "Hyperactive reflexes",
+        "Ascending symmetrical weakness",
+        "Muscle atrophy early on"
+      ],
+      "answer": "C",
+      "rationale": "Guillain-Barré syndrome is an acute autoimmune disorder with ascending symmetrical weakness leading to flaccid paralysis without atrophy, decreased reflexes, and possible respiratory compromise.",
+      "explanations": [
+        "Weakness ascends.",
+        "Reflexes decrease.",
+        "Correct: the classic pattern.",
+        "No atrophy."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q310 (PDF p. 474)",
+      "quote": "Motor manifestations include ascending symmetrical muscle weakness that leads to flaccid paralysis without muscle atrophy"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which measure prevents footdrop in a client with a spinal cord injury?",
+      "options": [
+        "Heel protectors",
+        "Posterior splints",
+        "Pneumatic boots",
+        "Avoiding dorsiflexion"
+      ],
+      "answer": "B",
+      "rationale": "Posterior splints or high-top sneakers prevent footdrop (plantar flexion). Heel protectors protect skin, and pneumatic boots prevent DVT.",
+      "explanations": [
+        "Protects skin only.",
+        "Correct: prevents plantar flexion.",
+        "Prevents DVT.",
+        "Dorsiflexion helps prevent footdrop."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q333 (PDF p. 499)",
+      "quote": "The effective means of preventing footdrop (plantar flexion) is the use of posterior splints or high-top sneakers."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After transsphenoidal surgery, what should the nurse tell the client to report?",
+      "options": [
+        "An urge to cough",
+        "A mild headache",
+        "Frequent swallowing",
+        "Feeling hungry"
+      ],
+      "answer": "C",
+      "rationale": "Frequent swallowing or postnasal drip may indicate a cerebrospinal fluid leak. Coughing is avoided because it raises ICP.",
+      "explanations": [
+        "Coughing is contraindicated.",
+        "Not the key warning sign.",
+        "Correct: possible CSF leak.",
+        "Not a warning sign."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q338 (PDF p. 506)",
+      "quote": "The client should report frequent swallowing or postnasal drip or nasal drainage after transsphenoidal surgery because it could indicate cerebrospinal fluid (CSF) leakage."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A standing client starts a tonic-clonic seizure. What should the nurse do?",
+      "options": [
+        "Restrain the arms",
+        "Insert a padded tongue blade",
+        "Guide him gently to the floor",
+        "Hold his head still"
+      ],
+      "answer": "C",
+      "rationale": "The nurse protects the client from injury by guiding him to the floor, turning him to the side, keeping the airway open, and loosening tight clothing. Restraints and tongue blades are never used.",
+      "explanations": [
+        "Restraints cause injury.",
+        "Never used.",
+        "Correct: prevents injury from falling.",
+        "Restricting movement causes injury."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q391 (PDF p. 561)",
+      "quote": "Precautions are taken to prevent a client from sustaining injury during a seizure."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with subarachnoid hemorrhage is on aneurysm precautions. Which intervention promotes safety?",
+      "options": [
+        "Liquid diet",
+        "Enemas as needed",
+        "Ambulation with help",
+        "Daily stool softeners"
+      ],
+      "answer": "D",
+      "rationale": "Aneurysm precautions reduce stimuli that raise ICP. Straining at stool raises ICP, so stool softeners are given and enemas avoided.",
+      "explanations": [
+        "Not required.",
+        "Enemas are avoided.",
+        "Bed rest is maintained.",
+        "Correct: prevents straining."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q428 (PDF p. 605)",
+      "quote": "Straining at stool is contraindicated because it increases intracranial pressure."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "What is the PRIORITY in discharge teaching for a client with a spinal cord injury?",
+      "options": [
+        "Planning long-term care placement",
+        "Including significant others in teaching",
+        "Teaching only the client",
+        "Discussing financial assistance"
+      ],
+      "answer": "B",
+      "rationale": "Involving significant others is a priority. The client will need their support, and understanding what to expect helps both cope with the limitations.",
+      "explanations": [
+        "Not the priority.",
+        "Correct: support at home.",
+        "Others need to be involved.",
+        "Not the priority."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q563 (PDF p. 765)",
+      "quote": "Involving the client’s significant others in discharge teaching is a priority in planning for the client with a spinal cord injury."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which statement by a client with Bell's palsy shows a need for MORE teaching?",
+      "options": [
+        "'I wear an eye patch at night.'",
+        "'I'm staying on a liquid diet.'",
+        "'I wear dark glasses outdoors.'",
+        "'I gently massage my face.'"
+      ],
+      "answer": "B",
+      "rationale": "Bell's palsy affects cranial nerve VII. A liquid diet is not needed; the client chews on the unaffected side. Eye protection and facial massage are appropriate.",
+      "explanations": [
+        "Appropriate eye protection.",
+        "Correct answer: a liquid diet is not needed.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q763 (PDF p. 992)",
+      "quote": "It is not necessary for a client diagnosed with Bell’s palsy to stay on a liquid diet."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with left-sided Bell's palsy says, 'I don't know how I'll live with this stroke.' What does this show?",
+      "options": [
+        "Normal understanding",
+        "A misconception to correct",
+        "Expected depression only",
+        "Healthy coping"
+      ],
+      "answer": "B",
+      "rationale": "Bell's palsy is inflammation of cranial nerve VII, not a stroke. Many clients wrongly fear a stroke and believe the paralysis is permanent.",
+      "explanations": [
+        "A misconception is present.",
+        "Correct: correct the misconception.",
+        "Not the main issue.",
+        "Shows misunderstanding."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q966 (PDF p. 1214)",
+      "quote": "Although it results in facial paralysis, it is not the same as a stroke."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "Kuya Arnel, 28, sustained a C5 spinal cord injury in a construction fall. He is now in rehabilitation.",
+      "stem": "Which outcome shows his care plan is effective?",
+      "options": [
+        "Intact skin",
+        "Full bladder and bowel control",
+        "Independent ADLs",
+        "Walking with a cane"
+      ],
+      "answer": "A",
+      "rationale": "A C5 injury causes quadriplegia with no sensation below the clavicle. Maintaining intact skin is a realistic outcome; the others are not.",
+      "explanations": [
+        "Correct: realistic and important.",
+        "Not realistic at C5.",
+        "Not realistic at C5.",
+        "Not realistic at C5."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q770 (PDF p. 1000)",
+      "quote": "Maintaining intact skin is an outcome for spinal cord injury clients."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "Kuya Arnel, 28, sustained a C5 spinal cord injury in a construction fall. He is now in rehabilitation.",
+      "stem": "While being bathed, Kuya Arnel says, 'I can't do this. I wish I were dead.' Which response is MOST therapeutic?",
+      "options": [
+        "'Why do you say that?'",
+        "'You wish you were dead?'",
+        "'Would you like a shower?'",
+        "'You'll feel better soon.'"
+      ],
+      "answer": "B",
+      "rationale": "Clarifying by restating invites the client to say more. 'Why' puts him on the defensive, and the others change the subject or give false reassurance.",
+      "explanations": [
+        "Puts him on the defensive.",
+        "Correct: clarifying.",
+        "Changes the subject.",
+        "False reassurance."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q828 (PDF p. 1064)",
+      "quote": "Clarifying is a therapeutic technique that involves restating what was said to obtain additional information."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "Kuya Arnel, 28, sustained a C5 spinal cord injury in a construction fall. He is now in rehabilitation.",
+      "stem": "Kuya Arnel says, 'It's so depressing; I'll never have sex again.' What is the REALISTIC reply?",
+      "options": [
+        "'That must feel horrible.'",
+        "'It's possible, but different.'",
+        "'Focus on walking first.'",
+        "'Let's not talk about it.'"
+      ],
+      "answer": "B",
+      "rationale": "A sexual relationship is still possible after spinal cord injury, though different from before. Sexual counseling can help with adaptation.",
+      "explanations": [
+        "Reinforces a false belief.",
+        "Correct: accurate and hopeful.",
+        "Dismissive.",
+        "Avoids the concern."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q888 (PDF p. 1130)",
+      "quote": "It is possible to have a sexual relationship after a spinal cord injury, but it is different from what the client will have experienced before the injury."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client with a thoracic cord injury has an unnoticed red area on the coccyx. After teaching a turning schedule, how should he check his skin?",
+      "options": [
+        "Feel the area daily",
+        "Ask a relative to check daily",
+        "Use a mirror to inspect it",
+        "Visit the clinic daily"
+      ],
+      "answer": "C",
+      "rationale": "A mirror allows independent skin self-assessment. The client cannot feel the redness, and relying on family does not promote independence.",
+      "explanations": [
+        "Sensation is absent.",
+        "Does not promote independence.",
+        "Correct: independent self-assessment.",
+        "Unrealistic."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q772 (PDF p. 1002)",
+      "quote": "The most effective means of skin self-assessment for this client is with the use of a mirror."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with a spinal cord injury has bladder spasms and reflex incontinence. Which instruction helps prevent the problem?",
+      "options": [
+        "Avoid caffeine",
+        "Take your temperature daily",
+        "Limit fluids to 1 L a day",
+        "Void only twice a day"
+      ],
+      "answer": "A",
+      "rationale": "Caffeine contributes to bladder spasms and reflex incontinence and is eliminated from the diet. Fluid restriction does not prevent spasms.",
+      "explanations": [
+        "Correct: caffeine irritates the bladder.",
+        "Detects infection only.",
+        "Not preventive.",
+        "Not appropriate."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q784 (PDF p. 1014)",
+      "quote": "Caffeine in the diet can contribute to bladder spasms and reflex incontinence"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which statement by a woman with a T11 cord transection shows a need for MORE teaching?",
+      "options": [
+        "'I don't need birth control anymore.'",
+        "'I'll limit dairy products.'",
+        "'I'll do my skin checks.'",
+        "'I'll follow my bowel program.'"
+      ],
+      "answer": "A",
+      "rationale": "Women with spinal cord injury remain fertile, so contraception is needed if sexually active (oral contraceptives may raise thrombophlebitis risk). Limiting dairy helps prevent urinary calculi.",
+      "explanations": [
+        "Correct answer: fertility is retained.",
+        "Appropriate.",
+        "Appropriate.",
+        "Appropriate."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q794 (PDF p. 1024)",
+      "quote": "Female spinal cord trauma clients remain fertile during their reproductive years"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which statement by a client with chronic immobility from spinal cord injury needs IMMEDIATE follow-up?",
+      "options": [
+        "'I'm angry this happened.'",
+        "'I don't want to live like this.'",
+        "'I'm not looking forward to therapy.'",
+        "'I miss playing basketball.'"
+      ],
+      "answer": "B",
+      "rationale": "Expressions of hopelessness or despair need immediate attention because they may mean the client is thinking of self-harm.",
+      "explanations": [
+        "A normal feeling.",
+        "Correct: possible self-harm risk.",
+        "A normal feeling.",
+        "A normal feeling."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q834 (PDF p. 1070)",
+      "quote": "Expressions of hopelessness or despair require immediate attention"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which assessment BEST tests frontal lobe function in a client with dementia?",
+      "options": [
+        "Eye movements",
+        "Feelings and emotions",
+        "Level of consciousness",
+        "Insight, judgment, and planning"
+      ],
+      "answer": "D",
+      "rationale": "Insight, judgment, and planning are frontal lobe functions. Emotions involve the limbic system, and consciousness the reticular activating system.",
+      "explanations": [
+        "Cranial nerves III, IV, VI.",
+        "Limbic system.",
+        "Reticular activating system.",
+        "Correct: frontal lobe."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q848 (PDF p. 1085)",
+      "quote": "Insight, judgment, and planning are part of the function of the frontal lobe."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A relative feels guilty for not urging a client with a brain tumor to see a doctor sooner. What should the nurse include in the response?",
+      "options": [
+        "Tumors always cause clear symptoms",
+        "Early signs are easy to spot",
+        "He should have noticed sooner",
+        "Its signs mimic other illnesses"
+      ],
+      "answer": "D",
+      "rationale": "Brain tumor symptoms vary by location (headache, vomiting, visual or personality changes) and are easily attributed to other causes.",
+      "explanations": [
+        "Not true.",
+        "Not true.",
+        "Blames the family.",
+        "Correct: eases undue guilt."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q889 (PDF p. 1131)",
+      "quote": "Signs and symptoms of a brain tumor vary depending on location, and they may easily be attributed to another cause."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client recovering from a head injury becomes agitated. Which action BEST calms him?",
+      "options": [
+        "Give him a new task to learn",
+        "Turn on music on the TV",
+        "Tell him the behavior is bad",
+        "Talk about his family"
+      ],
+      "answer": "D",
+      "rationale": "Familiar topics and objects reduce anxiety, and fewer environmental stimuli reduce agitation. New tasks frustrate and TV adds stimuli.",
+      "explanations": [
+        "Frustrating.",
+        "Increases stimuli.",
+        "Negative reinforcement.",
+        "Correct: familiarity calms."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q897 (PDF p. 1140)",
+      "quote": "Providing familiar objects will decrease anxiety."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client recovering from stroke is irritable and angry about his limitations. Which approach BEST restores motivation?",
+      "options": [
+        "Ignore the behavior",
+        "Extend spouse visits",
+        "Praise his accomplishments",
+        "Do tasks for him to avoid frustration"
+      ],
+      "answer": "C",
+      "rationale": "Supporting and praising accomplishments motivates stroke clients. Behavior is pointed out for correction rather than ignored.",
+      "explanations": [
+        "Behavior should not be ignored.",
+        "Spouses are often stressed too.",
+        "Correct: reinforces success.",
+        "Promotes dependence."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q898 (PDF p. 1141)",
+      "quote": "It is also important to support and praise the client for accomplishments."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A woman with myasthenia gravis fears her husband will no longer find her attractive. Which action should the nurse encourage?",
+      "options": [
+        "Join a support group",
+        "Stop dwelling on negatives",
+        "Focus on her recovery",
+        "Share her feelings with her husband"
+      ],
+      "answer": "D",
+      "rationale": "Encouraging her to share her feelings directly with her husband addresses her specific concern. The other responses block communication or avoid the issue.",
+      "explanations": [
+        "Does not address her individual concern.",
+        "Blocks communication.",
+        "Avoids the concern.",
+        "Correct: directly addresses it."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q938 (PDF p. 1182)",
+      "quote": "Talking to the client about sharing her feelings with her husband directly addresses the subject of the question."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with a complete T1 cord injury says, 'I'm no good to anyone. I might as well be dead.' Which response is MOST therapeutic?",
+      "options": [
+        "'You're not useless at all.'",
+        "'I'll ask the psychologist to see you.'",
+        "'You feel you're no good to anyone?'",
+        "'Let's talk about this later.'"
+      ],
+      "answer": "C",
+      "rationale": "Restating and reflecting keep communication open and invite him to explore his feelings of loss and unworthiness. Grief is a common response.",
+      "explanations": [
+        "Disagrees and blocks communication.",
+        "Postpones the discussion.",
+        "Correct: reflection.",
+        "Postpones the discussion."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q976 (PDF p. 1225)",
+      "quote": "Restating and reflecting keep the lines of communication open"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Soon after a complete T4 transection, a client insists he will walk once spinal shock resolves. How should the nurse interpret this?",
+      "options": [
+        "He is projecting",
+        "He needs confrontation now",
+        "Denial is a normal early response",
+        "He has a psychiatric disorder"
+      ],
+      "answer": "C",
+      "rationale": "In the first weeks after injury, denial is a normal defense that temporarily lowers anxiety. Prolonged denial can impair rehabilitation.",
+      "explanations": [
+        "Not projection.",
+        "Not appropriate this early.",
+        "Correct: normal grief response.",
+        "Not supported."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q978 (PDF p. 1227)",
+      "quote": "Denial may decrease anxiety temporarily, and it is a normal part of grieving."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Collaboration & Teamwork",
+      "situation": "",
+      "stem": "How can the nurse help the family of an unconscious head-injured client cope?",
+      "options": [
+        "Explain equipment and procedures regularly",
+        "Tell them to grieve outside the room",
+        "Discourage them from touching him",
+        "Limit their questions to the doctor"
+      ],
+      "answer": "A",
+      "rationale": "The nurse explains equipment, treatments, and procedures and reinforces the provider's information. Displaying grief is normal and should not be discouraged.",
+      "explanations": [
+        "Correct: reduces fear of the unknown.",
+        "Grief is normal.",
+        "Touch supports connection.",
+        "Nurses also answer questions."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1018 (PDF p. 1291)",
+      "quote": "The nurse should explain all equipment, treatments, and procedures"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which family statement shows effective teaching for a client with Parkinson's disease?",
+      "options": [
+        "'We'll plan only a few daily activities.'",
+        "'We'll do most of his care.'",
+        "'We'll let him nap whenever he wants.'",
+        "'We'll encourage him to take part in his care.'"
+      ],
+      "answer": "D",
+      "rationale": "Clients with Parkinson's disease tend to become withdrawn and depressed. Active participation in self-care and activities spread through the day prevent this.",
+      "explanations": [
+        "Activities are spread throughout the day.",
+        "Promotes dependence.",
+        "Daytime sleep is discouraged.",
+        "Correct: active participation."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Evaluating",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1022 (PDF p. 1295)",
+      "quote": "encouraging the client to be an active participant in his or her own care."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which warning signs most likely occurred before a client's thrombotic stroke?",
+      "options": [
+        "A sudden severe headache",
+        "Brief aphasia or weakness",
+        "A high fever for days",
+        "Projectile vomiting"
+      ],
+      "answer": "B",
+      "rationale": "Cerebral thrombosis develops over hours or days, often preceded by transient aphasia, hemiplegia, or one-sided paresthesias.",
+      "explanations": [
+        "More typical of hemorrhage.",
+        "Correct: transient warning signs.",
+        "Not typical.",
+        "Not typical."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1099 (PDF p. 1383)",
+      "quote": "During the few hours or days before a thrombotic stroke, the client may experience a transient loss of speech (aphasia), hemiplegia, or paresthesias"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "After a thrombotic stroke, a client has sudden bouts of laughing or crying. How should the nurse interpret this?",
+      "options": [
+        "Poor adaptation",
+        "A sign it will worsen",
+        "An expected effect of the stroke",
+        "A psychiatric emergency"
+      ],
+      "answer": "C",
+      "rationale": "Emotional lability (sudden laughing, crying, or irritability) is a normal part of the clinical picture after a thrombotic stroke.",
+      "explanations": [
+        "Not necessarily.",
+        "Not indicated.",
+        "Correct: a common sequela.",
+        "Not an emergency."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Understanding",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1123 (PDF p. 1407)",
+      "quote": "After a thrombotic stroke, the client often experiences periods of emotional lability"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with myasthenia gravis has vomiting, cramps, diarrhea, hypotension, and facial twitching. What does this suggest?",
+      "options": [
+        "Myasthenic crisis",
+        "Cholinergic crisis",
+        "Systemic infection",
+        "Plasmapheresis reaction"
+      ],
+      "answer": "B",
+      "rationale": "Cholinergic crisis from overmedication with anticholinesterases causes GI upset, facial twitching, miosis, and hypotension. Medications are withheld.",
+      "explanations": [
+        "Caused by undermedication.",
+        "Correct: overmedication.",
+        "Not supported.",
+        "Not supported."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Analyzing",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1135 (PDF p. 1421)",
+      "quote": "It is caused by overmedication with cholinergic (anticholinesterase) medications, and it is treated by withholding medications."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Metabolic & Endocrine Disorders",
+      "situation": "",
+      "stem": "A client develops diabetes insipidus after cranial surgery. Which therapy does the nurse anticipate?",
+      "options": [
+        "Strict fluid restriction",
+        "Diuretic therapy",
+        "Extra dietary sodium",
+        "IV fluid replacement"
+      ],
+      "answer": "D",
+      "rationale": "Diabetes insipidus causes large volumes of very dilute urine. Treatment replaces the fluid losses and gives ADH replacement.",
+      "explanations": [
+        "Worsens dehydration.",
+        "Worsens fluid loss.",
+        "Not the treatment.",
+        "Correct: replaces losses."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "Saunders Q&A Review for the NCLEX-RN, 7th ed., Q1156 (PDF p. 1443)",
+      "quote": "The client with diabetes insipidus excretes large amounts of extremely dilute urine."
+    }
+  ]
+}

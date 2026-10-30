@@ -1,0 +1,461 @@
+{
+  "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+  "questions": [
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Charcot's triad of multiple sclerosis consists of:",
+      "options": [
+        "Scanning speech, intention tremor, nystagmus",
+        "Ptosis, diplopia, dysphagia",
+        "Tremor, rigidity, bradykinesia",
+        "Fever, headache, stiff neck"
+      ],
+      "answer": "A",
+      "rationale": "Charcot's triad reflects demyelination.",
+      "explanations": [
+        "Correct.",
+        "MG.",
+        "Parkinson's.",
+        "Meningitis."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Multiple Sclerosis (PDF p. 430)",
+      "quote": "CHARCOT'S TRIAD"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which drug is the medication of choice for spasticity in multiple sclerosis?",
+      "options": [
+        "Baclofen",
+        "Levodopa",
+        "Pyridostigmine",
+        "Riluzole"
+      ],
+      "answer": "A",
+      "rationale": "Baclofen relieves spasticity.",
+      "explanations": [
+        "Correct.",
+        "Parkinson's.",
+        "MG.",
+        "ALS."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, MS Management (PDF p. 430)",
+      "quote": "Baclofen (medication of choice for spasticity)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "Which teaching is appropriate for a client with multiple sclerosis?",
+      "options": [
+        "Avoid hot baths",
+        "Do strenuous exercise",
+        "Take very hot showers",
+        "Avoid all activity"
+      ],
+      "answer": "A",
+      "rationale": "Heat worsens symptoms and sensory loss risks burns; avoid strenuous exercise.",
+      "explanations": [
+        "Correct.",
+        "Exacerbates.",
+        "Burns.",
+        "Promote mobility."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, MS Nursing (PDF p. 431)",
+      "quote": "Avoid hot baths"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Weakness beginning in the legs and ascending after a viral illness suggests:",
+      "options": [
+        "Guillain-Barré syndrome",
+        "Myasthenia gravis",
+        "Parkinson's disease",
+        "Multiple sclerosis"
+      ],
+      "answer": "A",
+      "rationale": "GBS: ascending weakness and diminished reflexes from peripheral demyelination.",
+      "explanations": [
+        "Correct.",
+        "Ocular first.",
+        "Tremor.",
+        "Remitting."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Guillain-Barré (PDF p. 431)",
+      "quote": "Diminished reflexes and muscle weakness that goes upward"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What is the priority assessment for a client with Guillain-Barré syndrome?",
+      "options": [
+        "Respiratory function",
+        "Skin turgor",
+        "Bowel sounds",
+        "Pupil size"
+      ],
+      "answer": "A",
+      "rationale": "Ascending paralysis can affect the diaphragm; monitor ventilation.",
+      "explanations": [
+        "Correct.",
+        "Less.",
+        "Less.",
+        "Less."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, GBS Nursing (PDF p. 431)",
+      "quote": "Maintain adequate ventilation"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Parkinson's disease is associated with decreased:",
+      "options": [
+        "Dopamine",
+        "Acetylcholine",
+        "Serotonin",
+        "GABA only"
+      ],
+      "answer": "A",
+      "rationale": "Loss of dopaminergic neurons in the substantia nigra.",
+      "explanations": [
+        "Correct.",
+        "Relatively excess.",
+        "Not main.",
+        "Not main."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Parkinson's Disease (PDF p. 432)",
+      "quote": "Associated with decreased levels of dopamine"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which finding is characteristic of Parkinson's disease?",
+      "options": [
+        "Pill-rolling tremor",
+        "Intention tremor",
+        "Ascending paralysis",
+        "Ptosis"
+      ],
+      "answer": "A",
+      "rationale": "Resting pill-rolling tremor, rigidity, bradykinesia, mask-like face, festinating gait.",
+      "explanations": [
+        "Correct.",
+        "MS.",
+        "GBS.",
+        "MG."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Parkinson's Manifestations (PDF p. 432)",
+      "quote": "Pill rolling (fingers)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Very small, illegible handwriting in Parkinson's disease is called:",
+      "options": [
+        "Micrographia",
+        "Dysgraphia",
+        "Agraphia",
+        "Apraxia"
+      ],
+      "answer": "A",
+      "rationale": "Micrographia results from bradykinesia and rigidity.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Parkinson's Manifestations (PDF p. 432)",
+      "quote": "Micrographia (very minute and often illegible handwriting)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which vitamin reduces the effect of levodopa (without carbidopa)?",
+      "options": [
+        "Pyridoxine (B6)",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "A",
+      "rationale": "Pyridoxine, phenothiazines, and reserpine block levodopa.",
+      "explanations": [
+        "Correct.",
+        "No effect.",
+        "No effect.",
+        "No effect."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Levodopa Teaching (PDF p. 433)",
+      "quote": "Pyridoxine (Vitamin B6)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Health Education",
+      "situation": "",
+      "stem": "A client starting levodopa should be taught to rise slowly because of:",
+      "options": [
+        "Orthostatic hypotension",
+        "Hypertension",
+        "Bradycardia",
+        "Hypoglycemia"
+      ],
+      "answer": "A",
+      "rationale": "Levodopa side effects include orthostatic hypotension, nausea, confusion.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Levodopa Side Effects (PDF p. 433)",
+      "quote": "Orthostatic hypotension"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which diet helps a client with Parkinson's disease who has dysphagia?",
+      "options": [
+        "Semi-solid foods",
+        "Thin liquids only",
+        "Hard, dry foods",
+        "Large bites"
+      ],
+      "answer": "A",
+      "rationale": "Semi-solids and thick fluids reduce aspiration.",
+      "explanations": [
+        "Correct.",
+        "Aspiration.",
+        "Difficult.",
+        "Aspiration."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Parkinson's Nursing (PDF p. 433)",
+      "quote": "Provide semi-solid diet and thick fluids"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Riluzole is used in ALS because it:",
+      "options": [
+        "Antagonizes glutamate",
+        "Raises dopamine",
+        "Inhibits cholinesterase",
+        "Kills viruses"
+      ],
+      "answer": "A",
+      "rationale": "ALS involves glutamate over-excitation; riluzole is a glutamate antagonist.",
+      "explanations": [
+        "Correct.",
+        "Parkinson's.",
+        "MG.",
+        "Not this."
+      ],
+      "difficulty": "Moderate",
+      "bloom": "Understanding",
+      "source": "TRA Nursing Module, ALS (PDF p. 434)",
+      "quote": "Riluzole"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Spontaneous twitching of muscles seen in ALS is called:",
+      "options": [
+        "Fasciculation",
+        "Tetany",
+        "Clonus",
+        "Chorea"
+      ],
+      "answer": "A",
+      "rationale": "Fasciculations reflect motor neuron degeneration.",
+      "explanations": [
+        "Correct.",
+        "Hypocalcemia.",
+        "Reflex.",
+        "Huntington's."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, ALS (PDF p. 434)",
+      "quote": "Fasciculation (spontaneous contraction of the muscles)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Injury at C1–C4 most threatens:",
+      "options": [
+        "Respiratory function",
+        "Bladder only",
+        "Leg movement only",
+        "Vision"
+      ],
+      "answer": "A",
+      "rationale": "High cervical injury impairs the diaphragm; airway is first priority.",
+      "explanations": [
+        "Correct.",
+        "Lower.",
+        "Lower.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Spinal Cord Injury (PDF p. 435)",
+      "quote": "Cl — C4 = Respiratory Depression"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "At an accident scene with suspected spinal injury, the nurse should:",
+      "options": [
+        "Immobilize and move as a unit",
+        "Realign the neck",
+        "Sit the victim up",
+        "Let victim walk"
+      ],
+      "answer": "A",
+      "rationale": "Immobilize on a firm surface with collar; do not realign; log-roll.",
+      "explanations": [
+        "Correct.",
+        "Harmful.",
+        "Harmful.",
+        "Harmful."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, SCI Management (PDF p. 435)",
+      "quote": "Transport client as a unit"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "A client with T4 injury suddenly has pounding headache, sweating, and very high BP. This is:",
+      "options": [
+        "Autonomic dysreflexia",
+        "Spinal shock",
+        "Hypoglycemia",
+        "Migraine"
+      ],
+      "answer": "A",
+      "rationale": "Autonomic dysreflexia occurs with injuries above T6.",
+      "explanations": [
+        "Correct.",
+        "Hypotension.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Analyzing",
+      "source": "TRA Nursing Module, Autonomic Dysreflexia (PDF p. 436)",
+      "quote": "Life threatening complication that occurs in patients with injuries above the T6 level."
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "What is the first nursing action in autonomic dysreflexia?",
+      "options": [
+        "Sit the client upright",
+        "Lay flat",
+        "Give fluids",
+        "Apply ice"
+      ],
+      "answer": "A",
+      "rationale": "Sit upright to lower BP, then find the cause (usually a full bladder).",
+      "explanations": [
+        "Correct.",
+        "Raises BP.",
+        "Not this.",
+        "Not this."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Applying",
+      "source": "TRA Nursing Module, Autonomic Dysreflexia (PDF p. 436)",
+      "quote": "Position the patient in sitting position to decrease BP"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "The most common trigger of autonomic dysreflexia is:",
+      "options": [
+        "Bladder distention",
+        "Hunger",
+        "Cold room",
+        "Bright light"
+      ],
+      "answer": "A",
+      "rationale": "Bladder distention; also fecal impaction and pressure ulcers.",
+      "explanations": [
+        "Correct.",
+        "Not this.",
+        "Not main.",
+        "Not main."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Autonomic Dysreflexia (PDF p. 436)",
+      "quote": "Bladder distention (most common)"
+    },
+    {
+      "subject": "NP IV",
+      "topic": "Perception & Coordination Disorders",
+      "situation": "",
+      "stem": "Which brain changes are found in Alzheimer's disease?",
+      "options": [
+        "Amyloid plaques, tangles",
+        "Demyelination",
+        "Dopamine loss",
+        "Ascending neuritis"
+      ],
+      "answer": "A",
+      "rationale": "Amyloid plaques, neurofibrillary tangles, and cortical atrophy.",
+      "explanations": [
+        "Correct.",
+        "MS.",
+        "Parkinson's.",
+        "GBS."
+      ],
+      "difficulty": "Easy",
+      "bloom": "Remembering",
+      "source": "TRA Nursing Module, Alzheimer's (PDF p. 436)",
+      "quote": "Development of amyloid-containing neuritic plaques & neurofibrillary tangles"
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+ "source": "Toprank Review Academy (TRA) Nursing Module – Complete Handout",
+ "questions": [
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Metformin lowers blood glucose mainly by:",
+   "options": [
+    "Reducing liver glucose output",
+    "Stimulating insulin release",
+    "Delaying carb absorption",
+    "Replacing insulin"
+   ],
+   "answer": "A",
+   "rationale": "Biguanides inhibit hepatic glucose production and increase insulin sensitivity.",
+   "explanations": [
+    "Correct.",
+    "Sulfonylureas.",
+    "Alpha-glucosidase.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Understanding",
+   "source": "TRA Nursing Module, Oral Antidiabetic Agents (PDF p. 374)",
+   "quote": "Inhibits production of glucose by the liver"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which oral agent stimulates the pancreas to secrete insulin?",
+   "options": [
+    "Sulfonylurea",
+    "Metformin",
+    "Acarbose",
+    "Sitagliptin"
+   ],
+   "answer": "A",
+   "rationale": "Sulfonylureas (e.g., gliclazide) stimulate beta cells.",
+   "explanations": [
+    "Correct.",
+    "Liver.",
+    "Carb absorption.",
+    "Incretin."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Oral Antidiabetic Agents (PDF p. 374)",
+   "quote": "Stimulate beta cell of the pancreas to secrete insulin"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Bedtime glucose normal, 3 AM hypoglycemia, then morning hyperglycemia. This is:",
+   "options": [
+    "Somogyi effect",
+    "Dawn phenomenon",
+    "Insulin waning",
+    "Honeymoon phase"
+   ],
+   "answer": "A",
+   "rationale": "Somogyi: nocturnal hypoglycemia triggers rebound hyperglycemia; reduce evening dose or add snack.",
+   "explanations": [
+    "Correct.",
+    "Rise after 3 AM.",
+    "Steady rise.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Morning Hyperglycemia (PDF p. 374)",
+   "quote": "a decrease at 2-3 am to hypoglycemic levels"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "How is the dawn phenomenon managed?",
+   "options": [
+    "Move NPH to bedtime",
+    "Cut all insulin",
+    "Skip breakfast",
+    "Add morning exercise only"
+   ],
+   "answer": "A",
+   "rationale": "Change evening intermediate-acting insulin from dinnertime to bedtime.",
+   "explanations": [
+    "Correct.",
+    "Dangerous.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Morning Hyperglycemia (PDF p. 374)",
+   "quote": "Change time of injection of evening intermediate-acting insulin from dinnertime to bedtime."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "How should the insulin vial currently in use be stored?",
+   "options": [
+    "At room temperature",
+    "In the freezer",
+    "In direct sunlight",
+    "In a hot car"
+   ],
+   "answer": "A",
+   "rationale": "In-use vial at room temperature; spares refrigerated; never frozen or in sunlight.",
+   "explanations": [
+    "Correct.",
+    "Damages.",
+    "Damages.",
+    "Damages."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Storing Insulin (PDF p. 374)",
+   "quote": "The insulin vial in use should be kept at room temperature"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "How should a client prepare a cloudy insulin vial?",
+   "options": [
+    "Roll gently between hands",
+    "Shake vigorously",
+    "Heat it",
+    "Freeze briefly"
+   ],
+   "answer": "A",
+   "rationale": "Roll or gently invert to mix without bubbles; inspect for flocculation.",
+   "explanations": [
+    "Correct.",
+    "Bubbles.",
+    "Damages.",
+    "Damages."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Storing Insulin (PDF p. 374)",
+   "quote": "rolling it between the hands"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "An NPH insulin vial shows a frosted, whitish coating inside. The nurse should:",
+   "options": [
+    "Discard the vial",
+    "Shake hard and use",
+    "Warm it first",
+    "Give half the dose"
+   ],
+   "answer": "A",
+   "rationale": "Flocculation (frosted whitish coating) means the insulin is altered and should not be used.",
+   "explanations": [
+    "Correct.",
+    "Unsafe.",
+    "Not effective.",
+    "Unsafe."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Storing Insulin (PDF p. 374)",
+   "quote": "Bottles of intermediate-acting insulin should also be inspected for flocculation"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Insulin is absorbed fastest from which site?",
+   "options": [
+    "Abdomen",
+    "Arm",
+    "Thigh",
+    "Hip"
+   ],
+   "answer": "A",
+   "rationale": "Absorption is fastest in the abdomen, then arm, thigh, hip.",
+   "explanations": [
+    "Correct.",
+    "Second.",
+    "Third.",
+    "Slowest."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Injection Sites (PDF p. 375)",
+   "quote": "The speed of absorption is greatest in the abdomen"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Health Education",
+   "situation": "",
+   "stem": "A diabetic jogger asks where to inject insulin before running. The nurse advises avoiding:",
+   "options": [
+    "The thigh",
+    "The abdomen",
+    "Both sides of abdomen",
+    "Any site"
+   ],
+   "answer": "A",
+   "rationale": "Exercising a limb speeds absorption, risking hypoglycemia.",
+   "explanations": [
+    "Correct.",
+    "Preferred.",
+    "Fine.",
+    "Not true."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Injection Sites (PDF p. 375)",
+   "quote": "Insulin should not be injected into the limb that will be exercised"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Shakiness, sweating, tachycardia, and hunger in a client on insulin indicate:",
+   "options": [
+    "Mild hypoglycemia",
+    "DKA",
+    "HHNS",
+    "Hyperthyroidism"
+   ],
+   "answer": "A",
+   "rationale": "Adrenergic symptoms signal mild hypoglycemia.",
+   "explanations": [
+    "Correct.",
+    "Kussmaul.",
+    "Dehydration.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Hypoglycemia (PDF p. 375)",
+   "quote": "Mild hypoglycemia"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "A diabetic client is unconscious at home with no IV access. The family should give:",
+   "options": [
+    "Glucagon 1 mg IM",
+    "Oral juice",
+    "Insulin",
+    "Nothing"
+   ],
+   "answer": "A",
+   "rationale": "Glucagon 1 mg SC or IM; never give oral fluids to an unconscious person.",
+   "explanations": [
+    "Correct.",
+    "Aspiration.",
+    "Worsens.",
+    "Dangerous."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, Hypoglycemia Emergency (PDF p. 376)",
+   "quote": "Injection of glucagon 1mg (subcutaneously or intramuscularly.)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Why is IV line patency checked before giving 50% dextrose?",
+   "options": [
+    "It is very irritating to veins",
+    "It clots fast",
+    "It causes hypertension",
+    "It contains potassium"
+   ],
+   "answer": "A",
+   "rationale": "D50W is hypertonic and irritating; infiltration damages tissue.",
+   "explanations": [
+    "Correct.",
+    "Not this.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "TRA Nursing Module, Hypoglycemia Emergency (PDF p. 376)",
+   "quote": "Assuring patency of the IV line because (D5OW) is very irritating to veins."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Deep, rapid respirations with fruity breath in a type 1 diabetic indicate:",
+   "options": [
+    "DKA",
+    "Hypoglycemia",
+    "HHNS",
+    "Hypothyroidism"
+   ],
+   "answer": "A",
+   "rationale": "Kussmaul breathing and acetone breath compensate for ketoacidosis.",
+   "explanations": [
+    "Correct.",
+    "Sweating.",
+    "No ketones.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, Diabetic Ketoacidosis (PDF p. 376)",
+   "quote": "Kussmaul’s respiration – rapid, deep breathing"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "What is the first priority in DKA management?",
+   "options": [
+    "Rehydration with NS",
+    "Bicarbonate bolus",
+    "Oral fluids only",
+    "Fluid restriction"
+   ],
+   "answer": "A",
+   "rationale": "Start 0.9% NaCl rehydration; then insulin and potassium as needed.",
+   "explanations": [
+    "Correct.",
+    "Avoided.",
+    "Inadequate.",
+    "Worsens."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, DKA Management (PDF p. 377)",
+   "quote": "0.9% Sodium chloride (normal saline solution)"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "During DKA treatment with insulin, the nurse closely monitors:",
+   "options": [
+    "Serum potassium",
+    "Serum calcium",
+    "Hemoglobin",
+    "Platelets"
+   ],
+   "answer": "A",
+   "rationale": "Insulin and rehydration shift potassium into cells; replace once K is normal.",
+   "explanations": [
+    "Correct.",
+    "Less critical.",
+    "Less critical.",
+    "Less critical."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Applying",
+   "source": "TRA Nursing Module, DKA Electrolytes (PDF p. 377)",
+   "quote": "Serum potassium level must be monitored frequently."
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Why is the first 50 mL of an insulin drip discarded through the tubing?",
+   "options": [
+    "Insulin adheres to tubing",
+    "To remove air only",
+    "To warm it",
+    "To dilute it"
+   ],
+   "answer": "A",
+   "rationale": "Insulin binds to tubing; flushing saturates binding sites.",
+   "explanations": [
+    "Correct.",
+    "Not main.",
+    "Not this.",
+    "Not this."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Understanding",
+   "source": "TRA Nursing Module, DKA Insulin (PDF p. 377)",
+   "quote": "Insulin molecules adhere to the inner surface of IV infusion sets"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "An elderly type 2 diabetic has glucose 900 mg/dL, no ketones, and severe dehydration. This is:",
+   "options": [
+    "HHNS",
+    "DKA",
+    "Hypoglycemia",
+    "Somogyi effect"
+   ],
+   "answer": "A",
+   "rationale": "HHNS: very high glucose, hyperosmolality, minimal ketones, mainly elderly type 2.",
+   "explanations": [
+    "Correct.",
+    "Ketones.",
+    "Low glucose.",
+    "Not this."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, HHNS (PDF p. 377)",
+   "quote": "Ketosis is usually minimal or absent"
+  },
+  {
+   "subject": "NP IV",
+   "topic": "Metabolic & Endocrine Disorders",
+   "situation": "",
+   "stem": "Which statement about DKA versus HHNS is correct?",
+   "options": [
+    "HHNS has slower onset",
+    "DKA has no ketones",
+    "HHNS has low pH",
+    "DKA is mostly in elderly"
+   ],
+   "answer": "A",
+   "rationale": "DKA: rapid onset, ketones, acidosis; HHNS: slower over days, normal pH.",
+   "explanations": [
+    "Correct.",
+    "Ketones present.",
+    "Normal pH.",
+    "Type 1."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Analyzing",
+   "source": "TRA Nursing Module, DKA vs HHNS (PDF p. 378)",
+   "quote": "Slower (over several days)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "What is the functional unit of the kidney?",
+   "options": [
+    "Nephron",
+    "Glomerulus only",
+    "Ureter",
+    "Calyx"
+   ],
+   "answer": "A",
+   "rationale": "About 1 million nephrons per kidney filter, reabsorb, and excrete.",
+   "explanations": [
+    "Correct.",
+    "Part.",
+    "Duct.",
+    "Collecting."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Nephron (PDF p. 379)",
+   "quote": "Anatomic & functional unit of the kidney"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Most water (about 80%) is reabsorbed in the:",
+   "options": [
+    "Proximal convoluted tubule",
+    "Loop of Henle",
+    "Distal tubule",
+    "Collecting duct"
+   ],
+   "answer": "A",
+   "rationale": "PCT reabsorbs glucose, sodium, and about 80% of water.",
+   "explanations": [
+    "Correct.",
+    "Less.",
+    "Less.",
+    "Final adjustment."
+   ],
+   "difficulty": "Moderate",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Nephron (PDF p. 380)",
+   "quote": "80% of water (osmosis)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Normal adult glomerular filtration rate is about:",
+   "options": [
+    "125 mL/min",
+    "25 mL/min",
+    "500 mL/min",
+    "1 L/min"
+   ],
+   "answer": "A",
+   "rationale": "GFR is about 125 mL/min.",
+   "explanations": [
+    "Correct.",
+    "Low.",
+    "High.",
+    "High."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Urine Volume Control (PDF p. 380)",
+   "quote": "Constant (125 ml/min)"
+  },
+  {
+   "subject": "NP III",
+   "topic": "Fluids, Electrolytes & Acid-Base Balance",
+   "situation": "",
+   "stem": "Normal adult bladder capacity is about:",
+   "options": [
+    "300–500 mL",
+    "50–100 mL",
+    "1–2 L",
+    "3 L"
+   ],
+   "answer": "A",
+   "rationale": "Adult bladder holds 300–500 mL.",
+   "explanations": [
+    "Correct.",
+    "Low.",
+    "High.",
+    "High."
+   ],
+   "difficulty": "Easy",
+   "bloom": "Remembering",
+   "source": "TRA Nursing Module, Urinary Bladder (PDF p. 380)",
+   "quote": "Capacity of the adult bladder 300-500 mL"
+  }
+ ]
+}
